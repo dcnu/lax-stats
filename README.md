@@ -1,10 +1,10 @@
 # Lacrosse Stats
 
-A comprehensive system for fetching, processing, and storing NCAA lacrosse game statistics from the NCAA API into a Supabase database.
+A system for fetching, processing, and storing NCAA lacrosse game statistics from the NCAA API into a PostgreSQL database.
 
 ## Overview
 
-This project automates the collection and processing of NCAA Division I men's lacrosse game data. It fetches game information from the NCAA API, processes individual game statistics, and stores the data in a normalized database structure with proper data quality controls.
+This project automates the collection and processing of NCAA Division I men's lacrosse game data. It fetches game information from the NCAA API, processes individual game statistics, and stores the data in a normalized database structure with quality controls.
 
 ## Features
 
@@ -183,7 +183,6 @@ lacrosse-stats/
 │   ├── loadGame.js        # Individual game processor
 │   └── games_data.json    # Cached game data
 ├── supabase/              # Database configuration
-└── TODO/                  # Project planning and documentation
 ```
 
 ### Running Tests
@@ -231,13 +230,11 @@ The system integrates with the NCAA scoreboard API:
 
 ### Getting Help
 
-- Check the `TODO/plan.md` file for known issues and current status
 - Review failed game logs in `loader/failed_games.json`
-- Verify your Supabase connection and schema
 
 ## License
 
-This project is licensed under the ISC License.
+...
 
 ## Contact
 
