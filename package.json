@@ -1,0 +1,9 @@
+{
+	"name": "lacrosse-stats",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"update-games": "node update-games.js"
+	},
+	"description": "Lacrosse statistics tracking system"
+} 

@@ -1,0 +1,18 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "NCAA lacrosse game data loader module with dependencies for fetching and processing game statistics from NCAA APIs and saving to Supabase database",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^17.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
