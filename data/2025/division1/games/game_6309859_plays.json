@@ -1,0 +1,1654 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Matthew Nunes at goalie for VA.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Thomas Ricciardelli at goalie for ND."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Andrew Greenspan vs Will Lynch won by ND (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by ND Jake Taylor (FIRST GOAL), Assist by Chris Kavanagh, goal number 23 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Henry Metz vs Will Lynch won by ND, [14:10] Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by ND Devon McLane."
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by ND Jalen Seymour."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by ND Jalen Seymour, Assist by Devon McLane, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Andrew Greenspan vs Will Lynch won by ND, [12:49] Ground ball pickup by ND Shawn Lyght."
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by ND Shawn Lyght (caused by Ben Wayer)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "Shot by VA Griffin Schutz, SAVE Thomas Ricciardelli.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "Ground ball pickup by VA Ryan Colsey.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Shot by VA Will Inderlied WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "GOAL by VA Will Inderlied, goal number 5 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Andrew Greenspan vs Will Lynch won by ND, [11:21] Ground ball pickup by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Will Lynch BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Matt Jeffery, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by VA Ben Wayer.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "Clear attempt by VA good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "Shot by VA Thomas Mencke BLOCKED.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "Turnover by VA Thomas Mencke (caused by Will Donovan).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Thomas Ricciardelli."
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Shawn Lyght WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "Ground ball pickup by VA Griffin Kology.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "Clear attempt by VA good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on ND Ben Ramsey (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "08:17",
+    "home_event": "Shot by VA Truitt Sunderland, SAVE Thomas Ricciardelli {shot from close left wing}.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by ND Tyler Buchner (caused by Jack Walshe)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "Ground ball pickup by VA Jack Walshe.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:42",
+    "home_event": "Clear attempt by VA failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "Turnover by VA Matthew Nunes.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Chris Kavanagh BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "Ground ball pickup by VA Griffin Kology.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Clear attempt by VA good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "Shot by VA Johnny Hackett, SAVE Thomas Ricciardelli.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "Shot by VA McCabe Millon HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Shot by VA Truitt Sunderland HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Jordan Faison."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Devon McLane BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Matt Jeffery, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "Clear attempt by VA failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "Turnover by VA Hudson Hausmann (caused by Jake Taylor).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Chris Kavanagh HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Clear attempt by VA good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Logan Gutzwiller WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "GOAL by VA Truitt Sunderland, Assist by Ryan Colsey, goal number 26 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "Faceoff Andrew Greenspan vs Will Lynch won by VA, [01:37] Ground ball pickup by VA Ben Wayer.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "Clear attempt by VA good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "Shot by VA McCabe Millon, SAVE Thomas Ricciardelli.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by ND Will Gallagher."
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by ND Chris Kavanagh WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Andrew Greenspan vs Will Lynch won by VA.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "GOAL by VA Ryan Colsey, goal number 26 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Andrew Greenspan vs Will Lynch won by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ND Matt Jeffery WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "Penalty on VA Hudson Hausmann (CROSS-CHECK/1:00) Extra-man opportunity(2).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by ND Chris Kavanagh (MAN-UP), Assist by Will Angrick, goal number 23 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Andrew Greenspan vs Will Lynch won by ND, [12:08] Ground ball pickup by ND Will Angrick."
+  },
+  {
+    "quarter": "2",
+    "time": "11:58",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Timeout by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Devon McLane, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "Ground ball pickup by VA Luke Hublitz.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:27",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "Shot by VA McCabe Millon HIT CROSSBAR.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "Ground ball pickup by VA Truitt Sunderland.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "Ground ball pickup by VA Charles Balsamo.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Shot by VA Charles Balsamo, SAVE Thomas Ricciardelli.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Will Angrick HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Devon McLane."
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Devon McLane, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Penalty on VA Ben Wayer (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ND Jake Taylor."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Turnover by VA Tommy McNeal (caused by Chris Kavanagh).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Jeffery Ricciardelli."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "Shot by VA McCabe Millon WIDE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Shot clock violation by VA.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:23",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ND Jake Taylor."
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "Turnover by VA McCabe Millon.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Ben Ramsey."
+  },
+  {
+    "quarter": "2",
+    "time": "04:22",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Ben Ramsey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:37",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Devon McLane, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "03:32",
+    "home_event": "Ground ball pickup by VA Ben Wayer.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:30",
+    "home_event": "Shot by VA McCabe Millon HIGH.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Penalty on ND Jordan Faison (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:38",
+    "home_event": "Turnover by VA Truitt Sunderland (caused by Will Gallagher).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Will Gallagher."
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Timeout by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Matt Jeffery, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "01:02",
+    "home_event": "Ground ball pickup by VA Hudson Hausmann.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Penalty on ND Jake Taylor (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "Timeout by VA.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:28",
+    "home_event": "Shot by VA McCabe Millon, SAVE Thomas Ricciardelli.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "Timeout by VA.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Shot by VA Griffin Schutz WIDE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Henry Metz vs Will Lynch won by ND, [15:00] Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ND Devon McLane."
+  },
+  {
+    "quarter": "3",
+    "time": "14:02",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "Turnover by VA Noah Chizmar.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Will Donovan."
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Jalen Seymour WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ND Max Busenkell (caused by Hudson Hausmann)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "Ground ball pickup by VA Ben Wayer.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:22",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "Shot by VA Will Inderlied, SAVE Thomas Ricciardelli.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Will Gallagher."
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by ND Chris Kavanagh BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ND Matt Jeffery."
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by ND Matt Jeffery, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "Penalty on VA John Schroter (SLSH/1:00) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "Faceoff Henry Metz vs Will Lynch won by VA, [10:56] Ground ball pickup by VA Ryan Colsey.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:39",
+    "home_event": "Shot by VA Ryan Colsey, SAVE Thomas Ricciardelli.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by VA Tommy McNeal.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:38",
+    "home_event": "Shot clock violation by VA.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:38",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:22",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by ND Chris Kavanagh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by ND Max Busenkell BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by ND Chris Kavanagh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "Clear attempt by VA failed.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:56",
+    "home_event": "Turnover by VA Matthew Nunes (caused by Nate Schwitzenberg).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:19",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by ND Will Angrick (caused by Will Erdmann)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "Ground ball pickup by VA Ben Wayer.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:51",
+    "home_event": "Clear attempt by VA good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:29",
+    "home_event": "Shot by VA Johnny Hackett, SAVE Thomas Ricciardelli.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:26",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "Penalty on VA Ryan Colsey (PUSHING/0:30) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by ND Will Angrick BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Ground ball pickup by VA Matthew Nunes.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Penalty on ND Will Angrick (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "GOAL by VA Jack Walshe (MAN-UP), Assist by McCabe Millon, goal number 8 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Henry Metz vs Will Lynch won by ND, [05:21] Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by ND Matt Jeffery BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "Ground ball pickup by VA Luke Hublitz.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:27",
+    "home_event": "Clear attempt by VA good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "Shot by VA Will Inderlied HIGH.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:28",
+    "home_event": "Shot by VA McCabe Millon, SAVE Thomas Ricciardelli.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:28",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by ND Ben Ramsey, Assist by Thomas Ricciardelli, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "Faceoff Henry Metz vs Will Lynch won by VA, [03:27] Ground ball pickup by VA Henry Metz.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "Turnover by VA Henry Metz (caused by Will Lynch).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by ND Devon McLane."
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by ND Chris Kavanagh, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Faceoff Henry Metz vs Will Lynch won by VA, [02:15] Ground ball pickup by VA Noah Chizmar.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "Turnover by VA McCabe Millon.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by ND Jordan Faison BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "3",
+    "time": "00:52",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by ND Jake Taylor, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:52",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Henry Metz vs Colin Hagstrom won by ND, [00:52] Ground ball pickup by ND Colin Hagstrom."
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by ND Jalen Seymour, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "Penalty on VA John Schroter (SLSH/1:00) Extra-man opportunity.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "Faceoff Henry Metz vs Colin Hagstrom won by VA (on faceoff violation).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:54",
+    "home_event": "Shot by VA Griffin Schutz WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "Shot by VA Truitt Sunderland WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "Shot clock violation by VA.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:31",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:31",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by ND Chris Kavanagh WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:25",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by ND Matt Jeffery, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:25",
+    "home_event": "Faceoff Henry Metz vs Colin Hagstrom won by VA, [12:25] Ground ball pickup by VA Hudson Hausmann.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Penalty on ND Will Donovan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "Turnover by VA McCabe Millon (caused by Nate Schwitzenberg).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by ND Thomas Ricciardelli HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "Clear attempt by VA good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "Shot by VA Johnny Hackett, SAVE Thomas Ricciardelli.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by ND Christian Alacqua, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "Faceoff Andrew Greenspan vs Will Lynch won by VA.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:01",
+    "home_event": "Turnover by VA Truitt Sunderland (caused by Will Gallagher).",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by ND Chris Reihnardt."
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by ND Thomas Ricciardelli WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Clear attempt by VA good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND failed."
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by ND Tyler Buchner (caused by Ryan Colsey)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "Ground ball pickup by VA Truitt Sunderland.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "Shot by VA Truitt Sunderland, SAVE Thomas Ricciardelli.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:49",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by ND Will Gallagher (caused by Luke Hublitz)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:45",
+    "home_event": "Ground ball pickup by VA Luke Hublitz.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Shot by VA Truitt Sunderland HIGH.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:39",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Timeout by ND."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "Penalty on VA Burke McFarlane (PUSHING/0:30) Extra-man opportunity.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:45",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by ND Jeffery Ricciardelli BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "4",
+    "time": "06:18",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by ND Will Angrick, SAVE Matthew Nunes."
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "Clear attempt by VA good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "Shot by VA Ben Wayer WIDE.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:17",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by ND Devon McLane (caused by Will Erdmann)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "Ground ball pickup by VA Will Erdmann.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:08",
+    "home_event": "Clear attempt by VA good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "Turnover by VA Thomas Mencke.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by ND Shawn Lyght WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:23",
+    "home_event": "Ground ball pickup by VA George Fulton.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Clear attempt by VA failed.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "Turnover by VA Malachi Jones (caused by Jake Taylor).",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by ND Tyler Buchner."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by ND Devon McLane."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "GOAL by ND Devon McLane, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "Faceoff Henry Metz vs Will Lynch won by VA (on faceoff violation).",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "GOAL by VA Mikie Harmeyer, Assist by Griffin Schutz, goal number 3 for season.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "Faceoff Andrew Greenspan vs Will Lynch won by VA, [02:58] Ground ball pickup by VA Andrew Greenspan.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "Shot by VA Griffin Schutz, SAVE Thomas Ricciardelli.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "Ground ball pickup by VA Burke McFarlane.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:21",
+    "home_event": "GOAL by VA Thomas Mencke, goal number 11 for season.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:21",
+    "home_event": "Faceoff Andrew Greenspan vs Colin Hagstrom won by VA, [02:21] Ground ball pickup by VA Andrew Greenspan.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "Clear attempt by VA good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "GOAL by VA Thomas Mencke, goal number 12 for season.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "Faceoff Andrew Greenspan vs Colin Hagstrom won by VA, [01:37] Ground ball pickup by VA Noah Chizmar.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "Turnover by VA Noah Chizmar (caused by Colin Hagstrom).",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by ND Kyle Bergen."
+  },
+  {
+    "quarter": "4",
+    "time": "01:12",
+    "home_event": "Penalty on VA Noah Chizmar (HOLDING/0:30).",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by ND Jeffery Ricciardelli, Assist by Ben Ramsey, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Faceoff Henry Metz vs Christian Gallaher won by ND, [00:30] Ground ball pickup by ND Logan Gutzwiller."
+  }
+]

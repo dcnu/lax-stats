@@ -1,10 +1,10 @@
 # Lacrosse Stats
 
-A complete system for scraping and storing NCAA Division I men's lacrosse statistics. Features web scraping with intelligent rate limiting, Supabase database integration, and comprehensive data analysis capabilities.
+A complete system for scraping and storing NCAA men's lacrosse statistics across all divisions (D1, D2, D3). Features web scraping with intelligent rate limiting, Supabase database integration, and comprehensive data analysis capabilities.
 
 ## Overview
 
-This project automates the collection and storage of NCAA Division I men's lacrosse game data from the NCAA stats website. The system includes:
+This project automates the collection and storage of NCAA men's lacrosse game data from the NCAA stats website across all three divisions. The system includes:
 
 1. **Web Scraper**: Collects game data, player statistics, and play-by-play information
 2. **Database System**: Stores all data in Supabase with optimized schema
@@ -30,17 +30,18 @@ This project automates the collection and storage of NCAA Division I men's lacro
 The system stores data in Supabase with the following structure:
 
 ### Core Tables
-- **`teams`** - 77 NCAA Division I teams (TEXT primary key using NCAA IDs)
-- **`players`** - 3,368 players (BIGINT primary key using NCAA player IDs)
-- **`games`** - 579 games with scores and metadata (TEXT primary key using NCAA game IDs)
-- **`player_game_stats`** - 32,261 individual player statistics per game
-- **`game_plays`** - 137,453 play-by-play events
+- **`teams`** - NCAA teams across all divisions (TEXT primary key using NCAA IDs)
+- **`players`** - Player records with biographical information (BIGINT primary key using NCAA player IDs)
+- **`games`** - Games with scores and metadata (TEXT primary key using NCAA game IDs)
+- **`player_game_stats`** - Individual player statistics per game
+- **`game_plays`** - Play-by-play events
 
-### Multi-Season Support Tables
-- **`seasons`** - Season reference table (2025, 2026, etc.)
-- **`team_seasons`** - Season-specific team attributes (names, conferences)
-- **`player_seasons`** - Season-specific player attributes (jersey numbers, positions)
-- **`player_season_stats`** - Materialized view of aggregated season statistics
+### Multi-Season and Division Support Tables
+- **`divisions`** - Division reference table (D1, D2, D3)
+- **`seasons`** - Season reference table (2025, 2026, etc.) with division_id
+- **`team_seasons`** - Season-specific team attributes (names, conferences) per division
+- **`player_seasons`** - Season-specific player attributes (jersey numbers, positions) per division
+- **`player_season_stats_view`** - Materialized view of aggregated season statistics by division
 
 **Note**: Uses external NCAA IDs as primary keys (not UUIDs) for direct data correlation.
 
@@ -288,12 +289,12 @@ lacrosse-stats/
 │   │   ├── fetch_game_data.py       # Game info and stats scraper
 │   │   └── fetch_game_plays.py      # Play-by-play scraper
 │   ├── loading/                     # Database loading scripts
-│   │   ├── run_data_migration.py    # Main orchestrator
 │   │   ├── load_teams.py            # Team loader
 │   │   ├── load_players.py          # Player loader
-│   │   ├── load_games_multi_season.py        # Game loader (multi-season)
-│   │   ├── load_player_stats_multi_season.py # Player stats loader (multi-season)
+│   │   ├── load_games_multi_season.py        # Game loader (multi-season, multi-division)
+│   │   ├── load_player_stats_multi_season.py # Player stats loader (multi-season, multi-division)
 │   │   ├── load_plays.py            # Play-by-play loader
+│   │   ├── add_division_support.sql # Schema migration for multi-division
 │   │   ├── reset_database.sql       # Schema creation
 │   │   ├── verify_data.sql          # Verification queries
 │   │   └── verify_multi_season_migration.sql # Multi-season verification
@@ -301,6 +302,9 @@ lacrosse-stats/
 │       ├── get_game_ids.py          # Game discovery
 │       ├── team_list.py             # Team extraction
 │       ├── get_rosters.py           # Roster scraper
+│       ├── migrate_to_division_structure.py  # Reorganize data files by division
+│       ├── ping_database.py         # Keep Supabase free tier active
+│       ├── setup_cron.sh            # Install database ping cron jobs
 │       └── logging_config.py        # Logging setup
 ├── data/
 │   ├── games/                       # Scraped JSON files (1,737 files)
@@ -345,18 +349,18 @@ python3 scripts/fetching/fetch_game_plays.py --test GAME_ID
 ### Data Loading Commands
 
 ```bash
-# Load all data (after scraping)
-python3 scripts/loading/run_data_migration.py [--dry-run]
-
-# Load individual data types (multi-season versions)
+# Load individual data types
 python3 scripts/loading/load_teams.py [--data-dir DIR] [--dry-run]
 python3 scripts/loading/load_players.py [--data-dir DIR] [--dry-run]
-python3 scripts/loading/load_games_multi_season.py [--data-dir DIR] [--dry-run]
-python3 scripts/loading/load_player_stats_multi_season.py [--data-dir DIR] [--dry-run]
+python3 scripts/loading/load_games_multi_season.py [--data-dir DIR] [--season YEAR] [--division N] [--dry-run]
+python3 scripts/loading/load_player_stats_multi_season.py [--data-dir DIR] [--season YEAR] [--division N] [--dry-run]
 python3 scripts/loading/load_plays.py [--data-dir DIR] [--dry-run]
+
+# Ping database to keep free tier active
+python3 scripts/utils/ping_database.py [--verbose]
 ```
 
-**Note**: Use `*_multi_season.py` loaders for games and player stats to ensure proper season tracking.
+**Note**: Use `*_multi_season.py` loaders for games and player stats to ensure proper season and division tracking.
 
 ### Monitoring Commands
 
@@ -466,22 +470,22 @@ The roster extraction URLs use category IDs specific to the 2024-2025 season:
 - Some players appear twice in game files (e.g., played field and goalie)
 - The loader keeps the first occurrence of duplicate (game_id, player_id) pairs
 
-### Future Updates
+### Loading New Data
 
-To load new games or new seasons after initial setup:
+To load new games, seasons, or divisions after initial setup:
 
 1. Update date range in `config.json`
-2. Run scraping workflow
+2. Run scraping workflow with appropriate `--season` and `--division` flags
 3. Load data using multi-season loaders:
    ```bash
-   python3 scripts/loading/load_games_multi_season.py
-   python3 scripts/loading/load_player_stats_multi_season.py
+   python3 scripts/loading/load_games_multi_season.py --season 2025 --division 1
+   python3 scripts/loading/load_player_stats_multi_season.py --season 2025 --division 1
    ```
 
 The multi-season loaders automatically:
-- Create new season records if needed
+- Create new season and division records if needed
 - Update player_seasons with current jersey numbers and positions
-- Maintain team_seasons for each team per season
+- Maintain team_seasons for each team per season and division
 - Refresh aggregated statistics materialized view
 
 ## Row Level Security
@@ -489,7 +493,7 @@ The multi-season loaders automatically:
 RLS is enabled on all tables with public read access. When loading new data, use service role key:
 
 1. Update `config.json` to use service role key (from `.env.local`)
-2. Run data loading: `python3 scripts/loading/run_data_migration.py`
+2. Run data loading scripts (e.g., `load_games_multi_season.py`, `load_player_stats_multi_season.py`)
 3. Restore anon key in `config.json`
 
 **Note**: Service role key bypasses RLS and should only be used for data loading operations.

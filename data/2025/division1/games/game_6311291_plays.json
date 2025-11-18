@@ -1,0 +1,1563 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Tyler Moritzen at goalie for MER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Zach Vigue at goalie for RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "14:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Kevin Sprague vs Jared Chenoy won by RIC, [14:53] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Daniel Picart, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "Ground ball pickup by MER Tyler Moritzen.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "Shot by MER Ryan Mahoney WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "Shot by MER Ethan Landymore, SAVE Zach Vigue.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:43",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:06",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot clock violation by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "Turnover by MER Ben Schellinger.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Max Merklinger BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by RIC Daniel Picart (FIRST GOAL), goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "Faceoff Kevin Sprague vs Jared Chenoy won by MER (on faceoff violation).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "Shot by MER Chase Petschke WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by RIC Connor Kelly."
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "Shot by MER Ryan Mahoney WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Shot clock violation by MER.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "Shot by MER Jonas Aquilla WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Turnover by MER Ryan Mahoney (caused by Mitchell Dunham interception).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Henry Alpaugh HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "Turnover by MER Colin Tardif (caused by B. Pena-Stevenson).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by RIC Xander Welty."
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Jack Ricciardi, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "Faceoff Kevin Sprague vs Jared Chenoy won by MER, [05:30] Ground ball pickup by MER Kevin Sprague.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "Shot by MER Ryan Mahoney WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "Shot by MER Chase Petschke WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on RIC Ethan Gyllenhaal (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "Shot by MER Josh Mills WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "Turnover by MER Ryan Mahoney (caused by Hunter Smith).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by RIC Max Merklinger, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Kevin Sprague vs Jared Chenoy won by RIC, [02:54] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by RIC Max Merklinger, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "Faceoff Jimmy Neal vs Jared Chenoy won by MER, [01:51] Ground ball pickup by MER Jimmy Neal.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "Timeout by MER.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "Shot clock violation by MER.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Joe Sheridan, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Daniel Picart, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Max Merklinger, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "14:57",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Kevin Sprague vs Jared Chenoy won by RIC, [14:57] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Max Merklinger, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Jimmy Neal vs Jared Chenoy won by RIC, [14:00] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by RIC Max Merklinger, Assist by Jared Chenoy, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:46",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [13:46] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Evan O'Neil HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Evan O'Neil HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "12:26",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Henry Alpaugh BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:23",
+    "home_event": "Ground ball pickup by MER Tyler Moritzen.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Ground ball pickup by RIC Connor Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:33",
+    "home_event": "Turnover by MER Ryan Mahoney.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Turnover by MER Tyler Moritzen.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Timeout by MER.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:30",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Henry Alpaugh, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:27",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Faceoff Kevin Sprague vs Jared Chenoy won by RIC, [10:27] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by RIC Lukas Olsson, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Jack Schimmel vs Jared Chenoy won by RIC, [09:40] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by RIC Gavin Creo, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Faceoff Jack Schimmel vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by RIC Daniel Picart, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "07:54",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Shot by MER Antonio Rossetti WIDE.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "Turnover by MER Ryan Mahoney (caused by Luke Spitzer).",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by RIC Ethan Gyllenhaal."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:23",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by RIC B. Pena-Stevenson, Assist by Chris Mazzaferri, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:20",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Jimmy Neal vs Jared Chenoy won by RIC, [07:20] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "06:40",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "Ground ball pickup by MER Tyler Moritzen.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Penalty on RIC Connor Kelly (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "Shot by MER Jeremi Phoenix-Lefeb BLOCKED.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "Ground ball pickup by MER Josh Mills.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "Turnover by MER Ryan Mahoney (caused by Mitchell Dunham).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by RIC Jack Pilling (caused by Drew Pagano)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Ground ball pickup by MER Drew Pagano.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:49",
+    "home_event": "Turnover by MER.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:40",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Jack Ricciardi, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "Turnover by MER Chase Petschke (caused by Mitchell Dunham).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:47",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "03:37",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Henry Alpaugh BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "02:49",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "Ground ball pickup by MER Brenton Paladino.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:25",
+    "home_event": "Shot by MER Antonio Rossetti BLOCKED.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "00:50",
+    "home_event": "Turnover by MER Jeremi Phoenix-Lefeb (caused by Tommy Stull).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:57",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Kevin Sprague vs Trent Grainger won by RIC, [14:57] Ground ball pickup by RIC Trent Grainger."
+  },
+  {
+    "quarter": "3",
+    "time": "14:36",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Jack Pilling WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:05",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "GOAL by RIC Aidan O'Neil, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:56",
+    "home_event": "Faceoff Jimmy Neal vs Trent Grainger won by MER, [13:56] Ground ball pickup by MER Adam Schembri.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "Turnover by MER Jeremi Phoenix-Lefeb (caused by Hunter Smith).",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Ground ball pickup by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Shot by RIC Aidan O'Neil BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "GOAL by RIC Gavin Creo, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:37",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Faceoff Jimmy Neal vs Trent Grainger won by RIC, [11:37] Ground ball pickup by RIC Trent Grainger."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:41",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Turnover by RIC Gavin Creo (caused by Tyler Moritzen)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by MER Tyler Moritzen.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:08",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:54",
+    "home_event": "Shot by MER Elias Harless WIDE.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:40",
+    "home_event": "GOAL by MER Ryan Mahoney.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:37",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Faceoff Kevin Sprague vs Trent Grainger won by RIC, [09:37] Ground ball pickup by RIC Trent Grainger."
+  },
+  {
+    "quarter": "3",
+    "time": "09:16",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Shot by RIC Jack Ricciardi WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Turnover by MER Jeremi Phoenix-Lefeb (caused by Zach Vigue).",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "3",
+    "time": "07:53",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "3",
+    "time": "07:09",
+    "home_event": "Ground ball pickup by MER Ethan Landymore.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "Shot by MER Antonio Rossetti, SAVE Zach Vigue.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Shot by RIC Luke Meyer, SAVE Tyler Moritzen."
+  },
+  {
+    "quarter": "3",
+    "time": "05:17",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "Shot by MER Ryan Mahoney WIDE.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "Ground ball pickup by MER Rob Madden.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:20",
+    "home_event": "Turnover by MER Ryan Mahoney.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "GOAL by RIC Evan O'Neil, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "Jaret Jawor at goalie for MER.",
+    "score": "1-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [03:40] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "GOAL by RIC Lucas Slate, Assist by Jack Dougherty, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [02:49] Ground ball pickup by RIC Drew Tenzer."
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "GOAL by RIC Porter Barnett, Assist by Drew Tenzer, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "Faceoff Kevin Sprague vs Trent Grainger won by RIC, [02:41] Ground ball pickup by RIC Trent Grainger."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Lucas Slate, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Brody Murphy at goalie for RIC."
+  },
+  {
+    "quarter": "3",
+    "time": "02:06",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Faceoff Jimmy Neal vs Trent Grainger won by RIC, [02:06] Ground ball pickup by RIC Trent Grainger."
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:27",
+    "home_event": "",
+    "score": "1-17",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Porter Barnett, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:27",
+    "home_event": "Timeout by MER.",
+    "score": "1-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:24",
+    "home_event": "Faceoff Jack Schimmel vs Anthony DiCenso won by MER, [01:24] Ground ball pickup by MER Jonas Aquilla.",
+    "score": "1-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "Ground ball pickup by MER Ben Schellinger.",
+    "score": "1-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "GOAL by MER Jeremi Phoenix-Lefeb, Assist by Ethan Landymore.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Faceoff Jack Schimmel vs Anthony DiCenso won by RIC, [00:09] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "14:57",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Faceoff Jack Schimmel vs Anthony DiCenso won by RIC, [14:57] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "14:20",
+    "home_event": "",
+    "score": "2-18",
+    "away_event": "GOAL by RIC Ryan Spilman, Assist by Aidan Wooley."
+  },
+  {
+    "quarter": "4",
+    "time": "14:14",
+    "home_event": "",
+    "score": "2-18",
+    "away_event": "Faceoff Drew Pagano vs Anthony DiCenso won by RIC, [14:14] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "",
+    "score": "2-18",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "",
+    "score": "2-18",
+    "away_event": "Shot by RIC Porter Barnett, SAVE Jaret Jawor."
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "",
+    "score": "2-18",
+    "away_event": "Ground ball pickup by RIC Jack Dougherty."
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "GOAL by RIC Jack Dougherty, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "Faceoff Jimmy Neal vs Matt Jacobsen won by RIC, [13:40] Ground ball pickup by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "Ground ball pickup by RIC Porter Barnett."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "Turnover by RIC Evan Leonardo."
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "Ground ball pickup by MER Jaret Jawor.",
+    "score": "2-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:05",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "Turnover by MER Chase Petschke (caused by Sean Siegel).",
+    "score": "2-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:10",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "",
+    "score": "2-19",
+    "away_event": "Turnover by RIC Harrison Voelzke (caused by Adam Schembri)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "Ground ball pickup by MER Brenton Paladino.",
+    "score": "2-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "Turnover by MER Brenton Paladino.",
+    "score": "2-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:37",
+    "home_event": "",
+    "score": "2-20",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Porter Barnett, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:32",
+    "home_event": "",
+    "score": "2-20",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [10:32] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Evan Leonardo, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:51",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [09:51] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "Shot by RIC Porter Barnett, SAVE Jaret Jawor."
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "Shot by RIC Leo Caine WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:01",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:49",
+    "home_event": "Shot by MER Braeden Kerr WIDE.",
+    "score": "2-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "Turnover by MER Colin Tardif (caused by Xander Welty).",
+    "score": "2-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:03",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "Ground ball pickup by RIC Xander Welty."
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "",
+    "score": "2-21",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "",
+    "score": "2-22",
+    "away_event": "GOAL by RIC Porter Barnett, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "",
+    "score": "2-22",
+    "away_event": "Carson Quinn at goalie for RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "06:53",
+    "home_event": "",
+    "score": "2-22",
+    "away_event": "Faceoff Jimmy Neal vs Matt Jacobsen won by RIC, [06:53] Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Porter Barnett, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Faceoff Jimmy Neal vs Anthony DiCenso won by RIC, [06:17] Ground ball pickup by RIC Drew Tenzer."
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Shot by RIC Aidan Wooley, SAVE Jaret Jawor."
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Ground ball pickup by RIC Harrison Voelzke."
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Shot clock violation by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "2-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:45",
+    "home_event": "Turnover by MER Jack Schimmel (caused by Sean Siegel).",
+    "score": "2-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Ground ball pickup by RIC Porter Barnett."
+  },
+  {
+    "quarter": "4",
+    "time": "04:34",
+    "home_event": "",
+    "score": "2-23",
+    "away_event": "Shot by RIC Jack Dougherty, SAVE Jaret Jawor."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by MER Jack Owen.",
+    "score": "2-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:30",
+    "home_event": "GOAL by MER Josh Mills.",
+    "score": "3-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "3-23",
+    "away_event": "Faceoff Jimmy Neal vs Matt Jacobsen won by RIC, [03:27] Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Penalty on MER Jack Owen (HOLDING/0:30) Extra-man opportunity.",
+    "score": "3-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Penalty on MER Jack Owen (SLASHING/1:00) Extra-man opportunity.",
+    "score": "3-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "3-23",
+    "away_event": "Shot by RIC Leo Caine WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:49",
+    "home_event": "",
+    "score": "3-23",
+    "away_event": "Turnover by RIC Harrison Voelzke."
+  },
+  {
+    "quarter": "4",
+    "time": "00:59",
+    "home_event": "Shot by MER Elias Harless WIDE.",
+    "score": "3-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:28",
+    "home_event": "Shot clock violation by MER.",
+    "score": "3-23",
+    "away_event": ""
+  }
+]

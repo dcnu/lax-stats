@@ -1,0 +1,1913 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "LaCombe, Matt at goalie for COLGATE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Sean Byrne at goalie for ARMY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by ARMY Aiden Weisenborn, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by ARMY Hill Plunkett."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:08",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on ARMY CJ Monturio (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "Shot by COLGATE Turner, Jack BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "Turnover by COLGATE Quinson, Casey.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by ARMY Jackson Eicher, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "GOAL by COLGATE Connor, Liam (FIRST GOAL), Assist by Connor, Rory, goal number 32 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [12:23] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by ARMY Dylan D'Agostino (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "GOAL by COLGATE Turner, Jack, Assist by Connor, Liam, goal number 47 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [11:52] Ground ball pickup by COLGATE Yates, Max.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "GOAL by COLGATE Arata, Tommy, Assist by Connor, Liam, goal number 3 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by ARMY Jackson Eicher."
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Gunnar Fellows, goal number 52 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [09:57] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by ARMY Gunnar Fellows, Assist by Jackson Eicher, goal number 32 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [09:48] Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by ARMY Christian Mazur."
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "Penalty on COLGATE Yates, Max (SLASHING/1:00) Extra-man opportunity.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ARMY Jackson Eicher BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by ARMY Aiden Weisenborn (MAN-UP), Assist by Brayden Fountain, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [08:33] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by ARMY Jackson Eicher."
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "Shot by COLGATE Connor, Rory BLOCKED.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Sean Byrne.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by COLGATE Quinson, Casey.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "GOAL by COLGATE Quinson, Casey, goal number 17 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [06:27] Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Sean Byrne.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "Turnover by COLGATE Eldredge, Patty (caused by Brayden Fountain).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:07",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by ARMY Brayden Fountain."
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by ARMY Brayden Fountain WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by ARMY Gunnar Fellows."
+  },
+  {
+    "quarter": "1",
+    "time": "04:36",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by ARMY Jackson Eicher (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "Ground ball pickup by COLGATE Lohman, Charlie.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "Shot by COLGATE Favaro, Ryan, SAVE Sean Byrne.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on ARMY Casey Reynolds (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "GOAL by COLGATE Drouin, Hunter (MAN-UP), Assist by Connor, Rory, goal number 26 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE (on faceoff violation).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "GOAL by COLGATE Arata, Tommy, Assist by Connor, Liam, goal number 4 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Burke, Fischer vs Robert Simone won by ARMY, [02:28] Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Jackson Eicher, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "Ground ball pickup by COLGATE Tedesco, Donnie.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "Turnover by COLGATE Drouin, Hunter.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:48",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Turnover by COLGATE LaCombe, Matt.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Evan Plunkett, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [15:00] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:41",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:39",
+    "home_event": "Shot by COLGATE Erickson, Sam WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Sean Byrne.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:15",
+    "home_event": "Turnover by COLGATE Turner, Jack.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by ARMY CJ Monturio (caused by Yates, Max)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:55",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:53",
+    "home_event": "Shot by COLGATE Connor, Liam WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by ARMY AJ Pilate (caused by Connor, Liam)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:37",
+    "home_event": "Turnover by COLGATE Connor, Rory (caused by Hill Plunkett).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:34",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by ARMY Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by ARMY Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "Shot by COLGATE Connor, Rory, SAVE Sean Byrne.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by ARMY Brayden Fountain."
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Timeout by ARMY."
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Hill Plunkett BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Evan Plunkett, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "11:27",
+    "home_event": "Penalty on COLGATE Carrabine, John (SLASHING/1:00) Extra-man opportunity.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Jackson Eicher, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "Shot by COLGATE Kiefer, Andrew WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "Shot by COLGATE Connor, Rory WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:49",
+    "home_event": "Shot clock violation by COLGATE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "2",
+    "time": "09:28",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by ARMY Hill Plunkett (caused by Lala, Thomas)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:22",
+    "home_event": "Timeout by COLGATE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "Shot by COLGATE Connor, Rory WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Evan Plunkett WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by ARMY Gunnar Fellows WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:54",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:06",
+    "home_event": "Shot by COLGATE Quinson, Casey WIDE.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Turnover by COLGATE Connor, Liam (caused by Kyle Atherton).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by ARMY Kyle Atherton."
+  },
+  {
+    "quarter": "2",
+    "time": "06:46",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by ARMY Dylan D'Agostino, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [06:03] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by ARMY Brayden Fountain, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "GOAL by COLGATE Connor, Liam, Assist by Favaro, Ryan, goal number 33 for season.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [04:37] Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "2",
+    "time": "03:47",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by ARMY Evan Plunkett WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:37",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by ARMY Hill Plunkett BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Ground ball pickup by ARMY Jackson Eicher."
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "GOAL by ARMY Jackson Eicher, goal number 53 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Burke, Fischer vs Will Coletti won by ARMY, [03:34] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "2",
+    "time": "02:49",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by ARMY Jackson Eicher, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:40",
+    "home_event": "Turnover by COLGATE LaCombe, Matt.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by ARMY Brayden Fountain WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by ARMY Finn McCullough, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "01:59",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:19",
+    "home_event": "Shot by COLGATE Arata, Tommy WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Turnover by COLGATE Arata, Tommy.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:36",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:28",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Timeout by ARMY."
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "Turnover by COLGATE Reynolds, Brett (caused by Grant Masterson).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Sean Byrne.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [15:00] Ground ball pickup by COLGATE Yates, Max.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:53",
+    "home_event": "Turnover by COLGATE Yates, Max (caused by Christian Fournier).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "3",
+    "time": "14:41",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:05",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by ARMY Aiden Weisenborn, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "14:03",
+    "home_event": "Penalty on COLGATE Yates, Max (ILLEGAL EQUIPMENT/0:30) Extra-man opportunity.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by ARMY Aiden Weisenborn, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:22",
+    "home_event": "Turnover by COLGATE Turner, Jack.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by ARMY Gunnar Fellows, Assist by Evan Plunkett, goal number 33 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [12:49] Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by ARMY Will Coletti WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by ARMY Gunnar Fellows HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by ARMY Dylan D'Agostino, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "Shot by COLGATE Drouin, Hunter, SAVE Sean Byrne.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:06",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by ARMY John Sullivan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:55",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:50",
+    "home_event": "Penalty on COLGATE Yates, Max (PUSHING/0:30) Extra-man opportunity.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by ARMY Finn McCullough (MAN-UP), Assist by Jackson Eicher, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [10:37] Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:36",
+    "home_event": "Shot by COLGATE Trumble, Ben, SAVE Sean Byrne.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:07",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by ARMY Brayden Fountain, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "GOAL by COLGATE Connor, Rory, goal number 43 for season.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [08:31] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by ARMY Jackson Eicher (caused by LaCombe, Matt)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "Turnover by COLGATE Connor, Rory (caused by AJ Pilate).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "3",
+    "time": "06:35",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by ARMY Gunnar Fellows, Assist by Jackson Eicher, goal number 34 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [06:28] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "GOAL by ARMY Will Coletti, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [06:20] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by ARMY Will Coletti (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Ground ball pickup by COLGATE Yates, Max.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "Shot by COLGATE Erickson, Sam, SAVE Sean Byrne.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by ARMY Finn McCullough WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Dylan D'Agostino, goal number 54 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "Timeout by COLGATE.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [04:50] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:09",
+    "home_event": "Turnover by COLGATE Turner, Jack (caused by John Sullivan).",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:58",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:53",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by ARMY Gunnar Fellows BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by ARMY Ben Calabrese."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:37",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Penalty on ARMY Ryan Nixon (TOO MANY PLAYERS/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "Shot by COLGATE Drouin, Hunter BLOCKED.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Sean Byrne.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "GOAL by COLGATE Turner, Jack, Assist by Connor, Rory, goal number 48 for season.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [02:47] Ground ball pickup by COLGATE Yates, Max.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:01",
+    "home_event": "GOAL by COLGATE Connor, Rory, goal number 44 for season.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:01",
+    "home_event": "Faceoff Burke, Fischer vs Will Coletti won by COLGATE, [02:01] Ground ball pickup by COLGATE Lala, Thomas.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:50",
+    "home_event": "Turnover by COLGATE Lala, Thomas.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:47",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by ARMY Gunnar Fellows HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by ARMY Evan Plunkett, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Penalty on ARMY Keagan Treacy (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "GOAL by COLGATE Connor, Liam (MAN-UP), Assist by Connor, Rory, goal number 34 for season.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [14:45] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "GOAL by COLGATE Connor, Rory, Assist by Connor, Liam, goal number 45 for season.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Turnover by ARMY Evan Plunkett."
+  },
+  {
+    "quarter": "4",
+    "time": "12:45",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:02",
+    "home_event": "GOAL by COLGATE Drouin, Hunter, goal number 27 for season.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:02",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Faceoff Burke, Fischer vs Will Coletti won by ARMY (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "GOAL by ARMY Gunnar Fellows, Assist by Dylan D'Agostino, goal number 35 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [11:24] Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:26",
+    "home_event": "GOAL by COLGATE Favaro, Ryan, Assist by Drouin, Hunter, goal number 23 for season.",
+    "score": "14-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:26",
+    "home_event": "",
+    "score": "14-11",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "GOAL by ARMY Finn McCullough, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Faceoff Burke, Fischer vs Will Coletti won by ARMY, [09:46] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Shot by ARMY Will Coletti BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Timeout by COLGATE.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "08:46",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "Turnover by COLGATE Yates, Max.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:43",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Ground ball pickup by ARMY Hill Plunkett."
+  },
+  {
+    "quarter": "4",
+    "time": "08:35",
+    "home_event": "Penalty on COLGATE Carrabine, John (SLASHING/1:00) Extra-man opportunity.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:35",
+    "home_event": "Penalty on COLGATE Carrabine, John (UNNECESSARY ROUGHNESS/1:00).",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Shot by ARMY Finn McCullough, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "07:20",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:11",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "Shot by COLGATE Trumble, Ben, SAVE Sean Byrne.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:42",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Penalty on ARMY Keagan Treacy (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "GOAL by COLGATE Turner, Jack (MAN-UP), Assist by Connor, Liam, goal number 49 for season.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Faceoff Rummel, Kyle vs Will Coletti won by COLGATE, [05:24] Ground ball pickup by COLGATE Lala, Thomas.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "Turnover by COLGATE Rummel, Kyle (caused by Jackson Eicher).",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:47",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "Turnover by COLGATE Lohman, Charlie.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "4",
+    "time": "03:29",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Shot by ARMY Brayden Fountain, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Turnover by COLGATE Quinson, Casey (caused by Ryan Nixon).",
+    "score": "15-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "",
+    "score": "15-12",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:18",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "GOAL by ARMY Brayden Fountain, Assist by Evan Plunkett, goal number 35 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:18",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [02:18] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot by ARMY Hill Plunkett, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "01:41",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:24",
+    "home_event": "Turnover by COLGATE Connor, Rory.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:22",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Turnover by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Timeout by ARMY."
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "GOAL by COLGATE Drouin, Hunter, goal number 28 for season.",
+    "score": "16-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Faceoff Rummel, Kyle vs Will Coletti won by ARMY, [01:16] Ground ball pickup by ARMY Will Coletti."
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Shot by ARMY Brayden Fountain, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "00:52",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Ground ball pickup by ARMY Brayden Fountain."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "Penalty on COLGATE Erickson, Sam (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "16-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "",
+    "score": "16-13",
+    "away_event": "Turnover by ARMY Finn McCullough."
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "16-13",
+    "away_event": ""
+  }
+]

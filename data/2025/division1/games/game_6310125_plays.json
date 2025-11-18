@@ -1,0 +1,1661 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Jake Marek at goalie for AFA.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Jameison at goalie for DU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [15:00] Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Eric Malever WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Eric Malever, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Luke Grayum, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "GOAL by AFA Ryan Stadelmaier (FIRST GOAL), Assist by Mana Wilhelm, goal number 6 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [12:32] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by DU Cal Girard (caused by Cole Cunningham)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "Ground ball pickup by AFA Cole Cunningham.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:35",
+    "home_event": "Shot by AFA Josh Yago WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "Turnover by AFA Ryan Stadelmaier (caused by Mac Christmas).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DU Mac Christmas."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by DU Luke Grayum, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DU Luke Grayum."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by DU Luke Grayum, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Daniel Haimes vs Luke Engelke won by DU, [10:05] Ground ball pickup by DU Luke Engelke."
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DU Liam Kershis, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "Ground ball pickup by AFA Jake Marek.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:13",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "Shot by AFA Josh Yago WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "Shot by AFA Caelan Driggs WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Shot by AFA Luke Vrsansky, SAVE Patrick Jameison.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Ground ball pickup by AFA Caelan Driggs.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "GOAL by AFA Ryan Stadelmaier, Assist by Mana Wilhelm, goal number 7 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "Faceoff Daniel Haimes vs Luke Engelke won by AFA (on faceoff violation).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "Ground ball pickup by AFA Josh Yago.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "Shot by AFA Ryan Stadelmaier BLOCKED.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Shot clock violation by AFA.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by DU Chris Cusolito, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Daniel Haimes vs Ben McCarthy won by DU, [05:49] Ground ball pickup by DU Ben McCarthy."
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DU Max Sloat, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "Turnover by AFA Josh Yago.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DU Eric Malever, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Ground ball pickup by AFA Matt Rosato.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "Shot by AFA Wes Peene WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "Turnover by AFA.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DU Andrew McAdorey, SAVE Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Turnover by AFA Mana Wilhelm (caused by Eric Malever).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by DU Eric Malever."
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by DU Graham Blake, Assist by Liam Kershis, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "Faceoff Daniel Haimes vs Ben McCarthy won by AFA, [02:00] Ground ball pickup by AFA Blake Boyd.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "Shot by AFA Josh Yago HIT POST.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "GOAL by AFA Ryan Stadelmaier, goal number 8 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [01:05] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by DU Andrew McAdorey, SAVE Jake Marek."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [15:00] Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by DU Eric Malever, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "Faceoff Daniel Haimes vs Luke Engelke won by AFA, [14:02] Ground ball pickup by AFA Hee-Cheol Shin.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:47",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "Shot by AFA Blake Boyd HIT CROSSBAR.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by DU Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by DU Eric Malever BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Ground ball pickup by AFA Jake Marek.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "Ground ball pickup by AFA Ryan Stadelmaier.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "Timeout by AFA.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "GOAL by AFA Josh Yago, goal number 14 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Daniel Haimes vs Luke Engelke won by DU, [11:09] Ground ball pickup by DU Luke Engelke."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:49",
+    "home_event": "Turnover by AFA Charlie Pyfer (caused by Keith Boyer).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:46",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by DU Eric Malever."
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by DU Eric Malever, Assist by Andrew McAdorey, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "Faceoff Daniel Haimes vs Ben McCarthy won by AFA, [09:21] Ground ball pickup by AFA Daniel Haimes.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "Turnover by AFA Daniel Haimes.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by DU Aidan Maguire, SAVE Jake Marek."
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "Ground ball pickup by AFA Jake Marek.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "Turnover by AFA Jake Marek.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by DU Nikolas Menendez."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by DU Max Sloat."
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "Ground ball pickup by AFA Matt Rosato.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "Shot by AFA Nathan Crouse HIGH.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "Ground ball pickup by AFA Luke Vrsansky.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Shot by AFA Wes Peene, SAVE Patrick Jameison.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:51",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by DU Keith Boyer."
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "GOAL by AFA Josh Yago, Assist by Alexander Stepney, goal number 15 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Timeout by DU."
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Daniel Haimes vs Ben McCarthy won by DU, [05:46] Ground ball pickup by DU Aiden Blake."
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by DU Luke Grayum, Assist by Chris Cusolito, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "Faceoff Jake Knapp vs Cal Girard won by AFA.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "Shot by AFA Wes Peene WIDE LEFT.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Shot by AFA Luke Vrsansky, SAVE Patrick Jameison.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Ground ball pickup by AFA Wes Peene.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "Turnover by AFA Mana Wilhelm (caused by Patrick Jameison).",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:40",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by DU Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "03:39",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by DU Benn Johnston, Assist by Andrew McAdorey, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU, [03:05] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Turnover by DU Chris Cusolito (caused by Daniel Enoch)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "Ground ball pickup by AFA Daniel Enoch.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "Turnover by AFA Daniel Enoch.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "Timeout by AFA.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by DU Andrew McAdorey, goal number 12 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU, [01:52] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by DU Tomas Delgado."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Turnover by AFA Daniel Enoch (caused by Patrick Jameison).",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by DU Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by DU Luke Grayum."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Jake Knapp vs Cal Girard won by AFA, [15:00] Ground ball pickup by AFA Jake Knapp.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "GOAL by AFA Caelan Driggs, goal number 21 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU, [14:15] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "14:05",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by DU Max Sloat."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "Ground ball pickup by AFA Mason Meagher.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:47",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "Shot by AFA Josh Yago HIT CROSSBAR.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:07",
+    "home_event": "Shot by AFA Mana Wilhelm, SAVE Patrick Jameison.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by DU Charlie Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by DU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by DU Charlie Johnson (caused by Caelan Driggs)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:00",
+    "home_event": "Ground ball pickup by AFA Josh Yago.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:20",
+    "home_event": "Turnover by AFA Wes Peene (caused by Nikolas Menendez).",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by DU Luke Grayum, SAVE Jake Marek."
+  },
+  {
+    "quarter": "3",
+    "time": "11:27",
+    "home_event": "Ground ball pickup by AFA Charlie Pyfer.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "GOAL by AFA Caelan Driggs, goal number 22 for season.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU, [11:21] Ground ball pickup by DU Aiden Blake."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by DU Luke Grayum, Assist by Eric Malever, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU."
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by DU Eric Malever."
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:26",
+    "home_event": "Turnover by AFA Tyler Smart (caused by Eric Malever).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by DU Charlie Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by DU Eric Malever, SAVE Jake Marek."
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by DU Max Sloat, Assist by Eric Malever, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Jake Knapp vs Cal Girard won by DU, [09:14] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by DU Eric Malever, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [08:25] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "07:22",
+    "home_event": "Penalty on AFA Charlie Pyfer (PUSHING/0:30) Extra-man opportunity.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by DU Eric Malever (MAN-UP), Assist by Max Sloat, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU."
+  },
+  {
+    "quarter": "3",
+    "time": "05:47",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by DU Eric Malever (caused by John Kleinbeck)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Ground ball pickup by AFA Charlie Pyfer.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:00",
+    "home_event": "Shot by AFA Cole Rassas, SAVE Patrick Jameison.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DU Graham Blake WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:41",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot clock violation by DU."
+  },
+  {
+    "quarter": "3",
+    "time": "03:28",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "Turnover by AFA Josh Yago.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DU Luke Grayum, SAVE Jake Marek."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "Ground ball pickup by AFA Jake Marek.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:08",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:50",
+    "home_event": "Turnover by AFA Jake Marek.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:47",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DU Keith Boyer."
+  },
+  {
+    "quarter": "3",
+    "time": "00:45",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by DU Keith Boyer."
+  },
+  {
+    "quarter": "3",
+    "time": "00:43",
+    "home_event": "Ground ball pickup by AFA Wes Peene.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "Turnover by AFA Wes Peene (caused by Ben McCarthy).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:38",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DU Ben McCarthy."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DU Liam Kershis HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Daniel Haimes vs Cal Girard won by AFA, [15:00] Ground ball pickup by AFA Caelan Driggs.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:43",
+    "home_event": "Turnover by AFA Caelan Driggs (caused by Luke Grayum).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:40",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by DU Luke Grayum (caused by Matt Rosato)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Ground ball pickup by AFA Jake Marek.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:39",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:39",
+    "home_event": "GOAL by AFA Caelan Driggs, goal number 23 for season.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:39",
+    "home_event": "Faceoff Daniel Haimes vs Cal Girard won by AFA, [13:39] Ground ball pickup by AFA Daniel Haimes.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:45",
+    "home_event": "Shot by AFA Caelan Driggs HIGH.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by DU Aiden Blake."
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by DU Andrew McAdorey (caused by Matt Rosato)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Ground ball pickup by AFA Daniel Enoch.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "Shot by AFA Caelan Driggs, SAVE Patrick Jameison.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by DU Aidan Maguire, SAVE Jake Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by DU Aiden Blake."
+  },
+  {
+    "quarter": "4",
+    "time": "11:19",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by DU Aiden Blake WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by DU Liam Kershis, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [10:44] Ground ball pickup by DU Jack Gray."
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by DU Liam Kershis, SAVE Jake Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "09:50",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:34",
+    "home_event": "Turnover by AFA John Kleinbeck (caused by Keith Boyer).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by DU Chris Cusolito."
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by DU Eric Malever, SAVE Jake Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "GOAL by AFA Caelan Driggs, goal number 24 for season.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Faceoff Daniel Haimes vs Cal Girard won by AFA, [07:44] Ground ball pickup by AFA Cole Cunningham.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "Turnover by AFA Cole Cunningham (caused by Cal Girard).",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "06:45",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot by DU Reed Landin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "GOAL by DU Eric Malever, Assist by Andrew McAdorey, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "Faceoff Daniel Haimes vs Cal Girard won by AFA, [06:40] Ground ball pickup by AFA Hee-Cheol Shin.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:49",
+    "home_event": "GOAL by AFA Luke Vrsansky, Assist by Caelan Driggs, goal number 2 for season.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:49",
+    "home_event": "Faceoff Daniel Haimes vs Luke Engelke won by AFA, [05:49] Ground ball pickup by AFA Daniel Haimes.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "Turnover by AFA Matt Rosato (caused by Keith Boyer).",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:27",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Ground ball pickup by DU Keith Boyer."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "GOAL by DU Luke Grayum, Assist by Eric Malever, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "Faceoff Daniel Haimes vs Luke Engelke won by AFA, [05:20] Ground ball pickup by AFA Daniel Haimes.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "Turnover by AFA Daniel Haimes.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:27",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Shot by DU Luke Grayum WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "Penalty on AFA Daniel Enoch (HOLDING/0:30) Extra-man opportunity.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Shot by DU Ryan Mackenzie, SAVE Jake Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:07",
+    "home_event": "Turnover by AFA Matt Rosato.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Ground ball pickup by DU Luke Grayum."
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "GOAL by DU Graham Blake, Assist by Eric Malever, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "Faceoff Daniel Haimes vs Cal Girard won by AFA.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "GOAL by AFA Josh Yago, goal number 16 for season.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Evan Barr at goalie for DU."
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Faceoff Daniel Haimes vs Cal Girard won by DU, [02:20] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "02:14",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Shot by DU Liam McLane, SAVE Jake Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "01:48",
+    "home_event": "Clear attempt by AFA failed.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "Turnover by AFA Jake Marek (caused by Liam Kershis).",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Ground ball pickup by DU Liam Kershis."
+  },
+  {
+    "quarter": "4",
+    "time": "01:17",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Turnover by DU Reed Landin."
+  },
+  {
+    "quarter": "4",
+    "time": "01:17",
+    "home_event": "Ground ball pickup by AFA Charlie Pyfer.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:17",
+    "home_event": "Clear attempt by AFA good.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:17",
+    "home_event": "Shot by AFA Josh Yago BLOCKED.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Penalty on DU Petey Malitas (ILLEGAL BODY CHECK/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "Shot by AFA Caelan Driggs HIGH.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "Shot by AFA Wes Peene HIGH.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "Turnover by AFA Cole Rassas.",
+    "score": "11-16",
+    "away_event": ""
+  }
+]

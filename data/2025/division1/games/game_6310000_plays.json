@@ -1,0 +1,1612 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Rand Paddack at goalie for MER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Nolan Hudnut at goalie for BELL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER, [15:00] Ground ball pickup by MER Kyle Pierce.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "Turnover by MER Dylan McKelvy.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by BELL John Alie (FIRST GOAL), Assist by Ezra Moore, goal number 39 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "Turnover by MER Christian Laureano.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:30",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by BELL Matt Kirton."
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by BELL Ezra Moore, goal number 18 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [12:06] Ground ball pickup by BELL Matt Kirton."
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "Penalty on MER Ganon Cope (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by BELL John Alie, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Luke Fox, goal number 26 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "Faceoff Chris Cappelmann vs Aidan Fearn won by MER, [09:54] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:40",
+    "home_event": "Shot by MER Chris Cappelmann, SAVE Nolan Hudnut.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "Penalty on MER Jackson Phillips (HOLDING/0:30) Extra-man opportunity.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by BELL John Alie (caused by Davis Peek)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Nolan Hudnut.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "GOAL by MER Dillon Bush, goal number 27 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [06:45] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by BELL Justin Wescoat (caused by Quinn Kelley)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "Ground ball pickup by MER Tyler Gilbert.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "Turnover by MER.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by BELL Kellen Marks, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "Ground ball pickup by MER Kyle Pierce.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "Shot by MER Kade McNeil HIT POST.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Shot by MER Will Zylstra BLOCKED.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "GOAL by MER Dillon Bush, goal number 28 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Penalty on BELL Nicholas Sheremetta (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "GOAL by MER Michael Frederick (MAN-UP), Assist by Jack Sullivan, goal number 12 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by BELL Leo Prosser, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [02:40] Ground ball pickup by MER Carter Kryszak.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "Turnover by MER Carter Kryszak.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by BELL Jackson Campisano."
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by BELL John Alie."
+  },
+  {
+    "quarter": "1",
+    "time": "01:38",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Timeout by BELL."
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by BELL Ezra Moore."
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Turnover by MER Jackson Hirschy.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [15:00] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "2",
+    "time": "14:51",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by BELL Cole Messick (caused by Chris Cappelmann)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:47",
+    "home_event": "Ground ball pickup by MER Chris Cappelmann.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "Shot by MER Luke Fox, SAVE Nolan Hudnut.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on BELL Brady Long (ILLEGAL BODY CHECK/1:00) Extra-man opportunity(2)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on BELL Jayden Smith (CROSS-CHECK/1:00)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Jack Sullivan, goal number 29 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Nolan Hudnut.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:41",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:35",
+    "home_event": "Penalty on MER Jackson Phillips (PUSHING/0:30) Extra-man opportunity.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by BELL Justin Wescoat, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:53",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:24",
+    "home_event": "Turnover by MER Christian Laureano.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:32",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by BELL John Alie."
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "Shot by MER Jack Sullivan WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:44",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Nolan Hudnut.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "Shot by MER Jack Sullivan WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on BELL Brennan McDermott (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "Turnover by MER.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:29",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by BELL Justin Wescoat, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by BELL Justin Wescoat."
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by BELL Ezra Moore, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on BELL Justin Wescoat (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "Shot by MER Dillon Bush, SAVE Nolan Hudnut.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by BELL John Imperato (caused by Jackson Phillips)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "Ground ball pickup by MER Jackson Phillips.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Ben Jose, goal number 30 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "Penalty on MER Connor Corkill (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:34",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by BELL John Alie, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:27",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by BELL Joe Alie."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by BELL Joe Alie, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by BELL Joe Alie, Assist by John Alie, goal number 25 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [05:05] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by BELL Leo Prosser, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "Timeout by MER.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER, [04:33] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "Shot by MER Chris Cappelmann WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:06",
+    "home_event": "Shot by MER Dylan McKelvy WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:49",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "Shot by MER Dillon Bush, SAVE Nolan Hudnut.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:51",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by BELL Leo Prosser, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by BELL Leo Prosser HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "Ground ball pickup by MER Jackson Phillips.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "Clear attempt by MER good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Shot by MER Will Zylstra, SAVE Nolan Hudnut.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by BELL John Alie, Assist by Ezra Moore, goal number 40 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by BELL John Alie, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by BELL John Alie."
+  },
+  {
+    "quarter": "2",
+    "time": "00:58",
+    "home_event": "Clear attempt by MER good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "Timeout by MER.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Shot by MER Christian Laureano, SAVE Nolan Hudnut.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Kade McNeil, goal number 31 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER, [15:00] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "GOAL by MER Michael Frederick, Assist by Will Zylstra, goal number 13 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER, [14:16] Ground ball pickup by MER Quinn Kelley.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:03",
+    "home_event": "Clear attempt by MER good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:15",
+    "home_event": "Shot by MER Dillon Bush HIGH.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "GOAL by MER Dylan McKelvy, Assist by Will Zylstra, goal number 7 for season.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [13:06] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by BELL Cole Messick WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:36",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "GOAL by BELL John Alie, Assist by Leo Prosser, goal number 41 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:36",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [12:36] Ground ball pickup by BELL Ryan Curry."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by BELL Michael Blaymires, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by BELL Ezra Moore, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "11:25",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "Clear attempt by MER good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "Shot by MER Christian Laureano WIDE.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Penalty on BELL Brennan McDermott (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Jack Sullivan, goal number 32 for season.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL, [10:12] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "3",
+    "time": "09:51",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by BELL Cole Messick."
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "Turnover by MER Luke Fox (caused by Brady Long).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:26",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by BELL Brady Long."
+  },
+  {
+    "quarter": "3",
+    "time": "09:23",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:44",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "GOAL by BELL John Alie, Assist by Michael Blaymires, goal number 42 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:44",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL."
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "GOAL by BELL Michael Blaymires, Assist by Ezra Moore, goal number 17 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [08:00] Ground ball pickup by MER Carter Kryszak.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:09",
+    "home_event": "Shot by MER Dillon Bush, SAVE Nolan Hudnut.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by BELL Justin Wescoat, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "Clear attempt by MER good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "GOAL by MER Jack Sullivan, goal number 8 for season.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "Faceoff Chris Cappelmann vs Cole Messick won by MER.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "Shot by MER Ganon Cope WIDE.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "GOAL by MER Ganon Cope, Assist by Kade McNeil, goal number 4 for season.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Faceoff Chris Cappelmann vs Cole Messick won by BELL."
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Turnover by BELL Michael Blaymires."
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Clear attempt by MER good.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Turnover by MER.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Turnover by BELL."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Ground ball pickup by MER Luke Hand.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Clear attempt by MER good.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Shot by MER Michael Frederick, SAVE Nolan Hudnut.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Turnover by BELL Ezra Moore (caused by Quinn Kelley)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Ground ball pickup by MER Quinn Kelley.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:28",
+    "home_event": "Clear attempt by MER good.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:25",
+    "home_event": "Turnover by MER Matthew Burnside.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:25",
+    "home_event": "Timeout by MER.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "GOAL by BELL Joe Alie, Assist by John Alie, goal number 26 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [01:45] Ground ball pickup by MER Carter Kryszak.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "Shot by MER Dillon Bush, SAVE Nolan Hudnut.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL, [15:00] Ground ball pickup by BELL Nick Ferge."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by BELL Joe Alie WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "Penalty on MER Kobe Handsor (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "GOAL by BELL John Alie (MAN-UP), Assist by Sam Boylston, goal number 43 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL, [14:06] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "GOAL by BELL Justin Wescoat, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [13:30] Ground ball pickup by MER Carter Kryszak.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "GOAL by MER Michael Frederick, Assist by Carter Kryszak, goal number 14 for season.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL, [13:21] Ground ball pickup by BELL Brennan McDermott."
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Shot by BELL John Alie, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "Turnover by MER.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Shot by BELL Ezra Moore WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "GOAL by BELL Leo Prosser, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL, [12:10] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "4",
+    "time": "11:34",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Timeout by BELL."
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Shot by BELL Ezra Moore WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Shot by MER Jack Sullivan WIDE.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "Shot by MER Dylan McKelvy WIDE.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Shot by MER Jack Sullivan WIDE.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:47",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Turnover by BELL Ezra Moore."
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "GOAL by MER Michael Frederick, goal number 15 for season.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL, [07:59] Ground ball pickup by BELL Cole Messick."
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Turnover by BELL Michael Blaymires (caused by Kobe Handsor)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "Ground ball pickup by MER Kobe Handsor.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "Clear attempt by MER good.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "Turnover by MER Michael Frederick.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:07",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "GOAL by BELL Justin Wescoat, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:07",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [06:07] Ground ball pickup by MER Carter Kryszak.",
+    "score": "14-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "14-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Ground ball pickup by MER Christian Laureano.",
+    "score": "14-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:57",
+    "home_event": "Shot by MER Christian Laureano, SAVE Nolan Hudnut.",
+    "score": "14-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "Timeout by BELL."
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "Shot by BELL John Alie HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "Shot by BELL Michael Blaymires WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:51",
+    "home_event": "",
+    "score": "14-14",
+    "away_event": "Ground ball pickup by BELL Michael Blaymires."
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "GOAL by BELL Michael Blaymires, goal number 18 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [02:53] Ground ball pickup by MER Michael Frederick.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:08",
+    "home_event": "Turnover by MER Michael Frederick (caused by Brennan McDermott).",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Ground ball pickup by BELL Brennan McDermott."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Clear attempt by BELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:06",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "GOAL by BELL Ezra Moore, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:06",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Faceoff Carter Kryszak vs Cole Messick won by BELL."
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Turnover by BELL Justin Wescoat (caused by Quinn Kelley)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:48",
+    "home_event": "Ground ball pickup by MER Davis Peek.",
+    "score": "14-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Clear attempt by MER good.",
+    "score": "14-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "Turnover by MER Ganon Cope (caused by Justin Wescoat).",
+    "score": "14-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Ground ball pickup by BELL Ryan Curry."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "GOAL by BELL Leo Prosser, Assist by Ryan Curry, goal number 7 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "Faceoff Carter Kryszak vs Cole Messick won by MER, [00:30] Ground ball pickup by MER Carter Kryszak.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Turnover by MER Ayden Sanchez (caused by Nick Ferge).",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Ground ball pickup by BELL Nick Ferge."
+  }
+]

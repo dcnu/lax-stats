@@ -1,0 +1,1633 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "FRACYON, Jack at goalie for PSU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Knust, Wyatt at goalie for COR."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR, [15:00] Ground ball pickup by COR Wallace, Walker."
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by COR Long, Michael WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by COR Kelleher, Hugh (FIRST GOAL), goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR, [13:59] Ground ball pickup by COR Rayhill, Eddie."
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by COR Rayhill, Eddie."
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Shot by PSU WALSTRUM, Luke HIGH.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "GOAL by PSU AQUINO, Hunter, goal number 10 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [12:33] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "Ground ball pickup by PSU ALDRIDGE, Kyle.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "Turnover by PSU HENNING, Kris (caused by Staub, Brendan).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "1",
+    "time": "11:36",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by COR Kirst, CJ HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by COR Waldman, Ryan (caused by PARNHAM, Kevin)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "Ground ball pickup by PSU KING, Jon.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "GOAL by PSU AIMONE, Jack, goal number 10 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by COR Firth, Willem WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by COR Kelleher, Hugh WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by COR Kirst, CJ, SAVE FRACYON, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by COR Dalton, Andrew."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by COR Long, Michael, Assist by Dalton, Andrew, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff MULLINS, Chase vs Cascadden, Jack won by COR, [08:36] Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by COR Luzzi, Brian HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by COR Goldstein, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "Penalty on PSU LEARY, Brendan (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by COR Goldstein, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by COR Firth, Willem."
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Ground ball pickup by PSU FRACYON, Jack.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "Shot by PSU AIMONE, Jack HIGH.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "Shot by PSU MATTHEWS, Liam, SAVE Knust, Wyatt.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by COR Kirst, CJ BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot clock violation by COR."
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "Shot by PSU PEDEN, Will BLOCKED.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by COR Kirst, CJ."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by COR Long, Michael, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [02:35] Ground ball pickup by PSU PEDEN, Will.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "Shot by PSU LONG, Ethan, SAVE Knust, Wyatt.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "Ground ball pickup by PSU LONG, Ethan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "Shot by PSU MATTHEWS, Liam, SAVE Knust, Wyatt.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "Shot by PSU AQUINO, Hunter HIT POST.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "Turnover by PSU MATTHEWS, Liam (caused by Schwartz, Walker).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by COR Singer, Jayson."
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by COR Kirst, CJ."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by PSU WALSTRUM, Luke.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR, [15:00] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "14:47",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Firth, Willem, goal number 22 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR, [14:09] Ground ball pickup by COR Rayhill, Eddie."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:42",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Waldman, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Sheehan, Ryan HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Sheehan, Ryan, SAVE FRACYON, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by PSU PARNHAM, Kevin.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:48",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:54",
+    "home_event": "Shot by PSU AQUINO, Hunter BLOCKED.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:50",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Kirst, CJ WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Firth, Willem HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by COR Kelleher, Hugh HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:56",
+    "home_event": "Timeout by PSU.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "Shot by PSU AIMONE, Jack, SAVE Knust, Wyatt.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:20",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:07",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by COR Goldstein, Ryan, Assist by Long, Michael, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:07",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [08:07] Ground ball pickup by PSU ALDRIDGE, Kyle.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "Turnover by PSU HOBBS, Mac (caused by Singer, Jayson).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:02",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by COR Singer, Jayson."
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by COR Kirst, CJ, goal number 23 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [06:23] Ground ball pickup by PSU KING, Jon.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:02",
+    "home_event": "GOAL by PSU WALSTRUM, Luke, Assist by AQUINO, Hunter, goal number 4 for season.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [05:53] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Ground ball pickup by PSU AIMONE, Jack.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "Shot by PSU MATTHEWS, Liam HIT POST.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:17",
+    "home_event": "Ground ball pickup by PSU AQUINO, Hunter.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "Shot by PSU AQUINO, Hunter WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Penalty on COR Gilmartin, Luke (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "Turnover by PSU MATTHEWS, Liam.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:11",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by COR Kelleher, Hugh HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot clock violation by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Penalty on COR Kelleher, Hugh (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "Timeout by PSU.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:51",
+    "home_event": "Shot by PSU HOBBS, Mac WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "GOAL by PSU HOBBS, Mac (MAN-UP), Assist by AQUINO, Hunter, goal number 4 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:09",
+    "home_event": "Shot by PSU AQUINO, Hunter HIT POST.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "Ground ball pickup by PSU COSTIN, Will.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "Ground ball pickup by PSU LONG, Ethan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:58",
+    "home_event": "Shot by PSU LONG, Ethan WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on COR Dooley, Matt (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "00:25",
+    "home_event": "Shot by PSU AQUINO, Hunter WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "Turnover by PSU WALSTRUM, Luke (caused by Schwartz, Walker).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "14:56",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:39",
+    "home_event": "Shot by PSU AQUINO, Hunter BLOCKED.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:36",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:33",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by COR Bozzi, Michael, Assist by Kirst, CJ, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by COR, [14:11] Ground ball pickup by COR Melkonian, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by COR Dalton, Andrew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "Penalty on PSU PARNHAM, Kevin (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by COR Caddigan, Danny WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:50",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by COR Firth, Willem."
+  },
+  {
+    "quarter": "3",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by PSU MATTHEWS, Liam.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "GOAL by PSU ROSS, Alex (MAN-DOWN), Assist by MATTHEWS, Liam, goal number 1 for season.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Kelleher, Hugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:41",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Kelleher, Hugh BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "Ground ball pickup by PSU ROSS, Alex.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "Clear attempt by PSU failed.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "Turnover by PSU ROSS, Alex (caused by Kelleher, Hugh).",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:32",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE FRACYON, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "11:13",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Firth, Willem WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "Ground ball pickup by PSU FRACYON, Jack.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by PSU AQUINO, Hunter.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "Shot by PSU LONG, Ethan WIDE.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Turnover by COR Waldman, Ryan (caused by ROSS, Alex)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Ground ball pickup by PSU DIBARTOLOMEO, Peri.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:09",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Penalty on COR Gilmartin, Luke (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "07:28",
+    "home_event": "Shot by PSU AIMONE, Jack HIGH.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:17",
+    "home_event": "Turnover by PSU AQUINO, Hunter (caused by Staub, Brendan).",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:14",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by COR Singer, Jayson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Turnover by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "Shot by PSU AIMONE, Jack, SAVE Knust, Wyatt.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:47",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Robinson, Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot clock violation by COR."
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "Shot by PSU WALSTRUM, Luke, SAVE Knust, Wyatt.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by COR Kelleher, Hugh, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "Faceoff MULLINS, Chase vs Melkonian, Michael won by PSU, [02:44] Ground ball pickup by PSU O'CONNOR, Ryan.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "GOAL by PSU MATTHEWS, Liam, goal number 6 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by PSU, [01:31] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:38",
+    "home_event": "Shot by PSU MATTHEWS, Liam, SAVE Knust, Wyatt.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by COR Rayhill, Eddie."
+  },
+  {
+    "quarter": "3",
+    "time": "00:32",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "Shot by PSU HENNING, Kris WIDE.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [15:00] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:52",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:42",
+    "home_event": "Shot by PSU MATTHEWS, Liam WIDE.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "Shot by PSU PEDEN, Will, SAVE Knust, Wyatt.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:32",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "GOAL by COR Dalton, Andrew, Assist by Kelleher, Hugh, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [12:58] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "GOAL by PSU PEDEN, Will, Assist by WALSTRUM, Luke, goal number 3 for season.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by PSU, [12:12] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "Shot by PSU LONG, Ethan HIGH.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "Turnover by PSU LONG, Ethan (caused by Gilmartin, Luke).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:13",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by COR Dooley, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "11:11",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by COR Goldstein, Ryan {shot from far right wing}, Assist by Dalton, Andrew, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by COR, [10:08] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by COR Cascadden, Jack, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [09:58] Ground ball pickup by PSU O'CONNOR, Ryan.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:10",
+    "home_event": "Shot by PSU BALDWIN, Colby WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:06",
+    "home_event": "Ground ball pickup by PSU LONG, Ethan.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:03",
+    "home_event": "GOAL by PSU MATTHEWS, Liam, Assist by LONG, Ethan, goal number 5 for season.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by PSU, [09:02] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "Shot by PSU MATTHEWS, Liam WIDE.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "Shot by PSU AQUINO, Hunter BLOCKED.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:32",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:20",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by COR Knust, Wyatt WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Shot by PSU LONG, Ethan, SAVE Knust, Wyatt.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by COR Goldstein, Ryan, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [06:08] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "Shot by PSU MATTHEWS, Liam HIT POST.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "Turnover by PSU WALSTRUM, Luke.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by COR Firth, Willem (caused by ROSS, Alex)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "Clear attempt by PSU failed.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "Turnover by PSU AQUINO, Hunter (caused by Kirst, CJ).",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by COR Kelleher, Hugh."
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by COR Firth, Willem, SAVE FRACYON, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "03:07",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Turnover by PSU MATTHEWS, Liam.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by COR Dooley, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by COR Knust, Wyatt (caused by ALDRIDGE, Kyle)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:19",
+    "home_event": "Ground ball pickup by PSU ALDRIDGE, Kyle.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "GOAL by PSU ALDRIDGE, Kyle, goal number 1 for season.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "Faceoff BALDWIN, Colby vs Cascadden, Jack won by PSU, [02:27] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Penalty on COR Cascadden, Jack (UNNECESSARY ROUGHNESS/2:00) Extra-man opportunity(3)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "Shot by PSU WALSTRUM, Luke WIDE.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "GOAL by PSU MATTHEWS, Liam (MAN-UP), Assist by WALSTRUM, Luke, goal number 8 for season.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by PSU, [01:52] Ground ball pickup by PSU BALDWIN, Colby.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Timeout by PSU.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "GOAL by PSU WALSTRUM, Luke (MAN-UP), goal number 5 for season.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by COR, [01:18] Ground ball pickup by COR Melkonian, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Turnover by COR Kirst, CJ (caused by PARNHAM, Kevin)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "Clear attempt by PSU good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "GOAL by PSU AIMONE, Jack (MAN-UP), Assist by AQUINO, Hunter, goal number 11 for season.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "Faceoff BALDWIN, Colby vs Melkonian, Michael won by PSU (on faceoff violation).",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Penalty on COR Melkonian, Michael (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "Turnover by PSU GLATZ, Garrett.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Turnover by COR Staub, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "GOAL by PSU LONG, Ethan, Assist by AQUINO, Hunter, goal number 3 for season.",
+    "score": "13-12",
+    "away_event": ""
+  }
+]

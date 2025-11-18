@@ -1,0 +1,1507 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Lucas Winger at goalie for LEM.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Damian Levin at goalie for VMI."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Sam Getty vs AJ Riley won by LEM (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:14",
+    "home_event": "Shot by LEM Ryan Eisenmann WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "Ground ball pickup by LEM Emmet McDermott.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VMI Wil Duffy (FIRST GOAL), Assist by Luke Rusterucci."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [12:53] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by VMI Jack Duncan-Bloom."
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [12:21] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by VMI Jack Duncan-Bloom, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on VMI Mason Gustafson (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "Shot by LEM Owen Wilson HIT POST.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "Ground ball pickup by LEM Owen Wilson.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "GOAL by LEM Emmet McDermott.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM (on faceoff violation).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on VMI Austin English (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "Ground ball pickup by LEM Ryan Eisenmann.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Shot by LEM Owen Wilson, SAVE Damian Levin.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by VMI Matt Nichols."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Ground ball pickup by LEM AJ DeMeo.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Shot by LEM Isaac Frechette WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "Turnover by LEM Alec Constable.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by VMI Nate Golding."
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by VMI Nate Golding WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by VMI Luke Rusterucci WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by VMI Wil Duffy, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "Turnover by LEM Ryan Eisenmann.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by VMI James Boynewicz."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by VMI Luke Rusterucci HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "Ground ball pickup by LEM Lucas Winger.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "GOAL by LEM Ethan Loun.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Nicholas Miller vs AJ Riley won by VMI, [02:50] Ground ball pickup by VMI Alex Baber."
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:58",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by VMI Ty Yonas WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by VMI Wil Duffy BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "Ground ball pickup by LEM Dom DelPonte.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by VMI Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by VMI Simon Moore, Assist by Luke Rusterucci."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Penalty on VMI Dayton Bagwell (UNSPORTSMANLIKE CONDUCT/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:31",
+    "home_event": "Shot by LEM Owen Wilson WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by VMI Chris Golini."
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:45",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by VMI Jack Duncan-Bloom."
+  },
+  {
+    "quarter": "2",
+    "time": "13:38",
+    "home_event": "Clear attempt by LEM failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "Turnover by LEM (caused by Luke Rusterucci).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by VMI Austin English, Assist by Erik Gottmann."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM (on faceoff violation).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "Shot by LEM Ryan Eisenmann WIDE.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "GOAL by LEM Ryan Eisenmann, Assist by Thomas Berry.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "Faceoff Sam Getty vs AJ Riley won by LEM, [12:19] Ground ball pickup by LEM Sam Getty.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "Shot by LEM Alec Constable, SAVE Damian Levin.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:11",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by VMI Luke Rusterucci, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "GOAL by LEM Zachary Delaney, Assist by Thomas Berry.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Faceoff Sam Getty vs AJ Riley won by LEM, [09:24] Ground ball pickup by LEM Sam Getty.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "Shot by LEM Thomas Berry HIT POST.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VMI James Boynewicz."
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VMI failed."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by VMI James Boynewicz."
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by LEM Thomas Berry.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "Shot by LEM Alec Constable WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:42",
+    "home_event": "Turnover by LEM Thomas Berry (caused by James Boynewicz).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:35",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VMI Jack Myhre."
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:27",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by VMI."
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VMI Jack Duncan-Bloom WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by VMI Luke Rusterucci (caused by Maui Wilhelm)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Ground ball pickup by LEM Maui Wilhelm.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:54",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "Ground ball pickup by LEM Ethan Loun.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by LEM Emmet McDermott.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "Timeout by LEM.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "Turnover by LEM (caused by Nate Golding).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VMI Austin English."
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:35",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VMI Luke Rusterucci."
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by VMI."
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by VMI Austin English, Assist by Luke Rusterucci."
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM, [04:44] Ground ball pickup by LEM Sam Getty.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Turnover by LEM Aaron Clouthier.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by VMI Austin English, Assist by Simon Moore."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Nicholas Miller vs Joseph Weinburgh won by VMI, [03:19] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VMI Austin English WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by VMI Austin English."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "Shot by LEM Owen Wilson WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "GOAL by LEM Thomas Berry, Assist by Ryan Eisenmann.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [01:39] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VMI Dayton Bagwell WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:41",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VMI Wil Duffy WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VMI Dayton Bagwell WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:16",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "30-second clock violation by VMI."
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "GOAL by LEM Thomas Berry, Assist by Ethan Loun.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [15:00] Ground ball pickup by VMI Alex Baber."
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:04",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VMI Wil Duffy WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VMI Dayton Bagwell (caused by Billy Savage)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Ground ball pickup by LEM Lucas Winger.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:37",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:36",
+    "home_event": "Shot by LEM Ethan Loun WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:30",
+    "home_event": "Shot by LEM Emmet McDermott WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VMI Jack Duncan-Bloom, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "3",
+    "time": "11:32",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:31",
+    "home_event": "Shot by LEM Aaron Clouthier, SAVE Damian Levin.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:06",
+    "home_event": "Shot by LEM Zachary Delaney, SAVE Damian Levin.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:00",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VMI Simon Moore WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:01",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Shot by LEM AJ DeMeo, SAVE Damian Levin.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:51",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by VMI Chris Golini."
+  },
+  {
+    "quarter": "3",
+    "time": "08:48",
+    "home_event": "Penalty on LEM Connor Chason (SLASHING/1:00) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by VMI Austin English (MAN-UP), Assist by Luke Rusterucci."
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM, [08:30] Ground ball pickup by LEM Sam Getty.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "Turnover by LEM Ethan Loun (caused by Jack Myhre).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:28",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by VMI RJ Wyrick."
+  },
+  {
+    "quarter": "3",
+    "time": "07:24",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VMI Nate Golding WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VMI Wil Duffy WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by VMI Wil Duffy."
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "Shot by LEM Aaron Clouthier WIDE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by VMI Luke Rusterucci."
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:57",
+    "home_event": "Shot by LEM Zachary Delaney, SAVE Damian Levin.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "Ground ball pickup by LEM Owen Wilson.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "Shot by LEM Owen Wilson WIDE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Shot by LEM Emmet McDermott WIDE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:25",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:28",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VMI Luke Rusterucci, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "3",
+    "time": "02:23",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:13",
+    "home_event": "Shot by LEM Aaron Clouthier HIGH.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "GOAL by LEM Zack Crosby.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM, [01:49] Ground ball pickup by LEM Sam Getty.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:54",
+    "home_event": "Shot by LEM Aaron Clouthier, SAVE Damian Levin.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:44",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:38",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by VMI Nate Golding, Assist by Jack Myhre."
+  },
+  {
+    "quarter": "3",
+    "time": "00:38",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM (on faceoff violation).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Shot by LEM Ethan Loun, SAVE Damian Levin.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Ground ball pickup by LEM Zachary Delaney.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Shot by LEM Zachary Delaney WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM, [15:00] Ground ball pickup by LEM Jake Baker.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:52",
+    "home_event": "Shot by LEM Emmet McDermott, SAVE Damian Levin.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VMI Luke Rusterucci, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "Clear attempt by LEM failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Turnover by LEM Maui Wilhelm.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by VMI Wil Duffy."
+  },
+  {
+    "quarter": "4",
+    "time": "12:06",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VMI Austin English, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "4",
+    "time": "11:54",
+    "home_event": "Clear attempt by LEM failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "Turnover by LEM Lucas Winger (caused by Wil Duffy).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VMI Jack Duncan-Bloom WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:32",
+    "home_event": "GOAL by LEM Owen Wilson, Assist by Alec Constable.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:32",
+    "home_event": "Faceoff Sam Getty vs Joseph Weinburgh won by LEM, [10:32] Ground ball pickup by LEM Sam Getty.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:17",
+    "home_event": "Turnover by LEM Sam Getty.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Ground ball pickup by VMI Alex Baber."
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by VMI Austin English WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by VMI Dayton Bagwell HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by VMI James Boynewicz WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "GOAL by LEM Ethan Loun, Assist by Ryan Eisenmann.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [08:03] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by VMI Wil Duffy, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by VMI Dayton Bagwell (caused by Jack Sullivan)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:39",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "GOAL by LEM Zachary Delaney.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by VMI Dayton Bagwell WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Turnover by VMI Ty Yonas (caused by Dom DelPonte)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:55",
+    "home_event": "Ground ball pickup by LEM Lucas Winger.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "30-second clock violation by LEM.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by VMI Simon Moore, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "Clear attempt by LEM failed.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "Turnover by LEM Maui Wilhelm (caused by Damian Levin).",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Ground ball pickup by VMI Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "02:21",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by VMI Dayton Bagwell WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "Timeout by LEM.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by VMI Luke Rusterucci WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by VMI Wil Duffy, SAVE Lucas Winger."
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "Clear attempt by LEM good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Timeout by LEM.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Penalty on VMI Zac Creel (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "Turnover by LEM Zachary Delaney (caused by James Boynewicz).",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by VMI good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Timeout by VMI."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "GOAL by VMI Luke Rusterucci (MAN-DOWN)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Sam Getty vs Joseph Weinburgh won by VMI, [00:15] Ground ball pickup by VMI Joseph Weinburgh."
+  },
+  {
+    "quarter": "4",
+    "time": "00:04",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Timeout by VMI."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by VMI Alex Baber WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by VMI Luke Rusterucci."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by VMI Luke Rusterucci WIDE."
+  }
+]

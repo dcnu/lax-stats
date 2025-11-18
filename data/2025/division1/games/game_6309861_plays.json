@@ -1,0 +1,1829 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Joe Doherty at goalie for LAF.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Matthew Nunes at goalie for VA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Evan Prince vs Henry Metz won by VA, [15:00] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VA Tucker Mullen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Shot by LAF Riley Sullivan WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Matthew Nunes.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VA Truitt Sunderland (FIRST GOAL), Assist by Matthew Nunes, goal number 27 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Faceoff Evan Prince vs Henry Metz won by LAF, [12:19] Ground ball pickup by LAF Evan Prince.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "Timeout by LAF.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:29",
+    "home_event": "Ground ball pickup by LAF Nick Muller.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "GOAL by LAF Joshua Heaney, Assist by Riley Sullivan, goal number 23 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Evan Prince vs Henry Metz won by VA, [11:15] Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "Turnover by LAF Finley Morin.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA Will Inderlied."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Will Inderlied, goal number 20 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Evan Prince vs Andrew Greenspan won by VA, [10:11] Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "Turnover by LAF Mason Hill (caused by Ben Wayer).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by VA Ben Wayer, Assist by Matthew Nunes, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "Faceoff Nick Faccone vs Andrew Greenspan won by LAF, [08:42] Ground ball pickup by LAF Nick Faccone.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:24",
+    "home_event": "Turnover by LAF Brendan Poirier (caused by George Fulton).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "1",
+    "time": "07:20",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by VA Thomas Mencke, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Turnover by LAF Nicholas Blalock.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by VA McCabe Millon (caused by Matt Skibniewski)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "Ground ball pickup by LAF Matt Skibniewski.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "Turnover by LAF Matt Skibniewski.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by VA Ryan Colsey, Assist by McCabe Millon, goal number 27 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "Timeout by LAF.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "Faceoff Nick Faccone vs Andrew Greenspan won by LAF, [05:59] Ground ball pickup by LAF Matt Morelli.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "Turnover by LAF Mason Hill (caused by Griffin Kology).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Hudson Hausmann, goal number 21 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "Faceoff Evan Prince vs Henry Metz won by LAF, [05:36] Ground ball pickup by LAF Lukas Digiovanni.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Shot by LAF Joseph Duggan BLOCKED.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by VA Ben Wayer, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "Ground ball pickup by LAF Joe Doherty.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Shot by LAF Joshua Heaney WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Shot clock violation by LAF.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by VA Griffin Kology WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "Shot by LAF Billy Irish WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "Turnover by LAF P.J. Hodge (caused by Ben Wayer).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Evan Prince vs Andrew Greenspan won by LAF, [15:00] Ground ball pickup by LAF Jack Massotto.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:44",
+    "home_event": "Ground ball pickup by LAF Matt Skibniewski.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:45",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Penalty on VA Luke Hublitz (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:21",
+    "home_event": "Shot by LAF Joseph Duggan, SAVE Matthew Nunes.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:15",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "14:07",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by VA George Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "Ground ball pickup by LAF Aidan Kopen.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:56",
+    "home_event": "Ground ball pickup by LAF Lukas Digiovanni.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "Turnover by LAF Joshua Heaney (caused by John Schroter).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Truitt Sunderland, goal number 22 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "Faceoff Evan Prince vs Henry Metz won by LAF, [12:52] Ground ball pickup by LAF Brendan Poirier.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "GOAL by LAF Nick Rossi, Assist by Nick Muller, goal number 2 for season.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "Faceoff Nick Faccone vs Andrew Greenspan won by LAF, [11:53] Ground ball pickup by LAF Nick Faccone.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "GOAL by LAF Mason Hill, Assist by Nick Faccone, goal number 11 for season.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "Faceoff Nick Faccone vs Henry Metz won by LAF, [11:42] Ground ball pickup by LAF Lukas Digiovanni.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "Ground ball pickup by LAF Lukas Digiovanni.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:27",
+    "home_event": "Turnover by LAF Lukas Digiovanni (caused by Will Erdmann).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "11:12",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by VA McCabe Millon, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "11:03",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:59",
+    "home_event": "Ground ball pickup by LAF Benjamin DiBattista.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by LAF Liam Sargent.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:48",
+    "home_event": "GOAL by LAF Benjamin DiBattista, Assist by Liam Sargent, goal number 16 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:48",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Nick Faccone vs Andrew Greenspan won by VA."
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by VA Charles Balsamo, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "Faceoff Evan Prince vs Andrew Greenspan won by LAF, [09:07] Ground ball pickup by LAF Matt Morelli.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:59",
+    "home_event": "Shot by LAF Jack Irish, SAVE Matthew Nunes.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "Ground ball pickup by LAF Jack Irish.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:42",
+    "home_event": "Shot by LAF Nick Rossi, SAVE Matthew Nunes.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:38",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Cade Kilbride)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by LAF Nicholas Blalock.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:03",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Shot by LAF Nicholas Blalock, SAVE Matthew Nunes.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "Ground ball pickup by LAF Joshua Heaney.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Matthew Nunes.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:16",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by VA Thomas Mencke."
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Ground ball pickup by LAF Brendan Burke.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:58",
+    "home_event": "Turnover by LAF Nick Rossi.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:49",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "2",
+    "time": "04:47",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:18",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by VA Griffin Schutz."
+  },
+  {
+    "quarter": "2",
+    "time": "03:57",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by VA Will Inderlied, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "Ground ball pickup by LAF Joe Doherty.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "Turnover by LAF Joe Doherty (caused by McCabe Millon).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Will Inderlied, goal number 28 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Faceoff Evan Prince vs Henry Metz won by VA, [03:38] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by VA George Fulton WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "Turnover by LAF P.J. Hodge.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by VA Will Inderlied, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by VA Griffin Schutz."
+  },
+  {
+    "quarter": "2",
+    "time": "00:47",
+    "home_event": "Ground ball pickup by LAF Charlie Merrick.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:43",
+    "home_event": "Shot by LAF Nick Rossi, SAVE Matthew Nunes.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:38",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by VA Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:28",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Shot by LAF Billy Irish WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Evan Prince vs Henry Metz won by LAF, [15:00] Ground ball pickup by LAF Evan Prince.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:51",
+    "home_event": "Shot by LAF Jack Massotto, SAVE Matthew Nunes.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:35",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by VA George Fulton BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Griffin Schutz, goal number 29 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "Faceoff Nick Faccone vs Andrew Greenspan won by LAF, [14:13] Ground ball pickup by LAF Nick Faccone.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:16",
+    "home_event": "Turnover by LAF Nicholas Blalock (caused by George Fulton).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "3",
+    "time": "13:09",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:36",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA McCabe Millon, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "Turnover by LAF Matt Morelli (caused by Truitt Sunderland).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:30",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA Truitt Sunderland HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Ground ball pickup by LAF John Finkeldie.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "Turnover by LAF Jack Irish (caused by Ben Wayer).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA Truitt Sunderland BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:18",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA Will Inderlied HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Turnover by VA McCabe Millon (caused by Andrew Matarese)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Matthew Nunes.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "Turnover by LAF P.J. Hodge (caused by JP Lagunowich).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA Jack Walshe WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:10",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Shot by LAF Charlie Merrick WIDE.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:25",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by VA Griffin Schutz, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:25",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:25",
+    "home_event": "Faceoff Nick Faccone vs Christian Grosso won by LAF, [07:25] Ground ball pickup by LAF Aidan Kopen.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:29",
+    "home_event": "GOAL by LAF Liam Sargent, goal number 7 for season.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:29",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on VA Griffin Kology (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "Shot by LAF Benjamin DiBattista WIDE.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Turnover by LAF Riley Sullivan (caused by Ben Wayer).",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Cade Kilbride)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Ground ball pickup by LAF Joe Doherty.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "Ground ball pickup by LAF Brendan Burke.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:30",
+    "home_event": "Shot clock violation by LAF.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by VA Matthew Nunes WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:13",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Matthew Nunes.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by VA Truitt Sunderland HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Ground ball pickup by LAF Brendan Poirier.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:10",
+    "home_event": "Turnover by LAF Riley Sullivan.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:15",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by VA Will Inderlied."
+  },
+  {
+    "quarter": "3",
+    "time": "00:15",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "GOAL by LAF John Galbraith, Assist by Joseph Duggan, goal number 3 for season.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Nick Faccone vs Christian Grosso won by VA, [15:00] Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "4",
+    "time": "14:52",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "4",
+    "time": "14:48",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by VA Noah Chizmar, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:38",
+    "home_event": "Shot by LAF Mason Hill WIDE.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:25",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by VA Hudson Hausmann, Assist by Matthew Nunes, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:25",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Evan Prince vs Christian Grosso won by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by VA Will Erdmann."
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Turnover by LAF Andrew Matarese (caused by Christian Grosso).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by VA Will Inderlied, Assist by Ryan Colsey, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Faceoff Nick Faccone vs Andrew Greenspan won by VA, [13:25] Ground ball pickup by VA JP Lagunowich."
+  },
+  {
+    "quarter": "4",
+    "time": "13:17",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by VA Andrew Greenspan (caused by Matt Skibniewski)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:14",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:13",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:37",
+    "home_event": "Turnover by LAF Billy Irish (caused by Matthew Nunes).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:00",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by VA Caulley Deringer."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by VA Jack Walshe, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "4",
+    "time": "11:13",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:53",
+    "home_event": "Shot by LAF Nicholas Blalock, SAVE Matthew Nunes.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by VA McCabe Millon."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Penalty on VA John Schroter (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "Shot by LAF Benjamin DiBattista HIGH.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Shot by LAF Liam Sargent, SAVE Matthew Nunes.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:10",
+    "home_event": "Ground ball pickup by LAF Joseph Duggan.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "GOAL by LAF Benjamin DiBattista, goal number 17 for season.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "Faceoff Evan Prince vs Christian Grosso won by LAF (on faceoff violation).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "Shot by LAF Jack Irish BLOCKED.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by VA Tommy Snyder."
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:40",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by VA Mack Till (caused by Cade Kilbride)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:37",
+    "home_event": "Ground ball pickup by LAF Nick Rossi.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "Shot by LAF Nick Rossi WIDE.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by VA Will Inderlied HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Ground ball pickup by LAF John Galbraith.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:14",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "GOAL by LAF Nicholas Blalock, Assist by John Galbraith, goal number 14 for season.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Faceoff Evan Prince vs Andrew Greenspan won by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "05:04",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by VA Ryan Colsey, Assist by Jack Walshe, goal number 28 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:04",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Evan Prince vs Christian Grosso won by VA, [05:04] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:50",
+    "home_event": "Turnover by LAF Charlie Merrick.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "Turnover by LAF Cade Kilbride (caused by George Fulton).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Kyle Morris at goalie for VA."
+  },
+  {
+    "quarter": "4",
+    "time": "01:11",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "Timeout by LAF.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "Turnover by LAF Joshua Heaney (caused by Chase MacCartee).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by VA Chase MacCartee."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by VA good."
+  }
+]

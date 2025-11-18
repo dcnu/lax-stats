@@ -1,0 +1,1598 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Heath,Kasey at goalie for LEHIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "FARGIONE, Denis at goalie for VU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Procaccini,Giovanni.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "Shot by LEHIGH Rathwell,Chris, SAVE FARGIONE, Denis.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VU MELCHIONNI, Jake (FIRST GOAL)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [09:56] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by VU LINK, David HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "Penalty on LEHIGH Mathias,Kellen (HOLDING/0:30) Extra-man opportunity.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by VU RAYMOND, Luke (MAN-UP), Assist by MICHENER, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [09:56] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "1",
+    "time": "11:36",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "Turnover by LEHIGH.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "Penalty on LEHIGH Kirlin,Timmy (PUSHING/0:30) Extra-man opportunity.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by VU DUMONT, Brady (MAN-UP), Assist by CEPIEL, Quinton."
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH, [09:56] Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "GOAL by LEHIGH Rathwell,Chris, Assist by Rodny,Grant.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Dow,Sean vs CUNNINGHAM, Ryan won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "Shot by LEHIGH Breslin,Luke WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "Shot by LEHIGH Breslin,Luke WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "Shot by LEHIGH Theodoropoulos,Peter, SAVE FARGIONE, Denis.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by VU WELGOS, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "GOAL by LEHIGH Breslin,Luke, Assist by Archer,Jack.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Riley,Connor vs SANDOVAL, Tyler won by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "Penalty on LEHIGH Ochotorena,Raul (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by VU DUMONT, Brady (MAN-UP), Assist by CEPIEL, Quinton."
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [05:56] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "GOAL by LEHIGH Kelly,Andrew.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Dow,Sean vs CUNNINGHAM, Ryan won by VU, [04:11] Ground ball pickup by VU CUNNINGHAM, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Penalty on LEHIGH McAuliffe,Luke (SLASHING/1:00) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "Shot by LEHIGH Sherman,Charlie WIDE.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:00",
+    "home_event": "Turnover by LEHIGH Eierman,Dakota (caused by MELCHIONNI, Jake).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by VU MICHENER, Gavin (caused by Checo,Richard)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "Shot by LEHIGH Checo,Richard, SAVE FARGIONE, Denis.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [15:00] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by VU RAYMOND, Luke (caused by Procaccini,Giovanni)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:24",
+    "home_event": "Ground ball pickup by LEHIGH Procaccini,Giovanni.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:22",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "GOAL by LEHIGH Kelly,Andrew, Assist by Eierman,Dakota.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Faceoff Dow,Sean vs CUNNINGHAM, Ryan won by LEHIGH (on faceoff violation).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "Shot by LEHIGH Rodny,Grant HIT POST.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:29",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "13:27",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VU MELCHIONNI, Jake, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH, [12:49] Ground ball pickup by LEHIGH Dow,Sean.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "Ground ball pickup by LEHIGH Dow,Sean.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "Shot by LEHIGH Archer,Jack WIDE.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by VU MICHENER, Gavin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:28",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by VU MICHENER, Gavin (caused by Checo,Richard)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Shot by LEHIGH Rathwell,Chris HIGH.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:46",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on VU LINK, David (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "Turnover by LEHIGH Rathwell,Chris.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by VU MACKIE, Scot (caused by Mesa,Zach)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "Ground ball pickup by LEHIGH McAuliffe,Luke.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Shot by LEHIGH Eierman,Dakota, SAVE FARGIONE, Denis.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VU MICHENER, Gavin."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by VU LUCCHESI, Nick."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Penalty on LEHIGH Procaccini,Giovanni (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Timeout by LEHIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Faceoff Dow,Sean vs CUNNINGHAM, Ryan won by LEHIGH, [07:39] Ground ball pickup by LEHIGH Dow,Sean.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:59",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on VU MELCHIONNI, Jake (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "GOAL by LEHIGH Winkler,Luke (MAN-UP), Assist by Kelly,Andrew.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU."
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VU MICHENER, Gavin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VU LICATA, Matt WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:17",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot clock violation by VU."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "Shot by LEHIGH Checo,Richard WIDE.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by VU KEMLER, Beau (caused by Breslin,Luke)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:29",
+    "home_event": "Ground ball pickup by LEHIGH Breslin,Luke.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "03:22",
+    "home_event": "Turnover by LEHIGH Vasile,Ej.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:30",
+    "home_event": "Turnover by LEHIGH Eierman,Dakota.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:25",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by VU SHOEMAKER, Jack (caused by Ochotorena,Raul)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "Clear attempt by LEHIGH failed.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "Turnover by LEHIGH Checo,Richard.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VU LINK, David HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:55",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by VU LICATA, Matt (caused by Ochotorena,Raul)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Shot by LEHIGH Breslin,Luke WIDE.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Dow,Sean.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:00",
+    "home_event": "Shot by LEHIGH Eierman,Dakota BLOCKED.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:44",
+    "home_event": "GOAL by LEHIGH Eierman,Dakota.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:44",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [13:44] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU LINK, David, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "Ground ball pickup by LEHIGH Kirlin,Timmy.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Shot by LEHIGH Breslin,Luke, SAVE FARGIONE, Denis.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Penalty on VU MICHENER, Gavin (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "Shot by LEHIGH Eierman,Dakota HIGH.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "Turnover by LEHIGH Breslin,Luke.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:25",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Gavin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "Penalty on LEHIGH Breslin,Luke (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VU MICHENER, Colin (caused by Procaccini,Giovanni)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "Ground ball pickup by LEHIGH Procaccini,Giovanni.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:46",
+    "home_event": "Shot by LEHIGH Eierman,Dakota HIGH.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:14",
+    "home_event": "Shot by LEHIGH Eierman,Dakota, SAVE FARGIONE, Denis.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:11",
+    "home_event": "Ground ball pickup by LEHIGH Theodoropoulos,Peter.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "Turnover by LEHIGH Breslin,Luke (caused by WELGOS, Ryan).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by VU WELGOS, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:50",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VU LICATA, Matt (caused by Kirlin,Timmy)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by LEHIGH Kirlin,Timmy.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:29",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "Shot by LEHIGH Eierman,Dakota BLOCKED.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:19",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "3",
+    "time": "06:04",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VU MICHENER, Colin (caused by Kirlin,Timmy)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "Ground ball pickup by LEHIGH Kirlin,Timmy.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:29",
+    "home_event": "Shot by LEHIGH Breslin,Luke WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:56",
+    "home_event": "Turnover by LEHIGH Breslin,Luke.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU LUCCHESI, Nick HIT CROSSBAR."
+  },
+  {
+    "quarter": "3",
+    "time": "04:13",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:24",
+    "home_event": "Shot by LEHIGH Archer,Jack WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:12",
+    "home_event": "GOAL by LEHIGH Theodoropoulos,Peter, Assist by Breslin,Luke.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:12",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [03:12] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "Ground ball pickup by LEHIGH McAuliffe,Luke.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "Clear attempt by LEHIGH failed.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "Turnover by LEHIGH Checo,Richard.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:06",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by VU LUCCHESI, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Penalty on VU LINK, David (PUSHING/0:30)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Penalty on VU MICHENER, Colin (UNNECESSARY ROUGHNESS/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "GOAL by LEHIGH Kelly,Andrew (MAN-UP), Assist by Breslin,Luke.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:15",
+    "home_event": "Shot by LEHIGH Rodny,Grant HIGH.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "Shot clock violation by LEHIGH.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:54",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by VU RAYMOND, Luke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "Shot by LEHIGH Kelly,Andrew, SAVE FARGIONE, Denis.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:25",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Penalty on VU WILLIAMS, Luke (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:59",
+    "home_event": "Shot by LEHIGH Eierman,Dakota BLOCKED.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:57",
+    "home_event": "Ground ball pickup by LEHIGH Eierman,Dakota.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:54",
+    "home_event": "Shot by LEHIGH Eierman,Dakota BLOCKED.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Penalty on VU AHEARN, Aidan (CROSSE IN FACE/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "Shot by LEHIGH Winkler,Luke, SAVE FARGIONE, Denis.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by VU MICHENER, Gavin (caused by Ochotorena,Raul)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "Timeout by LEHIGH.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "GOAL by LEHIGH Eierman,Dakota (MAN-UP), Assist by Breslin,Luke.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "Faceoff Dow,Sean vs CUNNINGHAM, Ryan won by LEHIGH, [10:19] Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "GOAL by LEHIGH Archer,Jack.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by LEHIGH, [09:07] Ground ball pickup by LEHIGH Dow,Sean.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "Shot by LEHIGH Heath,Kasey HIGH.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "Turnover by LEHIGH Breslin,Luke (caused by HEWITT, Peter).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:20",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:08",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by VU WILLIAMS, Luke (caused by Checo,Richard)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:05",
+    "home_event": "Ground ball pickup by LEHIGH Checo,Richard.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:56",
+    "home_event": "Shot by LEHIGH Eierman,Dakota WIDE.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:47",
+    "home_event": "Shot clock violation by LEHIGH.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:56",
+    "home_event": "Penalty on LEHIGH Horvath,Bo (CROSSE IN FACE/2:00) Extra-man opportunity.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "GOAL by VU CEPIEL, Quinton (MAN-UP), Assist by MICHENER, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff Dow,Sean vs SANDOVAL, Tyler won by VU, [04:52] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "04:01",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:01",
+    "home_event": "Shot by LEHIGH Heath,Kasey HIGH.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "Turnover by LEHIGH Eierman,Dakota (caused by MELCHIONNI, Jake).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by VU MALLEE, Brett."
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:17",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "Shot by LEHIGH Archer,Jack BLOCKED.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by VU LICATA, Matt WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by VU MICHENER, Colin (caused by Ochotorena,Raul)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "Ground ball pickup by LEHIGH Ochotorena,Raul.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:43",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "Timeout by LEHIGH.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "Turnover by LEHIGH Kelly,Andrew (caused by MALLEE, Brett).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:06",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by VU MICHENER, Gavin, SAVE Heath,Kasey."
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Clear attempt by LEHIGH good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Penalty on VU LINK, David (PUSHING/0:30) Extra-man opportunity."
+  }
+]

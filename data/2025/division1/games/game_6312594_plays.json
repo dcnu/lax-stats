@@ -1,0 +1,1577 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "TRUE, AJ at goalie for LOWELL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ryan Daly at goalie for VERMONT."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by LOWELL, [15:00] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "GOAL by LOWELL LAFRENIERE, Alex (FIRST GOAL), Assist by DONNELLY, James, goal number 11 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by VERMONT, [13:48] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VERMONT Luke Reiter."
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "GOAL by LOWELL MURPHY, Garrett, goal number 16 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by VERMONT, [12:18] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by VERMONT Henry Dodge (caused by GIRARDI, Joe)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Ground ball pickup by LOWELL MURPHY, Garrett.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "Shot by LOWELL SUMWALT, Griffin WIDE",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:08",
+    "home_event": "Shot by LOWELL LAFRENIERE, Alex WIDE",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "GOAL by LOWELL BURKE, Danny, goal number 15 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by VERMONT, [10:59] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Jack Combs."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by VERMONT Zach Davis, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Zach Davis."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "Penalty on LOWELL ALEXANDER, Justin (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by VERMONT Charlie Pope WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by VERMONT Matthew Drimmie."
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "Ground ball pickup by LOWELL DONNELLY, James.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "Shot by LOWELL SOI, Johnny WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "Shot by LOWELL LAFRENIERE, Alex WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LOWELL FRIGON, Colby (caused by Connor Huguenard).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Sean Stevens."
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LOWELL MURPHY, Garrett (caused by Colin Bullock).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Dean Driscoll."
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by VERMONT Sam Bowen WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by VERMONT Max Frattaroli, goal number 12 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "Timeout by LOWELL.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by LOWELL, [04:51] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LOWELL ALEXANDER, Justin (caused by Jack Combs).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VERMONT Zach Davis, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "1",
+    "time": "04:08",
+    "home_event": "Ground ball pickup by LOWELL FERRARO, Brenden.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "Shot by LOWELL LAFRENIERE, Alex WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "30-second clock violation by LOWELL.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by VERMONT Max Frattaroli (caused by GALGANO, Trevor)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "Ground ball pickup by LOWELL CASSAR, Tommy.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "Timeout by LOWELL.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "Shot by LOWELL LAFRENIERE, Alex WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LOWELL MURPHY, Garrett (caused by Ryker Demarest).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VERMONT Ryan Daly."
+  },
+  {
+    "quarter": "1",
+    "time": "00:40",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VERMONT Cullen Decker, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VERMONT Jack Combs."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by VERMONT Jack Combs, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by LOWELL, [00:05] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by LOWELL, [15:00] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "Shot by LOWELL MURPHY, Garrett, SAVE Ryan Daly",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:55",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by VERMONT Zach Davis."
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VERMONT Sam Bowen, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "11:43",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VERMONT Sam Bowen HIT POST"
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "Ground ball pickup by LOWELL KEMPSKI, Miles.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Shot by LOWELL SCHLICKER, Jackson, SAVE Ryan Daly",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "GOAL by LOWELL FRIGON, Colby, Assist by BURKE, Danny, goal number 11 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "Faceoff ALEXANDER, Justin vs Henry Dodge won by LOWELL (on faceoff violation).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:42",
+    "home_event": "Shot by LOWELL MURPHY, Garrett WIDE",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "30-second clock violation by LOWELL.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by VERMONT Cullen Decker, Assist by Max Goldstein, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by LOWELL (on faceoff violation).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "Shot by LOWELL BURKE, Danny WIDE",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "GOAL by LOWELL CHO, Ryan, Assist by LAWHORN, Riley, goal number 2 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Timeout by VERMONT."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "Timeout by LOWELL.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by VERMONT Cullen Decker, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "06:48",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "30-second clock violation by LOWELL.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "GOAL by VERMONT Tatum Lewis, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "Penalty on LOWELL JIMENEZ, Jack (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff MCINTEE, Owen vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "GOAL by VERMONT Max Frattaroli (MAN-UP), Assist by Cullen Decker, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [04:39] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "2",
+    "time": "04:38",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "Penalty on LOWELL KEMPSKI, Miles (PUSHING/0:30) Extra-man opportunity.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by VERMONT Matthew Drimmie (MAN-UP), goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [03:25] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by VERMONT Sean Stevens, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "Ground ball pickup by LOWELL SOI, Johnny.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "GOAL by LOWELL LAWHORN, Riley, Assist by LAFRENIERE, Alex, goal number 17 for season.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [01:54] Ground ball pickup by VERMONT Connor Huguenard."
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by VERMONT Zach Davis, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [00:59] Ground ball pickup by VERMONT Jack Combs."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Timeout by VERMONT."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by VERMONT Max Frattaroli."
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VERMONT Sam Bowen, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VERMONT Max Frattaroli, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "Ground ball pickup by LOWELL GALGANO, Trevor.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [15:00] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by VERMONT Walter Zhao (caused by ALEXANDER, Justin)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LOWELL ALEXANDER, Justin (caused by Jack Combs).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by VERMONT Jack Combs (caused by ADEY, Josh)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by LOWELL ADEY, Josh.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "Shot by LOWELL SOI, Johnny WIDE",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "GOAL by LOWELL SOI, Johnny, goal number 19 for season.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Jp Kosakowski at goalie for VERMONT."
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by VERMONT Sam Bowen WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by VERMONT Max Frattaroli (caused by GALGANO, Trevor)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "Ground ball pickup by LOWELL FERRARO, Brenden.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LOWELL FRIGON, Colby (caused by Jack Combs).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by VERMONT Max Goldstein WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "Penalty on LOWELL ADEY, Josh (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by VERMONT Mason Bardwell."
+  },
+  {
+    "quarter": "3",
+    "time": "09:20",
+    "home_event": "Ground ball pickup by LOWELL TRUE, AJ.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "Shot by LOWELL DONNELLY, James WIDE",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:27",
+    "home_event": "Ground ball pickup by LOWELL DONNELLY, James.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:19",
+    "home_event": "30-second clock violation by LOWELL.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by VERMONT Sam Bowen, Assist by Zach Davis, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "Penalty on LOWELL ADEY, Josh (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "Timeout by LOWELL.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff KEMPSKI, Miles vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by VERMONT Charlie Pope (MAN-UP), Assist by Max Frattaroli, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by LOWELL, [06:43] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "GOAL by LOWELL MURPHY, Garrett, Assist by SOI, Johnny, goal number 17 for season.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:26",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VERMONT Max Frattaroli."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by VERMONT Charlie Pope (caused by FERRARO, Brenden)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:56",
+    "home_event": "Ground ball pickup by LOWELL FERRARO, Brenden.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "Shot by LOWELL LAWHORN, Riley WIDE",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LOWELL SOI, Johnny (caused by Connor Huguenard).",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:46",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VERMONT Jack Combs."
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by VERMONT Cullen Decker (caused by GIRARDI, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:02",
+    "home_event": "Ground ball pickup by LOWELL GIRARDI, Joe.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "GOAL by LOWELL SUMWALT, Griffin, Assist by BURKE, Danny, goal number 9 for season.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [02:20] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VERMONT Sean Stevens, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Ground ball pickup by LOWELL GALGANO, Trevor.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "Clear attempt by LOWELL good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:24",
+    "home_event": "Ground ball pickup by LOWELL LAWHORN, Riley.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LOWELL LAWHORN, Riley.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:47",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VERMONT Zach Davis."
+  },
+  {
+    "quarter": "3",
+    "time": "00:35",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VERMONT Sam Bowen BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by VERMONT Cullen Decker, Assist by Luke Reiter, goal number 14 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Penalty on LOWELL LAFRENIERE, Alex (ILLEGAL PROCEDURE/0:30) Extra-man opportunity.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:46",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by VERMONT Max Frattaroli HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by VERMONT Charlie Pope WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:37",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "4",
+    "time": "13:34",
+    "home_event": "Clear attempt by LOWELL failed.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LOWELL TRUE, AJ.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:10",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by VERMONT Max Frattaroli HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by VERMONT Cullen Decker WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by VERMONT Sam Bowen, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Faceoff MCINTEE, Owen vs Walter Zhao won by VERMONT, [12:15] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Ground ball pickup by VERMONT Matthew Drimmie."
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "GOAL by VERMONT Matthew Drimmie, goal number 14 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [11:28] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by VERMONT Zach Davis, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by VERMONT Max Frattaroli BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Penalty on LOWELL ALEXANDER, Justin (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by VERMONT Max Frattaroli, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "4",
+    "time": "09:18",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "GOAL by VERMONT Charlie Pope (MAN-UP), goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "Timeout by LOWELL.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [09:14] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot by VERMONT Max Frattaroli HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "GOAL by VERMONT Charlie Pope, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by LOWELL, [07:57] Ground ball pickup by LOWELL ALEXANDER, Justin.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "Shot by LOWELL LAWHORN, Riley HIT POST",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "Shot by LOWELL CHO, Ryan, SAVE Jp Kosakowski",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "Ground ball pickup by LOWELL CHO, Ryan.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "Shot by LOWELL CHO, Ryan, SAVE Jp Kosakowski",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Shot by VERMONT Carson Eggebraten HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "05:09",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Shot by VERMONT Luke Reiter HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "GOAL by VERMONT Max Frattaroli, goal number 14 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Faceoff ALEXANDER, Justin vs Walter Zhao won by VERMONT, [04:33] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Shot by VERMONT Sam Bowen, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "GOAL by VERMONT Cullen Decker, Assist by Luke Reiter, goal number 15 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "Timeout by LOWELL.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Faceoff MCINTEE, Owen vs Walter Zhao won by VERMONT, [04:02] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "03:34",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot by VERMONT Harrison Josloff WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "GOAL by VERMONT Finn O'Hara, Assist by Charlie O'Brien, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Faceoff MCINTEE, Owen vs Walter Zhao won by VERMONT, [02:53] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Jackson Read at goalie for VERMONT."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Turnover by VERMONT Kiernan Florio."
+  },
+  {
+    "quarter": "4",
+    "time": "02:02",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Penalty on VERMONT Connor Huguenard (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LOWELL MURPHY, Garrett.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by VERMONT Dean Driscoll."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VERMONT Ezra Zabukovic, SAVE TRUE, AJ"
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Penalty on LOWELL SOI, Johnny (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VERMONT Ezra Zabukovic WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VERMONT Ezra Zabukovic WIDE"
+  }
+]

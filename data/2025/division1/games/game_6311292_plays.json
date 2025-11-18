@@ -1,0 +1,1850 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Isaac Farmer at goalie for SBU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Zach Vigue at goalie for RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "1",
+    "time": "14:25",
+    "home_event": "Ground ball pickup by SBU Cole Tucker.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Cole Tucker.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by RIC Joe Sheridan (FIRST GOAL), goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Lad Harper vs Anthony DiCenso won by RIC, [12:59] Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Jack Ricciardi WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Gavin Creo BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Ground ball pickup by SBU Isaac Farmer.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "Shot by SBU Patrick Shanahan, SAVE Zach Vigue.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by RIC Max Merklinger, goal number 18 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "Shot by SBU Josh Rosa, SAVE Zach Vigue.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by RIC Zach Vigue (caused by Anthony Cimino)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "Ground ball pickup by SBU Anthony Cimino.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "GOAL by SBU Jaxon Dillon, Assist by Anthony Cimino.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Lad Harper vs Jared Chenoy won by RIC, [09:22] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by RIC Jack Ricciardi."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Patrick Shanahan (caused by Hunter Smith).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by RIC Jack Pilling WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "Penalty on SBU Owen Tasse (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by RIC Lukas Olsson, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Alex Polisoto.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by RIC Joe Sheridan, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Isaac Farmer (caused by Joe Sheridan).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Lucas Littlejohn, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Kyle Pepper.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by RIC Ryan Thompson."
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by RIC Ryan Thompson WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Penalty on RIC Charlie Packard (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "Ground ball pickup by SBU Henry Coke.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "Shot by SBU Cole Tucker WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "Ground ball pickup by SBU Jaxon Dillon.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Conor Murphy (caused by Mitchell Dunham).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:29",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by RIC Daniel Picart."
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Ground ball pickup by SBU Isaac Farmer.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "Shot by SBU Jaxon Dillon, SAVE Zach Vigue.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Penalty on RIC Daniel Picart (ILLEGAL BODY CHECK/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "GOAL by SBU Drew Kenney (MAN-UP), Assist by Kyle Pepper.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU, [01:08] Ground ball pickup by SBU Benny Carter.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SBU Jaxon Dillon (caused by Zach Vigue).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by RIC Ethan Gyllenhaal, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU, [15:00] Ground ball pickup by SBU Aaron Eberhard.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "Ground ball pickup by SBU Lad Harper.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:30",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SBU Patrick Shanahan (caused by Tommy Stull).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:27",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by RIC Jack Ricciardi, Assist by Lucas Littlejohn."
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "Faceoff Lad Harper vs Anthony DiCenso won by SBU, [14:23] Ground ball pickup by SBU Blayze Becker.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SBU Jaxon Dillon (caused by Mitchell Dunham).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Aidan O'Neil, goal number 15 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "Penalty on SBU Kaden Brennan (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by RIC Lukas Olsson WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:54",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by RIC Lucas Littlejohn (MAN-UP), Assist by Lukas Olsson, goal number 22 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:54",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Faceoff Lad Harper vs Anthony DiCenso won by RIC, [11:54] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Shot by RIC Leo Caine HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Shot by RIC Joe Sheridan HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "GOAL by RIC Lukas Olsson (MAN-UP), Assist by Max Merklinger, goal number 11 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "Faceoff Lad Harper vs Anthony DiCenso won by SBU, [11:02] Ground ball pickup by SBU Lad Harper.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "GOAL by SBU Blayze Becker (MAN-DOWN), Assist by Lad Harper.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "Faceoff Jeremy Askin vs Jared Chenoy won by SBU.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:41",
+    "home_event": "Shot by SBU Jaxon Dillon WIDE.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Clock violation by SBU.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Turnover by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by SBU Connor Ballou.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "Shot by SBU John Boomer, SAVE Zach Vigue.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by RIC Xander Welty."
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by RIC Aidan O'Neil, Assist by Lucas Littlejohn, goal number 17 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Lad Harper vs Jackson Strickland won by RIC, [07:45] Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Daniel Picart, goal number 23 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Faceoff Lad Harper vs Jackson Strickland won by SBU, [07:21] Ground ball pickup by SBU Lad Harper.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SBU Lad Harper (caused by Jackson Strickland).",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "2",
+    "time": "06:40",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by RIC Evan O'Neil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by RIC Evan O'Neil, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Faceoff Jeremy Askin vs Jared Chenoy won by RIC, [05:51] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "GOAL by RIC Jared Chenoy, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Jeremy Askin vs Jackson Strickland won by RIC, [05:44] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Penalty on RIC Xander Welty (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "Ground ball pickup by SBU Kellen Pulera.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:09",
+    "home_event": "Shot by SBU Kellen Pulera WIDE.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "Shot by SBU Drew Kenney, SAVE Zach Vigue.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:39",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:40",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Aidan O'Neil HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "02:39",
+    "home_event": "Penalty on SBU Cameron Viavada (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:09",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Joe Sheridan BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "Ground ball pickup by SBU Benny Carter.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SBU Jaxon Dillon (caused by Hunter Smith).",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Henry Alpaugh HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by RIC Henry Alpaugh, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Faceoff Lad Harper vs Jared Chenoy won by RIC, [00:52] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "00:45",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Gavin Creo, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Jared Chenoy won by SBU.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Kyle Pepper.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:19",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Lucas Littlejohn BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "Ground ball pickup by SBU Henry Coke.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Josh Rosa (caused by B. Pena-Stevenson).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Ethan Gyllenhaal."
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Ethan Gyllenhaal, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "Timeout by SBU.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Jack Ricciardi."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Jack Ricciardi."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Conor Murphy.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Leo Caine BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "Ground ball pickup by SBU Isaac Farmer.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Aaron Eberhard (caused by Jack Pilling).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Jack Pilling."
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Jack Pilling, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "Ground ball pickup by SBU Isaac Farmer.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:26",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "Ground ball pickup by SBU Patrick Shanahan.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Patrick Shanahan (caused by Hunter Smith).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "3",
+    "time": "07:22",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU John Boomer (caused by Mitchell Dunham).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:47",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Isaac Farmer)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "Ground ball pickup by SBU Connor Ballou.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "Shot by SBU John Boomer WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "Ground ball pickup by SBU Anthony Cimino.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:16",
+    "home_event": "Shot by SBU Patrick Shanahan WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:04",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:24",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Leo Caine WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "3",
+    "time": "04:06",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SBU Aaron Eberhard (caused by B. Pena-Stevenson).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:49",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "3",
+    "time": "03:46",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Joe Sheridan, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "03:23",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "GOAL by RIC Aidan O'Neil, Assist by Joe Sheridan, goal number 18 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "Faceoff Lad Harper vs Jared Chenoy won by RIC, [03:14] Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "Penalty on SBU Kaden Brennan (PUSHING/0:30) Extra-man opportunity.",
+    "score": "3-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:57",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Leo Caine, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "Penalty on SBU Owen Tasse (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Shot by RIC Lukas Olsson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:16",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "GOAL by RIC Joe Sheridan (MAN-UP), Assist by Max Merklinger, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:16",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Faceoff Lad Harper vs Jared Chenoy won by RIC, [01:16] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "GOAL by RIC Luke Meyer, Assist by Aidan O'Neil, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Faceoff Jeremy Askin vs Jared Chenoy won by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by RIC Jack Dougherty BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by RIC Lucas Slate."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by RIC Porter Barnett."
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "Shot by SBU Kellen Pulera BLOCKED.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "Shot by SBU Patrick Shanahan, SAVE Zach Vigue.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by RIC Lucas Slate WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "GOAL by RIC Porter Barnett, Assist by Aidan Wooley, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "Faceoff Lad Harper vs Jackson Strickland won by SBU, [11:53] Ground ball pickup by SBU Lad Harper.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:15",
+    "home_event": "Shot by SBU John Boomer, SAVE Zach Vigue.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:13",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:10",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Shot by RIC Evan Leonardo WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Shot by RIC Luke Meyer, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Shot by RIC Lucas Slate HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "10:13",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SBU Aaron Eberhard (caused by Matt Jacobsen).",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Ground ball pickup by RIC Luke Spitzer."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Turnover by RIC Matt Jacobsen (caused by Kaden Brennan)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Ground ball pickup by SBU Kaden Brennan.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "GOAL by SBU Patrick Shanahan.",
+    "score": "4-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "4-17",
+    "away_event": "Brody Murphy at goalie for RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "Faceoff Lad Harper vs Jackson Strickland won by SBU, [08:57] Ground ball pickup by SBU Benny Carter.",
+    "score": "4-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "Shot by SBU Benny Carter, SAVE Brody Murphy.",
+    "score": "4-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "4-17",
+    "away_event": "Ground ball pickup by RIC Drew Tenzer."
+  },
+  {
+    "quarter": "4",
+    "time": "08:54",
+    "home_event": "",
+    "score": "4-17",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "",
+    "score": "4-18",
+    "away_event": "GOAL by RIC Ryan Spilman, Assist by Evan Leonardo, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "",
+    "score": "4-18",
+    "away_event": "Faceoff Lad Harper vs Anthony DiCenso won by RIC, [08:03] Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "GOAL by RIC Luke Meyer, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "Faceoff Jeremy Askin vs Anthony DiCenso won by SBU, [07:21] Ground ball pickup by SBU Henry Coke.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "Shot by SBU Jake Kucinski WIDE.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:53",
+    "home_event": "Shot by SBU Chris Lawrence WIDE.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SBU Patrick Shanahan (caused by Brody Murphy).",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "GOAL by RIC Evan Leonardo, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "Faceoff Quinn Nolan vs Jackson Strickland won by SBU, [05:31] Ground ball pickup by SBU Owen Spring.",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Penalty on RIC Jackson Strickland (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "05:03",
+    "home_event": "GOAL by SBU Jaxon Dillon (MAN-UP), Assist by Kyle Pepper.",
+    "score": "5-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:03",
+    "home_event": "Faceoff Quinn Nolan vs Jackson Strickland won by SBU, [05:03] Ground ball pickup by SBU Jake Engel.",
+    "score": "5-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SBU Jake Engel (caused by Matt Jacobsen).",
+    "score": "5-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Ground ball pickup by RIC William Schneider."
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Shot by RIC Porter Barnett WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Shot by RIC Jack Dougherty, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "5-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SBU Patrick Carpenter.",
+    "score": "5-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "",
+    "score": "5-20",
+    "away_event": "Ground ball pickup by RIC Xander Welty."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "GOAL by RIC Xander Welty, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "Faceoff Quinn Nolan vs Anthony DiCenso won by SBU, [02:52] Ground ball pickup by SBU Kaeden Burger.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SBU Isaac Farmer (caused by Matt Jacobsen).",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "Ground ball pickup by RIC Matt Jacobsen."
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "Carson Quinn at goalie for RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "",
+    "score": "5-22",
+    "away_event": "GOAL by RIC George Insley, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "",
+    "score": "5-22",
+    "away_event": "Faceoff Tom Fox vs Anthony DiCenso won by RIC, [01:19] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "01:10",
+    "home_event": "",
+    "score": "5-22",
+    "away_event": "Clear attempt by RIC good."
+  }
+]

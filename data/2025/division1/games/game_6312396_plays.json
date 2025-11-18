@@ -1,0 +1,1493 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Winters, Connor at goalie for BINGHAMT.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Noble Smith at goalie for MARIST."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Faceoff Mangio, CJ vs Dylan Bedell won by BINGHAMT, [14:56] Ground ball pickup by BINGHAMT Hanko, Christian.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "GOAL by BINGHAMT Ferris, Liam (FIRST GOAL), goal number 4 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "Faceoff Angelicola, John vs Kevin Radmann won by BINGHAMT, [14:02] Ground ball pickup by BINGHAMT Rincon, Matthew.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "GOAL by BINGHAMT Filanowski, Drew, goal number 5 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:08",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Winters, Connor.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MARIST Jake Deacy."
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "Clear attempt by BINGHAMT failed.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Winters, Connor.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MARIST Sam Ferrel."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "Ground ball pickup by BINGHAMT Ramos, Lorenzo.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Mellen, Jack.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MARIST Drew Anderson WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MARIST."
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MARIST Josh Smith WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MARIST Dylan Rocchio."
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "GOAL by BINGHAMT Adams, Gage, Assist by Ferris, Liam, goal number 1 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by BINGHAMT, [06:30] Ground ball pickup by BINGHAMT Wilson, Flynn.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Winters, Connor (caused by Joshua Arneson).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "Penalty on BINGHAMT Sharkey, Brady (CROSSE IN FACE/1:00) Extra-man opportunity.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by MARIST Steven Cain (MAN-UP), Assist by Collin Patrick, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Mangio, CJ vs Josh Smith won by MARIST, [03:51] Ground ball pickup by MARIST Michael Cassanno."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MARIST Drew Weissman, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "Timeout by BINGHAMT.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MARIST Collin Patrick, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "1",
+    "time": "02:05",
+    "home_event": "Ground ball pickup by BINGHAMT Ramos, Lorenzo.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Ramos, Lorenzo.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "Ground ball pickup by BINGHAMT Winters, Connor.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "Clear attempt by BINGHAMT failed.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Sharkey, Nolan.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "Shot by BINGHAMT Jacobsen, Gavin WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Mangio, CJ vs Dylan Bedell won by BINGHAMT, [15:00] Ground ball pickup by BINGHAMT Mangio, CJ.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Winters, Connor (caused by Aidan Quinn).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MARIST Aidan Quinn."
+  },
+  {
+    "quarter": "2",
+    "time": "13:35",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by MARIST Sean Mullan, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:35",
+    "home_event": "Faceoff Wilson, Flynn vs Josh Smith won by BINGHAMT (on faceoff violation).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:06",
+    "home_event": "Ground ball pickup by BINGHAMT Ferris, Liam.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "Shot by BINGHAMT Ferris, Liam WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:56",
+    "home_event": "Shot by BINGHAMT Adams, Gage WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:21",
+    "home_event": "Shot by BINGHAMT Girolamo, Andrew HIGH",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Penalty on MARIST Joshua Arneson (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "GOAL by BINGHAMT Ferris, Liam (MAN-UP), Assist by Girolamo, Andrew, goal number 6 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by MARIST, [12:03] Ground ball pickup by MARIST Team."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by MARIST Sam Ferrel."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Feldmann, Will.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:01",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by MARIST Michael Cassanno."
+  },
+  {
+    "quarter": "2",
+    "time": "10:10",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by MARIST Christian Colantonio BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by MARIST Collin Patrick WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:38",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": "2",
+    "time": "09:23",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "GOAL by BINGHAMT Garone, Dan, goal number 2 for season.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:20",
+    "home_event": "Faceoff Mangio, CJ vs Dylan Bedell won by BINGHAMT (on faceoff violation).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "Shot by BINGHAMT Mellen, Jack HIGH",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Kelly, Thomas.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:05",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by MARIST Ryan Jones."
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:51",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by MARIST Drew Anderson, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:51",
+    "home_event": "Faceoff Mangio, CJ vs Josh Smith won by BINGHAMT, [06:51] Ground ball pickup by BINGHAMT Team.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:37",
+    "home_event": "Shot by BINGHAMT Feldmann, Will WIDE",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by MARIST Collin Patrick, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Adams, Gage.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "2",
+    "time": "03:46",
+    "home_event": "Ground ball pickup by BINGHAMT Kelly, Thomas.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:39",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "Shot by BINGHAMT Kelly, Thomas HIGH",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Timeout by MARIST."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Shot by BINGHAMT Filanowski, Drew, SAVE Noble Smith",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by MARIST Collin Patrick, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by MARIST Collin Patrick."
+  },
+  {
+    "quarter": "2",
+    "time": "01:31",
+    "home_event": "Ground ball pickup by BINGHAMT Jenkins, Riley.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:47",
+    "home_event": "Timeout by BINGHAMT.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "Shot by BINGHAMT Garone, Dan, SAVE Noble Smith",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "GOAL by MARIST Drew Anderson, Assist by Jake Deacy, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by MARIST, [00:01] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by MARIST, [15:00] Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "3",
+    "time": "14:45",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MARIST Michael Cassanno, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "3",
+    "time": "14:39",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MARIST Michael Cassanno."
+  },
+  {
+    "quarter": "3",
+    "time": "14:20",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MARIST Drew Anderson WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by MARIST Drew Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:57",
+    "home_event": "Ground ball pickup by BINGHAMT Capucciati, Paolo.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:45",
+    "home_event": "Shot by BINGHAMT Ferris, Liam HIT POST",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:45",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Penalty on MARIST Aiden McCaffrey (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "Shot by BINGHAMT Girolamo, Andrew WIDE",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "Shot by BINGHAMT Ferris, Liam, SAVE Noble Smith",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "Ground ball pickup by BINGHAMT Adams, Gage.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "GOAL by BINGHAMT Jacobsen, Gavin (MAN-UP), Assist by Girolamo, Andrew, goal number 1 for season.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Mangio, CJ vs Dylan Bedell won by MARIST, [12:31] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by MARIST Sam Ferrel."
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "Ground ball pickup by BINGHAMT Sharkey, Nolan.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:13",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "Shot by BINGHAMT Filanowski, Drew, SAVE Noble Smith",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MARIST Collin Patrick BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by MARIST Collin Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "09:25",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MARIST Drew Anderson HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by MARIST Steven Cain, Assist by Collin Patrick, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Mangio, CJ vs Dylan Bedell won by MARIST, [09:17] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MARIST Dylan Bedell WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MARIST Collin Patrick WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "Clear attempt by BINGHAMT failed.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Kelly, Thomas.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by MARIST Sean Mullan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:36",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by MARIST Joshua Balcarcel, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:36",
+    "home_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by BINGHAMT (on faceoff violation).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "GOAL by BINGHAMT Garone, Dan, Assist by Ferris, Liam, goal number 3 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "Faceoff Wilson, Flynn vs Josh Smith won by BINGHAMT, [06:49] Ground ball pickup by BINGHAMT Wilson, Flynn.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Winters, Connor.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:13",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "Ground ball pickup by BINGHAMT Fearnley, Jack.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:44",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "Shot by BINGHAMT Adams, Gage WIDE",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by BINGHAMT Ferris, Liam.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "Shot by BINGHAMT Ferris, Liam HIGH",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "Ground ball pickup by BINGHAMT Garone, Dan.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Garone, Dan (caused by Steven Cain).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:42",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MARIST Steven Cain."
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MARIST Sean Mullan HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MARIST Sean Mullan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "Ground ball pickup by BINGHAMT MacKay, Eoin.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "Shot by BINGHAMT Girolamo, Andrew WIDE",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "Shot by BINGHAMT Adams, Gage HIT POST",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:40",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MARIST Joshua Balcarcel, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "3",
+    "time": "01:28",
+    "home_event": "Clear attempt by BINGHAMT failed.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Jenkins, Riley.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MARIST Drew Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Ferris, Liam.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Mangio, CJ vs Dylan Bedell won by MARIST, [15:00] Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by MARIST Steven Cain, Assist by Joshua Balcarcel, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "Faceoff Mangio, CJ vs Dylan Bedell won by BINGHAMT (on faceoff violation).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Ferris, Liam.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by MARIST Drew Anderson WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:10",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by MARIST Joshua Balcarcel, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "Shot by BINGHAMT Ferris, Liam, SAVE Noble Smith",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:00",
+    "home_event": "Ground ball pickup by BINGHAMT Ferris, Liam.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "GOAL by BINGHAMT Girolamo, Andrew, goal number 4 for season.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Wilson, Flynn vs Josh Smith won by MARIST, [11:41] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "Shot by BINGHAMT Sharkey, Brady, SAVE Noble Smith",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Ground ball pickup by BINGHAMT Provenzano, Jojo.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:03",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "Shot by BINGHAMT Ferris, Liam BLOCKED",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:05",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MARIST Sean Mullan."
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "Ground ball pickup by BINGHAMT MacKay, Eoin.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "Shot by BINGHAMT Ferris, Liam BLOCKED",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:45",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MARIST Dylan Rocchio."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Christian Colantonio WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MARIST Peter Murray."
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Joshua Balcarcel HIT CROSSBAR"
+  },
+  {
+    "quarter": "4",
+    "time": "06:56",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MARIST Christian Colantonio."
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Jake Deacy HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MARIST Christian Colantonio."
+  },
+  {
+    "quarter": "4",
+    "time": "06:07",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MARIST Peter Murray WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": "4",
+    "time": "05:47",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:43",
+    "home_event": "GOAL by BINGHAMT Ferris, Liam, Assist by Adams, Gage, goal number 7 for season.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:43",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff Wilson, Flynn vs Dylan Bedell won by MARIST, [04:43] Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Winters, Connor"
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "Penalty on BINGHAMT Garone, Dan (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by MARIST Collin Patrick HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "03:07",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by MARIST Jake Deacy."
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by MARIST Steven Cain."
+  },
+  {
+    "quarter": "4",
+    "time": "02:08",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Clear attempt by BINGHAMT good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by BINGHAMT Jacobsen, Gavin.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by MARIST Ryan Jones."
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Timeout by MARIST."
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "GOAL by MARIST Collin Patrick, Assist by Sean Mullan, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Faceoff Mangio, CJ vs Dylan Bedell won by MARIST, [01:21] Ground ball pickup by MARIST Michael Cassanno."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by MARIST Drew Anderson WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by MARIST Collin Patrick, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Timeout by BINGHAMT.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Mangio, CJ vs Dylan Bedell won by MARIST, [00:45] Ground ball pickup by MARIST Jake Deacy."
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Timeout by MARIST."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by MARIST Sean Mullan, Assist by Drew Anderson, goal number 3 for season."
+  }
+]

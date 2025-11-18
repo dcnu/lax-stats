@@ -1,0 +1,1738 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Adam Wacholder at goalie for MARIST.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "ELLINGTON, Kevin at goalie for DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "1",
+    "time": "14:52",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL MCGEE, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "14:25",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "Turnover by MARIST Collin Patrick (caused by ATKINSON, Louie).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "Ground ball pickup by MARIST Joshua Arneson.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "Shot by MARIST Drew Anderson HIT POST.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL VILLANI, Ryder WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL VILLANI, Ryder WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DEL PARMER, Bennett."
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:29",
+    "home_event": "Turnover by MARIST Joshua Arneson (caused by VILLANI, Ryder).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL VILLANI, Ryder."
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL KOLAR, Jason, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "Turnover by MARIST Joshua Arneson.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by DEL POWERS, Brendan (FIRST GOAL), Assist by MCCURRY, John, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by DEL PARMER, Bennett."
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "Turnover by MARIST Aidan Quinn.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by MARIST Joshua Arneson.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "GOAL by MARIST Collin Patrick.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by MARIST, [07:40] Ground ball pickup by MARIST Dylan Bedell.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "Turnover by MARIST Dylan Bedell.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by DEL GILLIN, Patrick (caused by Collin Patrick)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "Ground ball pickup by MARIST Steven Cain.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "Shot by MARIST Sean Mullan, SAVE ELLINGTON, Kevin.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by DEL POWERS, Brendan, Assist by PARMER, Bennett, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL KOLAR, Jason HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DEL MCCURRY, John (caused by Tommy Nolan)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "Ground ball pickup by MARIST Tommy Nolan.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "Turnover by MARIST Tommy Nolan (caused by MCCURRY, John).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:17",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "Turnover by MARIST Dylan Rocchio.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL CAPRI, Cory WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL VILLANI, Ryder WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL POWERS, Brendan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEL VILLANI, Ryder."
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Shot by MARIST Sean Mullan WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "Shot by MARIST Jake Deacy, SAVE ELLINGTON, Kevin.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "Timeout by MARIST.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:03",
+    "home_event": "Shot by MARIST Collin Patrick, SAVE ELLINGTON, Kevin.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Turnover by MARIST Drew Anderson (caused by GILLIN, Patrick).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Josh Smith vs MORRIS, OJ won by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [13:39] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by DEL CAPRI, Cory WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:26",
+    "home_event": "Turnover by MARIST Joshua Arneson.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by DEL KOLAR, Jason (caused by Dylan Stadler)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Ground ball pickup by MARIST Adam Wacholder.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "Shot by MARIST Steven Cain BLOCKED.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "Shot by MARIST Steven Cain HIGH.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "GOAL by MARIST Sean Mullan, Assist by Collin Patrick.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by MARIST, [10:19] Ground ball pickup by MARIST Aidan Quinn.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "Turnover by MARIST Sean Mullan (caused by POWERS, Brendan).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DEL MCGEE, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DEL KOLAR, Jason."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "2",
+    "time": "08:38",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "Turnover by MARIST Sean Mullan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:33",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:54",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DEL KOLAR, Jason, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Turnover by MARIST Steven Cain.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:49",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DEL MCCURRY, John HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:56",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "Shot by MARIST Jake Deacy, SAVE ELLINGTON, Kevin.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DEL SHIELDS, Jackson, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by DEL GILLIN, Patrick, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by MARIST (on faceoff violation).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "Turnover by MARIST Joshua Balcarcel (caused by COWEN, Nick).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:46",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:57",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by MARIST, [02:46] Ground ball pickup by MARIST Dylan Bedell.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "Shot by MARIST Steven Cain, SAVE ELLINGTON, Kevin.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "Shot by MARIST Jake Deacy HIGH.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Shot by MARIST Collin Patrick HIT POST.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:34",
+    "home_event": "Shot by MARIST Sean Mullan BLOCKED.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "Ground ball pickup by MARIST Sean Mullan.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Shot by MARIST Drew Anderson, SAVE ELLINGTON, Kevin.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Penalty on DEL ATKINSON, Louie (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "14:35",
+    "home_event": "Shot by MARIST Sean Mullan HIGH.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:27",
+    "home_event": "Shot by MARIST Jake Deacy, SAVE ELLINGTON, Kevin.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:51",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by DEL MCCURRY, John HIT CROSSBAR."
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by DEL PARMER, Bennett, Assist by POWERS, Brendan, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [13:02] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Turnover by DEL MORRIS, OJ (caused by Dylan Bedell)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "GOAL by MARIST Steven Cain.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by DEL."
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL FURGESON, Nathan, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "Turnover by MARIST Adam Wacholder.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:47",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL KOLBE, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:14",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL MCGEE, Owen, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "3",
+    "time": "10:32",
+    "home_event": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "Turnover by MARIST Aidan Quinn.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:36",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL PARMER, Bennett BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by DEL MCCURRY, John (caused by Aiden McCaffrey)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:55",
+    "home_event": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by MARIST Sean Mullan.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "Shot by MARIST Drew Anderson WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "Shot by MARIST Sean Mullan, SAVE ELLINGTON, Kevin.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by DEL KOLBE, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "GOAL by MARIST Sam Ferrel.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by DEL, [05:59] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "3",
+    "time": "05:07",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by DEL OWINGS, Tyler (caused by Aidan Quinn)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:41",
+    "home_event": "Ground ball pickup by MARIST Aidan Quinn.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:40",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "Turnover by MARIST Jake Deacy (caused by COWEN, Nick).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:30",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by DEL OWINGS, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "04:27",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "Ground ball pickup by MARIST Dylan Rocchio.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "GOAL by MARIST Drew Anderson.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [02:54] Ground ball pickup by DEL FURGESON, Nathan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:21",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by DEL VILLANI, Ryder WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by DEL D'AMBROGI, Hank, Assist by PARMER, Bennett, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [01:42] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Timeout by DEL."
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "3",
+    "time": "00:50",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Turnover by MARIST Collin Patrick.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by DEL, [15:00] Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "4",
+    "time": "14:40",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "14:16",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Turnover by DEL KOLAR, Jason."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "GOAL by MARIST Collin Patrick.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Josh Smith vs PREMTAJ, Logan won by DEL."
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by DEL D'AMBROGI, Hank (caused by Joshua Arneson)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "Ground ball pickup by MARIST Joshua Arneson.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:18",
+    "home_event": "Turnover by MARIST Joshua Balcarcel (caused by ATKINSON, Louie).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:08",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "GOAL by DEL OWINGS, Tyler, Assist by MCCURRY, John, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:17",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by DEL POWERS, Brendan HIT CROSSBAR."
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "GOAL by MARIST Drew Anderson, Assist by Collin Patrick.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Josh Smith vs MORRIS, OJ won by DEL, [09:35] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Dylan Bedell vs PREMTAJ, Logan won by DEL, [08:53] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "Penalty on MARIST Drew Anderson (PUSHING/0:30) Extra-man opportunity.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by DEL MORGAN, Finn (MAN-UP), Assist by D'AMBROGI, Hank, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Dylan Bedell vs MORRIS, OJ won by DEL, [08:14] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by DEL POWERS, Brendan, Assist by CAPRI, Cory, goal number 20 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Faceoff Josh Smith vs PREMTAJ, Logan won by DEL, [07:19] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by DEL PARMER, Bennett, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Faceoff Josh Smith vs MORRIS, OJ won by DEL, [06:38] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DEL OWINGS, Tyler HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "05:56",
+    "home_event": "Ground ball pickup by MARIST Joshua Arneson.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "Turnover by MARIST Joshua Arneson (caused by D'AMBROGI, Hank).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "Clear attempt by MARIST failed.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DEL CAPRI, Cory, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Turnover by MARIST Joshua Arneson (caused by MCCURRY, John).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:38",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DEL CAPRI, Cory, SAVE Adam Wacholder."
+  },
+  {
+    "quarter": "4",
+    "time": "04:24",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "GOAL by MARIST Joshua Balcarcel.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Faceoff Josh Smith vs MORRIS, OJ won by DEL, [03:43] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by DEL MORRIS, OJ (caused by Josh Smith)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "Ground ball pickup by MARIST Josh Smith.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:30",
+    "home_event": "Timeout by MARIST.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:09",
+    "home_event": "Shot by MARIST Steven Cain HIGH.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Penalty on DEL ATKINSON, Louie (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Shot by MARIST Brady Dolan WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by DEL BUELL, Ryder."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "Shot by MARIST William Embury WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "Shot by MARIST Tommy Nolan, SAVE ELLINGTON, Kevin.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "Ground ball pickup by MARIST Peter Murray.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "GOAL by MARIST William Embury, Assist by Peter Murray.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "Faceoff Josh Smith vs PREMTAJ, Logan won by MARIST, [01:46] Ground ball pickup by MARIST Michael Cassanno.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:13",
+    "home_event": "Shot by MARIST Joshua Balcarcel, SAVE ELLINGTON, Kevin.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Turnover by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "Clear attempt by MARIST good.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "Timeout by MARIST.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "Shot by MARIST Sean Mullan, SAVE ELLINGTON, Kevin.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Ground ball pickup by MARIST Collin Patrick.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "GOAL by MARIST Jake Deacy, Assist by Collin Patrick.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Faceoff Josh Smith vs MORRIS, OJ won by DEL, [00:12] Ground ball pickup by DEL MORRIS, OJ."
+  }
+]

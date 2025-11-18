@@ -1,0 +1,1451 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Rand Paddack at goalie for MER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Carter Ruhm at goalie for LEM."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [15:00] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "Turnover by MER Jack Sullivan (caused by Maui Wilhelm).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by LEM Maui Wilhelm."
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEM Emmet McDermott WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "13:14",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by LEM Zachary Delaney (caused by Luke Hand)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "GOAL by MER Luke Fox (FIRST GOAL), Assist by Dylan McKelvy, goal number 4 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [12:37] Ground ball pickup by LEM Nick Louise."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by LEM Isaac Frechette (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "Turnover by MER Rand Paddack.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LEM Ethan Loun WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LEM Ryan Eisenmann WIDE RIGHT."
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by LEM Ethan Loun, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [10:30] Ground ball pickup by LEM AJ DeMeo."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by LEM Olin Stanat, Assist by Zack Crosby, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by LEM Zachary Delaney."
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by LEM Zachary Delaney, Assist by Ethan Loun, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Graham Hartman vs Sam Getty won by LEM (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LEM Zachary Delaney WIDE RIGHT."
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by LEM Zachary Delaney."
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "Turnover by MER Michael Frederick (caused by Zack Crosby).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by LEM Maui Wilhelm."
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LEM Zachary Delaney, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "Shot by MER Christian Laureano, SAVE Carter Ruhm.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by LEM Maui Wilhelm."
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LEM Owen Wilson, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "Turnover by MER Brady Corkill.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by LEM Olin Stanat."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Shot by MER Luke Fox HIGH.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "Turnover by MER Dylan McKelvy.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LEM Zack Crosby, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "Shot by MER Owen Rhodes WIDE LEFT.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "Shot by MER Michael Frederick WIDE LEFT.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LEM Zachary Delaney, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by LEM Ryan Eisenmann."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "GOAL by MER Ganon Cope, goal number 2 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [14:06] Ground ball pickup by MER Thomas Venzie.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "Ground ball pickup by MER Dillon Bush.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Carter Ruhm.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:56",
+    "home_event": "Ground ball pickup by MER Jack Sullivan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "Shot by MER Dillon Bush, SAVE Carter Ruhm.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:15",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by LEM Zachary Delaney, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Chris Cappelmann vs Nicholas Miller won by LEM, [11:53] Ground ball pickup by LEM Connor Chason."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by LEM Connor Chason (caused by Greyson Brockman)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "Shot by MER Will Zylstra HIT POST.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:52",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by LEM Carter Ruhm."
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Timeout by LEM."
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:33",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LEM Thomas Berry WIDE RIGHT."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Carter Ruhm.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by LEM AJ DeMeo."
+  },
+  {
+    "quarter": "2",
+    "time": "09:16",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by LEM Zachary Delaney."
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "Penalty on MER Brady Corkill (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:42",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by LEM Owen Wilson."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:23",
+    "home_event": "Clear attempt by MER good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "Shot by MER Dylan McKelvy HIGH.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "GOAL by MER Michael Frederick, goal number 5 for season.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [06:44] Ground ball pickup by MER Nolan Filley.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "Turnover by MER Nolan Filley (caused by AJ DeMeo).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by LEM Owen Wilson."
+  },
+  {
+    "quarter": "2",
+    "time": "05:18",
+    "home_event": "Shot by MER Jack Sullivan BLOCKED.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "Ground ball pickup by MER Dillon Bush.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:59",
+    "home_event": "Turnover by MER Luke Fox.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by LEM Carter Ruhm."
+  },
+  {
+    "quarter": "2",
+    "time": "04:35",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by LEM Thomas Berry, Assist by Emmet McDermott, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [03:54] Ground ball pickup by MER Thomas Venzie.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Turnover by MER Thomas Venzie.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:03",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by LEM Zachary Delaney."
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "Clear attempt by MER good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "GOAL by MER Kade McNeil, Assist by Christian Laureano, goal number 3 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [02:32] Ground ball pickup by LEM AJ DeMeo."
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by LEM AJ DeMeo."
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "Shot by MER Michael Frederick WIDE RIGHT.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by LEM Mason Ciciarelli, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by LEM Mason Ciciarelli."
+  },
+  {
+    "quarter": "2",
+    "time": "01:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by LEM Mason Ciciarelli, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [01:13] Ground ball pickup by LEM Sam Getty."
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by LEM Sam Getty."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "Ground ball pickup by MER Davis Peek.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Timeout by MER.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "Shot by MER Dillon Bush HIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Shot by MER Dillon Bush, SAVE Carter Ruhm.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [15:00] Ground ball pickup by LEM Nick Louise."
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by LEM Nick Louise (caused by Quinn Kelley)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:49",
+    "home_event": "Ground ball pickup by MER Chris Cappelmann.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "Turnover by MER Jack Sullivan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by LEM Thomas Berry, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "Ground ball pickup by MER Tyler Gilbert.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "Ground ball pickup by MER Will Zylstra.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Shot by MER Michael Frederick WIDE LEFT.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "Ground ball pickup by MER Jack Sullivan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "Turnover by MER Jack Sullivan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by LEM failed."
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by LEM Billy Savage."
+  },
+  {
+    "quarter": "3",
+    "time": "11:59",
+    "home_event": "Ground ball pickup by MER Greyson Brockman.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "Shot by MER Kade McNeil HIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:05",
+    "home_event": "Turnover by MER Michael Frederick (caused by Jack Sullivan).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by LEM Maui Wilhelm."
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by LEM Thomas Berry, Assist by Mason Ciciarelli, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [10:14] Ground ball pickup by LEM Sam Getty."
+  },
+  {
+    "quarter": "3",
+    "time": "10:07",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by LEM Sam Getty (caused by Brady Corkill)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "Ground ball pickup by MER Brady Corkill.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "Shot by MER Dillon Bush HIGH.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "Shot by MER Dillon Bush HIGH.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:01",
+    "home_event": "Shot by MER Will Zylstra WIDE LEFT.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:52",
+    "home_event": "Shot by MER Christian Laureano WIDE RIGHT.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:46",
+    "home_event": "30-second clock violation by MER.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:29",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by LEM Olin Stanat."
+  },
+  {
+    "quarter": "3",
+    "time": "07:26",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:52",
+    "home_event": "Shot by MER Will Zylstra WIDE LEFT.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "Shot by MER Michael Frederick WIDE LEFT.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:11",
+    "home_event": "GOAL by MER Dylan McKelvy, goal number 5 for season.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:11",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM, [06:11] Ground ball pickup by LEM AJ DeMeo."
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by LEM Ethan Loun WIDE RIGHT."
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by LEM Ryan Eisenmann, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "Penalty on MER Tyler Gilbert (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [05:09] Ground ball pickup by MER Quinn Kelley.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "Turnover by MER Luke Hand.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by LEM Thomas Berry (MAN-UP), Assist by Zachary Delaney, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [04:18] Ground ball pickup by MER Kyle Pierce.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:34",
+    "home_event": "Shot by MER Jack Sullivan WIDE LEFT.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "Turnover by MER Will Zylstra.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Olin Stanat (caused by Brady Corkill)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "Ground ball pickup by MER Brady Corkill.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:22",
+    "home_event": "Turnover by MER Christian Laureano (caused by Olin Stanat).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:33",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by LEM Zachary Delaney, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "Ground ball pickup by MER Kobe Handsor.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:36",
+    "home_event": "Shot by MER Ganon Cope, SAVE Carter Ruhm.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Chris Cappelmann vs Nicholas Miller won by LEM, [15:00] Ground ball pickup by LEM Nicholas Miller."
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by LEM Nicholas Miller."
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "Penalty on MER Luke Hand (PUSHING/0:30) Extra-man opportunity.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:11",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Ryan Eisenmann."
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "Turnover by MER Rand Paddack.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Ryan Eisenmann."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:57",
+    "home_event": "Turnover by MER Quinn Kelley.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:32",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "30-second clock violation by LEM."
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Penalty on LEM Zachary Delaney (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:17",
+    "home_event": "Shot by MER Ben Jose WIDE RIGHT.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:02",
+    "home_event": "Turnover by MER Jack Sullivan.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by LEM failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Connor Chason."
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "Shot by MER Michael Frederick, SAVE Carter Ruhm.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "Ground ball pickup by MER Luke Hand.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Shot by MER Luke Hand, SAVE Carter Ruhm.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Ethan Loun (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:24",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "Turnover by MER Brady Corkill.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by LEM Emmet McDermott."
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Penalty on MER Kobe Handsor (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by LEM Ethan Loun WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "06:06",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by LEM Owen Wilson, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "Timeout by MER.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by LEM Ryan Eisenmann."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "Shot by MER Dillon Bush HIT POST.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:07",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Dylan McKelvy, goal number 15 for season.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:07",
+    "home_event": "Faceoff Chris Cappelmann vs Sam Getty won by MER, [05:07] Ground ball pickup by MER Greyson Brockman.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "Shot by MER Dillon Bush, SAVE Carter Ruhm.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by LEM good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by LEM Isaac Frechette, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "Timeout by MER.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "GOAL by LEM Owen Wilson, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Chris Cappelmann vs Sam Getty won by LEM (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:56",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Ground ball pickup by LEM Ethan Loun."
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Turnover by LEM Ethan Loun."
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "Ground ball pickup by MER Luke Hand.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Luke Hand, goal number 16 for season.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Graham Hartman vs Sam Getty won by LEM, [02:49] Ground ball pickup by LEM Sam Getty."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by LEM Ryan Eisenmann WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "01:36",
+    "home_event": "Penalty on MER Graham Hartman (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "30-second clock violation by LEM."
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:07",
+    "home_event": "Clear attempt by MER good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "Shot by MER Michael Frederick HIT POST.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by LEM Dom DelPonte."
+  }
+]

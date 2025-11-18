@@ -1,0 +1,2011 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "LaCombe, Matt at goalie for COLGATE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Heath,Kasey at goalie for LEHIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Kelly,Andrew."
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by LEHIGH Rathwell,Chris (caused by Carrabine, John)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "Shot by COLGATE Drouin, Hunter, SAVE Heath,Kasey.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:34",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEHIGH Kelly,Andrew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEHIGH French,Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by LEHIGH Winkler,Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEHIGH Winkler,Luke, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "Shot by COLGATE Connor, Rory WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Shot by COLGATE Arata, Tommy, SAVE Heath,Kasey.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "Shot by COLGATE Connor, Rory, SAVE Heath,Kasey.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "GOAL by COLGATE Kiefer, Andrew (FIRST GOAL), Assist by Connor, Liam.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [10:46] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by LEHIGH Winkler,Luke (caused by Kiely, Michael)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by COLGATE Kiely, Michael.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:34",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "Turnover by COLGATE Kiely, Michael.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by LEHIGH Eierman,Dakota, Assist by French,Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "Ground ball pickup by COLGATE Favaro, Ryan.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Heath,Kasey.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "Ground ball pickup by COLGATE Trumble, Ben.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "Shot by COLGATE Trumble, Ben, SAVE Heath,Kasey.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "Shot by COLGATE Trumble, Ben BLOCKED.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Shot by COLGATE Favaro, Ryan WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "GOAL by COLGATE Favaro, Ryan.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by LEHIGH Kelly,Andrew BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Ground ball pickup by COLGATE Yates, Max.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "GOAL by COLGATE Connor, Liam.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Burke, Fischer vs Dow,Sean won by LEHIGH, [06:32] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by LEHIGH Eierman,Dakota, Assist by Winkler,Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [05:44] Ground ball pickup by LEHIGH Kirlin,Timmy."
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by LEHIGH Mesa,Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by LEHIGH McAuliffe,Luke WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by LEHIGH Winkler,Luke, Assist by Polonkey,Hunter."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Faceoff Rummel, Kyle vs Riley,Connor won by COLGATE, [04:45] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "Turnover by COLGATE Rummel, Kyle.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH Kelly,Andrew."
+  },
+  {
+    "quarter": "1",
+    "time": "04:19",
+    "home_event": "Ground ball pickup by COLGATE Yates, Max.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "Shot by COLGATE Connor, Rory, SAVE Heath,Kasey.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "Turnover by COLGATE Connor, Rory (caused by Mesa,Zach).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by LEHIGH Heath,Kasey."
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:10",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LEHIGH Kelly,Andrew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH Winkler,Luke (caused by Carrabine, John)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "Ground ball pickup by COLGATE Kiely, Michael.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Turnover by COLGATE Lohman, Charlie.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH French,Colin (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "Turnover by COLGATE Connor, Rory (caused by Sherman,Charlie).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by LEHIGH Checo,Richard."
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LEHIGH Eierman,Dakota HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "Timeout by COLGATE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:42",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH Theodoropoulos,Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "Shot by COLGATE Connor, Rory WIDE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Turnover by COLGATE Connor, Liam (caused by McAuliffe,Luke).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "14:52",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH Dow,Sean (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:22",
+    "home_event": "Shot by COLGATE Connor, Liam HIT POST.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by LEHIGH Heath,Kasey."
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "2",
+    "time": "14:04",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by LEHIGH Heath,Kasey (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "GOAL by COLGATE Quinson, Casey, Assist by Connor, Liam.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [13:21] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by LEHIGH Dow,Sean WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by LEHIGH Eierman,Dakota WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by LEHIGH Winkler,Luke HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "Ground ball pickup by COLGATE Kiefer, Andrew.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "Shot by COLGATE Connor, Rory, SAVE Heath,Kasey.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "Shot by COLGATE Favaro, Ryan, SAVE Heath,Kasey.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by LEHIGH Ochotorena,Raul (caused by Turner, Jack)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:30",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:30",
+    "home_event": "GOAL by COLGATE Turner, Jack, Assist by Drouin, Hunter.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [10:30] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by LEHIGH Polonkey,Hunter (caused by Carrabine, John)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:09",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "Shot by COLGATE Carrabine, John, SAVE Heath,Kasey.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by LEHIGH Heath,Kasey (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:53",
+    "home_event": "Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "GOAL by COLGATE Eldredge, Patty, Assist by Connor, Liam.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [08:48] Ground ball pickup by LEHIGH Procaccini,Giovanni."
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by LEHIGH Kelly,Andrew (caused by LaCombe, Matt)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Shot by COLGATE Favaro, Ryan HIT POST.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:15",
+    "home_event": "Shot by COLGATE Drouin, Hunter HIT POST.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:06",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Turnover by COLGATE Connor, Liam (caused by Checo,Richard).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:02",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by LEHIGH Checo,Richard."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by LEHIGH Eierman,Dakota WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "Penalty on COLGATE Favaro, Ryan (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by LEHIGH Winkler,Luke WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by LEHIGH French,Colin (caused by Kiely, Michael)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "Ground ball pickup by COLGATE Kiely, Michael.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "GOAL by COLGATE Connor, Rory.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [04:34] Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Turnover by COLGATE Fitzsimmons, Quinn.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Ground ball pickup by LEHIGH Vassel,Harrison."
+  },
+  {
+    "quarter": "2",
+    "time": "04:13",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by LEHIGH Vassel,Harrison WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:10",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Ground ball pickup by LEHIGH Kelly,Andrew."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by LEHIGH Archer,Jack BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "Penalty on COLGATE Eldredge, Patty (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:53",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by LEHIGH Eierman,Dakota, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Ground ball pickup by LEHIGH Rathwell,Chris."
+  },
+  {
+    "quarter": "2",
+    "time": "02:48",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by LEHIGH Kelly,Andrew WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "GOAL by LEHIGH Eierman,Dakota (MAN-UP)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [02:29] Ground ball pickup by LEHIGH Kirlin,Timmy."
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by LEHIGH Kelly,Andrew WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by LEHIGH French,Colin (caused by Lala, Thomas)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Ground ball pickup by COLGATE Lala, Thomas.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "Turnover by COLGATE Drouin, Hunter (caused by Checo,Richard).",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:36",
+    "home_event": "Penalty on COLGATE Turner, Jack (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:22",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by LEHIGH Eierman,Dakota WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by LEHIGH French,Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Procaccini,Giovanni."
+  },
+  {
+    "quarter": "3",
+    "time": "13:59",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by LEHIGH Rathwell,Chris WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "GOAL by LEHIGH Rathwell,Chris, Assist by Eierman,Dakota."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [13:40] Ground ball pickup by LEHIGH Procaccini,Giovanni."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by LEHIGH Sherman,Charlie BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by LEHIGH French,Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "Turnover by COLGATE Connor, Rory (caused by Checo,Richard).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:18",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by LEHIGH Checo,Richard."
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by LEHIGH Checo,Richard (caused by Drouin, Hunter)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:13",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "Turnover by COLGATE Drouin, Hunter.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:24",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by LEHIGH Eierman,Dakota (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Penalty on LEHIGH Eierman,Dakota (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "09:35",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:35",
+    "home_event": "Timeout by COLGATE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "Shot by COLGATE Quinson, Casey HIT POST.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by LEHIGH Heath,Kasey."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by LEHIGH McAuliffe,Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [09:05] Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:54",
+    "home_event": "GOAL by COLGATE Erickson, Sam.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:54",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [08:54] Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:38",
+    "home_event": "GOAL by COLGATE Turner, Jack, Assist by Lala, Thomas.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:38",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [08:38] Ground ball pickup by COLGATE Eldredge, Patty.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Heath,Kasey.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by LEHIGH Checo,Richard."
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Turnover by LEHIGH Checo,Richard."
+  },
+  {
+    "quarter": "3",
+    "time": "07:39",
+    "home_event": "Shot by COLGATE Kiefer, Andrew, SAVE Heath,Kasey.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:36",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Penalty on LEHIGH McAuliffe,Luke (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "07:38",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:24",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "GOAL by COLGATE Connor, Liam (MAN-UP).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [07:07] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:02",
+    "home_event": "Shot by COLGATE Rummel, Kyle WIDE.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:53",
+    "home_event": "Ground ball pickup by COLGATE Connor, Liam.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:47",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE Heath,Kasey.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by LEHIGH Rathwell,Chris WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by LEHIGH Rathwell,Chris (caused by Yates, Max)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "Ground ball pickup by COLGATE Yates, Max.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "GOAL by COLGATE Turner, Jack.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [03:54] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by LEHIGH Winkler,Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Turnover by LEHIGH Polonkey,Hunter."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Ground ball pickup by COLGATE Eldredge, Patty.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:57",
+    "home_event": "Turnover by COLGATE Drouin, Hunter.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:40",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "GOAL by LEHIGH Eierman,Dakota."
+  },
+  {
+    "quarter": "3",
+    "time": "01:40",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:20",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by LEHIGH Kelly,Andrew BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Turnover by LEHIGH Kelly,Andrew (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:41",
+    "home_event": "Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:35",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by LEHIGH Eierman,Dakota, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Burke, Fischer vs Dow,Sean won by COLGATE, [15:00] Ground ball pickup by COLGATE Burke, Fischer.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "GOAL by COLGATE Drouin, Hunter, Assist by Connor, Liam.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [13:40] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "13:28",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "13:28",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Faceoff Rummel, Kyle vs Riley,Connor won by LEHIGH, [13:28] Ground ball pickup by LEHIGH Kirlin,Timmy."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by LEHIGH Kelly,Andrew WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by LEHIGH Eierman,Dakota WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot clock violation by LEHIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:03",
+    "home_event": "Shot by COLGATE Connor, Rory, SAVE Heath,Kasey.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "GOAL by COLGATE Drouin, Hunter.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE, [10:24] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:17",
+    "home_event": "Shot by COLGATE Turner, Jack BLOCKED.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "Shot by COLGATE Trumble, Ben WIDE.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:16",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by LEHIGH Sherman,Charlie (caused by Carrabine, John)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "GOAL by COLGATE Connor, Liam.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "Faceoff Rummel, Kyle vs Dow,Sean won by COLGATE (on faceoff violation).",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:46",
+    "home_event": "Turnover by COLGATE Quinson, Casey (caused by Mullen,Brian).",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:42",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Ground ball pickup by LEHIGH Heath,Kasey."
+  },
+  {
+    "quarter": "4",
+    "time": "07:40",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Shot by LEHIGH Winkler,Luke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Turnover by LEHIGH Eierman,Dakota."
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "Ground ball pickup by COLGATE Carrabine, John.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:32",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "06:32",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "Turnover by COLGATE Drouin, Hunter (caused by Checo,Richard).",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Turnover by LEHIGH Checo,Richard (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:12",
+    "home_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:09",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Shot by COLGATE Turner, Jack HIT POST.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:43",
+    "home_event": "Turnover by COLGATE Connor, Rory.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:27",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:23",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Ground ball pickup by LEHIGH French,Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "GOAL by LEHIGH Eierman,Dakota, Assist by Theodoropoulos,Peter."
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "Faceoff Rummel, Kyle vs Riley,Connor won by COLGATE, [04:09] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "Shot by COLGATE Rummel, Kyle, SAVE Heath,Kasey.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:42",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "4",
+    "time": "03:42",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Turnover by LEHIGH McAuliffe,Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "Ground ball pickup by COLGATE Quinson, Casey.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "Shot by COLGATE Quinson, Casey WIDE.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Turnover by LEHIGH Eierman,Dakota (caused by Turner, Jack)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Shot by LEHIGH Winkler,Luke BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Ground ball pickup by COLGATE Eldredge, Patty.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:36",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "Timeout by COLGATE.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:05",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Shot by LEHIGH Procaccini,Giovanni WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:28",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "GOAL by LEHIGH French,Colin, Assist by Fruhling,Hayden."
+  },
+  {
+    "quarter": "4",
+    "time": "00:28",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Faceoff Rummel, Kyle vs Dow,Sean won by LEHIGH, [00:28] Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by LEHIGH Dow,Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by LEHIGH Dow,Sean WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Turnover by LEHIGH Procaccini,Giovanni (caused by Yates, Max)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by COLGATE Yates, Max.",
+    "score": "14-10",
+    "away_event": ""
+  }
+]

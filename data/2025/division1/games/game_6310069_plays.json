@@ -1,0 +1,1787 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "MANNING, Grayson at goalie for DEN.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Hugh Conrad at goalie for YALE."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [15:00] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "1",
+    "time": "14:39",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by YALE Johnny Keib WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by YALE David Anderson (FIRST GOAL), Assist by Brad Sharp, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [14:28] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by YALE Leo Johnson, SAVE MANNING, Grayson."
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "Turnover by DEN DAVIS, Brody.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by YALE Max Krevsky, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [13:34] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by YALE Peter Moynihan, SAVE MANNING, Grayson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by YALE Leo Johnson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by YALE Leo Johnson, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "Timeout by DEN.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by DEN, [12:47] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Hugh Conrad.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by YALE Johnny Keib, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Turnover by YALE Leo Johnson."
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "Shot by DEN KELLY, Mic BLOCKED.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "Turnover by DEN KELLY, Mic (caused by Jack Stuzin).",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by YALE Hugh Conrad."
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by YALE Cole Cashion, Assist by Leo Johnson, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by DEN, [09:31] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "Timeout by DEN.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "KLEBAN, Malcolm at goalie for DEN.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:24",
+    "home_event": "Turnover by DEN MALAWSKY, Cody (caused by Hugh Conrad).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by YALE Cole Cashion, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [08:12] Ground ball pickup by YALE Luke Michalik."
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Turnover by YALE Luke Michalik (caused by FREEHILL, Jimmy)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "Turnover by DEN MALAWSKY, Cody (caused by Michael Garchitorena).",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Ground ball pickup by YALE Michael Alexander."
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Turnover by YALE Michael Alexander."
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "GOAL by DEN KELLY, Mic, goal number 14 for season.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [07:01] Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "1",
+    "time": "06:47",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by YALE Chris Lyons."
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by YALE Chris Lyons, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [06:48] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "1",
+    "time": "05:57",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by YALE Johnny Keib WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by YALE Cole Jackson HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by YALE Johnny Keib, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "GOAL by DEN KELLY, Mic, goal number 15 for season.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "GOAL by YALE Leo Johnson, Assist by Peter Moynihan, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Faceoff TESTA, Christopher vs Nick Wehmeyer won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "Penalty on DEN CALDWELL, Chris (SLASHING/1:00) Extra-man opportunity.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by YALE Chris Lyons (caused by FREEHILL, Jimmy)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "Ground ball pickup by DEN FREEHILL, Jimmy.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "Turnover by DEN TZAGOURNIS, Marek (caused by Patrick Pisano).",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by YALE Patrick Pisano."
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by YALE Patrick Pisano (caused by MALAWSKY, Cody)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Ground ball pickup by DEN MANNING, Noah.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "Shot by DEN TORTOLANI, Jack WIDE.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Shot by DEN MALAWSKY, Cody, SAVE Hugh Conrad.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Penalty on DEN TEAM (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Penalty on DEN KELLY, Mic (UNNECESSARY ROUGHNESS/1:00).",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by YALE Johnny Keib, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Turnover by DEN TORTOLANI, Jack.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [15:00] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "2",
+    "time": "14:48",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by YALE Jack Stuzin (caused by OVERLY, Russell)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:45",
+    "home_event": "Ground ball pickup by DEN WILSON, Casey.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:41",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:53",
+    "home_event": "Turnover by DEN TORTOLANI, Jack (caused by Michael Alexander).",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:48",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by YALE Leo Johnson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by YALE Peter Moynihan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "Shot by DEN ELDRED, Cade HIT POST.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by YALE Leo Johnson BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by YALE Logan Soelberg."
+  },
+  {
+    "quarter": "2",
+    "time": "12:01",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by YALE Logan Soelberg WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by YALE Leo Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Hugh Conrad.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:43",
+    "home_event": "Ground ball pickup by DEN CARLSON, Joshua.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:33",
+    "home_event": "Turnover by DEN ATCHISON, Andrew.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "GOAL by YALE Cole Jackson."
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by DEN, [11:10] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "Turnover by DEN TARABOLETTI, Joe (caused by David Anderson).",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by YALE Chris Lyons."
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Turnover by YALE Peter Moynihan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:04",
+    "home_event": "Ground ball pickup by DEN FREEHILL, Jimmy.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Hugh Conrad.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "Ground ball pickup by DEN MANNING, Noah.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "Shot by DEN MANNING, Noah, SAVE Hugh Conrad.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "Penalty on DEN TRUMBLE, Sam (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:37",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by YALE Max Krevsky."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Timeout by YALE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by YALE Brad Sharp WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot clock violation by YALE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "Shot by DEN MANNING, Noah WIDE.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Ground ball pickup by DEN TZAGOURNIS, Marek.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:58",
+    "home_event": "Shot by DEN MANNING, Noah HIT POST.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "Ground ball pickup by DEN MALAWSKY, Cody.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "Turnover by DEN KELLY, Mic (caused by Eric Platten).",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by YALE Eric Platten."
+  },
+  {
+    "quarter": "2",
+    "time": "05:45",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Turnover by YALE Tristan Ghosh."
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "Shot by DEN ATCHISON, Andrew BLOCKED.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:35",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:29",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by YALE Jack Stuzin, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by YALE Leo Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "04:22",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by YALE Leo Johnson WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "GOAL by DEN MURPHY, Judge, Assist by TZAGOURNIS, Marek, goal number 7 for season.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:02",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by YALE Peter Moynihan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by YALE Leo Johnson, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [02:55] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Shot by YALE Luke Michalik WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "GOAL by YALE Max Krevsky, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by DEN, [02:26] Ground ball pickup by DEN KIRSCHKE, Blake.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:34",
+    "home_event": "Shot by DEN MALAWSKY, Cody WIDE.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "Shot by DEN TORTOLANI, Jack, SAVE Hugh Conrad.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by YALE Tristan Ghosh."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by YALE Chris Lyons WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by YALE David Anderson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by YALE Cole Cashion."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by YALE Cole Cashion, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [15:00] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "3",
+    "time": "14:47",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by YALE David Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "14:20",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by YALE Brad Sharp, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:20",
+    "home_event": "Penalty on DEN FREEHILL, Jimmy (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by YALE Chris Lyons."
+  },
+  {
+    "quarter": "3",
+    "time": "14:02",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Hugh Conrad.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "Shot by DEN MALAWSKY, Cody, SAVE Hugh Conrad.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by YALE Tristan Ghosh."
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by YALE Tristan Ghosh, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "Shot by DEN MALAWSKY, Cody WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "Ground ball pickup by DEN MALAWSKY, Cody.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Penalty on YALE Tristan Ghosh (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Penalty on YALE Michael Garchitorena (PUSHING/0:30)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:37",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:18",
+    "home_event": "Shot by DEN MALAWSKY, Cody WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "Turnover by DEN MANNING, Noah (caused by Jack Stuzin).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Turnover by DEN TRUMBLE, Sam (caused by Brad Sharp).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "Ground ball pickup by DEN OVERLY, Russell.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "GOAL by DEN OVERLY, Russell, goal number 1 for season.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [10:19] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Penalty on DEN KIRSCHKE, Blake (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Penalty on DEN DAVIS, Brody (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by YALE Leo Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "09:39",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "GOAL by YALE William Sheehan (MAN-UP), Assist by Johnny Keib, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:39",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [09:39] Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "Penalty on DEN KRAUS, Michael (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:37",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Turnover by YALE David Anderson (caused by OVERLY, Russell)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "Ground ball pickup by DEN OVERLY, Russell.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:37",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Penalty on YALE Max Krevsky (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "GOAL by DEN MANNING, Noah (MAN-UP), Assist by CLARK, Daniel, goal number 9 for season.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [07:42] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by YALE Leo Johnson BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by YALE Leo Johnson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Turnover by YALE Leo Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by YALE Leo Johnson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "Shot by DEN MANNING, Noah, SAVE Hugh Conrad.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Ground ball pickup by YALE Max Krevsky."
+  },
+  {
+    "quarter": "3",
+    "time": "04:35",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Turnover by YALE Max Krevsky (caused by FREEHILL, Jimmy)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "Ground ball pickup by DEN KLEBAN, Malcolm.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:20",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "GOAL by DEN KELLY, Mic, Assist by TORTOLANI, Jack, goal number 16 for season.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by DEN (on faceoff violation).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Penalty on YALE Michael Alexander (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "Shot by DEN MURPHY, Judge WIDE.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "Shot by DEN MALAWSKY, Cody HIGH.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:55",
+    "home_event": "Shot by DEN TORTOLANI, Jack, SAVE Hugh Conrad.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:51",
+    "home_event": "Ground ball pickup by DEN KELLY, Mic.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:10",
+    "home_event": "Turnover by DEN MURPHY, Judge.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:01",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by YALE Brad Sharp, Assist by Peter Moynihan, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff KRAUS, Michael vs Nick Wehmeyer won by YALE, [00:08] Ground ball pickup by YALE Michael Garchitorena."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:15",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by YALE Logan Soelberg (caused by WILSON, Casey)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "Ground ball pickup by DEN WILSON, Casey.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:49",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Timeout by YALE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by DEN CARLSON, Joshua.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Shot by DEN MANNING, Noah HIGH.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:54",
+    "home_event": "Shot clock violation by DEN.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:51",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "Penalty on DEN TEAM (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:13",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by YALE William Sheehan, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Ground ball pickup by DEN KLOKIW, Lucas.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Penalty on YALE Michael Garchitorena (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:28",
+    "home_event": "Turnover by DEN MALAWSKY, Cody.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "Penalty on DEN CALDWELL, Chris (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by YALE Brad Sharp BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by YALE Leo Johnson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Turnover by DEN KIRSCHKE, Blake.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:15",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by YALE Konrad Miklaszewski."
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "Penalty on DEN CARLSON, Joshua (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by YALE David Anderson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "Turnover by DEN WILSON, Casey.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by YALE Hugh Conrad."
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by YALE Johnny Keib, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "08:07",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Shot by DEN MALAWSKY, Cody, SAVE Hugh Conrad.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by YALE Hugh Conrad."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "Ground ball pickup by DEN CALDWELL, Chris.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:09",
+    "home_event": "GOAL by DEN KELLY, Mic, Assist by MANNING, Noah, goal number 17 for season.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:09",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff KRAUS, Michael vs Nick Wehmeyer won by YALE, [07:09] Ground ball pickup by YALE Nick Wehmeyer."
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "GOAL by YALE Peter Moynihan, Assist by Leo Johnson, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "Penalty on DEN KRAUS, Michael (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Faceoff TESTA, Christopher vs Machado Rodriguez won by YALE, [05:35] Ground ball pickup by YALE Max Krevsky."
+  },
+  {
+    "quarter": "4",
+    "time": "04:57",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Shot by YALE David Anderson, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Turnover by YALE David Anderson (caused by TRUMBLE, Sam)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "Ground ball pickup by DEN TRUMBLE, Sam.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:54",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "GOAL by DEN WILSON, Casey, Assist by TZAGOURNIS, Marek, goal number 1 for season.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE, [03:45] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Shot by YALE Logan Soelberg WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:18",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Shot by YALE Connor Gately, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "02:14",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Turnover by YALE Connor Gately."
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:02",
+    "home_event": "Shot by DEN KELLY, Mic BLOCKED.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "GOAL by DEN CARLSON, Joshua, Assist by TZAGOURNIS, Marek, goal number 6 for season.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Faceoff KRAUS, Michael vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:48",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Turnover by YALE Peter Moynihan (caused by KLEBAN, Malcolm)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "Ground ball pickup by DEN KLEBAN, Malcolm.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "Shot by DEN OVERLY, Russell WIDE.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Timeout by YALE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "GOAL by DEN KELLY, Mic, Assist by TZAGOURNIS, Marek, goal number 18 for season.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Faceoff KRAUS, Michael vs Nick Wehmeyer won by YALE (on faceoff violation)."
+  }
+]

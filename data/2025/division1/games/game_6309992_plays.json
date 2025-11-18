@@ -1,0 +1,1710 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "YI, Nate at goalie for WAGNER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Joey Schwarz at goalie for NJIT."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [15:00] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "Turnover by WAGNER MERCADO, Daniel.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by NJIT Evan Lastella."
+  },
+  {
+    "quarter": "1",
+    "time": "14:20",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by NJIT Ryan Sininsky."
+  },
+  {
+    "quarter": "1",
+    "time": "14:14",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "Shot by WAGNER MCMAHON, Danny, SAVE Joey Schwarz.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NJIT Alystair Hemberger BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Turnover by WAGNER MITCHELL, Jake (caused by Sullivan O'Brien).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NJIT Christopher Eiselein BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NJIT Russell Maher, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Ground ball pickup by WAGNER KROSS, Nico.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK HIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Turnover by WAGNER EDWARDS, Griffin (caused by Kelly Jackson).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by NJIT Emmerick Dopona."
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NJIT Darren Romaine, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by NJIT Christopher Eiselein (caused by SABIA, Colin)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "Ground ball pickup by WAGNER SABIA, Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "GOAL by WAGNER MCMAHON, Danny (FIRST GOAL), goal number 4 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [08:57] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "Shot by WAGNER McDonnell, Benjamin WIDE LEFT.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "Shot by WAGNER MCMAHON, Danny, SAVE Joey Schwarz.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by NJIT Gabe Thompson."
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT Gabe Thompson, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "Shot by WAGNER KROSS, Nico BLOCKED.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Shot by WAGNER HAASE, Dylan HIT POST.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by NJIT Devon Ford."
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT Devon Ford WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "Penalty on WAGNER BEAMER,SAM (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT Michael Rettberg, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Shot by WAGNER MUCHINEUTA, Ian, SAVE Joey Schwarz.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT Christopher Eiselein, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT JC Echezuria, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "Clear attempt by WAGNER failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean (caused by JC Echezuria).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by NJIT JC Echezuria WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "Turnover by WAGNER McDonnell, Benjamin.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by NJIT Jadon McKenzie."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by NJIT Emmerick Dopona, Assist by Jadon McKenzie, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [02:34] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by NJIT Isaac Vanzomeren WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by NJIT Austin Exley WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Timeout by NJIT."
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by NJIT Dylan Sebastian BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by NJIT Alystair Hemberger, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK WIDE RIGHT.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Penalty on NJIT Ryan Sininsky (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "GOAL by WAGNER MCMAHON, Danny (MAN-UP), Assist by SANCHEZ, Sean, goal number 5 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [00:09] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [15:00] Ground ball pickup by NJIT Sullivan O'Brien."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:59",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by NJIT Joey Schwarz."
+  },
+  {
+    "quarter": "2",
+    "time": "14:42",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "Shot by WAGNER SIEB, Ethan, SAVE Joey Schwarz.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:55",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by NJIT Joey Schwarz."
+  },
+  {
+    "quarter": "2",
+    "time": "13:53",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:15",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by NJIT Dylan Sebastian WIDE RIGHT."
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean, SAVE Joey Schwarz.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by NJIT Ryan Sininsky WIDE RIGHT."
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by NJIT Ryan Sininsky, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [11:19] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "Shot by WAGNER CLARK, Damon WIDE RIGHT.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:28",
+    "home_event": "Turnover by WAGNER EDWARDS, Griffin.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by NJIT Jadon McKenzie, Assist by JC Echezuria, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [10:05] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by NJIT Isaac Vanzomeren HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by NJIT Isaac Vanzomeren, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "10:02",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "Clear attempt by WAGNER failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:46",
+    "home_event": "Turnover by WAGNER MCMAHON, Tristan (caused by Christopher Eiselein).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:18",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by NJIT Christopher Eiselein."
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by NJIT JC Echezuria, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by NJIT Russell Maher, Assist by Dylan Sebastian, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by NJIT Austin Exley."
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "Timeout by WAGNER.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "GOAL by WAGNER MCMAHON, Danny, Assist by MITCHELL, Jake, goal number 6 for season.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "Faceoff O'NEILL, Jack vs Isaac Vanzomeren won by WAGNER (on faceoff violation).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean (caused by Kelly Jackson).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by NJIT Sullivan O'Brien."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by NJIT failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:10",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by NJIT."
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "GOAL by WAGNER SANCHEZ, Sean, Assist by CALDWELL,PATRICK, goal number 3 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff O'NEILL, Jack vs Michael Gaffney won by NJIT, [05:59] Ground ball pickup by NJIT Michael Gaffney."
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by NJIT Russell Maher, Assist by Ryan Sininsky, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [04:34] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "GOAL by WAGNER MERCADO, Daniel, goal number 2 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER (on faceoff violation).",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "GOAL by WAGNER MCMAHON, Danny, Assist by MERCADO, Daniel, goal number 7 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "Faceoff MERCADO, Daniel vs Michael Gaffney won by WAGNER (on faceoff violation).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "Turnover by WAGNER EDWARDS, Griffin.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by NJIT Emmerick Dopona."
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by NJIT Alystair Hemberger WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "03:02",
+    "home_event": "Penalty on WAGNER SIEB, Ethan (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by NJIT Ryan Sininsky, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "Timeout by WAGNER.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by NJIT Dylan Sebastian, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [02:10] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "2",
+    "time": "01:58",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by NJIT Isaac Vanzomeren, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by NJIT Austin Hahn."
+  },
+  {
+    "quarter": "2",
+    "time": "01:02",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by NJIT JC Echezuria."
+  },
+  {
+    "quarter": "2",
+    "time": "00:56",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:16",
+    "home_event": "Turnover by WAGNER EDWARDS, Griffin (caused by Jadon McKenzie).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by NJIT Jadon McKenzie."
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by NJIT Emmerick Dopona (caused by SABIA, Colin)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by WAGNER SABIA, Colin.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean HIGH.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [15:00] Ground ball pickup by WAGNER CALDWELL,PATRICK.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:58",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK, SAVE Joey Schwarz.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:54",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by NJIT Dylan Sebastian, SAVE YI, Nate."
+  },
+  {
+    "quarter": "3",
+    "time": "14:17",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:10",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by NJIT Sullivan O'Brien."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:48",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by NJIT Michael Rettberg (caused by MCMAHON, Tristan)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:43",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:20",
+    "home_event": "Shot by WAGNER SIEB, Ethan HIT POST.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by NJIT Emmerick Dopona."
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:11",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by NJIT Ryan Sininsky, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:11",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [11:11] Ground ball pickup by NJIT Gabe Thompson."
+  },
+  {
+    "quarter": "3",
+    "time": "10:32",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by NJIT JC Echezuria."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "Shot by WAGNER MCMAHON, Tristan, SAVE Joey Schwarz.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:13",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by NJIT Alystair Hemberger, SAVE YI, Nate."
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "Ground ball pickup by WAGNER YI, Nate.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:55",
+    "home_event": "Turnover by WAGNER CALDWELL,PATRICK.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by NJIT Austin Exley."
+  },
+  {
+    "quarter": "3",
+    "time": "09:47",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by NJIT Alystair Hemberger BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by NJIT Benjamin Roberts."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by NJIT Russell Maher BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "Ground ball pickup by WAGNER BEAMER,SAM.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:27",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "Shot by WAGNER HAASE, Dylan WIDE LEFT.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:24",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by NJIT Kelly Jackson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:17",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "GOAL by NJIT Austin Hahn, Assist by Emmerick Dopona, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:17",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by NJIT Ryan Menard, SAVE YI, Nate."
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "Clear attempt by WAGNER failed.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "Turnover by WAGNER YI, Nate.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:33",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by NJIT Ryan Menard."
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "Penalty on WAGNER KROSS, Nico (HOLDING/0:30) Extra-man opportunity.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by NJIT."
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "GOAL by WAGNER EDWARDS, Griffin, goal number 1 for season.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "Faceoff O'NEILL, Jack vs Isaac Vanzomeren won by WAGNER, [05:10] Ground ball pickup by WAGNER MUCHINEUTA, Ian.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Penalty on NJIT Isaac Vanzomeren (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "GOAL by WAGNER SANCHEZ, Sean (MAN-UP), goal number 4 for season.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "Faceoff O'NEILL, Jack vs Isaac Vanzomeren won by WAGNER, [04:43] Ground ball pickup by WAGNER O'NEILL, Jack.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "GOAL by WAGNER SIEB, Ethan, goal number 8 for season.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Faceoff O'NEILL, Jack vs Isaac Vanzomeren won by NJIT, [03:55] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by NJIT Dylan Sebastian."
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by NJIT Russell Maher HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:39",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by NJIT Alystair Hemberger WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by NJIT Benjamin Roberts HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:22",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by NJIT."
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "Turnover by WAGNER MITCHELL, Jake.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:51",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by NJIT Christopher Eiselein, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:51",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [00:51] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "3",
+    "time": "00:48",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by NJIT Austin Hahn WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by NJIT Christopher Eiselein WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by NJIT Benjamin Roberts WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [15:00] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "4",
+    "time": "14:59",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by NJIT Isaac Vanzomeren HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by NJIT Alystair Hemberger, SAVE YI, Nate."
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "Ground ball pickup by WAGNER PEMRICK, Drew.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:10",
+    "home_event": "Shot by WAGNER CLARK, Damon HIGH.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:06",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean, SAVE Joey Schwarz.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Penalty on NJIT Sullivan O'Brien (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "12:39",
+    "home_event": "GOAL by WAGNER MCMAHON, Danny (MAN-UP), Assist by CALLAGHAN, Smith, goal number 8 for season.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:39",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER, [12:39] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:48",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean HIT POST.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by NJIT failed."
+  },
+  {
+    "quarter": "4",
+    "time": "11:34",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Turnover by NJIT Joey Schwarz."
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:53",
+    "home_event": "Turnover by WAGNER McDonnell, Benjamin (caused by Gabe Thompson).",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by NJIT Sullivan O'Brien."
+  },
+  {
+    "quarter": "4",
+    "time": "10:48",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by NJIT Dylan Sebastian BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by NJIT Dylan Sebastian."
+  },
+  {
+    "quarter": "4",
+    "time": "09:59",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by NJIT Christopher Eiselein WIDE LEFT."
+  },
+  {
+    "quarter": "4",
+    "time": "09:55",
+    "home_event": "Penalty on WAGNER KROSS, Nico (SLASHING/1:00) Extra-man opportunity.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "Penalty on WAGNER MCMAHON, Tristan (INTERFERENCE/0:30).",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by NJIT Russell Maher (MAN-UP), Assist by Alystair Hemberger, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [09:37] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "GOAL by NJIT Alystair Hemberger, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by WAGNER (on faceoff violation).",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "Turnover by WAGNER CALDWELL,PATRICK.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Clear attempt by NJIT failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:25",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Turnover by NJIT Joey Schwarz."
+  },
+  {
+    "quarter": "4",
+    "time": "07:20",
+    "home_event": "Clear attempt by WAGNER failed.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "Turnover by WAGNER YI, Nate.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "GOAL by NJIT Christopher Eiselein, Assist by JC Echezuria, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Faceoff MERCADO, Daniel vs Isaac Vanzomeren won by NJIT, [06:52] Ground ball pickup by NJIT Isaac Vanzomeren."
+  },
+  {
+    "quarter": "4",
+    "time": "06:37",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Timeout by NJIT."
+  },
+  {
+    "quarter": "4",
+    "time": "05:46",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Turnover by NJIT JC Echezuria (caused by MCMAHON, Tristan)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "Timeout by WAGNER.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:25",
+    "home_event": "Shot by WAGNER McDonnell, Benjamin HIGH.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "GOAL by WAGNER SIEB, Ethan, goal number 9 for season.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by NJIT Dylan Sebastian, SAVE YI, Nate."
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "Ground ball pickup by WAGNER MITCHELL, Jake.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:13",
+    "home_event": "Shot by WAGNER EDWARDS, Griffin, SAVE Joey Schwarz.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Clear attempt by NJIT good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Turnover by NJIT."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "Timeout by WAGNER.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "Shot by WAGNER MCMAHON, Danny, SAVE Joey Schwarz.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Clear attempt by NJIT good."
+  }
+]

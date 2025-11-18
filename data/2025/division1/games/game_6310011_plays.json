@@ -1,0 +1,1990 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Caiozzo,Griffin at goalie for MERR.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Renaud, Luke at goalie for BUCKNELL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by BUCKNELL, [15:00] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "Ground ball pickup by MERR Kruger,Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:38",
+    "home_event": "Shot by MERR Kruger,Colin WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "GOAL by MERR Savino,John (FIRST GOAL), Assist by Covey,Brady.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by MERR, [14:19] Ground ball pickup by MERR Bezrutchenko,Daniel.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "Turnover by MERR Bezrutchenko,Daniel (caused by Brunner, Luke).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by BUCKNELL Davis, Connor HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by BUCKNELL Grandolfo, Peter WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:38",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot clock violation by BUCKNELL."
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Penalty on BUCKNELL Doolan, Cam (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "Shot by MERR Bouwman,Brian, SAVE Renaud, Luke.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by BUCKNELL Doolan, Cam."
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by BUCKNELL Berrigan, Sean, Assist by Kaye, Crispin."
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Johnson,Hunter vs McLoy, Colin won by BUCKNELL, [11:10] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by BUCKNELL Young, John (caused by Johnson,Hunter)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "Ground ball pickup by MERR Johnson,Hunter.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "Turnover by MERR Johnson,Hunter.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by BUCKNELL Pickering, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "1",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by MERR Miceli,Anthony.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "Shot by MERR Silvio,Quinn, SAVE Renaud, Luke.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Hopkins, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "Faceoff Johnson,Hunter vs McLoy, Colin won by MERR, [10:04] Ground ball pickup by MERR Johnson,Hunter.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "Ground ball pickup by MERR Parker,Jack.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:52",
+    "home_event": "Turnover by MERR Parker,Jack (caused by Hopkins, Will).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "Turnover by MERR Noone,Conor.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by BUCKNELL Boykin, Henry WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by BUCKNELL Brunner, Luke, Assist by Davis, Connor."
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by MERR, [08:21] Ground ball pickup by MERR Bezrutchenko,Daniel.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "GOAL by MERR Bezrutchenko,Daniel.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by MERR, [08:08] Ground ball pickup by MERR Bezrutchenko,Daniel.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "Ground ball pickup by MERR Herod,Casey.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "Shot by MERR Covey,Brady WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Timeout by BUCKNELL."
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "GOAL by MERR Covey,Brady, Assist by Bouwman,Brian.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [06:45] Ground ball pickup by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by BUCKNELL Grandolfo, Peter WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by BUCKNELL Meyer, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by MERR, [05:46] Ground ball pickup by MERR Silvio,Quinn.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "Turnover by MERR Harty,Brendan (caused by Germain, Louie).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by BUCKNELL Pickering, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by BUCKNELL Meyer, Michael, Assist by Pickering, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by BUCKNELL Brunner, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "Shot by MERR Kruger,Colin, SAVE Renaud, Luke.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BUCKNELL Miller, Charlie, SAVE Caiozzo,Griffin."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by BUCKNELL Meyer, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BUCKNELL Doolan, Cam WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "GOAL by MERR Herod,Casey, Assist by Noone,Conor.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [03:07] Ground ball pickup by BUCKNELL Concepcion, Ben."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by BUCKNELL Meyer, Michael BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by BUCKNELL Davis, Connor WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by BUCKNELL Hopkins, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL, [02:00] Ground ball pickup by BUCKNELL Zorumski, Leyton."
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by BUCKNELL Meyer, Michael WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by BUCKNELL Doolan, Cam, Assist by Grandolfo, Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL, [00:51] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by BUCKNELL Davis, Connor."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Kulturides,Anthony at goalie for MERR.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by MERR, [15:00] Ground ball pickup by MERR Wyka,Brendan.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "Turnover by MERR Bouwman,Brian (caused by Malas, Grant).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by BUCKNELL Pickering, Will."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:53",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by BUCKNELL Meyer, Michael HIT CROSSBAR."
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by BUCKNELL Kovacs, Owen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by BUCKNELL Meyer, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "Shot by MERR Miceli,Anthony WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "Ground ball pickup by MERR Tyra,Rob.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:29",
+    "home_event": "Timeout by MERR.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "Shot by MERR Bouwman,Brian, SAVE Renaud, Luke.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by BUCKNELL Pickering, Will."
+  },
+  {
+    "quarter": "2",
+    "time": "12:13",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:05",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "Ground ball pickup by MERR Rehder,Cody.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:58",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "Turnover by MERR Rehder,Cody (caused by Meyer, Michael).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Meyer, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by MERR, [11:57] Ground ball pickup by MERR Bezrutchenko,Daniel.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:27",
+    "home_event": "Turnover by MERR Kruger,Colin (caused by Renaud, Luke).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by BUCKNELL Meyer, Michael, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "2",
+    "time": "10:14",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "Shot by MERR Kruger,Colin HIT POST.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "Shot by MERR Bouwman,Brian BLOCKED.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "Ground ball pickup by MERR Covey,Brady.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:22",
+    "home_event": "Shot by MERR Noone,Conor WIDE.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:20",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Turnover by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by BUCKNELL failed."
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "Ground ball pickup by MERR Kruger,Colin.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:16",
+    "home_event": "GOAL by MERR Noone,Conor, Assist by Kruger,Colin.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:16",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs McLoy, Colin won by BUCKNELL, [09:16] Ground ball pickup by BUCKNELL McLoy, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by BUCKNELL McLoy, Colin (caused by Cranney,Matthew)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "Ground ball pickup by MERR Bouwman,Brian.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "Turnover by MERR Bouwman,Brian.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by BUCKNELL Davis, Connor HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by BUCKNELL Grandolfo, Peter WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by BUCKNELL Berrigan, Sean (caused by Wyka,Brendan)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "Ground ball pickup by MERR Kulturides,Anthony.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "Turnover by MERR Kulturides,Anthony (caused by Pickering, Will).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by BUCKNELL Brunner, Luke (caused by Wyka,Brendan)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "Ground ball pickup by MERR Betner,Reid.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:11",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "Turnover by MERR Noone,Conor.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by BUCKNELL Davis, Connor, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Turnover by MERR Silvio,Quinn.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Kovacs, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "Faceoff Johnson,Hunter vs McLoy, Colin won by MERR, [04:44] Ground ball pickup by MERR Johnson,Hunter.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "GOAL by MERR Noone,Conor, Assist by Harty,Brendan.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "Faceoff Johnson,Hunter vs McLoy, Colin won by MERR.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "Shot by MERR Savino,John WIDE.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Shot by MERR Herod,Casey, SAVE Renaud, Luke.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:48",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by BUCKNELL Meyer, Michael WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:03",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by BUCKNELL Davis, Connor, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "Timeout by MERR.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by BUCKNELL Kovacs, Owen, Assist by Panetti, Anthony."
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL."
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Timeout by BUCKNELL."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [15:00] Ground ball pickup by BUCKNELL Concepcion, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "14:47",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by BUCKNELL Meyer, Michael HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:17",
+    "home_event": "Shot by MERR Herod,Casey BLOCKED.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:57",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by BUCKNELL Hopkins, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by BUCKNELL Davis, Connor, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "13:48",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by BUCKNELL Tully, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "Shot by MERR Silvio,Quinn, SAVE Renaud, Luke.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:28",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by BUCKNELL Renaud, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "13:25",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by BUCKNELL Grandolfo, Peter BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "12:35",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by BUCKNELL Davis, Connor."
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by BUCKNELL Berrigan, Sean, Assist by Hopkins, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [12:09] Ground ball pickup by BUCKNELL Meyer, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Meyer, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by MERR, [11:42] Ground ball pickup by MERR Cranney,Matthew.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "Turnover by MERR Kruger,Colin.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by BUCKNELL Meyer, Michael, Assist by Boykin, Henry."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL, [10:34] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by BUCKNELL Grandolfo, Peter."
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by BUCKNELL Doolan, Cam, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Ground ball pickup by MERR Rehder,Cody.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:06",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:46",
+    "home_event": "Ground ball pickup by MERR Kruger,Colin.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "Turnover by MERR Kruger,Colin (caused by Talarico, George).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by BUCKNELL Talarico, George."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by BUCKNELL Meyer, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:10",
+    "home_event": "Turnover by MERR Herod,Casey.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:06",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by BUCKNELL Talarico, George."
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by BUCKNELL Meyer, Michael, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "07:51",
+    "home_event": "Ground ball pickup by MERR Kulturides,Anthony.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "Turnover by MERR Kulturides,Anthony.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by BUCKNELL Davis, Connor."
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "Ground ball pickup by MERR Cranney,Matthew.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:12",
+    "home_event": "Turnover by MERR Cranney,Matthew (caused by Germain, Louie).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:00",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by BUCKNELL Germain, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "06:51",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by BUCKNELL Begier, Chris."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "Turnover by MERR Silvio,Quinn.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by BUCKNELL Germain, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "GOAL by BUCKNELL Hopkins, Will, Assist by Germain, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [06:17] Ground ball pickup by BUCKNELL Concepcion, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Meyer, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Faceoff Johnson,Hunter vs Edwards, Brandon won by BUCKNELL, [05:23] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Brunner, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by BUCKNELL, [04:58] Ground ball pickup by BUCKNELL Panetti, Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Turnover by BUCKNELL Panetti, Anthony (caused by Stockton,Evan)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by MERR Cranney,Matthew.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Turnover by MERR Noone,Conor (caused by Hau, Ollie).",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "GOAL by BUCKNELL Grandolfo, Peter."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Faceoff Bezrutchenko,Daniel vs Concepcion, Ben won by MERR, [03:33] Ground ball pickup by MERR Silvio,Quinn.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:57",
+    "home_event": "Shot by MERR Bouwman,Brian WIDE.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "Turnover by MERR Kruger,Colin (caused by Germain, Louie).",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:33",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "Penalty on MERR Wyka,Brendan (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "Shot by BUCKNELL Kovacs, Owen WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "GOAL by BUCKNELL Hopkins, Will (MAN-UP), Assist by Berrigan, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [01:34] Ground ball pickup by BUCKNELL Young, John."
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "Turnover by MERR Stockton,Evan.",
+    "score": "6-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "Ground ball pickup by BUCKNELL Talarico, George."
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "6-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "GOAL by BUCKNELL Davis, Connor, Assist by Meyer, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Faceoff Johnson,Hunter vs Concepcion, Ben won by BUCKNELL, [00:24] Ground ball pickup by BUCKNELL Concepcion, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Penalty on MERR Cranney,Matthew (SLASHING/1:00) Extra-man opportunity.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Day, Parker at goalie for BUCKNELL."
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Shot by BUCKNELL Berrigan, Sean, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "14:21",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Ground ball pickup by BUCKNELL Hopkins, Will."
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "GOAL by BUCKNELL Meyer, Michael (MAN-UP), Assist by Doolan, Cam."
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Edwards, Brandon won by BUCKNELL, [14:22] Ground ball pickup by BUCKNELL Edwards, Brandon."
+  },
+  {
+    "quarter": "4",
+    "time": "14:09",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Turnover by BUCKNELL Brennan, Luke (caused by Izzo,Antonio)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "Shot by MERR Izzo,Antonio WIDE.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:31",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Penalty on BUCKNELL Miller, Charlie (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "13:31",
+    "home_event": "Shot by MERR Harty,Brendan WIDE.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:01",
+    "home_event": "Turnover by MERR Noone,Conor (caused by Pickering, Will).",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Ground ball pickup by BUCKNELL Malas, Grant."
+  },
+  {
+    "quarter": "4",
+    "time": "12:54",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:21",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Turnover by BUCKNELL Panetti, Anthony (caused by Cranney,Matthew)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "Ground ball pickup by MERR Cranney,Matthew.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "Turnover by MERR Parker,Jack.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:14",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Shot by BUCKNELL Boykin, Henry WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:54",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Shot by BUCKNELL Panetti, Anthony, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Ground ball pickup by MERR Silvio,Quinn.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:13",
+    "home_event": "Shot by MERR Savino,John, SAVE Day, Parker.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Turnover by MERR Savino,John (caused by Pickering, Will).",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Ground ball pickup by BUCKNELL Lewis, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Clear attempt by BUCKNELL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Turnover by BUCKNELL Lewis, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "Shot by MERR Silvio,Quinn, SAVE Day, Parker.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:22",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:47",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Shot by BUCKNELL Brennan, Luke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Shot by BUCKNELL Kaye, Crispin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Shot by BUCKNELL Dudas, Jack, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:27",
+    "home_event": "Shot by MERR Noone,Conor BLOCKED.",
+    "score": "6-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "6-21",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "GOAL by BUCKNELL Kovacs, Owen, Assist by Panetti, Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Faceoff Bezrutchenko,Daniel vs Edwards, Brandon won by BUCKNELL, [06:40] Ground ball pickup by BUCKNELL Latchford, Alex."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Clear attempt by BUCKNELL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "06:10",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Turnover by BUCKNELL Dudas, Jack (caused by Silvio,Quinn)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:04",
+    "home_event": "Ground ball pickup by MERR Wyka,Brendan.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:38",
+    "home_event": "Shot by MERR Kruger,Colin, SAVE Day, Parker.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Ground ball pickup by BUCKNELL Garrigan, Graham."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Shot by BUCKNELL Kaye, Crispin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Timeout by BUCKNELL."
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "Shot by MERR Savino,John WIDE.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:35",
+    "home_event": "Shot by MERR Kruger,Colin BLOCKED.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "Shot by MERR Bouwman,Brian WIDE.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "Shot by MERR Covey,Brady BLOCKED.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "Ground ball pickup by MERR Bouwman,Brian.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "Shot by MERR Harty,Brendan, SAVE Day, Parker.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "Shot by MERR Bouwman,Brian, SAVE Day, Parker.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Turnover by BUCKNELL Kaye, Crispin (caused by Butters,Colin)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "Ground ball pickup by MERR Butters,Colin.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "Clear attempt by MERR good.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "Turnover by MERR Bouwman,Brian.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Clear attempt by BUCKNELL good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:44",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Turnover by BUCKNELL Kerwick, Sean (caused by Wyka,Brendan)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Ground ball pickup by MERR Joyal,Cooper.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:37",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Herron, George at goalie for BUCKNELL."
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "Turnover by MERR Wyka,Brendan.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Shot by BUCKNELL Panetti, Anthony, SAVE Kulturides,Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "Clear attempt by MERR failed.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "Turnover by MERR.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "GOAL by BUCKNELL Kovacs, Owen, Assist by Brennan, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "Faceoff Johnson,Hunter vs Pepe, Steven won by MERR.",
+    "score": "6-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "GOAL by MERR Tyra,Rob, Assist by Harty,Brendan.",
+    "score": "7-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Faceoff Johnson,Hunter vs Pepe, Steven won by BUCKNELL, [01:03] Ground ball pickup by BUCKNELL Garrigan, Graham."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Shot by BUCKNELL Brennan, Luke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Shot by BUCKNELL Kerwick, Sean WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by MERR Kulturides,Anthony.",
+    "score": "7-23",
+    "away_event": ""
+  }
+]

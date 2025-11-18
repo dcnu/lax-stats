@@ -1,0 +1,1689 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Jared Paquette at goalie for YALE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Knust, Wyatt at goalie for COR."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [15:00] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "14:52",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by COR Kirst, CJ, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "1",
+    "time": "14:39",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "Turnover by YALE Leo Johnson.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:14",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by COR Firth, Willem (FIRST GOAL), Assist by Kirst, CJ, goal number 25 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:14",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [13:14] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by COR Luzzi, Brian, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [12:49] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "12:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by COR Goldstein, Ryan, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "1",
+    "time": "11:33",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Long, Michael, goal number 62 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:33",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [11:33] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "Shot by YALE Leo Johnson, SAVE Knust, Wyatt.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "Shot by YALE Francis Keneally HIGH.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "Shot by YALE Leo Johnson WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "Shot by YALE Chris Lyons HIT POST.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "Shot by YALE Peter Moynihan, SAVE Knust, Wyatt.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "GOAL by YALE Carson Kuhl, Assist by Peter Moynihan, goal number 5 for season.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE (on faceoff violation).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "Shot by YALE Chris Lyons HIGH.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "Turnover by YALE Leo Johnson (caused by Singer, Jayson).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "Shot by YALE Max Krevsky, SAVE Knust, Wyatt.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by COR Singer, Jayson."
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by COR Goldstein, Ryan, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "Shot by YALE Chris Lyons, SAVE Knust, Wyatt.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by COR Dooley, Matt, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "Faceoff Nick Wehmeyer vs Melkonian, Michael won by YALE, [06:36] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "Shot by YALE Johnny Keib HIGH.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "Shot by YALE Brad Sharp, SAVE Knust, Wyatt.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "GOAL by YALE Max Krevsky, goal number 10 for season.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [05:03] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "Clear attempt by YALE failed.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "Turnover by YALE Nick Wehmeyer (caused by Kirst, CJ).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by COR Goldstein, Ryan, Assist by Kirst, CJ, goal number 27 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by YALE, [04:46] Ground ball pickup by YALE Christian Johnson.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "Turnover by YALE Peter Moynihan.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by COR Schwartz, Walker, Assist by Kirst, CJ, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "Faceoff Nick Wehmeyer vs Melkonian, Michael won by YALE.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "GOAL by YALE Max Krevsky, goal number 11 for season.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [03:13] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "Shot by YALE Cole Cashion HIT POST.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "Ground ball pickup by YALE Cole Cashion.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Shot by YALE Leo Johnson WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "Shot by YALE Chris Lyons BLOCKED.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "Shot by YALE Leo Johnson, SAVE Knust, Wyatt.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Ground ball pickup by YALE Connor Gately.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Lightning delay at 4:27 pm"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Game resumed at 5:33 with Yale ball after delay of 1:06"
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "GOAL by YALE Brad Sharp, goal number 12 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [01:28] Ground ball pickup by YALE Jack Stuzin.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "GOAL by YALE Chris Lyons, Assist by Connor Gately, goal number 29 for season.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [00:31] Ground ball pickup by COR Davis, Christopher."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by COR Goldstein, Ryan, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by YALE Connor Gately, SAVE Knust, Wyatt.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [15:00] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by COR Kirst, CJ HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by COR Long, Michael, Assist by Goldstein, Ryan, goal number 22 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [14:00] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "13:52",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Goldstein, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:20",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by COR Long, Michael, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:32",
+    "home_event": "Shot by YALE Connor Gately, SAVE Knust, Wyatt.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "Ground ball pickup by YALE Cole Cashion.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:23",
+    "home_event": "GOAL by YALE Cole Cashion, goal number 14 for season.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:23",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [12:23] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by COR Lamb, TJ."
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Long, Michael, goal number 63 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff Nick Wehmeyer vs Melkonian, Michael won by COR, [11:21] Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by COR Gilmartin, Luke, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "2",
+    "time": "10:46",
+    "home_event": "Ground ball pickup by YALE Jared Paquette.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "Clear attempt by YALE failed.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "Turnover by YALE Tristan Ghosh (caused by Kirst, CJ).",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by COR Firth, Willem."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "GOAL by COR Goldstein, Ryan, Assist by Long, Michael, goal number 28 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [09:58] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by COR Cascadden, Jack, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "2",
+    "time": "09:50",
+    "home_event": "Ground ball pickup by YALE Patrick Pisano.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:46",
+    "home_event": "Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Ground ball pickup by YALE Johnny Keib.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "Clear attempt by YALE failed.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:35",
+    "home_event": "Turnover by YALE Johnny Keib (caused by Wallace, Walker).",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by COR Long, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "GOAL by COR Goldstein, Ryan, goal number 29 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Machado Rodriguez vs Melkonian, Michael won by COR, [08:27] Ground ball pickup by COR Melkonian, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by COR Firth, Willem, Assist by Goldstein, Ryan, goal number 26 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:09",
+    "home_event": "Timeout by YALE.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [08:09] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by COR Kelleher, Hugh, goal number 16 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "Faceoff Nick Wehmeyer vs Melkonian, Michael won by YALE, [07:50] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by YALE Chris Lyons.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Shot by YALE Chris Lyons, SAVE Knust, Wyatt.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:55",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "2",
+    "time": "06:33",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by COR Dooley, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "Shot by YALE Leo Johnson, SAVE Knust, Wyatt.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:34",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:10",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by COR Kelleher, Hugh WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by COR Kirst, CJ (caused by Patrick Pisano)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:26",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "GOAL by YALE Peter Moynihan, goal number 10 for season.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [04:04] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:56",
+    "home_event": "Turnover by YALE Nick Wehmeyer (caused by Cascadden, Jack).",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "03:13",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:52",
+    "home_event": "Ground ball pickup by YALE Brad Sharp.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "GOAL by YALE Cole Cashion, goal number 15 for season.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by YALE, [02:43] Ground ball pickup by YALE Machado Rodriguez.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "Shot by YALE Johnny Keib, SAVE Knust, Wyatt.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Ground ball pickup by YALE Chris Lyons.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "Shot by YALE Johnny Keib WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "GOAL by YALE Chris Lyons, Assist by Leo Johnson, goal number 30 for season.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "Shot by YALE Leo Johnson WIDE.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Penalty on COR Reeder, Duke (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "14:46",
+    "home_event": "Ground ball pickup by YALE Brad Sharp.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "GOAL by YALE Max Krevsky (MAN-UP), Assist by Brad Sharp, goal number 12 for season.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [14:30] Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "3",
+    "time": "14:12",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "3",
+    "time": "13:19",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by COR Long, Michael, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Ground ball pickup by COR Dalton, Andrew."
+  },
+  {
+    "quarter": "3",
+    "time": "13:15",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by COR Dalton, Andrew HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "13:12",
+    "home_event": "Ground ball pickup by YALE Luke Michalik.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:25",
+    "home_event": "GOAL by YALE Leo Johnson, goal number 26 for season.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [12:16] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by COR Cascadden, Jack BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Ground ball pickup by YALE Tristan Ghosh.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:00",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "Turnover by YALE.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:48",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by COR Lamb, TJ, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Ground ball pickup by COR Lamb, TJ."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "GOAL by COR Long, Michael, Assist by Goldstein, Ryan, goal number 23 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "Faceoff Machado Rodriguez vs Melkonian, Michael won by YALE, [11:33] Ground ball pickup by YALE Machado Rodriguez.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "Turnover by YALE Machado Rodriguez.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:12",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "Shot by YALE Chris Lyons, SAVE Knust, Wyatt.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by COR Luzzi, Brian (caused by Connor Gately)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "Ground ball pickup by YALE Connor Gately.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "Shot by YALE Cole Cashion WIDE.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:33",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "Turnover by YALE Leo Johnson.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:26",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by COR Kirst, CJ."
+  },
+  {
+    "quarter": "3",
+    "time": "06:45",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "GOAL by COR Waldman, Ryan, Assist by Kirst, CJ, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:45",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [06:45] Ground ball pickup by COR Davis, Christopher."
+  },
+  {
+    "quarter": "3",
+    "time": "06:03",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "Turnover by COR Kirst, CJ (caused by Patrick Pisano)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "Ground ball pickup by YALE Jared Paquette.",
+    "score": "11-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "11-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:15",
+    "home_event": "GOAL by YALE Johnny Keib, Assist by Leo Johnson, goal number 13 for season.",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:15",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [05:15] Ground ball pickup by YALE Hunter Bowen.",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Turnover by YALE Konrad Miklaszewski (caused by Schwartz, Walker).",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "Ground ball pickup by COR Schwartz, Walker."
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "GOAL by COR Goldstein, Ryan, goal number 30 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [04:07] Ground ball pickup by COR Davis, Christopher."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "GOAL by COR Long, Michael, Assist by Kirst, CJ, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [03:39] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Shot by COR Kelleher, Hugh HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "02:52",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Ground ball pickup by COR Long, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Turnover by COR Long, Michael (caused by Jack Stuzin)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "Ground ball pickup by YALE Jack Stuzin.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "Shot by YALE Chris Lyons, SAVE Knust, Wyatt.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Long, Michael, goal number 64 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [01:45] Ground ball pickup by YALE Connor Gately.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:00",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Lightning delay at 6:50 pm"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Game resumed at 7:53 with Yale ball after a delay of 1:03"
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Shot by YALE Johnny Keib BLOCKED.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "Turnover by YALE Leo Johnson (caused by Wallace, Walker).",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Ground ball pickup by COR Dooley, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Shot by COR Staub, Brendan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by YALE, [15:00] Ground ball pickup by YALE Nick Wehmeyer.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "Shot by YALE Max Krevsky, SAVE Knust, Wyatt.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Shot by YALE Brad Sharp, SAVE Knust, Wyatt.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Penalty on YALE Brad Sharp (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "12-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "",
+    "score": "12-17",
+    "away_event": "Shot by COR Kirst, CJ, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "12-18",
+    "away_event": "GOAL by COR Goldstein, Ryan (MAN-UP), Assist by Firth, Willem, goal number 31 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "12-18",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [11:38] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "12-18",
+    "away_event": "Shot by COR Long, Michael WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:47",
+    "home_event": "",
+    "score": "12-19",
+    "away_event": "GOAL by COR Dalton, Andrew, Assist by Kirst, CJ, goal number 14 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:47",
+    "home_event": "",
+    "score": "12-19",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "12-19",
+    "away_event": "Shot by COR Waldman, Ryan HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "GOAL by COR Long, Michael, Assist by Waldman, Ryan, goal number 25 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "Faceoff Machado Rodriguez vs Cascadden, Jack won by COR, [09:48] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "Shot by COR Goldstein, Ryan BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:18",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "Shot by COR Kirst, CJ, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Clear attempt by YALE failed.",
+    "score": "12-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Turnover by YALE Christian Johnson (caused by Davis, Christopher).",
+    "score": "12-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "Ground ball pickup by COR Davis, Christopher."
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "",
+    "score": "12-20",
+    "away_event": "Turnover by COR Firth, Willem."
+  },
+  {
+    "quarter": "4",
+    "time": "07:28",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "12-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "Shot by YALE Chris Lyons WIDE.",
+    "score": "12-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:54",
+    "home_event": "GOAL by YALE Connor Gately, Assist by Johnny Keib, goal number 1 for season.",
+    "score": "13-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:54",
+    "home_event": "",
+    "score": "13-20",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:54",
+    "home_event": "",
+    "score": "13-20",
+    "away_event": "Faceoff Nick Wehmeyer vs Cascadden, Jack won by COR, [06:54] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "13-20",
+    "away_event": "Shot by COR Kirst, CJ, SAVE Jared Paquette."
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "Ground ball pickup by YALE Jack Stuzin.",
+    "score": "13-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "Clear attempt by YALE failed.",
+    "score": "13-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "Turnover by YALE Jack Stuzin (caused by Goldstein, Ryan).",
+    "score": "13-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "",
+    "score": "13-21",
+    "away_event": "GOAL by COR Kelleher, Hugh, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "Penalty on YALE Patrick Pisano (SLASHING/1:00) Extra-man opportunity.",
+    "score": "13-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "",
+    "score": "13-21",
+    "away_event": "Faceoff Nick Wehmeyer vs Ricci, Sam won by COR, [04:21] Ground ball pickup by COR Smith, Kyle."
+  },
+  {
+    "quarter": "4",
+    "time": "04:11",
+    "home_event": "",
+    "score": "13-21",
+    "away_event": "Turnover by COR Smith, Kyle."
+  },
+  {
+    "quarter": "4",
+    "time": "03:10",
+    "home_event": "GOAL by YALE Brad Sharp, Assist by Chris Lyons, goal number 13 for season.",
+    "score": "14-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:10",
+    "home_event": "",
+    "score": "14-21",
+    "away_event": "Faceoff Nick Wehmeyer vs Ricci, Sam won by COR, [03:10] Ground ball pickup by COR Ricci, Sam."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "Penalty on YALE Max Krevsky (SLASHING/1:00).",
+    "score": "14-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "Timeout by YALE.",
+    "score": "14-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "14-21",
+    "away_event": "Tully, Matthew at goalie for COR."
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "",
+    "score": "14-21",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "Clear attempt by YALE good.",
+    "score": "14-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Shot by YALE Leo Johnson, SAVE Tully, Matthew.",
+    "score": "14-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "14-21",
+    "away_event": "Clear attempt by COR good."
+  }
+]

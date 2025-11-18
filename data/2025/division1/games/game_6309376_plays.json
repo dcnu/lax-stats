@@ -1,0 +1,1507 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Donnelly, Brendan at goalie for DREXEL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Kennedy, Shea at goalie for HOFSTRA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "Shot by DREXEL Lyman, Pat HIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "GOAL by DREXEL Crawford, Witt (FIRST GOAL), Assist by Joyner, Jack, goal number 20 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [14:12] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by HOFSTRA Bogardus, Drew BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by HOFSTRA Jones, Rory HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Kammar, Liam)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "Shot by DREXEL Tulio, Alec, SAVE Kennedy, Shea.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by HOFSTRA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by HOFSTRA Delaney, Will (caused by Gabriele, Joshua)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "Shot by DREXEL Martin, Matt WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE Kennedy, Shea.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:38",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by HOFSTRA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Zadell, Caden)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "GOAL by DREXEL Joyner, Jack, goal number 12 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL, [09:00] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "GOAL by DREXEL Knight, Owen, Assist by Hooley, Conor, goal number 4 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL (on faceoff violation).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Shot by DREXEL Joyner, Jack WIDE.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "Turnover by DREXEL Tulio, Alec.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by HOFSTRA Delaney, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HOFSTRA Jones, Rory WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HOFSTRA Mollica, Anthony WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "Turnover by DREXEL Lyman, Pat.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by HOFSTRA Bogardus, Drew."
+  },
+  {
+    "quarter": "1",
+    "time": "05:37",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HOFSTRA Bogardus, Drew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "Turnover by DREXEL Crawford, Witt.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HOFSTRA Natalie, Trevor WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HOFSTRA Parkes, Trey, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "Shot by DREXEL Hooley, Conor HIT POST.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "Turnover by DREXEL Hooley, Conor.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by HOFSTRA Natalie, Trevor, goal number 20 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [02:42] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "Shot by DREXEL Semple, Max WIDE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Hooley, Conor, goal number 26 for season.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [01:31] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Shot by DREXEL Crawford, Witt BLOCKED.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by HOFSTRA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Turnover by HOFSTRA Kennedy, Shea (caused by O'Brien, Kevin)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Turnover by DREXEL Zadell, Caden.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [15:00] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Joyner, Jack, goal number 27 for season.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL, [14:08] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "Turnover by DREXEL Lyman, Pat.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by HOFSTRA Mollica, Anthony."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "Turnover by DREXEL Kammar, Liam.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:17",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by HOFSTRA Jones, Rory, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by HOFSTRA Parkes, Trey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "GOAL by HOFSTRA Parkes, Trey, Assist by Natalie, Trevor, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL, [12:09] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "Shot by DREXEL Kelly, Gavin, SAVE Kennedy, Shea.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Draw control by HOFSTRA Bogardus, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by HOFSTRA Jones, Rory, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:50",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by HOFSTRA Natalie, Trevor."
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by HOFSTRA Madsen, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "GOAL by DREXEL Martin, Matt, goal number 8 for season.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [08:47] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Turnover by HOFSTRA Parkes, Trey."
+  },
+  {
+    "quarter": "2",
+    "time": "07:58",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Knight, Owen, goal number 28 for season.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [07:51] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "Ground ball pickup by DREXEL Luthy, Teddy.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:36",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE Kennedy, Shea.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "Ground ball pickup by DREXEL Hooley, Conor.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:07",
+    "home_event": "Shot by DREXEL Semple, Max, SAVE Kennedy, Shea.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:33",
+    "home_event": "GOAL by DREXEL Crawford, Witt, Assist by Tulio, Alec, goal number 21 for season.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:33",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Timeout by HOFSTRA."
+  },
+  {
+    "quarter": "2",
+    "time": "05:33",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:50",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "GOAL by HOFSTRA Natalie, Trevor, goal number 21 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:50",
+    "home_event": "Faceoff Layton, Trent vs Myers, Cole won by DREXEL, [04:50] Ground ball pickup by DREXEL Wallace, Jack.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Turnover by DREXEL O'Brien, Kevin.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by HOFSTRA Kiernan, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by HOFSTRA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "04:09",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Turnover by HOFSTRA Kennedy, Shea."
+  },
+  {
+    "quarter": "2",
+    "time": "03:29",
+    "home_event": "Turnover by DREXEL Tulio, Alec (caused by Vilas, Matt).",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by HOFSTRA Clarke, Austin."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by HOFSTRA Bogardus, Drew WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by HOFSTRA Jones, Rory WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by HOFSTRA Bogardus, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot clock violation by HOFSTRA."
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:45",
+    "home_event": "Timeout by DREXEL.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "GOAL by DREXEL Kelly, Gavin, goal number 5 for season.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [01:06] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:56",
+    "home_event": "Timeout by DREXEL.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Turnover by DREXEL Hooley, Conor.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Shot by HOFSTRA Madsen, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [15:00] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "GOAL by DREXEL Kelly, Gavin, goal number 6 for season.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [13:58] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:16",
+    "home_event": "Shot by DREXEL Luthy, Teddy, SAVE Kennedy, Shea.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:14",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Ground ball pickup by HOFSTRA Kiernan, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by HOFSTRA Parkes, Trey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by HOFSTRA Bogardus, Drew, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by HOFSTRA Parkes, Trey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "GOAL by DREXEL Hooley, Conor, Assist by Farrell, Will, goal number 16 for season.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by HOFSTRA (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:21",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Shot by HOFSTRA Jones, Rory, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:26",
+    "home_event": "Shot by DREXEL Joyner, Jack, SAVE Kennedy, Shea.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:25",
+    "home_event": "Ground ball pickup by DREXEL Semple, Max.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "GOAL by DREXEL Semple, Max, goal number 29 for season.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "Faceoff Layton, Trent vs Myers, Cole won by DREXEL.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "Turnover by DREXEL Hooley, Conor.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by HOFSTRA Parkes, Trey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:12",
+    "home_event": "Ground ball pickup by DREXEL Gucwa, Collin.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:03",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "Shot by DREXEL Crawford, Witt, SAVE Kennedy, Shea.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "Ground ball pickup by DREXEL Kammar, Liam.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:28",
+    "home_event": "Shot by DREXEL Crawford, Witt WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by HOFSTRA Varona, Lorenzo, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "Shot by DREXEL Joyner, Jack WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "Turnover by DREXEL Hooley, Conor.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by HOFSTRA Jones, Rory, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by HOFSTRA Parkes, Trey, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:01",
+    "home_event": "Shot by DREXEL Luthy, Teddy WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by HOFSTRA Hollar, Cayden."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by HOFSTRA."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:30",
+    "home_event": "Turnover by DREXEL Bradley, Nate.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:26",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "GOAL by HOFSTRA Cooling, Blake, Assist by Mollica, Anthony, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "Faceoff Shortley, Aidan vs Niesman, Benjamin won by DREXEL, [03:21] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "Turnover by DREXEL Joyner, Jack.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Jones, Rory WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Mollica, Anthony HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "Ground ball pickup by DREXEL Nolan, Jack.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:36",
+    "home_event": "Shot by DREXEL Joyner, Jack WIDE.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "Shot clock violation by DREXEL.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Madsen, John, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Turnover by HOFSTRA Mollica, Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [15:00] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Natalie, Trevor WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Natalie, Trevor, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "13:52",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Ground ball pickup by HOFSTRA Parkes, Trey."
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by HOFSTRA Jones, Rory, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "GOAL by DREXEL Luthy, Teddy, Assist by Joyner, Jack, goal number 2 for season.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [13:22] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "12:45",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Turnover by HOFSTRA Bogardus, Drew."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "Shot by DREXEL Joyner, Jack, SAVE Kennedy, Shea.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Ground ball pickup by HOFSTRA Kennedy, Shea."
+  },
+  {
+    "quarter": "4",
+    "time": "11:43",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Ground ball pickup by HOFSTRA Major, Kaden."
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Shot by HOFSTRA Parkes, Trey HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Ground ball pickup by HOFSTRA Mollica, Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "09:55",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Shot by HOFSTRA Mollica, Anthony BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by DREXEL Kammar, Liam.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:49",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:38",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Crawford, Witt, goal number 30 for season.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:38",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [08:38] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "08:08",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Shot by HOFSTRA Natalie, Trevor WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:06",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Shot by HOFSTRA DeYoung, Joey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:42",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Shot by HOFSTRA Natalie, Trevor BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Shot by HOFSTRA Mollica, Anthony, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:08",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Turnover by HOFSTRA DeYoung, Joey."
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:25",
+    "home_event": "Shot by DREXEL Plotts, Tristan, SAVE Kennedy, Shea.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:22",
+    "home_event": "Turnover by DREXEL Crawford, Witt.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:13",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "GOAL by HOFSTRA Madsen, John, goal number 24 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:13",
+    "home_event": "Faceoff Shortley, Aidan vs Myers, Cole won by DREXEL, [06:13] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "Shot clock violation by DREXEL.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:38",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Ground ball pickup by HOFSTRA Madsen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Shot by HOFSTRA Sakowski, Jack WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Shot clock violation by HOFSTRA."
+  },
+  {
+    "quarter": "4",
+    "time": "02:19",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Penalty on HOFSTRA Bogardus, Drew (DELAY OF GAME/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:19",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Penalty on HOFSTRA Kiernan, Ryan (PUSHING/0:30)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "Shot clock violation by DREXEL.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Clear attempt by HOFSTRA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "GOAL by HOFSTRA Natalie, Trevor, Assist by Jones, Rory, goal number 22 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Faceoff Shortley, Aidan vs Myers, Cole won by HOFSTRA, [00:50] Ground ball pickup by HOFSTRA Myers, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Shot by HOFSTRA Bogardus, Drew, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Ground ball pickup by HOFSTRA Parkes, Trey."
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Turnover by HOFSTRA Mollica, Anthony (caused by Bradley, Nate)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:20",
+    "home_event": "Ground ball pickup by DREXEL Bradley, Nate.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "14-6",
+    "away_event": ""
+  }
+]

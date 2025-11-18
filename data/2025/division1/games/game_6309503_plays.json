@@ -1,0 +1,1808 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Graham Stevens at goalie for HARV.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "McCool, Jimmy at goalie for SU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [15:00] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by SU Hiltz, Owen (FIRST GOAL), Assist by Leo, Michael, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [14:16] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by SU Hiltz, Owen HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by SU Hiltz, Owen, Assist by Birtwistle, Jackson, goal number 11 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [13:17] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by SU Thomson, Finn, Assist by Spallina, Joey, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "Timeout by HARV.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "Faceoff Jackson Henehan vs Mullen, John won by HARV, [12:55] Ground ball pickup by HARV Owen Guest.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:53",
+    "home_event": "Shot by HARV Francisco Cortes WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "Shot by HARV Andrew Perry WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "Shot clock violation by HARV.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by SU Hiltz, Owen (caused by Joost de Koning)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "Ground ball pickup by HARV Joost de Koning.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "Turnover by HARV Ray Dearth (caused by Grace, Michael).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by SU English, Sam, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [09:46] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by SU English, Sam, Assist by Hiltz, Owen, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "Faceoff Jackson Henehan vs Richiusa, Johnny won by HARV, [09:11] Ground ball pickup by HARV Jackson Henehan.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "Turnover by HARV Jackson Henehan (caused by Grace, Michael).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by SU Grace, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by SU Figueiras, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by SU Hiltz, Owen HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "Ground ball pickup by HARV Martin Nelson.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "GOAL by HARV Owen Gaffney, Assist by Sam King, goal number 5 for season.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [07:01] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SU Hottle, Wyatt, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "Ground ball pickup by HARV Logan Darrin.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "Shot by HARV Sam King HIGH.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "Shot by HARV Francisco Cortes, SAVE McCool, Jimmy.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by SU Spallina, Joey."
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "Shot by HARV Teddy Malone, SAVE McCool, Jimmy.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Penalty on SU Kuczynski, Chuck (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "GOAL by HARV Andrew Perry (MAN-UP), Assist by Logan Ip, goal number 2 for season.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [03:49] Ground ball pickup by SU Rice, Carter."
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by SU Leo, Michael BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "Ground ball pickup by HARV Martin Nelson.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "GOAL by HARV Teddy Malone, Assist by Jack Speidell, goal number 6 for season.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Wyatt Wiggins vs Mullen, John won by SU, [02:19] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by SU Birtwistle, Jackson WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by SU McCarthy, Tyler WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by SU Spallina, Joey, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by SU Birtwistle, Jackson BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "00:46",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by SU Thomson, Finn."
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by SU Spallina, Joey, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Clear attempt by HARV failed.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "Turnover by HARV Martin Nelson (caused by Rice, Carter).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by SU Rice, Carter."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by SU Thomson, Finn, Assist by Spallina, Joey, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:45",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by SU Leo, Michael, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:48",
+    "home_event": "GOAL by HARV Jack Speidell, goal number 9 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:48",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by SU Spallina, Joey, Assist by Hiltz, Owen, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Sean Jordan vs Mullen, John won by SU, [13:21] Ground ball pickup by SU McCarthy, Tyler."
+  },
+  {
+    "quarter": "2",
+    "time": "12:45",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by SU Deere, Trey, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "12:38",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "GOAL by HARV Miles Botkiss, Assist by Teddy Malone, goal number 3 for season.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [12:18] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SU Mullen, John, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SU Thomson, Finn, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "Shot by HARV Jack Speidell, SAVE McCool, Jimmy.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:20",
+    "home_event": "Ground ball pickup by HARV Miles Botkiss.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "Shot by HARV Miles Botkiss, SAVE McCool, Jimmy.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SU Birtwistle, Jackson, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by HARV Joost de Koning.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Turnover by HARV Logan Ip.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Turnover by SU Grace, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "08:37",
+    "home_event": "Clear attempt by HARV failed.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "Turnover by HARV Joost de Koning (caused by Grace, Michael).",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by SU Grace, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by SU Thomson, Finn, goal number 11 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [07:41] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SU Leo, Michael, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "Ground ball pickup by HARV Ray Dearth.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:34",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:11",
+    "home_event": "Shot by HARV Owen Gaffney BLOCKED.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "Ground ball pickup by HARV Sam King.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "Timeout by HARV.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:35",
+    "home_event": "GOAL by HARV Andrew Perry, Assist by Miles Botkiss, goal number 3 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:35",
+    "home_event": "Faceoff Owen Umansky vs Mullen, John won by HARV, [05:35] Ground ball pickup by HARV Teddy Malone.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "Shot by HARV Teddy Malone WIDE.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "GOAL by HARV John Aurandt, goal number 2 for season.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [04:46] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by SU Hiltz, Owen (caused by Charlie Muller)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "Ground ball pickup by HARV Graham Stevens.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "Clear attempt by HARV failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "Turnover by HARV Graham Stevens (caused by Spallina, Joey).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Timeout by SU."
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by SU Thomson, Finn, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Shot by HARV Charlie Muller, SAVE McCool, Jimmy.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "Ground ball pickup by HARV Sean Jordan.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Shot by HARV Sean Jordan WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "Penalty on HARV Jack Speidell (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by SU Hiltz, Owen (MAN-UP), Assist by Spallina, Joey, goal number 12 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by SU Leo, Michael, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [01:47] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by SU Mullen, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "GOAL by HARV Sam King, goal number 4 for season.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [00:48] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "00:21",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by SU English, Sam BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SU Hiltz, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [15:00] Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:18",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by SU Spallina, Joey, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "Ground ball pickup by HARV Martin Nelson.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "Shot by HARV Sam King BLOCKED.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "Turnover by HARV Teddy Malone.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:37",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SU Hiltz, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "12:24",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Turnover by SU Spallina, Joey."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by HARV Graham Stevens.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "GOAL by HARV Logan Ip, Assist by John Aurandt, goal number 3 for season.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [11:34] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:41",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by SU Deere, Trey HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "Ground ball pickup by HARV Martin Nelson.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:06",
+    "home_event": "Shot by HARV Andrew Perry WIDE.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:47",
+    "home_event": "Shot by HARV Owen Gaffney WIDE.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "GOAL by HARV Teddy Malone, goal number 7 for season.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ippoliti, Michael at goalie for SU."
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "Faceoff Jackson Henehan vs Mullen, John won by HARV, [09:34] Ground ball pickup by HARV Jackson Henehan.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "Turnover by HARV Jackson Henehan.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "GOAL by SU Thomson, Finn, Assist by Hottle, Wyatt, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [08:43] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by SU Birtwistle, Jackson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Turnover by SU Birtwistle, Jackson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "Clear attempt by HARV failed.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:39",
+    "home_event": "Turnover by HARV Logan Ip (caused by Thomson, Finn).",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Ground ball pickup by SU Thomson, Finn."
+  },
+  {
+    "quarter": "3",
+    "time": "06:45",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by SU Thomson, Finn HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "06:39",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:39",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Turnover by SU English, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "06:36",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "Turnover by HARV Logan Ip.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Turnover by SU Spallina, Joey (caused by Charlie Muller)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "Ground ball pickup by HARV Finn Pokorny.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:04",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:56",
+    "home_event": "Ground ball pickup by HARV Teddy Malone.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "Shot by HARV Andrew Perry WIDE.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "GOAL by HARV Teddy Malone, Assist by Owen Gaffney, goal number 8 for season.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [04:33] Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by SU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:04",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Turnover by SU Thomson, Finn."
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "Shot by HARV Teddy Malone, SAVE Ippoliti, Michael.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "GOAL by SU Thomson, Finn, Assist by Spallina, Jake, goal number 13 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [03:39] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Turnover by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:24",
+    "home_event": "Shot by HARV Andrew Perry HIT POST.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "Ground ball pickup by HARV Teddy Malone.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:26",
+    "home_event": "Ground ball pickup by HARV Sam King.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "Shot by HARV Sam King HIGH.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:11",
+    "home_event": "Shot clock violation by HARV.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:36",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by SU Hottle, Wyatt WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:13",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Turnover by SU Hiltz, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "GOAL by HARV John Aurandt, goal number 3 for season.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [15:00] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "14:27",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Turnover by SU Leo, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "14:18",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Shot by HARV Owen Gaffney BLOCKED.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "GOAL by HARV Teddy Malone, goal number 9 for season.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [13:36] Ground ball pickup by SU McCarthy, Tyler."
+  },
+  {
+    "quarter": "4",
+    "time": "12:47",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Turnover by SU Birtwistle, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "12:46",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "12:46",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "Shot by HARV Jack Speidell, SAVE Ippoliti, Michael.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "GOAL by HARV Miles Botkiss, Assist by Jack Speidell, goal number 4 for season.",
+    "score": "14-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "",
+    "score": "14-12",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [11:39] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "GOAL by SU English, Sam, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Faceoff Owen Umansky vs Mullen, John won by SU, [10:52] Ground ball pickup by SU Kuczynski, Chuck."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Shot by SU Hiltz, Owen, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "Ground ball pickup by HARV Martin Nelson.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:06",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "14-13",
+    "away_event": "Penalty on SU Hiltz, Owen (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "Shot by HARV Jack Speidell WIDE.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:16",
+    "home_event": "Shot by HARV Sam King WIDE.",
+    "score": "14-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "GOAL by HARV Sam King (MAN-UP), Assist by Miles Botkiss, goal number 5 for season.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Penalty on SU Kol, Caden (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [09:04] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot by SU Leo, Michael WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:42",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot clock violation by SU."
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "Clear attempt by HARV failed.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Turnover by HARV Owen Gaffney (caused by English, Sam).",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot by SU McCarthy, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:32",
+    "home_event": "Turnover by HARV Owen Gaffney (caused by Caccamo, Nick).",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:33",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot by SU Leo, Michael BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "05:30",
+    "home_event": "Ground ball pickup by HARV Finn Leschly.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:27",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "Ground ball pickup by HARV Sam King.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:16",
+    "home_event": "Shot by HARV Sam King WIDE.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:11",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Turnover by SU Hiltz, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "Shot by HARV Sean Jordan, SAVE Ippoliti, Michael.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Ground ball pickup by SU Grace, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:06",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Timeout by SU."
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "Penalty on HARV Andrew Glinksi (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "score": "15-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "15-13",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "GOAL by SU Hiltz, Owen (MAN-UP), Assist by Thomson, Finn, goal number 13 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Faceoff Jackson Henehan vs Mullen, John won by SU, [01:54] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Timeout by SU."
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Shot by SU Leo, Michael, SAVE Graham Stevens."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "15-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "Shot by HARV Martin Nelson, SAVE Ippoliti, Michael.",
+    "score": "15-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:01",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "Clear attempt by HARV good.",
+    "score": "15-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:23",
+    "home_event": "Timeout by HARV.",
+    "score": "15-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "Turnover by HARV Sam King (caused by Dwan, Billy).",
+    "score": "15-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Ground ball pickup by SU Dwan, Billy."
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "15-14",
+    "away_event": "Shot by SU English, Sam BLOCKED."
+  }
+]

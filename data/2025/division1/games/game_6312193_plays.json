@@ -1,0 +1,1899 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Lenskold, Colin at goalie for UTAH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Morel, Mason at goalie for DART."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [15:00] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:52",
+    "home_event": "Shot by UTAH Kloeckl, Tyler, SAVE Morel, Mason.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:20",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Morel, Mason.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DART Zappitello, Hopper."
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DART Zappitello, Hopper, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "Shot by UTAH Robertson, Chase WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Shot by UTAH Robertson, Chase, SAVE Morel, Mason.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:16",
+    "home_event": "Ground ball pickup by UTAH Hunter, Jonas.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Turnover by UTAH Hunter, Jonas (caused by Goguen, Thomas).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DART Goguen, Thomas."
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DART Juhlin, Tyler (caused by Pivetta, Luca)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "Ground ball pickup by UTAH Pivetta, Luca.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Turnover by UTAH Robertson, Chase (caused by Florence, Campbell).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DART Florence, Campbell."
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:37",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DART McGill, Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DART Paradine, Emmett (caused by DiPonio, Nikko)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Ground ball pickup by UTAH Tanner, Dallin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "Shot by UTAH McNamara, Luke WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "GOAL by UTAH Stines, Ryan (FIRST GOAL), Assist by Overly, Will, goal number 7 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [09:49] Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "Shot by UTAH Stines, Ryan BLOCKED.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DART Phelan, Jesse."
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by DART Juhlin, Tyler, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DART Zappitello, Hopper."
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Penalty on UTAH Crane, Mikey (SLASHING/1:00) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Penalty on UTAH Pivetta, Luca (SLASHING/1:00).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by DART McGill, Colin (MAN-UP), Assist by Power, Thomas, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [06:58] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Ground ball pickup by UTAH Plotts, Colby.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "Turnover by UTAH.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART Davis, Nate BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART Power, Thomas WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART Davis, Nate WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART McGill, Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Morel, Mason.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "Shot by UTAH Hart, Cody WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Shot by UTAH Stines, Ryan WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "Turnover by UTAH Overly, Will.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DART failed."
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by DART."
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "Shot by UTAH Hart, Cody WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "Shot by UTAH Likes, Jake, SAVE Morel, Mason.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by DART DiGiovanni, Ben."
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by DART Phelan, Jesse."
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART O'Neil, Griffin HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DART Power, Thomas WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by DART Zappitello, Hopper, Assist by Power, Thomas, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [01:50] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by DART Power, Thomas, goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [01:23] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "Shot by UTAH Faulkner, Cade WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Shot by UTAH Overly, Will WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH (on faceoff violation).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by Faulkner, Cade, goal number 11 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "Faceoff Kloeckl, Tyler vs Gandolfo, Vincent won by UTAH, [14:10] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:18",
+    "home_event": "Ground ball pickup by UTAH Robertson, Chase.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "Shot by UTAH Hunter, Jonas, SAVE Morel, Mason.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DART Keith, Harrison."
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:26",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DART McGill, Colin, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:13",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "Shot by UTAH Hart, Cody BLOCKED.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DART Morel, Mason."
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DART Paradine, Emmett BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "Shot by UTAH Stines, Ryan WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Ground ball pickup by UTAH McNamara, Luke.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by UTAH Overly, Will.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Timeout by UTAH.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Morel, Mason.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DART Jessey, Alex, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "08:08",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by DART Jessey, Alex."
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by DART Jessey, Alex, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "Ground ball pickup by UTAH Hart, Cody.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:01",
+    "home_event": "Shot by UTAH Robertson, Chase WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by Stines, Ryan, goal number 12 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [06:44] Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "Shot by UTAH Hart, Cody, SAVE Morel, Mason.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:47",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by DART Juhlin, Tyler, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Ground ball pickup by UTAH Trask, Ben.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:07",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "Turnover by UTAH Trask, Ben (caused by Goguen, Thomas).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:55",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by DART Morel, Mason."
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:13",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by DART Zappitello, Hopper WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:09",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by DART Power, Thomas."
+  },
+  {
+    "quarter": "2",
+    "time": "03:51",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by DART Stahl, William, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "03:49",
+    "home_event": "Ground ball pickup by UTAH Horton, Bryce.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by Hunter, Jonas, goal number 13 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by DART McGill, Colin, Assist by Juhlin, Tyler, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Faceoff Madden, Bryce vs Reagan, Spencer won by UTAH, [02:36] Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "Turnover by UTAH Overly, Will (caused by Keith, Harrison).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:27",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by DART O'Neil, Griffin."
+  },
+  {
+    "quarter": "2",
+    "time": "01:22",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by DART."
+  },
+  {
+    "quarter": "2",
+    "time": "00:25",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DART Zappitello, Hopper WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DART Power, Thomas WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "Ground ball pickup by UTAH Lenskold, Colin.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Turnover by UTAH Crane, Mikey.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by DART Goguen, Thomas."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DART Goguen, Thomas WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by UTAH Lenskold, Colin.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Shot by UTAH Lenskold, Colin WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [15:00] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "3",
+    "time": "14:45",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DART Power, Thomas WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "Ground ball pickup by UTAH Lenskold, Colin.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:34",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "Shot by UTAH Faulkner, Cade HIT POST.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:42",
+    "home_event": "Ground ball pickup by UTAH Stines, Ryan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "Shot by UTAH Overly, Will, SAVE Morel, Mason.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "Shot by UTAH Overly, Will WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "Shot by UTAH White,Zachary WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:17",
+    "home_event": "Ground ball pickup by UTAH McNamara, Luke.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "GOAL by UTAH White,Zachary, goal number 5 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [12:10] Ground ball pickup by DART Fagan, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "11:05",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by DART Power, Thomas (caused by Crane, Mikey)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:01",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Turnover by UTAH Pascarella, Marco (caused by Paradine, Emmett).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:21",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by DART Zappitello, Hopper."
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by DART Ventarola, Brandon BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by DART Ventarola, Brandon."
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "GOAL by DART Ventarola, Brandon, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by DART."
+  },
+  {
+    "quarter": "3",
+    "time": "09:07",
+    "home_event": "Shot by UTAH White,Zachary, SAVE Morel, Mason.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Penalty on DART Zappitello, Hopper (DELAY OF GAME/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Penalty on DART Azelby, Joe (ILLEGAL BODY CHECK/1:00)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "GOAL by UTAH White,Zachary (MAN-UP), Assist by Stines, Ryan, goal number 6 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Madden, Bryce vs Reagan, Spencer won by DART (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by DART Power, Thomas, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "08:06",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:06",
+    "home_event": "Turnover by UTAH Lenskold, Colin.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by DART Jessey, Alex, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by DART McGill, Colin, Assist by Zappitello, Hopper, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Madden, Bryce vs Reagan, Spencer won by DART, [07:03] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "3",
+    "time": "06:40",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by DART Power, Thomas."
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by DART McGill, Colin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by DART Zappitello, Hopper, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "Ground ball pickup by UTAH Sparks, Karson.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Turnover by UTAH Sparks, Karson (caused by McGill, Colin).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:18",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by DART Zappitello, Hopper."
+  },
+  {
+    "quarter": "3",
+    "time": "05:16",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by DART McGill, Colin BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "05:15",
+    "home_event": "Ground ball pickup by UTAH Lenskold, Colin.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:14",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Ground ball pickup by UTAH Horton, Bryce.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:55",
+    "home_event": "Shot by UTAH Hart, Cody WIDE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Shot by UTAH Hart, Cody BLOCKED.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by DART Goguen, Thomas."
+  },
+  {
+    "quarter": "3",
+    "time": "04:21",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by DART Davis, Nate."
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "Ground ball pickup by UTAH Crane, Mikey.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:43",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "Turnover by UTAH McNamara, Luke (caused by Phelan, Jesse).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by DART Phelan, Jesse."
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by DART Juhlin, Tyler, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "GOAL by UTAH White,Zachary, Assist by Stines, Ryan, goal number 7 for season.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [01:58] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by White,Zachary, goal number 14 for season.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [01:34] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by DART Mulholland, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by DART Ventarola, Brandon (caused by Trask, Ben)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:51",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Shot by UTAH Haley, Luke WIDE.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [15:00] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:51",
+    "home_event": "Shot by UTAH Tanner, Dallin, SAVE Morel, Mason.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:47",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by DART O'Neil, Griffin."
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by DART Zappitello, Hopper, Assist by Paradine, Emmett, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [14:07] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by DART failed."
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Turnover by DART Morel, Mason."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "Ground ball pickup by UTAH Hart, Cody.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Turnover by UTAH Hart, Cody (caused by Goguen, Thomas).",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Ground ball pickup by DART Mulholland, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Turnover by DART Mulholland, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "12:49",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "Shot by UTAH Overly, Will, SAVE Morel, Mason.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:05",
+    "home_event": "Ground ball pickup by UTAH McNamara, Luke.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "Turnover by UTAH Robertson, Chase (caused by Keith, Harrison).",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Ground ball pickup by DART Keith, Harrison."
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by DART failed."
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Turnover by DART Keith, Harrison (caused by Stines, Ryan)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "Ground ball pickup by UTAH Haley, Luke.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "Shot by UTAH Robertson, Chase, SAVE Morel, Mason.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:26",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Morel, Mason.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:12",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by DART Jessey, Alex WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by DART Power, Thomas WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:21",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Shot by UTAH White,Zachary, SAVE Morel, Mason.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Ground ball pickup by DART Ventarola, Brandon."
+  },
+  {
+    "quarter": "4",
+    "time": "09:18",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by DART Stahl, William WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by DART Paradine, Emmett WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Turnover by DART Davis, Nate (caused by Tanner, Dallin)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "Ground ball pickup by UTAH Tanner, Dallin.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "GOAL by UTAH Sparks, Karson, Assist by Tanner, Dallin.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH, [07:52] Ground ball pickup by UTAH Plotts, Colby.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:17",
+    "home_event": "Ground ball pickup by UTAH Stines, Ryan.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "Turnover by UTAH Stines, Ryan (caused by Azelby, Joe).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:36",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DART Juhlin, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DART McGill, Colin, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "Ground ball pickup by UTAH Hart, Cody.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "Ground ball pickup by UTAH Stines, Ryan.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "Turnover by UTAH Overly, Will.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by DART Goguen, Thomas."
+  },
+  {
+    "quarter": "4",
+    "time": "05:10",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by DART Zappitello, Hopper."
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DART Zappitello, Hopper WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DART Ventarola, Brandon, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Penalty on UTAH Sparks, Karson (SLASHING/1:00) Extra-man opportunity.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Penalty on UTAH Sparks, Karson (CROSS-CHECK/1:00).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DART Stahl, William WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by DART Jessey, Alex (MAN-UP), Assist by Paradine, Emmett, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [03:35] Ground ball pickup by DART Reagan, Spencer."
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "Penalty on UTAH Kloeckl, Tyler (HOLDING/0:30) Extra-man opportunity.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by DART Jessey, Alex (MAN-UP), Assist by Stahl, William, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by DART, [02:54] Ground ball pickup by DART Azelby, Joe."
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DART Power, Thomas, SAVE Lenskold, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by DART McGill, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by DART McGill, Colin, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Timeout by UTAH.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Faceoff Kloeckl, Tyler vs Reagan, Spencer won by UTAH (on faceoff violation).",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:49",
+    "home_event": "Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Morel, Mason.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Ground ball pickup by DART Morel, Mason."
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Clear attempt by DART good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Turnover by DART Ventarola, Brandon (caused by DiPonio, Nikko)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:40",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "Shot by UTAH Plotts, Colby WIDE.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Clear attempt by DART failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Turnover by DART Goguen, Thomas."
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "Shot by UTAH Sparks, Karson WIDE.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "9-11",
+    "away_event": ""
+  }
+]

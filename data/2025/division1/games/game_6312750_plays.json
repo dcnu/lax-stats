@@ -1,0 +1,1577 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Connor Hapward at goalie for MANHATTA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Arcuri, Andrew at goalie for SIENA.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [15:00] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MANHATTA Liam Peabody, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "Ground ball pickup by SIENA Cummins, Mark.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "GOAL by SIENA Hassett, Liam (FIRST GOAL), Assist by McCarthy, Ryan.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MANHATTA Aiden Kane (caused by Cummins, Mark)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "Ground ball pickup by SIENA Cummins, Mark.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "GOAL by SIENA Fort, Carter, Assist by Cummins, Mark.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "Faceoff Miller, Sean vs Casey Klossner won by SIENA, [12:57] Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Hufnagel, Conor (caused by Hunter Newman).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by MANHATTA Hunter Newman."
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "Shot by SIENA Radomski, Patrick HIGH",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "Shot by SIENA Reynolds, Pratt, SAVE Connor Hapward",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MANHATTA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MANHATTA Connor Hapward."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "Ground ball pickup by SIENA Reynolds, Pratt.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "Shot by SIENA Reynolds, Pratt, SAVE Connor Hapward",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "Ground ball pickup by SIENA Radomski, Patrick.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:24",
+    "home_event": "Shot by SIENA Olmstead, Caden WIDE",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "Shot by SIENA Linton, Patrick, SAVE Connor Hapward",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "Shot by SIENA Fry, Travis HIT POST",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "Ground ball pickup by SIENA McCarthy, Ryan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA McCarthy, Ryan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MANHATTA Hunter Newman."
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "Shot by SIENA McCarthy, Ryan HIT POST",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Ground ball pickup by SIENA Linton, Patrick.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "Shot by SIENA Reynolds, Pratt BLOCKED",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "Shot by SIENA Fry, Travis, SAVE Connor Hapward",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MANHATTA Liam Peabody (caused by Rooney, Andrew)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "Ground ball pickup by SIENA Rooney, Andrew.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Wells, Jacob.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MANHATTA Kelly DuPree, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "GOAL by SIENA Hufnagel, Conor, Assist by McCarthy, Ryan.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [06:05] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Shot by SIENA Olmstead, Caden WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:07",
+    "home_event": "Shot by SIENA Radomski, Patrick WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Olmstead, Caden (caused by JP Jones).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by MANHATTA Louden Sheehan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "Shot by SIENA Edell, Will WIDE",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "Shot by SIENA Edell, Will, SAVE Connor Hapward",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by MANHATTA Connor Engel WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by MANHATTA Drew Hiner."
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by MANHATTA Drew Hiner, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "Ground ball pickup by SIENA Wells, Jacob.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "GOAL by SIENA Hassett, Liam, Assist by Valenza, Joe.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [01:43] Ground ball pickup by MANHATTA Gavin Wolf."
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "Ground ball pickup by SIENA Reynolds, Pratt.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by MANHATTA Scott O'Connor."
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Shot by SIENA Reynolds, Pratt WIDE",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Radomski, Patrick (caused by Matthew Pantorno).",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by MANHATTA Hunter Newman."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [15:00] Ground ball pickup by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "2",
+    "time": "14:07",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by MANHATTA Drew Hiner, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Olmstead, Caden (caused by JP Jones).",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by MANHATTA Robert Pousak."
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:05",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by MANHATTA Aiden Kane WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "11:55",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "30-second clock violation by MANHATTA."
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "Shot by SIENA Fry, Travis, SAVE Connor Hapward",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "Ground ball pickup by SIENA Fry, Travis.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Edell, Will.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:55",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "2",
+    "time": "09:50",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by MANHATTA Scott O'Connor WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "GOAL by MANHATTA Scott O'Connor, Assist by Liam Peabody."
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [09:39] Ground ball pickup by SIENA Valenza, Joe.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "Shot by SIENA McCarthy, Ryan WIDE",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:49",
+    "home_event": "Shot by SIENA Reynolds, Pratt HIT POST",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Ground ball pickup by MANHATTA JP Jones."
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "GOAL by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [07:44] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Olmstead, Caden (caused by Matthew Pantorno).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:48",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by MANHATTA Matthew Pantorno."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by MANHATTA Matthew Pantorno (caused by Cadieux, Nolan)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "GOAL by SIENA Reynolds, Pratt, Assist by McCarthy, Ryan.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:37",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MANHATTA Drew Hiner HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Turnover by MANHATTA Liam Peabody (caused by McCarthy, Ryan)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Ground ball pickup by SIENA McCarthy, Ryan.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:07",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Shot by SIENA Hufnagel, Conor BLOCKED",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by MANHATTA Liam Peabody."
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "Penalty on SIENA Cavaioli, Jack (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MANHATTA Jack Miller, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "2",
+    "time": "03:03",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "30-second clock violation by SIENA.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:45",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by MANHATTA Jack Miller (MAN-UP), Assist by Kelly DuPree."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "Faceoff Miller, Sean vs Casey Klossner won by SIENA.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:00",
+    "home_event": "GOAL by SIENA Fry, Travis, Assist by McCarthy, Ryan.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:00",
+    "home_event": "Faceoff Banek, Logan vs Jaziel Rivera won by SIENA.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "GOAL by SIENA Hufnagel, Conor, Assist by McCarthy, Ryan.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [00:18] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [15:00] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Turnover by MANHATTA Connor Engel (caused by Cummins, Mark)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:26",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Lennon, Liam.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Ground ball pickup by MANHATTA Drew Hiner."
+  },
+  {
+    "quarter": "3",
+    "time": "14:17",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by MANHATTA Connor Engel, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Penalty on MANHATTA Gavin Wolf (PUSHING/1:00)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "Shot by SIENA Olmstead, Caden, SAVE Connor Hapward",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Ground ball pickup by MANHATTA Drew Hiner."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "Penalty on SIENA Olmstead, Caden (HOLDING/0:30).",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by MANHATTA Aiden Kane, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "3",
+    "time": "12:01",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Lennon, Liam.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:08",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "GOAL by MANHATTA Kelly DuPree, Assist by Connor Engel."
+  },
+  {
+    "quarter": "3",
+    "time": "11:08",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [11:08] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by MANHATTA Casey Klossner (caused by Valenza, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:50",
+    "home_event": "Ground ball pickup by SIENA Wells, Jacob.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:38",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "GOAL by SIENA Cavaioli, Jack, Assist by Hufnagel, Conor.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [09:43] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Olmstead, Caden.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Shot by MANHATTA Drew Hiner HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "Penalty on SIENA Wells, Jacob (CROSS-CHECK/1:00).",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "GOAL by MANHATTA Kelly DuPree (MAN-UP), Assist by Scott O'Connor."
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:12",
+    "home_event": "Shot by SIENA Fry, Travis, SAVE Connor Hapward",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:09",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by MANHATTA Louden Sheehan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:02",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Turnover by MANHATTA (caused by Team)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:47",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:19",
+    "home_event": "Shot by SIENA Radomski, Patrick WIDE",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "GOAL by SIENA Hufnagel, Conor, Assist by Radomski, Patrick.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [05:06] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Penalty on MANHATTA Louden Sheehan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "03:37",
+    "home_event": "GOAL by SIENA Radomski, Patrick (MAN-UP), Assist by McCarthy, Ryan.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:37",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [03:37] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "Shot by SIENA Reynolds, Pratt WIDE",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by MANHATTA Connor Hapward."
+  },
+  {
+    "quarter": "3",
+    "time": "02:23",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by MANHATTA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by MANHATTA Connor Hapward (caused by Felicetti, Michael)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Ground ball pickup by SIENA Valenza, Joe.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "GOAL by SIENA Radomski, Patrick.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "Shot by SIENA Cavaioli, Jack WIDE",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by SIENA McCarthy, Ryan BLOCKED",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Banek, Logan vs Jaziel Rivera won by SIENA, [15:00] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "Shot by SIENA Fry, Travis, SAVE Connor Hapward",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Turnover by MANHATTA Connor Engel (caused by McCarthy, Ryan)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "Shot by SIENA McCarthy, Ryan, SAVE Connor Hapward",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by MANHATTA Hunter Newman."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by MANHATTA Damien Blando WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Penalty on SIENA Olmstead, Caden (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by MANHATTA Scott O'Connor WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "GOAL by MANHATTA Scott O'Connor (MAN-UP), Assist by Kelly DuPree."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "Faceoff Banek, Logan vs Jaziel Rivera won by SIENA, [11:32] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "Shot by SIENA Edell, Will BLOCKED",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "Shot by SIENA Hufnagel, Conor HIT POST",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "Ground ball pickup by SIENA Cavaioli, Jack.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "Shot by SIENA Linton, Patrick HIT POST",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Ground ball pickup by MANHATTA Connor Hapward."
+  },
+  {
+    "quarter": "4",
+    "time": "10:07",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Penalty on MANHATTA Matthew Pantorno (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "Shot by SIENA Padelford, Caden BLOCKED",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:42",
+    "home_event": "Ground ball pickup by SIENA McCarthy, Ryan.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SIENA McCarthy, Ryan.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by MANHATTA Drew Hiner, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by MANHATTA Scott O'Connor WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Turnover by MANHATTA Liam Peabody (caused by Ihlefeld, R.J.)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:05",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Shot by SIENA Radomski, Patrick WIDE",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SIENA (caused by Team).",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "GOAL by MANHATTA Aiden Kane."
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "Penalty on SIENA Rooney, Andrew (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA."
+  },
+  {
+    "quarter": "4",
+    "time": "05:17",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Drew Hiner HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Turnover by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:11",
+    "home_event": "Shot by SIENA Hufnagel, Conor, SAVE Connor Hapward",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:21",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Kelly DuPree BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "GOAL by MANHATTA Scott O'Connor, Assist by Liam Peabody."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "Faceoff Banek, Logan vs Casey Klossner won by SIENA, [02:52] Ground ball pickup by SIENA Banek, Logan.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:41",
+    "home_event": "Timeout by SIENA.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SIENA Hufnagel, Conor (caused by Louden Sheehan).",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Turnover by MANHATTA Drew Hiner."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "Timeout by SIENA.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:11",
+    "home_event": "GOAL by SIENA Fry, Travis.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:11",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Faceoff Banek, Logan vs Casey Klossner won by MANHATTA, [01:11] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by MANHATTA Kelly DuPree WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by MANHATTA Kelly DuPree, SAVE Arcuri, Andrew"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Turnover by MANHATTA Kelly DuPree (caused by Ihlefeld, R.J.)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by SIENA Ihlefeld, R.J..",
+    "score": "12-8",
+    "away_event": ""
+  }
+]

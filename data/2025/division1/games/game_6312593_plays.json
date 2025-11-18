@@ -1,0 +1,1451 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Brady Smith at goalie for UALBANY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ryan Daly at goalie for VERMONT."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Rocco Mareno vs Henry Dodge won by VERMONT, [15:00] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VERMONT Charlie Pope BLOCKED"
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "30-second clock violation by VERMONT."
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "Shot by UALBANY Parker Emmett WIDE",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "GOAL by UALBANY Silas Richmond (FIRST GOAL), Assist by Parker Emmett, goal number 26 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "Faceoff Jezayd Hall vs Henry Dodge won by UALBANY (on faceoff violation).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "Shot by UALBANY Silas Richmond BLOCKED",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VERMONT Max Frattaroli (caused by Max Neeson)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "GOAL by UALBANY Max Neeson, goal number 4 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "Faceoff Jezayd Hall vs Walter Zhao won by UALBANY, [10:23] Ground ball pickup by UALBANY Jezayd Hall.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Shot by UALBANY Brendon Barnard, SAVE Ryan Daly",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by VERMONT Colin Bullock, SAVE Brady Smith"
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "GOAL by UALBANY Jackson Palumb, Assist by Parker Emmett, goal number 15 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Timeout by VERMONT."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [08:59] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "08:51",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by VERMONT Cullen Decker (caused by Max Neeson)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "GOAL by UALBANY Jackson Palumb, Assist by Daniel Kesselring, goal number 16 for season.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [07:54] Ground ball pickup by VERMONT Ryker Demarest."
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Ryan Doherty, goal number 27 for season.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [07:23] Ground ball pickup by VERMONT Harrison Josloff."
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by VERMONT Henry Dodge WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Turnover by VERMONT Max Goldstein."
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Penalty on VERMONT Max Frattaroli (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Ground ball pickup by UALBANY Silas Richmond.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "Shot by UALBANY Amos Whitcomb, SAVE Ryan Daly",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by VERMONT Luke Reiter."
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by VERMONT Max Frattaroli BLOCKED"
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "Penalty on UALBANY Luke Grove (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "GOAL by VERMONT Charlie Pope (MAN-UP), Assist by Luke Reiter, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Faceoff Rocco Mareno vs Henry Dodge won by VERMONT, [03:39] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "Shot by UALBANY Alex Pfeiffer WIDE",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "GOAL by UALBANY Ryan Doherty, goal number 30 for season.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Faceoff Rocco Mareno vs Henry Dodge won by VERMONT, [03:05] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by VERMONT Charlie Pope WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by VERMONT Luke Reiter WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by VERMONT Cullen Decker WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "30-second clock violation by VERMONT."
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "Shot by UALBANY Brendon Barnard WIDE",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "30-second clock violation by UALBANY.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Penalty on UALBANY Ben Wimmer (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:27",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by VERMONT Matthew Drimmie WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "2",
+    "time": "13:52",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:29",
+    "home_event": "Shot by UALBANY Jackson Palumb, SAVE Ryan Daly",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Daniel Kesselring.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:38",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by VERMONT failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by VERMONT Connor Huguenard (caused by Jacob Smith)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "Ground ball pickup by UALBANY Tayoni Galante.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Rocco Mareno (caused by Henry Dodge).",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "GOAL by VERMONT Pat Coughlin, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Shot by VERMONT Kean Pare, SAVE Brady Smith"
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "Ground ball pickup by UALBANY Brady Smith.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [11:46] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "GOAL by VERMONT Cullen Decker, Assist by Charlie Pope, goal number 11 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Rocco Mareno vs Henry Dodge won by VERMONT, [11:05] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Jacob Smith (caused by Charlie Pope).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by VERMONT Max Frattaroli, Assist by Henry Dodge, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [10:58] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "Shot by UALBANY Silas Richmond BLOCKED",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "Ground ball pickup by UALBANY James Reid.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Will Hardy, goal number 28 for season.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by VERMONT Charlie Pope WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by VERMONT Pat Coughlin."
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:02",
+    "home_event": "Shot by UALBANY Daniel Kesselring WIDE",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Daniel Kesselring, goal number 29 for season.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "Timeout by UALBANY.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "Faceoff Rocco Mareno vs Henry Dodge won by UALBANY, [05:48] Ground ball pickup by UALBANY Jezayd Hall.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:45",
+    "home_event": "Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:33",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Ryan Daly",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "Ground ball pickup by UALBANY Ryan Doherty.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "Timeout by UALBANY.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:01",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Ryan Daly",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:12",
+    "home_event": "Penalty on UALBANY Caeden Lapietro (SLASHING/1:00) Extra-man opportunity.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Turnover by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "Shot by UALBANY Ryan Doherty, SAVE Ryan Daly",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by VERMONT Chase Gozdeck."
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "GOAL by VERMONT Tatum Lewis, Assist by Chase Gozdeck, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Turnover by VERMONT Charlie Pope."
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "GOAL by UALBANY Jackson Palumb, goal number 17 for season.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [01:09] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by VERMONT Jack Combs (caused by Cade Galko)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "Ground ball pickup by UALBANY Caeden Lapietro.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:51",
+    "home_event": "Timeout by UALBANY.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Penalty on VERMONT Carson Eggebraten (UNNECESSARY ROUGHNESS/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "Shot by UALBANY Jackson Palumb, SAVE Ryan Daly",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:31",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Shot by VERMONT Max Frattaroli WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "13:09",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "30-second clock violation by VERMONT."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "Shot by UALBANY Ryan Doherty BLOCKED",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "GOAL by VERMONT Matthew Drimmie, Assist by Kean Pare, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "Faceoff Jezayd Hall vs Henry Dodge won by UALBANY, [10:49] Ground ball pickup by UALBANY Cade Galko.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:22",
+    "home_event": "Shot by UALBANY Koleton Marquis, SAVE Ryan Daly",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "30-second clock violation by VERMONT."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "Ground ball pickup by UALBANY Ryan Doherty.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Ground ball pickup by UALBANY Jackson Palumb.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:26",
+    "home_event": "Shot by UALBANY Koleton Marquis WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "Shot by UALBANY Jackson Palumb WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UALBANY Jackson Palumb.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:58",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by VERMONT Max Frattaroli WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "06:58",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by VERMONT Luke Reiter, SAVE Brady Smith"
+  },
+  {
+    "quarter": "3",
+    "time": "06:58",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:49",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Koleton Marquis, goal number 31 for season.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:49",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Timeout by VERMONT."
+  },
+  {
+    "quarter": "3",
+    "time": "05:49",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT, [05:49] Ground ball pickup by VERMONT Henry Dodge."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by VERMONT Zach Davis."
+  },
+  {
+    "quarter": "3",
+    "time": "05:13",
+    "home_event": "Ground ball pickup by UALBANY Conner Fingar.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UALBANY Conner Fingar (caused by Max Goldstein).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by VERMONT Max Goldstein."
+  },
+  {
+    "quarter": "3",
+    "time": "05:02",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "GOAL by VERMONT Zach Davis, Assist by Pat Coughlin, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:02",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff Rocco Mareno vs Henry Dodge won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by VERMONT Jack Combs."
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:58",
+    "home_event": "Shot by UALBANY Conner Fingar, SAVE Ryan Daly",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by VERMONT Luke Reiter (caused by Max Neeson)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Daniel Kesselring, goal number 32 for season.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Jezayd Hall vs Henry Dodge won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Turnover by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "3",
+    "time": "00:12",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Silas Richmond, goal number 33 for season.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:12",
+    "home_event": "Faceoff Rocco Mareno vs Henry Dodge won by UALBANY (on faceoff violation).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Rocco Mareno vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by VERMONT Cullen Decker BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Ground ball pickup by UALBANY Conner Fingar.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UALBANY Brady Smith (caused by Zach Davis).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:37",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by VERMONT Zach Davis."
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by VERMONT Zach Davis WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "Penalty on UALBANY Max Neeson (SLASHING/1:00) Extra-man opportunity.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:07",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by VERMONT Charlie Pope (MAN-UP), Assist by Luke Reiter, goal number 7 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:07",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Faceoff Jezayd Hall vs Walter Zhao won by VERMONT, [13:07] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Ground ball pickup by VERMONT Max Frattaroli."
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "GOAL by VERMONT Cullen Decker, Assist by Charlie Pope, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Faceoff Jezayd Hall vs Walter Zhao won by VERMONT, [11:49] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Ground ball pickup by VERMONT Kean Pare."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "GOAL by VERMONT Kean Pare, Assist by Charlie Pope, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Faceoff Rocco Mareno vs Walter Zhao won by VERMONT (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by VERMONT Max Frattaroli HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "09:51",
+    "home_event": "Ground ball pickup by UALBANY Brady Quill.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "Shot by UALBANY Jackson Palumb, SAVE Ryan Daly",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Koleton Marquis, goal number 30 for season.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "Timeout by UALBANY.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Faceoff Jezayd Hall vs Walter Zhao won by VERMONT, [07:29] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Shot by VERMONT Charlie Pope, SAVE Brady Smith"
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Ground ball pickup by VERMONT Cullen Decker."
+  },
+  {
+    "quarter": "4",
+    "time": "06:36",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Shot by VERMONT Matthew Drimmie WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by VERMONT Charlie Pope (caused by Max Neeson)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:10",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "Timeout by UALBANY.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UALBANY Jackson Palumb (caused by Jack Combs).",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:00",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Timeout by VERMONT."
+  },
+  {
+    "quarter": "4",
+    "time": "05:00",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by VERMONT good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by VERMONT Matthew Drimmie."
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Ryan Daly",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "GOAL by UALBANY Parker Emmett, Assist by Silas Richmond, goal number 3 for season.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Faceoff Jezayd Hall vs Walter Zhao won by VERMONT, [02:49] Ground ball pickup by VERMONT Ryan Daly."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by VERMONT Luke Reiter BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "GOAL by UALBANY Koleton Marquis, Assist by Alex Pfeiffer, goal number 17 for season.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Faceoff Jezayd Hall vs Walter Zhao won by VERMONT, [01:18] Ground ball pickup by VERMONT Walter Zhao."
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Penalty on VERMONT Charlie Pope (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "",
+    "score": "15-11",
+    "away_event": "GOAL by VERMONT Jack Combs (MAN-DOWN), Assist by Zach Davis, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Faceoff Jezayd Hall vs Walter Zhao won by UALBANY, [] Ground ball pickup by UALBANY Caeden Lapietro.",
+    "score": "15-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "Timeout by UALBANY.",
+    "score": "15-11",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1269 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "OVEREND, Zack at goalie for HPUM25.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Salanger, Owen at goalie for UMASS."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [15:00] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "Turnover by HPUM25 COOKE, Colin (caused by New, Blaise).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UMASS Jackman, Brian."
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by UMASS Auble, Zach WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by UMASS Lewis, Caelin (caused by BRENFLECK, Zack)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Zack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "Turnover by HPUM25 MEEHAN, Tommy (caused by Morse, Will).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMASS failed."
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Jeb.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Turnover by HPUM25 HYNES, Ryan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by UMASS Krisch, John (FIRST GOAL), Assist by Jackman, Brian, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [09:22] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "GOAL by HPUM25 ROBINS, Carson, Assist by ROVERE, Collin.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS, [08:26] Ground ball pickup by UMASS Elliott, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by UMASS Elliott, Jimmy (caused by BRENFLECK, Zack)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Zack.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "GOAL by HPUM25 MEEHAN, Tommy.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Penalty on UMASS Petitto, Matthew (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by UMASS."
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "GOAL by HPUM25 BRENFLECK, Jeb, Assist by ROVERE, Collin.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS, [04:44] Ground ball pickup by UMASS Coyle, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by UMASS Hogan, Trace, Assist by Finnerty, Michael, goal number 23 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "Faceoff ACCARDO, Luca vs Casey, TJ won by HPUM25, [04:10] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "Shot clock violation by HPUM25.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by UMASS Drunsic, Aiden WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by UMASS Finnerty, Michael, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by UMASS Finnerty, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by UMASS Kurtz, Charles, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "Ground ball pickup by HPUM25 CANN, Ian.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by HPUM25 BUNTEN, Owen.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE Salanger, Owen.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [15:00] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:18",
+    "home_event": "Ground ball pickup by HPUM25 BUNTEN, Owen.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:54",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:35",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by UMASS Granara, Robbie, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by UMASS Lewis, Caelin, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by UMASS Drunsic, Aiden WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:43",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by UMASS."
+  },
+  {
+    "quarter": "2",
+    "time": "11:37",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "Turnover by HPUM25 BRENFLECK, Zack (caused by Hogan, Trace).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "2",
+    "time": "11:07",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by UMASS Krisch, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by UMASS Jackman, Brian, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff MOORE, Scott vs Coyle, Brendan won by UMASS, [10:56] Ground ball pickup by UMASS Coyle, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by UMASS Lewis, Caelin (caused by STEPHENS, Caio)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:11",
+    "home_event": "Ground ball pickup by HPUM25 STEPHENS, Caio.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "GOAL by HPUM25 CANN, Ian, Assist by ROBINS, Carson.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [10:07] Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "Turnover by HPUM25 ROBINS, Carson.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by UMASS Hoff, Brady, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "GOAL by HPUM25 HYNES, Ryan, Assist by ROBINS, Carson.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS, [08:16] Ground ball pickup by UMASS Coyle, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "07:12",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by UMASS Finnerty, Michael, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "07:08",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:49",
+    "home_event": "Turnover by HPUM25 WEITZMAN, Josh (caused by Jackman, Brian).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by UMASS Lewis, Caelin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by UMASS Kurtz, Charles, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "Ground ball pickup by HPUM25 WESTBROOKS, James.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "Turnover by HPUM25 COOKE, Colin (caused by Petitto, Matthew).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Timeout by UMASS."
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by UMASS Hogan, Trace WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:32",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by UMASS Finnerty, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "03:26",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "GOAL by HPUM25 HYNES, Ryan.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [02:29] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "Shot by HPUM25 BRENFLECK, Jeb, SAVE Salanger, Owen.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Turnover by HPUM25 OVEREND, Zack.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [15:00] Ground ball pickup by HPUM25 CANN, Ian.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:54",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by UMASS."
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Shot by HPUM25 HYNES, Ryan, SAVE Salanger, Owen.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "GOAL by HPUM25 HYNES, Ryan.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [12:53] Ground ball pickup by HPUM25 CANN, Ian.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "Shot by HPUM25 MEEHAN, Tommy WIDE.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "GOAL by HPUM25 ROBINS, Carson, Assist by LUTZEL, Matt.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "Faceoff ACCARDO, Luca vs Casey, TJ won by HPUM25, [11:35] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:39",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Turnover by UMASS New, Blaise."
+  },
+  {
+    "quarter": "3",
+    "time": "10:30",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:41",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen, Assist by WIXTED, Justin.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:41",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Timeout by UMASS."
+  },
+  {
+    "quarter": "3",
+    "time": "09:41",
+    "home_event": "Faceoff ACCARDO, Luca vs Casey, TJ won by HPUM25, [09:41] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "Ground ball pickup by HPUM25 ROBINS, Carson.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:51",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "GOAL by UMASS Granara, Robbie, Assist by Hogan, Trace, goal number 25 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "Faceoff ACCARDO, Luca vs Casey, TJ won by HPUM25, [06:55] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:18",
+    "home_event": "Shot by HPUM25 COOKE, Colin, SAVE Salanger, Owen.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "Ground ball pickup by HPUM25 WIXTED, Justin.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen, Assist by ROBINS, Carson.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by UMASS Finnerty, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "04:24",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen BLOCKED.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "GOAL by HPUM25 HYNES, Ryan, Assist by ROVERE, Collin.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "Faceoff MOORE, Scott vs Coyle, Brendan won by HPUM25, [04:18] Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:08",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "Turnover by HPUM25 COOKE, Colin (caused by Elliott, Jimmy).",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by UMASS Elliott, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:02",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by UMASS Hogan, Trace WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "GOAL by UMASS Granara, Robbie, Assist by Hogan, Trace, goal number 26 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS, [02:09] Ground ball pickup by UMASS Auble, Zach."
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "GOAL by UMASS Drunsic, Aiden, goal number 18 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [01:32] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:37",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:33",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:27",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by UMASS Hogan, Trace WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by UMASS Hogan, Trace, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by UMASS."
+  },
+  {
+    "quarter": "4",
+    "time": "14:27",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by UMASS Kurtz, Charles, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "14:23",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:19",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:11",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE Salanger, Owen.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:08",
+    "home_event": "Ground ball pickup by HPUM25 COOKE, Colin.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "GOAL by HPUM25 WIXTED, Justin, Assist by ROVERE, Collin.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [12:17] Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:48",
+    "home_event": "Ground ball pickup by HPUM25 LUTZEL, Matt.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:03",
+    "home_event": "Turnover by HPUM25.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by UMASS Granara, Robbie, goal number 27 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25, [10:22] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "Shot by HPUM25 BRENFLECK, Jeb WIDE.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE Salanger, Owen.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "Ground ball pickup by HPUM25 COOKE, Colin.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "GOAL by HPUM25 ROBINS, Carson.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "Faceoff ACCARDO, Luca vs Casey, TJ won by HPUM25, [08:27] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "GOAL by HPUM25 LUTZEL, Matt, Assist by MEEHAN, Tommy.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "Faceoff ACCARDO, Luca vs Coyle, Brendan won by HPUM25.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "Ground ball pickup by HPUM25 BUNTEN, Owen.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:39",
+    "home_event": "Turnover by HPUM25 BUNTEN, Owen.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:32",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Shot by UMASS Clayton, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:39",
+    "home_event": "Penalty on HPUM25 HYNES, Ryan (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "14-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "",
+    "score": "14-8",
+    "away_event": "Shot by UMASS Turowsky, Jack WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "GOAL by UMASS Cargiulo, Matthew (MAN-UP), Assist by Drunsic, Aiden, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Turnover by HPUM25 BRENFLECK, Jeb (caused by New, Blaise).",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Ground ball pickup by UMASS New, Blaise."
+  },
+  {
+    "quarter": "4",
+    "time": "04:16",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Shot by UMASS Elliott, Jimmy WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Shot by UMASS Lewis, Caelin, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Turnover by UMASS Drunsic, Aiden."
+  },
+  {
+    "quarter": "4",
+    "time": "03:01",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by UMASS failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "Shot by HPUM25 LUTZEL, Matt WIDE.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "Shot by HPUM25 WIXTED, Justin, SAVE Salanger, Owen.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Turnover by UMASS Krisch, John."
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "Ground ball pickup by HPUM25 DERMON, Luke.",
+    "score": "14-9",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1570 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Patrick Jameison at goalie for DU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Zach Vigue at goalie for RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU, [15:00] Ground ball pickup by DU Luke Engelke.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "Ground ball pickup by DU Chris Cusolito.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "GOAL by DU Benn Johnston (FIRST GOAL), goal number 15 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [13:34] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by RIC Jared Chenoy, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "Faceoff Luke Engelke vs Anthony DiCenso won by DU.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "GOAL by DU Graham Blake, Assist by Max Sloat, goal number 7 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU, [12:33] Ground ball pickup by DU Benn Johnston.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "GOAL by DU Eric Malever, Assist by Luke Engelke, goal number 20 for season.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "Faceoff Luke Engelke vs Anthony DiCenso won by DU, [12:23] Ground ball pickup by DU Cole Krauss.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "Shot by DU Chris Cusolito WIDE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Shot by DU Benn Johnston BLOCKED.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "Turnover by DU Benn Johnston.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by RIC Max Merklinger, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "Shot by DU Jack Pappendick, SAVE Zach Vigue.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by RIC Gavin Creo (caused by Charlie Johnson)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "Shot by DU Eric Malever, SAVE Zach Vigue.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by RIC Joe Sheridan, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [06:58] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "Penalty on DU Aidan Maguire (HOLDING/0:30) Extra-man opportunity.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by RIC Lukas Olsson (MAN-UP), Assist by Max Merklinger, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by RIC Max Merklinger, Assist by Joe Sheridan, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC, [05:25] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by RIC Evan O'Neil WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by RIC Gavin Creo."
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot clock violation by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "Turnover by DU.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:29",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by RIC Lukas Olsson, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "GOAL by DU Max Sloat, goal number 12 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by RIC Max Merklinger, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "00:30",
+    "home_event": "Clear attempt by DU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Cal Girard vs Jared Chenoy won by RIC, [15:00] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by RIC Jared Chenoy (caused by Cal Girard)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:50",
+    "home_event": "Ground ball pickup by DU Cal Girard.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:49",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Penalty on RIC Jared Chenoy (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Turnover by DU Max Sloat (caused by Mitchell Dunham).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:04",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "GOAL by DU Graham Blake (MAN-UP), Assist by Andrew McAdorey, goal number 8 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Cal Girard vs Jared Chenoy won by RIC, [13:49] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by RIC Lukas Olsson, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "Ground ball pickup by DU Keith Boyer.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:43",
+    "home_event": "Turnover by DU Keith Boyer (caused by Max Merklinger).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by RIC Aidan O'Neil, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "Clear attempt by DU good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "Shot by DU Benn Johnston WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Shot by DU Luke Grayum, SAVE Zach Vigue.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:01",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by RIC Connor Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "Ground ball pickup by DU Andrew McAdorey.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:09",
+    "home_event": "Shot by DU Jack Gray WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "Shot by DU Graham Blake, SAVE Zach Vigue.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Penalty on RIC Michael Farrell (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "GOAL by DU Graham Blake (MAN-UP), Assist by Max Sloat, goal number 10 for season.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Evan O'Neil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by RIC Gavin Creo (caused by Charlie Johnson)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:11",
+    "home_event": "Ground ball pickup by DU Cole Krauss.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:03",
+    "home_event": "Turnover by DU Cole Krauss.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:01",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "06:59",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:55",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "Timeout by DU.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:16",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Max Merklinger BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "Ground ball pickup by DU Connor Nolen.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "Shot by DU Andrew McAdorey, SAVE Zach Vigue.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:47",
+    "home_event": "Ground ball pickup by DU Tomas Delgado.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "Shot by DU Tomas Delgado BLOCKED.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "Shot by DU Eric Malever WIDE.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "Shot by DU Tomas Delgado, SAVE Zach Vigue.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:43",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Henry Alpaugh BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "2",
+    "time": "03:26",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot clock violation by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "Turnover by DU Max Sloat (caused by B. Pena-Stevenson).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Lukas Olsson, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:36",
+    "home_event": "Ground ball pickup by DU Aidan Maguire.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "Turnover by DU.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "Timeout by DU.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot clock violation by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Shot by DU Aiden Blake WIDE.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Zach Vigue WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:57",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC, [14:57] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "3",
+    "time": "14:26",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Lukas Olsson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:03",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "3",
+    "time": "13:54",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Turnover by DU Cole Krauss (caused by Hunter Smith).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Charlie Packard WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Evan O'Neil, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Turnover by DU Aidan Maguire (caused by Joe Sheridan).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:25",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by RIC Aidan O'Neil, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by DU Charlie Johnson.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by DU Eric Malever.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "Turnover by DU Max Sloat.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:47",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by RIC Lukas Olsson, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:47",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by RIC Joe Sheridan, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [10:02] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by RIC Henry Alpaugh."
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "GOAL by DU Jack Pappendick, Assist by Eric Malever, goal number 6 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [07:43] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by RIC Evan O'Neil, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "Turnover by DU Chris Cusolito (caused by Connor Kelly).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:30",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by RIC Lucas Slate."
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by RIC Evan O'Neil (caused by Charlie Johnson)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "Shot by DU Max Sloat HIT POST.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:01",
+    "home_event": "Ground ball pickup by DU Keith Boyer.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "GOAL by DU Graham Blake, Assist by Eric Malever, goal number 10 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU, [02:43] Ground ball pickup by DU Luke Engelke.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "GOAL by DU Benn Johnston, goal number 16 for season.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU, [01:23] Ground ball pickup by DU Luke Engelke.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:30",
+    "home_event": "Shot by DU Liam Kershis WIDE.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "Shot by DU Jack Pappendick, SAVE Zach Vigue.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by RIC Evan O'Neil, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Penalty on DU Graham Blake (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:52",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by RIC Lukas Olsson WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:38",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:09",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Aidan Maguire)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "Ground ball pickup by DU Aidan Maguire.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "Clear attempt by DU good.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "GOAL by DU Max Sloat, goal number 13 for season.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [13:16] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by RIC Henry Alpaugh."
+  },
+  {
+    "quarter": "4",
+    "time": "12:32",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "Turnover by DU Luke Grayum (caused by Zach Vigue).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by RIC Connor Kelly."
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Lucas Littlejohn, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by RIC Max Merklinger, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "10:25",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "GOAL by RIC Gavin Creo, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:25",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC, [10:25] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "GOAL by RIC Jared Chenoy, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "Timeout by DU.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Turnover by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "Clear attempt by DU good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:06",
+    "home_event": "Shot by DU Chris Cusolito, SAVE Zach Vigue.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Aidan O'Neil, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "Faceoff Ben McCarthy vs Jared Chenoy won by DU, [07:22] Ground ball pickup by DU Aidan Maguire.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Shot by DU Max Sloat WIDE.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "GOAL by DU Jack Pappendick, Assist by Eric Malever, goal number 7 for season.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC, [06:01] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by RIC Aidan O'Neil HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "04:32",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by RIC Joe Sheridan BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "04:26",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Ground ball pickup by RIC Lucas Littlejohn."
+  },
+  {
+    "quarter": "4",
+    "time": "04:23",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "GOAL by RIC Lucas Littlejohn, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:23",
+    "home_event": "Faceoff Ben McCarthy vs Jared Chenoy won by DU, [04:23] Ground ball pickup by DU Ben McCarthy.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "Turnover by DU Max Sloat (caused by Tommy Stull).",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by RIC Charlie Packard."
+  },
+  {
+    "quarter": "4",
+    "time": "03:23",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Henry Alpaugh, goal number 18 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff Ben McCarthy vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Turnover by RIC Aidan O'Neil."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "Ground ball pickup by DU Keith Boyer.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "Clear attempt by DU good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "Timeout by DU.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "GOAL by DU Max Sloat, goal number 14 for season.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Luke Engelke vs Jared Chenoy won by RIC, [01:04] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "00:14",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by RIC Daniel Picart, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "Ground ball pickup by DU Luke Engelke.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "Clear attempt by DU good.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:04",
+    "home_event": "Shot by DU Andrew McAdorey WIDE.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by DU Max Sloat.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "Shot by DU Chris Cusolito WIDE.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "Shot by DU Max Sloat, SAVE Zach Vigue.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "Clear attempt by DU good.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "Shot by DU Max Sloat, SAVE Zach Vigue.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by RIC Max Merklinger WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Faceoff Luke Engelke vs Jared Chenoy won by DU, [04:00] Ground ball pickup by DU Cole Krauss.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "GOAL by DU Aidan Maguire, goal number 2 for season.",
+    "score": "13-12",
+    "away_event": ""
+  }
+]

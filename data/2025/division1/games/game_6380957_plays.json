@@ -1,0 +1,1465 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Brady Smith at goalie for UALBANY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Scott Einarson at goalie for BRY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [15:00] Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BRY Dawson Rielly, SAVE Brady Smith"
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by BRY Zac Amend."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BRY Brian Rusell WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BRY Jack Lonsinger WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BRY Jack Lonsinger BLOCKED"
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "GOAL by UALBANY Daniel Kesselring (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [12:18] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by BRY Zac Amend, SAVE Brady Smith"
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "Shot by UALBANY Ben Wimmer WIDE",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "Shot by UALBANY James Reid WIDE",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Ben Wimmer.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [10:23] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by BRY Luca Elmaleh WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by BRY Dawson Rielly WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by BRY Dawson Rielly WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "30-second clock violation by BRY."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "GOAL by UALBANY Jacob Moran, Assist by Silas Richmond.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY, [07:52] Ground ball pickup by UALBANY Luke Grove.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Parker Emmett.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [06:50] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by BRY Dawson Rielly."
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by BRY Dawson Rielly, SAVE Brady Smith"
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "Shot by UALBANY Alex Pfeiffer HIGH",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UALBANY Silas Richmond (caused by Luke Mead).",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by BRY Nick Vance."
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by BRY Tanner Alexander HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by BRY Nick Vance."
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by BRY Brian Rusell, SAVE Brady Smith"
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "Ground ball pickup by UALBANY Silas Richmond.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "Shot by UALBANY Will Hardy WIDE",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Will Hardy.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Timeout by BRY."
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY (on faceoff violation).",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UALBANY Daniel Kesselring (caused by Luke Mead).",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by BRY Luke Mead."
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by BRY Max Dantona HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by BRY Brian Rusell."
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by BRY Patrick Walsh HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by BRY Max Dantona WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY, [15:00] Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Jacob Smith.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:42",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "2",
+    "time": "14:11",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by BRY Luca Elmaleh, SAVE Brady Smith"
+  },
+  {
+    "quarter": "2",
+    "time": "14:07",
+    "home_event": "Ground ball pickup by UALBANY Brady Quill.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "30-second clock violation by UALBANY.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Turnover by BRY Max Dantona."
+  },
+  {
+    "quarter": "2",
+    "time": "11:52",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Penalty on BRY Spencer Clark (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "Shot by UALBANY Amos Whitcomb WIDE",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "GOAL by UALBANY Amos Whitcomb, Assist by Jackson Palumb.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [10:17] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by BRY Drew Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by BRY Kijana Lloyd (caused by Brady Smith)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:53",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:11",
+    "home_event": "Shot by UALBANY James Reid, SAVE Scott Einarson",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:05",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by BRY Drew Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "08:03",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:23",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Shot by BRY Patrick Walsh WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by BRY Dawson Rielly (caused by Max Neeson)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:49",
+    "home_event": "Ground ball pickup by UALBANY Cade Galko.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Will Hardy (caused by Gabe Chinitz).",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Shot by BRY Zac Amend BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by BRY Brian Rusell."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Parker Emmett (caused by Luke Mead).",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "2",
+    "time": "04:50",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by BRY Owe West."
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:57",
+    "home_event": "Shot by UALBANY Max Neeson WIDE",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "Timeout by UALBANY.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UALBANY Silas Richmond.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by BRY Jack McCloskey (caused by Brady Quill)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "Ground ball pickup by UALBANY Ryan Doherty.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:42",
+    "home_event": "Shot by UALBANY Daniel Kesselring, SAVE Scott Einarson",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "2",
+    "time": "00:38",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Shot by BRY Brian Rusell WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Penalty on UALBANY Silas Richmond (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:48",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "GOAL by BRY Max Dantona (MAN-UP), Assist by Patrick Walsh."
+  },
+  {
+    "quarter": "3",
+    "time": "14:48",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY, [14:48] Ground ball pickup by UALBANY Jezayd Hall.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Shot by UALBANY Jackson Palumb, SAVE Scott Einarson",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "Ground ball pickup by UALBANY Jackson Palumb.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UALBANY Jackson Palumb.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "GOAL by BRY Luca Elmaleh."
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [12:55] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "3",
+    "time": "12:07",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Ground ball pickup by BRY Max Dantona."
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Shot by BRY Max Dantona WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Shot by BRY Brian Rusell WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "GOAL by BRY Owe West, Assist by Zac Amend."
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [11:22] Ground ball pickup by BRY Tanner Alexander."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by BRY Zac Amend, SAVE Brady Smith"
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UALBANY Ben Wimmer (caused by Drew Lucas).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by BRY Drew Lucas, Assist by Owe West."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:03",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by BRY Zac Amend, Assist by Luca Elmaleh."
+  },
+  {
+    "quarter": "3",
+    "time": "08:03",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [08:03] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "3",
+    "time": "07:16",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by BRY Max Dantona WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Turnover by BRY Brian Rusell (caused by Justin Lee)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:41",
+    "home_event": "Ground ball pickup by UALBANY Justin Lee.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "GOAL by UALBANY Silas Richmond, Assist by Ryan Doherty.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:35",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by BRY John Tomsheck, SAVE Brady Smith"
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by BRY Zac Amend, SAVE Brady Smith"
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UALBANY Caeden Lapietro (caused by Zac Amend).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:56",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by BRY Zac Amend."
+  },
+  {
+    "quarter": "3",
+    "time": "03:15",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by BRY Brian Rusell, SAVE Brady Smith"
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "Ground ball pickup by UALBANY Cade Galko.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:11",
+    "home_event": "Shot by UALBANY Koleton Marquis, SAVE Scott Einarson",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:07",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by BRY Dawson Rielly."
+  },
+  {
+    "quarter": "3",
+    "time": "01:26",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:37",
+    "home_event": "Shot by UALBANY Jackson Palumb WIDE",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:26",
+    "home_event": "Shot by UALBANY Jackson Palumb WIDE",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Jackson Palumb.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by BRY Brian Rusell WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY, [15:00] Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:21",
+    "home_event": "Shot by UALBANY Daniel Kesselring HIGH",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "GOAL by UALBANY Silas Richmond.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [13:41] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by BRY Scott Einarson."
+  },
+  {
+    "quarter": "4",
+    "time": "13:23",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by BRY Zac Amend (caused by Brady Smith)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:43",
+    "home_event": "Ground ball pickup by UALBANY Cade Galko.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "Shot by UALBANY Koleton Marquis, SAVE Scott Einarson",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by BRY Max Dantona (caused by Justin Lee)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Ground ball pickup by UALBANY Justin Lee.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UALBANY Justin Lee.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by BRY Zac Amend (caused by Max Neeson)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:15",
+    "home_event": "Ground ball pickup by UALBANY Justin Lee.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:13",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "GOAL by UALBANY Max Neeson, Assist by Luke Grove.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [10:08] Ground ball pickup by BRY Gabe Chinitz."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Shot by BRY John Tomsheck, SAVE Brady Smith"
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "Shot by UALBANY Daniel Kesselring, SAVE Scott Einarson",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by BRY Dawson Rielly."
+  },
+  {
+    "quarter": "4",
+    "time": "08:07",
+    "home_event": "Ground ball pickup by UALBANY Brady Quill.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:05",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Shot by UALBANY Alex Pfeiffer WIDE",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "30-second clock violation by UALBANY.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "GOAL by BRY Dawson Rielly, Assist by Brian Rusell."
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [05:59] Ground ball pickup by BRY Sam Klein."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by BRY Sam Klein."
+  },
+  {
+    "quarter": "4",
+    "time": "05:33",
+    "home_event": "Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UALBANY Brady Smith.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:08",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by BRY Brian Rusell, SAVE Brady Smith"
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "GOAL by UALBANY Koleton Marquis, Assist by Ryan Doherty.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Faceoff Rocco Mareno vs Jj Murphy won by BRY, [04:13] Ground ball pickup by BRY Aj Monaco."
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by BRY Aj Monaco, SAVE Brady Smith"
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "GOAL by BRY Zac Amend."
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "Penalty on UALBANY Rocco Mareno (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Ground ball pickup by BRY Zac Amend."
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "Faceoff Jezayd Hall vs Jj Murphy won by UALBANY, [03:53] Ground ball pickup by UALBANY Jezayd Hall.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "Timeout by UALBANY.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UALBANY Daniel Kesselring (caused by Luke Mead).",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Timeout by BRY."
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by BRY Max Dantona WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by BRY Patrick Walsh WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:47",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by BRY Dawson Rielly WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by BRY Dawson Rielly, SAVE Brady Smith"
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "Ground ball pickup by UALBANY Conner Fingar.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:08",
+    "home_event": "Shot by UALBANY Caeden Lapietro, SAVE Scott Einarson",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by BRY good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Turnover by BRY John Tomsheck (caused by Jacob Smith)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Timeout by BRY."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "GOAL by UALBANY Max Neeson.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Jezayd Hall vs Jj Murphy won by BRY, [01:33] Ground ball pickup by BRY Jj Murphy."
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by BRY Zac Amend."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Turnover by BRY Zac Amend."
+  },
+  {
+    "quarter": "4",
+    "time": "01:10",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "Timeout by UALBANY.",
+    "score": "12-7",
+    "away_event": ""
+  }
+]

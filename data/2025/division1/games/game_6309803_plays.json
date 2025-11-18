@@ -1,0 +1,1850 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Isaac Farmer at goalie for SBU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Jackson Faiola at goalie for HOBART."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by SBU, [15:00] Ground ball pickup by SBU Benny Carter.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "GOAL by SBU Jake Kucinski (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by SBU, [13:56] Ground ball pickup by SBU Owen Tasse.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "GOAL by SBU Kellen Pulera, Assist by Owen Tasse.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [13:45] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "1",
+    "time": "12:36",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by HOBART Johnny Harding WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by HOBART John Jude Considine, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "Faceoff Jeremy Askin vs Mike Valent won by SBU, [12:23] Ground ball pickup by SBU Jeremy Askin.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "Turnover by SBU Isaac Farmer.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by HOBART Alex Rosa."
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by HOBART Alex Rosa, goal number 21 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Quinn Nolan vs Mike Valent won by HOBART, [11:27] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by HOBART Will Delano, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "Turnover by SBU Kyle Pepper.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by HOBART Johnny Harding WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "Penalty on SBU Henry Coke (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by HOBART John Jude Considine (MAN-UP), Assist by David Peterkin, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [08:34] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by HOBART Alex Rosa BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by HOBART John Jude Considine."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "GOAL by SBU Jake Kucinski, Assist by O. Maracle.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by SBU, [06:16] Ground ball pickup by SBU Connor Ballou.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "Turnover by SBU Connor Ballou.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by HOBART Daniel Cano."
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by HOBART Alex Rosa WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by HOBART Daniel Cano HIT CROSSBAR."
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "Timeout by SBU.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by HOBART Cade Dino, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by HOBART John Jude Considine, Assist by Cade Dino, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "Faceoff Jeremy Askin vs Mike Valent won by SBU, [04:06] Ground ball pickup by SBU Benny Carter.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Ground ball pickup by SBU Patrick Shanahan.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "Turnover by SBU Cole Kucinski (caused by Julian Race).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by HOBART Julian Race."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "Penalty on SBU Kyle Pepper (ILLEGAL BODY CHECK CONTACT TO THE HEAD/1:00) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by HOBART John Jude Considine."
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "Ground ball pickup by SBU Chris Lawrence.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Turnover by SBU Patrick Shanahan.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by HOBART JT Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by HOBART Johnny Harding, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Shot by SBU Chris Lawrence WIDE.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "GOAL by SBU Patrick Shanahan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Jeremy Askin vs Mike Valent won by SBU, [15:00] Ground ball pickup by SBU Kaden Brennan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:50",
+    "home_event": "Turnover by SBU Kaden Brennan (caused by Nick Sotiropoulos).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:46",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by HOBART John Jude Considine."
+  },
+  {
+    "quarter": "2",
+    "time": "14:39",
+    "home_event": "Penalty on SBU Blayze Becker (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by HOBART Will Delano (MAN-UP), Assist by David Peterkin, goal number 19 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [14:29] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by HOBART Cole Emmanuel (caused by Owen Tasse)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:18",
+    "home_event": "Turnover by SBU Kyle Pepper (caused by Michael Schafer).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by HOBART Will Delano, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "GOAL by SBU Kellen Pulera, Assist by Jake Kucinski.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by HOBART, [12:20] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:40",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by HOBART Will Delano, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:27",
+    "home_event": "Turnover by SBU Kyle Pepper (caused by John Jude Considine).",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:24",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by HOBART Nick Sotiropoulos."
+  },
+  {
+    "quarter": "2",
+    "time": "11:15",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by HOBART Tye Steenhuis, Assist by Colden Swisher, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:15",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [11:15] Ground ball pickup by HOBART Nick Sotiropoulos."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by HOBART Johnny Harding, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "10:11",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by HOBART Johnny Harding."
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by HOBART David Peterkin, Assist by Johnny Harding, goal number 17 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [09:55] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by HOBART Bryce Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by HOBART Bryce Johnson HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by HOBART Connor DiTomasso, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "08:54",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "Turnover by SBU.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by HOBART Alex Rosa, Assist by Colden Swisher, goal number 22 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "Timeout by SBU.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [08:31] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "2",
+    "time": "07:43",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by HOBART Will Delano, goal number 20 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:43",
+    "home_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by SBU, [07:43] Ground ball pickup by SBU Quinn Nolan.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Penalty on HOBART Seamus Schofield (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Shot by SBU Kellen Pulera WIDE.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Shot by SBU Drew Kenney HIGH.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Turnover by SBU Drew Kenney (caused by Ethan Winterbottom).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by HOBART Nolan Firth."
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by HOBART Cade Dino WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by HOBART Cade Dino, Assist by Colden Swisher, goal number 15 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Quinn Nolan vs Mike Valent won by HOBART, [06:09] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Timeout by HOBART."
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by HOBART David Peterkin HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by HOBART John Jude Considine BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by HOBART David Peterkin, Assist by Will Delano, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [04:53] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HOBART Tye Steenhuis HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "Penalty on SBU Cameron Viavada (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:29",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HOBART David Peterkin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HOBART Alex Rosa, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by HOBART Connor DiTomasso."
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by HOBART John Jude Considine (MAN-UP), Assist by Connor DiTomasso, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "Evan Gallo at goalie for SBU.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [03:06] Ground ball pickup by HOBART Seamus Schofield."
+  },
+  {
+    "quarter": "2",
+    "time": "02:45",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by HOBART Colden Swisher WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:35",
+    "home_event": "Turnover by SBU Henry Coke.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by HOBART John Jude Considine WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:42",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by HOBART Johnny Harding WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:41",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "Turnover by SBU Benny Carter (caused by Michael Schafer).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by HOBART Johnny Harding."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by HOBART Will Delano, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by HOBART Alex Rosa."
+  },
+  {
+    "quarter": "2",
+    "time": "01:08",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by HOBART Alex Rosa, goal number 23 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:08",
+    "home_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by SBU (on faceoff violation).",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:36",
+    "home_event": "Shot by SBU Conor Murphy HIT POST.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "Ground ball pickup by SBU Kellen Pulera.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "GOAL by SBU Kellen Pulera.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Quinn Nolan vs Mike Valent won by HOBART (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Timeout by HOBART."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by HOBART Will Delano, Assist by Cade Dino, goal number 21 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [00:12] Ground ball pickup by HOBART Julian Race."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by HOBART Alex Rosa, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Elhanan Wilson at goalie for HOBART."
+  },
+  {
+    "quarter": "3",
+    "time": "14:45",
+    "home_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by SBU, [14:45] Ground ball pickup by SBU Owen Tasse.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:46",
+    "home_event": "GOAL by SBU Kellen Pulera, Assist by Jake Kucinski.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART, [14:42] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "GOAL by HOBART Will Delano, Assist by David Peterkin, goal number 22 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [14:09] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "",
+    "score": "7-16",
+    "away_event": "GOAL by HOBART Alex Rosa, Assist by John Jude Considine, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "",
+    "score": "7-16",
+    "away_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by HOBART, [13:17] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "3",
+    "time": "13:00",
+    "home_event": "",
+    "score": "7-17",
+    "away_event": "GOAL by HOBART Alex Rosa, Assist by Will Delano, goal number 25 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:00",
+    "home_event": "Faceoff Jeremy Askin vs Mike Valent won by SBU.",
+    "score": "7-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:00",
+    "home_event": "Ground ball pickup by SBU Benny Carter.",
+    "score": "7-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:48",
+    "home_event": "GOAL by SBU Benny Carter.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:48",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Turnover by HOBART Johnny Harding."
+  },
+  {
+    "quarter": "3",
+    "time": "11:59",
+    "home_event": "Ground ball pickup by SBU Connor Ballou.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "Shot by SBU Kellen Pulera WIDE.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "Shot by SBU Patrick Shanahan WIDE.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by SBU Kellen Pulera.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "GOAL by SBU Jake Kucinski, Assist by Kellen Pulera.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by HOBART, [11:00] Ground ball pickup by HOBART Andre Wiest."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "GOAL by HOBART Cade Dino, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [10:23] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "GOAL by HOBART Chase Hallam, Assist by Mike Valent, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Faceoff Tom Fox vs Cole Emmanuel won by HOBART, [09:57] Ground ball pickup by HOBART Seamus Schofield."
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Shot by HOBART Randall Brown, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "GOAL by SBU Patrick Shanahan, Assist by Kellen Pulera.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Faceoff Tom Fox vs Cole Emmanuel won by HOBART, [09:05] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Ground ball pickup by HOBART Bryce Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Shot by HOBART Colden Swisher WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Shot by HOBART Connor DiTomasso HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "06:52",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Shot by HOBART Will Delano, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "06:45",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "Shot by SBU Jake Kucinski, SAVE Elhanan Wilson.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "Ground ball pickup by SBU Patrick Shanahan.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "Shot by SBU Patrick Shanahan, SAVE Elhanan Wilson.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "",
+    "score": "10-19",
+    "away_event": "Turnover by HOBART JT Anderson (caused by Connor Ballou)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "Ground ball pickup by SBU Kyle Pepper.",
+    "score": "10-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "GOAL by SBU Jake Kucinski, Assist by Kyle Pepper.",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "",
+    "score": "11-19",
+    "away_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by HOBART, [05:33] Ground ball pickup by HOBART Cole Emmanuel."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "GOAL by HOBART Alex Rosa, goal number 26 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Faceoff Quinn Nolan vs Mike Valent won by HOBART, [04:23] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Shot by HOBART Alex Begina, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Ground ball pickup by HOBART David Peterkin."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Shot by HOBART Alex Begina, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "Penalty on SBU Cameron Viavada (PUSHING/0:30) Extra-man opportunity.",
+    "score": "11-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:13",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Shot by HOBART Bryce Johnson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "11-20",
+    "away_event": "Ground ball pickup by HOBART Will Delano."
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "GOAL by HOBART Connor DiTomasso (MAN-UP), Assist by David Peterkin, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by SBU (on faceoff violation).",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "Shot by SBU Patrick Shanahan WIDE.",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "Shot by SBU Conor Murphy, SAVE Elhanan Wilson.",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "Penalty on SBU Kyle Pepper (HOLDING/0:30) Extra-man opportunity.",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:26",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "Shot by HOBART Alex Rosa WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "Shot by HOBART Will Delano, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "Shot by SBU Patrick Shanahan WIDE.",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "Penalty on HOBART Michael Bennett (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "Penalty on HOBART Jack Schleicher (INTERFERENCE/0:30)."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "11-21",
+    "away_event": "Penalty on HOBART Nolan Firth (UNSPORTSMANLIKE CONDUCT/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Penalty on SBU Conor Murphy (UNSPORTSMANLIKE CONDUCT/1:00).",
+    "score": "11-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:50",
+    "home_event": "GOAL by SBU Kellen Pulera (MAN-UP), Assist by Jake Kucinski.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:50",
+    "home_event": "",
+    "score": "12-21",
+    "away_event": "Faceoff Quinn Nolan vs Mike Valent won by HOBART, [14:50] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "",
+    "score": "12-21",
+    "away_event": "Shot by HOBART Bryce Johnson HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "13:27",
+    "home_event": "",
+    "score": "12-21",
+    "away_event": "Shot by HOBART Connor DiTomasso, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "4",
+    "time": "13:23",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:09",
+    "home_event": "Turnover by SBU.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "",
+    "score": "12-21",
+    "away_event": "Turnover by HOBART Colden Swisher."
+  },
+  {
+    "quarter": "4",
+    "time": "12:26",
+    "home_event": "Ground ball pickup by SBU Evan Gallo.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:13",
+    "home_event": "Shot by SBU Cameron Viavada, SAVE Elhanan Wilson.",
+    "score": "12-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "12-21",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "",
+    "score": "12-22",
+    "away_event": "GOAL by HOBART Michael Schafer, Assist by Bryce Johnson, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by SBU, [12:03] Ground ball pickup by SBU Quinn Nolan.",
+    "score": "12-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "Turnover by SBU Quinn Nolan (caused by Cole Emmanuel).",
+    "score": "12-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:51",
+    "home_event": "",
+    "score": "12-22",
+    "away_event": "Ground ball pickup by HOBART Connor DiTomasso."
+  },
+  {
+    "quarter": "4",
+    "time": "11:47",
+    "home_event": "",
+    "score": "12-22",
+    "away_event": "Turnover by HOBART Connor DiTomasso (caused by Rory O'Brien)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "Ground ball pickup by SBU Connor Ballou.",
+    "score": "12-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "12-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "Turnover by SBU.",
+    "score": "12-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "12-22",
+    "away_event": "Ground ball pickup by HOBART John Jude Considine."
+  },
+  {
+    "quarter": "4",
+    "time": "11:05",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "GOAL by HOBART Alex Begina, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:05",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Faceoff Jeremy Askin vs Cole Emmanuel won by HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Shot by HOBART Chase Hallam, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Ground ball pickup by HOBART Chase Hallam."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Timeout by HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Shot by HOBART John Jude Considine HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Ground ball pickup by HOBART Colden Swisher."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Shot clock violation by HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:27",
+    "home_event": "Turnover by SBU Kaeden Burger.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Turnover by HOBART Jabril Belle-Walker."
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by SBU Owen Spring.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "Turnover by SBU Patrick Shanahan (caused by Will Corbett).",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:31",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Ground ball pickup by HOBART Elhanan Wilson."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Shot by HOBART Randall Brown, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "Ground ball pickup by SBU Owen Spring.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Turnover by SBU Henry Coke.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:39",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Ground ball pickup by HOBART Bryce Johnson."
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Shot by HOBART Bryce Johnson HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "Turnover by SBU John Boomer (caused by Sheldon Broughton).",
+    "score": "12-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Ground ball pickup by HOBART Tyler Cavo."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Clear attempt by HOBART good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "",
+    "score": "12-23",
+    "away_event": "Trevor Fox at goalie for HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "",
+    "score": "12-24",
+    "away_event": "GOAL by HOBART Connor DiTomasso, Assist by Alex Rosa, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "",
+    "score": "12-24",
+    "away_event": "Faceoff Quinn Nolan vs Cole Emmanuel won by HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "05:58",
+    "home_event": "",
+    "score": "12-24",
+    "away_event": "Ground ball pickup by HOBART Trevor Fox."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "12-24",
+    "away_event": "Shot by HOBART Braeden Wimer WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "",
+    "score": "12-25",
+    "away_event": "GOAL by HOBART Randall Brown, Assist by John Jude Considine, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "",
+    "score": "12-25",
+    "away_event": "Faceoff Tom Fox vs Mike Valent won by HOBART, [04:59] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "12-26",
+    "away_event": "GOAL by HOBART Will  Plunkett, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "12-26",
+    "away_event": "Faceoff Tom Fox vs Cole Emmanuel won by HOBART, [04:14] Ground ball pickup by HOBART Alex Rosa."
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "",
+    "score": "12-26",
+    "away_event": "Ground ball pickup by HOBART Jabril Belle-Walker."
+  },
+  {
+    "quarter": "4",
+    "time": "03:34",
+    "home_event": "",
+    "score": "12-26",
+    "away_event": "Shot by HOBART Alex Rosa, SAVE Evan Gallo."
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "Ground ball pickup by SBU Aaron Eberhard.",
+    "score": "12-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "12-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "Connor Robinson at goalie for SBU.",
+    "score": "12-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "GOAL by SBU Chris Lawrence, Assist by Chase Perryman.",
+    "score": "13-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Faceoff Jeremy Askin vs Mike Valent won by HOBART, [02:30] Ground ball pickup by HOBART Mike Valent."
+  },
+  {
+    "quarter": "4",
+    "time": "01:36",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Shot by HOBART Jabril Belle-Walker BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Ground ball pickup by HOBART Chase Hallam."
+  },
+  {
+    "quarter": "4",
+    "time": "01:05",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Shot by HOBART John Jude Considine WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:05",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Shot clock violation by HOBART."
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "13-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "Shot by SBU Chase Perryman HIGH.",
+    "score": "13-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "Shot by SBU Chris Lawrence HIGH.",
+    "score": "13-26",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "13-26",
+    "away_event": "Ground ball pickup by HOBART Will Delano."
+  }
+]

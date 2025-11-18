@@ -1,0 +1,1612 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nicky West at goalie for QU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Rand Paddack at goalie for MU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [15:00] Ground ball pickup by QU Deacon Adams.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QU Carter Petersen.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:14",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU Dillon Bush WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Clear attempt by QU failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QU Mannie Smith (caused by Jack Sullivan).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MU Michael Frederick (FIRST GOAL)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [13:03] Ground ball pickup by QU Michael White.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "GOAL by QU Ethan Scaffidi, Assist by Ryan McDaniel.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [12:25] Ground ball pickup by QU Jacob Schreck.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by MU Dillon Bush (caused by Brooks Stankavage)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by QU Jacob Schreck.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "Clear attempt by QU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "Shot by QU Carter Petersen WIDE",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "GOAL by QU Jack Royer.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [09:06] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MU Will Zylstra WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MU Michael Frederick, SAVE Nicky West"
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "Clear attempt by QU good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Ground ball pickup by QU Jonathan Stansel.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "GOAL by QU Dylan Behnke.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [07:16] Ground ball pickup by QU Grant Isika.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "Timeout by QU.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by MU Luke Hand."
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "Ground ball pickup by QU Jack Royer.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QU Ethan Scaffidi.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "Penalty on QU Lawson Jones (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "Penalty on QU Lawson Jones (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MU Will Zylstra WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MU Michael Frederick, SAVE Nicky West"
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MU Dillon Bush WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "Clear attempt by QU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QU Michael White (caused by Tyler Gilbert).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MU Michael Frederick."
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "Clear attempt by QU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Shot by QU Dylan Behnke WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QU Ethan Scaffidi.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MU Thomas Venzie."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by MU Michael Frederick, Assist by Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [01:25] Ground ball pickup by QU Deacon Adams.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Ground ball pickup by QU Ryan McDaniel.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "GOAL by QU Lawson Jones, Assist by Zach Miller.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Carson Hoewe vs Chris Cappelmann won by MU, [15:00] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "14:57",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by MU Jackson Hirschy, Assist by Dillon Bush."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [13:51] Ground ball pickup by QU Jacob Schreck.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "Ground ball pickup by QU Carter Petersen.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QU Dylan Behnke (caused by Kobe Handsor).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:37",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by MU Will Zylstra, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "Clear attempt by QU good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:07",
+    "home_event": "GOAL by QU Jack Royer, Assist by Carter Petersen.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:07",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [11:07] Ground ball pickup by QU Marcus Acevedo.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QU Marcus Acevedo (caused by Quinn Kelley).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by MU Davis Peek."
+  },
+  {
+    "quarter": "2",
+    "time": "10:47",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by MU Will Zylstra WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "GOAL by MU Michael Frederick."
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [10:21] Ground ball pickup by MU Thomas Venzie."
+  },
+  {
+    "quarter": "2",
+    "time": "09:56",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Will Zylstra HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Luke Fox HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "Penalty on QU Mannie Smith (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Jack Sullivan, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Clear attempt by QU good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "Shot by QU Carter Petersen, SAVE Rand Paddack",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:08",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Will Zylstra, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "Clear attempt by QU good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:01",
+    "home_event": "Shot by QU Ryan McCarthy, SAVE Rand Paddack",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Jack Sullivan, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "06:14",
+    "home_event": "Clear attempt by QU good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Shot by QU Ryan McDaniel HIT POST",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:13",
+    "home_event": "Shot by QU Ryan McDaniel, SAVE Rand Paddack",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "Ground ball pickup by QU Carter Petersen.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:38",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MU Kobe Handsor."
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MU Will Schepis HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "03:26",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "30-second clock violation by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "03:22",
+    "home_event": "Clear attempt by QU good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "Shot by QU Ryan McCarthy, SAVE Rand Paddack",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MU Thomas Venzie."
+  },
+  {
+    "quarter": "2",
+    "time": "02:25",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by MU Tyler Gilbert (caused by Lawson Jones)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "Ground ball pickup by QU Lawson Jones.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "Timeout by QU.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "GOAL by QU Carter Petersen, Assist by Lawson Jones.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [01:40] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "01:08",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MU Dillon Bush HIT POST"
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "Penalty on QU Michael White (SLASHING/1:00) Extra-man opportunity.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "Clear attempt by QU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QU Gage Bachman.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MU Michael Frederick, SAVE Nicky West"
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Clear attempt by QU failed.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QU.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MU Michael Frederick, SAVE Nicky West"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [15:00] Ground ball pickup by QU Deacon Adams.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QU Deacon Adams.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:29",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MU Jack Sullivan, SAVE Nicky West"
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "Clear attempt by QU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QU Ethan Scaffidi (caused by Quinn Kelley).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by MU Quinn Kelley."
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [13:41] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MU Jack Sullivan HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MU Will Zylstra BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "12:43",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by MU Luke Fox, Assist by Jack Sullivan."
+  },
+  {
+    "quarter": "3",
+    "time": "12:43",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [12:43] Ground ball pickup by MU Brady Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "Penalty on QU Grant Isika (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by MU Jack Sullivan."
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "Ground ball pickup by QU Mannie Smith.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "Clear attempt by QU good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QU Jack Royer.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by MU Will Zylstra."
+  },
+  {
+    "quarter": "3",
+    "time": "09:55",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by MU Will Zylstra WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "09:51",
+    "home_event": "Penalty on QU Michael White (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by MU Dillon Bush (MAN-UP), Assist by Michael Frederick."
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [09:33] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by MU Kyle Pierce."
+  },
+  {
+    "quarter": "3",
+    "time": "08:47",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by MU Luke Fox, SAVE Nicky West"
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "Ground ball pickup by QU Nicky West.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "Clear attempt by QU good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "GOAL by QU Jack Royer, Assist by Ryan McCarthy.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [07:59] Ground ball pickup by QU Deacon Adams.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QU Deacon Adams.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Clear attempt by QU good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Shot by QU Ryan McDaniel WIDE",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "30-second clock violation by QU.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:05",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QU Ryan McCarthy.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:25",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Penalty on MU Jackson Hirschy (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "03:11",
+    "home_event": "Shot by QU Carter Petersen HIGH",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "GOAL by QU Nate Gilmore.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [02:36] Ground ball pickup by MU Ganon Cope."
+  },
+  {
+    "quarter": "3",
+    "time": "02:26",
+    "home_event": "Shot by QU Sam Strother, SAVE Rand Paddack",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "Ground ball pickup by QU Nate Gilmore.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by MU Ganon Cope."
+  },
+  {
+    "quarter": "3",
+    "time": "02:02",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "Ground ball pickup by QU Dylan Behnke.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:54",
+    "home_event": "Shot by QU Dylan Behnke, SAVE Rand Paddack",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by MU Luke Fox (caused by Brooks Stankavage)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [15:00] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "4",
+    "time": "14:23",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MU Dillon Bush HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MU Dylan McKelvy BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "Ground ball pickup by QU Jacob Schreck.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "Shot by QU Dylan Behnke WIDE",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:49",
+    "home_event": "Shot by QU Dylan Behnke, SAVE Rand Paddack",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:43",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MU Nolan Filley."
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MU Dillon Bush WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:51",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:46",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by MU Tyler Gilbert."
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by MU Dillon Bush WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by MU Luke Fox (caused by Deacon Adams)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:18",
+    "home_event": "Ground ball pickup by QU Deacon Adams.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:15",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Shot by QU Dylan Behnke, SAVE Rand Paddack",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:15",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by MU Dillon Bush."
+  },
+  {
+    "quarter": "4",
+    "time": "09:15",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [09:15] Ground ball pickup by MU Thomas Venzie."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "4",
+    "time": "08:54",
+    "home_event": "Clear attempt by QU good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "GOAL by QU Jack Royer.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [07:41] Ground ball pickup by QU Grant Isika.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "GOAL by QU Grant Isika.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Faceoff Grant Isika vs Chris Cappelmann won by MU, [07:35] Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "GOAL by MU Michael Frederick, Assist by Chris Cappelmann."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "Penalty on QU Mannie Smith (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Grant Isika vs Carter Kryszak won by MU, [07:29] Ground ball pickup by MU Ganon Cope."
+  },
+  {
+    "quarter": "4",
+    "time": "07:11",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by MU Thomas Venzie (MAN-UP), Assist by Will Zylstra."
+  },
+  {
+    "quarter": "4",
+    "time": "07:11",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [07:11] Ground ball pickup by QU Grant Isika.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by QU Grant Isika (caused by Chris Cappelmann).",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by MU Chris Cappelmann."
+  },
+  {
+    "quarter": "4",
+    "time": "06:55",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by MU Christian Laureano (caused by Michael White)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "Ground ball pickup by QU Michael White.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:12",
+    "home_event": "Clear attempt by QU good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:38",
+    "home_event": "Shot by QU Ethan Scaffidi WIDE",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "GOAL by QU Ryan McDaniel.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [05:11] Ground ball pickup by QU Deacon Adams.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:26",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "GOAL by MU Jack Sullivan, Assist by Michael Frederick."
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU, [03:39] Ground ball pickup by QU Jacob Schreck.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:16",
+    "home_event": "Timeout by QU.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "Ground ball pickup by QU Ethan Scaffidi.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:48",
+    "home_event": "Shot by QU Micah Stechmiller, SAVE Rand Paddack",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by MU Dylan McKelvy."
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by MU Dillon Bush, SAVE Nicky West"
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "Ground ball pickup by QU Brooks Stankavage.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Clear attempt by QU good.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "Timeout by QU.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "For QU: #15 Ryan McDaniel.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Shot by QU Jack Royer, SAVE Rand Paddack",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "GOAL by MU Dillon Bush, Assist by Luke Hand."
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "Faceoff Grant Isika vs Chris Cappelmann won by QU.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "Shot by QU Ethan Scaffidi, SAVE Rand Paddack",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "Shot by QU Jack Royer WIDE",
+    "score": "11-12",
+    "away_event": ""
+  }
+]

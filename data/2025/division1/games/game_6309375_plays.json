@@ -1,0 +1,1822 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Kennedy, Shea at goalie for HOFSTRA.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Owen Hirsch at goalie for FFD."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:29",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by FFD Keegan Lynch."
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "Shot by HOFSTRA Parkes, Trey WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "Turnover by HOFSTRA Parkes, Trey (caused by Julian Radossich).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by FFD Julian Radossich."
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by FFD Jake Gilbert (FIRST GOAL), Assist by Will Consoli, goal number 24 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Myers, Cole vs Daniel Davis won by FFD, [13:10] Ground ball pickup by FFD Austin McClintic."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by FFD Daniel Davis HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by FFD Keegan Lynch HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "Ground ball pickup by HOFSTRA Cooling, Blake.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "Turnover by HOFSTRA Cooling, Blake.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by FFD Devin Lampron."
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by FFD Jake Gilbert, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Turnover by HOFSTRA Clarke, Austin.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by FFD Devin Lampron WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:06",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by FFD KJ Delane, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:06",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA (on faceoff violation).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "Shot by HOFSTRA Bogardus, Drew, SAVE Owen Hirsch.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by FFD Will Consoli, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "Shot by HOFSTRA DeYoung, Joey WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "Shot clock violation by HOFSTRA.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:13",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by FFD Will Consoli WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by FFD Luke Okupski (caused by Clarke, Austin)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "Ground ball pickup by HOFSTRA Clarke, Austin.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "Shot by HOFSTRA Bogardus, Drew, SAVE Owen Hirsch.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by FFD Luke Fisher, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "Ground ball pickup by HOFSTRA Delaney, Will.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Shot by HOFSTRA Jones, Rory WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "Turnover by HOFSTRA Bogardus, Drew (caused by Rory Thompson).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by FFD Julian Radossich."
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD failed."
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by FFD Owen Hirsch."
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "Ground ball pickup by HOFSTRA Kennedy, Shea.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:36",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Eli Adams).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD failed."
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by FFD Julian Radossich (caused by Madsen, John)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "Shot by HOFSTRA Natalie, Trevor, SAVE Owen Hirsch.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on FFD Austin McClintic (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "Shot by HOFSTRA Madsen, John WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "Shot by HOFSTRA Parkes, Trey, SAVE Owen Hirsch.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "Ground ball pickup by HOFSTRA Natalie, Trevor.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "Shot by HOFSTRA Natalie, Trevor WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "Shot by HOFSTRA Jones, Rory WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "Shot by HOFSTRA Natalie, Trevor BLOCKED.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "Ground ball pickup by HOFSTRA Troy, Henry.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Nate Livingston).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by FFD Julian Radossich."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot clock violation by FFD."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Niesman, Benjamin vs Dylan Smith won by HOFSTRA, [15:00] Ground ball pickup by HOFSTRA Niesman, Benjamin.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Rory Thompson).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by FFD Owen Hirsch."
+  },
+  {
+    "quarter": "2",
+    "time": "14:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:03",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by FFD Keegan Lynch, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:03",
+    "home_event": "Penalty on HOFSTRA Cooling, Blake (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:27",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by FFD Devin Lampron (MAN-UP), Assist by Will Consoli, goal number 24 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:27",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA, [13:27] Ground ball pickup by HOFSTRA Niesman, Benjamin.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "GOAL by HOFSTRA Jones, Rory, Assist by Natalie, Trevor, goal number 16 for season.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Turnover by FFD Jason LaMay Jr. (caused by Bradley, Dan)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:11",
+    "home_event": "Ground ball pickup by HOFSTRA Jones, Rory.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:11",
+    "home_event": "Turnover by HOFSTRA Jones, Rory.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Turnover by FFD Devin Lampron."
+  },
+  {
+    "quarter": "2",
+    "time": "10:25",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "Turnover by HOFSTRA Gilbert, George (caused by Rory Thompson).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:20",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by FFD Rory Thompson."
+  },
+  {
+    "quarter": "2",
+    "time": "10:11",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by FFD Devin Lampron, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by FFD Rory Thompson BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by FFD Rory Thompson."
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Timeout by FFD."
+  },
+  {
+    "quarter": "2",
+    "time": "09:12",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by FFD Devin Lampron, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by FFD Luke Okupski, Assist by Keegan Lynch, goal number 16 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Myers, Cole vs Daniel Davis won by FFD, [08:48] Ground ball pickup by FFD Daniel Davis."
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by FFD Austin McClintic, Assist by Jake Gilbert, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA, [08:39] Ground ball pickup by HOFSTRA Niesman, Benjamin.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "Turnover by HOFSTRA Parkes, Trey (caused by Andrew Kasten).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:47",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by FFD Jason LaMay Jr. BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by FFD Devin Lampron."
+  },
+  {
+    "quarter": "2",
+    "time": "06:43",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot clock violation by FFD."
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Turnover by HOFSTRA Madsen, John (caused by Luke Fisher).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "Ground ball pickup by HOFSTRA Mollica, Anthony.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by FFD Joe Costantino (caused by DeYoung, Joey)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "Ground ball pickup by HOFSTRA Vilas, Matt.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:45",
+    "home_event": "Turnover by HOFSTRA Sakowski, Jack.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by FFD Jake Gilbert WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:07",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by FFD Devin Lampron WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by FFD Devin Lampron, Assist by Keegan Lynch, goal number 25 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA (on faceoff violation).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:26",
+    "home_event": "GOAL by HOFSTRA Parkes, Trey, goal number 13 for season.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:26",
+    "home_event": "Faceoff Niesman, Benjamin vs Dylan Smith won by HOFSTRA, [04:26] Ground ball pickup by HOFSTRA Cooling, Blake.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:11",
+    "home_event": "Shot by HOFSTRA Vilas, Matt HIGH.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:07",
+    "home_event": "Ground ball pickup by HOFSTRA Mollica, Anthony.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Penalty on FFD Eli Adams (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Timeout by HOFSTRA.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "Shot by HOFSTRA Parkes, Trey WIDE.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Shot by HOFSTRA Parkes, Trey BLOCKED.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by HOFSTRA Parkes, Trey.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:35",
+    "home_event": "Shot by HOFSTRA Jones, Rory, SAVE Owen Hirsch.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "GOAL by HOFSTRA Jones, Rory, Assist by Parkes, Trey, goal number 17 for season.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "Faceoff Niesman, Benjamin vs Dylan Smith won by HOFSTRA (on faceoff violation).",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "Shot by HOFSTRA Madsen, John, SAVE Owen Hirsch.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:22",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by FFD failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:22",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Turnover by FFD Carson Dyl."
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "Shot by HOFSTRA Madsen, John, SAVE Owen Hirsch.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by FFD Owen Hirsch."
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by FFD Jake Gilbert, Assist by Austin McClintic, goal number 25 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA, [00:53] Ground ball pickup by HOFSTRA Hollar, Cayden.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Timeout by HOFSTRA.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:21",
+    "home_event": "Turnover by HOFSTRA Parkes, Trey (caused by Matt Rice).",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by FFD Matt Rice."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:16",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by FFD Matt Rice, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:16",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD, [00:16] Ground ball pickup by FFD Daniel Davis."
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by FFD Daniel Davis, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "Ground ball pickup by HOFSTRA Kennedy, Shea.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by HOFSTRA, [15:00] Ground ball pickup by HOFSTRA Niesman, Benjamin.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "Shot by HOFSTRA Natalie, Trevor, SAVE Owen Hirsch.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by FFD Andrew Kasten."
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:04",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by FFD Matt Rice, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "Ground ball pickup by HOFSTRA Parkes, Trey.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "Shot by HOFSTRA DeYoung, Joey, SAVE Owen Hirsch.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by FFD Andrew Kasten, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "3",
+    "time": "13:19",
+    "home_event": "Ground ball pickup by HOFSTRA Kennedy, Shea.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:07",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "Turnover by HOFSTRA Natalie, Trevor (caused by Austin McClintic).",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by FFD Julian Radossich."
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Turnover by FFD Matt Rice (caused by Kiernan, Ryan)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "Ground ball pickup by HOFSTRA Kennedy, Shea.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:54",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "Turnover by HOFSTRA Parkes, Trey (caused by Rory Thompson).",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by FFD Rory Thompson."
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by FFD Luke Okupski, goal number 17 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD, [11:04] Ground ball pickup by FFD Shane Elliott."
+  },
+  {
+    "quarter": "3",
+    "time": "10:25",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Turnover by FFD Jake Gilbert (caused by Kiernan, Ryan)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:22",
+    "home_event": "Ground ball pickup by HOFSTRA Kiernan, Ryan.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "GOAL by HOFSTRA DeYoung, Joey, Assist by Mollica, Anthony, goal number 8 for season.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD, [09:43] Ground ball pickup by FFD Daniel Davis."
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by FFD Rory Thompson (caused by Kiernan, Ryan)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:16",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:45",
+    "home_event": "GOAL by HOFSTRA Madsen, John, Assist by Mollica, Anthony, goal number 23 for season.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:45",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD, [08:45] Ground ball pickup by FFD Austin McClintic."
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by FFD Austin McClintic."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "Ground ball pickup by HOFSTRA Troy, Henry.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:14",
+    "home_event": "Shot by HOFSTRA Sakowski, Jack, SAVE Owen Hirsch.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:03",
+    "home_event": "Penalty on HOFSTRA Madsen, John (PUSHING/0:30) Extra-man opportunity.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by FFD Devin Lampron WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by FFD Devin Lampron, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by HOFSTRA Kiernan, Ryan.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:04",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:02",
+    "home_event": "Shot by HOFSTRA Kiernan, Ryan WIDE.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "Shot by HOFSTRA Mollica, Anthony WIDE.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "Shot by HOFSTRA Bogardus, Drew WIDE.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on FFD Andrew Kasten (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Shot by HOFSTRA Jones, Rory, SAVE Owen Hirsch.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on FFD Matt Rice (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "Shot by HOFSTRA Madsen, John BLOCKED.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by FFD Keegan Lynch."
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by FFD Jason LaMay Jr. (caused by Clarke, Austin)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:23",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on FFD Jason LaMay Jr. (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "GOAL by HOFSTRA Jones, Rory (MAN-UP), Assist by Mollica, Anthony, goal number 18 for season.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Niesman, Benjamin vs Daniel Davis won by FFD (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:01",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by FFD Keegan Lynch, Assist by Will Consoli, goal number 14 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:01",
+    "home_event": "Faceoff Myers, Cole vs Daniel Davis won by HOFSTRA (on faceoff violation).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "Shot by HOFSTRA Bogardus, Drew WIDE.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:49",
+    "home_event": "GOAL by HOFSTRA DeYoung, Joey, goal number 9 for season.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:49",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Faceoff Niesman, Benjamin vs Dylan Smith won by FFD (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Turnover by FFD Rob Moore (caused by Cooling, Blake)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by HOFSTRA Kiernan, Ryan.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by HOFSTRA Gilbert, George.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Penalty on FFD Jake Gilbert (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "14:34",
+    "home_event": "Shot by HOFSTRA Parkes, Trey WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:17",
+    "home_event": "GOAL by HOFSTRA Jones, Rory (MAN-UP), Assist by Natalie, Trevor, goal number 19 for season.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:17",
+    "home_event": "Faceoff Myers, Cole vs Dylan Smith won by HOFSTRA, [14:17] Ground ball pickup by HOFSTRA Myers, Cole.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:53",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "Turnover by HOFSTRA Madsen, John (caused by Andrew Kasten).",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by FFD Nate Livingston."
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by FFD Will Consoli WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by FFD Will Consoli."
+  },
+  {
+    "quarter": "4",
+    "time": "12:37",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by FFD Luke Okupski BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by FFD Rob Moore."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by FFD Devin Lampron, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "Penalty on HOFSTRA Vilas, Matt (PUSHING/0:30) Extra-man opportunity.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by FFD KJ Delane, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by FFD KJ Delane WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by FFD Luke Okupski (MAN-UP), Assist by Keegan Lynch, goal number 18 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "Faceoff Myers, Cole vs Dylan Smith won by HOFSTRA, [12:01] Ground ball pickup by HOFSTRA Myers, Cole.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:12",
+    "home_event": "Shot by HOFSTRA DeYoung, Joey WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "Shot by HOFSTRA Mollica, Anthony, SAVE Owen Hirsch.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Penalty on FFD Matt Rice (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "Shot by HOFSTRA Madsen, John WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Turnover by HOFSTRA Jones, Rory (caused by Julian Radossich).",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:27",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:06",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by FFD Keegan Lynch WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by FFD Luke Okupski, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Myers, Cole vs Daniel Davis won by FFD, [08:57] Ground ball pickup by FFD Daniel Davis."
+  },
+  {
+    "quarter": "4",
+    "time": "08:46",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Daniel Davis WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Will Consoli WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:21",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Keegan Lynch HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by FFD Rob Moore."
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Jason LaMay Jr. HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "07:58",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Keegan Lynch WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:46",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Keegan Lynch, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Ground ball pickup by HOFSTRA Major, Kaden.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "Ground ball pickup by HOFSTRA Sakowski, Jack.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:36",
+    "home_event": "Turnover by HOFSTRA Mollica, Anthony (caused by Matt Rice).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by FFD Nate Livingston."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by FFD good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Julian Radossich BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "06:20",
+    "home_event": "Ground ball pickup by HOFSTRA Jones, Rory.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:14",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:12",
+    "home_event": "Turnover by HOFSTRA Jones, Rory (caused by Devin Lampron).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:09",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by FFD Eli Adams."
+  },
+  {
+    "quarter": "4",
+    "time": "06:05",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by FFD Devin Lampron, SAVE Kennedy, Shea."
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "Ground ball pickup by HOFSTRA Kennedy, Shea.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Penalty on FFD Devin Lampron (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Penalty on FFD Austin McClintic (UNNECESSARY ROUGHNESS/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "Shot by HOFSTRA Madsen, John WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "GOAL by HOFSTRA Jones, Rory (MAN-UP), Assist by Parkes, Trey, goal number 20 for season.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff Myers, Cole vs Daniel Davis won by FFD, [04:58] Ground ball pickup by FFD Daniel Davis."
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot by FFD Daniel Davis WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:04",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Turnover by FFD Rob Moore (caused by Clarke, Austin)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "Clear attempt by HOFSTRA good.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "Shot by HOFSTRA Madsen, John HIGH.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "Shot by HOFSTRA DeYoung, Joey WIDE.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "GOAL by HOFSTRA Mollica, Anthony, goal number 18 for season.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "Faceoff Myers, Cole vs Daniel Davis won by HOFSTRA, [03:05] Ground ball pickup by HOFSTRA Myers, Cole.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "Turnover by HOFSTRA Myers, Cole (caused by Daniel Davis).",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by FFD Matt Rice."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "GOAL by FFD Devin Lampron, Assist by KJ Delane, goal number 26 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Faceoff Myers, Cole vs Daniel Davis won by FFD, [02:49] Ground ball pickup by FFD Andrew Kasten."
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "Clear attempt by HOFSTRA failed.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "Turnover by HOFSTRA DeYoung, Joey.",
+    "score": "10-14",
+    "away_event": ""
+  }
+]

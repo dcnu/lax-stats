@@ -1,0 +1,1577 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Donnelly, Brendan at goalie for DREXEL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "ELLINGTON, Kevin at goalie for DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DREXEL, [15:00] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "GOAL by DREXEL Tulio, Alec (FIRST GOAL), goal number 8 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DREXEL (on faceoff violation).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "GOAL by DREXEL Martin, Matt, goal number 8 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by DEL SHIELDS, Jackson BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Timeout by DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by DEL POWERS, Brendan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by DEL OWINGS, Tyler, Assist by PARMER, Bennett, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DREXEL (on faceoff violation).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "Shot by DREXEL Crawford, Witt, SAVE ELLINGTON, Kevin.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by DEL OWINGS, Tyler, Assist by KOLAR, Jason, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DEL, [10:18] Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DEL POWERS, Brendan HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DEL OWINGS, Tyler HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE ELLINGTON, Kevin.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:51",
+    "home_event": "Ground ball pickup by DREXEL Knight, Owen.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "GOAL by DREXEL Hooley, Conor, Assist by Knight, Owen, goal number 18 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DEL, [08:43] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "Turnover by DREXEL.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL PARMER, Bennett WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "Penalty on DREXEL Crawford, Witt (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "Penalty on DREXEL Kelly, Gavin (TECH/0:30).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL KOLBE, Jack HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "Turnover by DREXEL Tulio, Alec.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL OWINGS, Tyler HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL PARMER, Bennett BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by DEL OWINGS, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL OWINGS, Tyler HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:08",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL MCCURRY, John HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "Ground ball pickup by DREXEL Kelly, Gavin.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "Ground ball pickup by DREXEL Knight, Owen.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "GOAL by DREXEL Farrell, Will, Assist by Knight, Owen, goal number 8 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Penalty on DEL PISANO, Gino (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Ground ball pickup by DREXEL Nolan, Jack.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "Turnover by DREXEL McVicker, Connor (caused by COWEN, Nick).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL, [15:00] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 12 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "Penalty on DREXEL Carden, Luke (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by DEL MORGAN, Finn (caused by O'Brien, Kevin)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:46",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:42",
+    "home_event": "Turnover by DREXEL O'Brien, Kevin (caused by D'AMBROGI, Hank).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:37",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by DEL MORGAN, Finn."
+  },
+  {
+    "quarter": "2",
+    "time": "13:34",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:23",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by DEL KOLBE, Jack, Assist by POWERS, Brendan, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:23",
+    "home_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DREXEL (on faceoff violation).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DEL ELLINGTON, Kevin, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "12:32",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:24",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DEL POWERS, Brendan BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:21",
+    "home_event": "Ground ball pickup by DREXEL Knight, Owen.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:24",
+    "home_event": "Shot by DREXEL Hooley, Conor HIGH.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "09:20",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by DEL POWERS, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:11",
+    "home_event": "Shot by DREXEL Luthy, Teddy, SAVE ELLINGTON, Kevin.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "Timeout by DREXEL.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "06:47",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on DEL SANELLI, Justin (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "Shot by DREXEL Gougler, Ty, SAVE ELLINGTON, Kevin.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:55",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:55",
+    "home_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DREXEL, [04:55] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "GOAL by DREXEL Luthy, Teddy, goal number 2 for season.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DEL, [04:16] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "03:09",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "03:03",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "Turnover by DREXEL O'Brien, Kevin (caused by MCCURRY, John).",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by DEL OWINGS, Tyler."
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by DEL OWINGS, Tyler."
+  },
+  {
+    "quarter": "2",
+    "time": "02:03",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by DEL OWINGS, Tyler (caused by O'Brien, Kevin)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "Shot by DREXEL Semple, Max, SAVE ELLINGTON, Kevin.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "Ground ball pickup by DREXEL Crawford, Witt.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "Timeout by DREXEL.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "Shot by DREXEL Tulio, Alec, SAVE ELLINGTON, Kevin.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by DEL COWEN, Nick BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Shot by DREXEL Hooley, Conor WIDE.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "Turnover by DREXEL Knight, Owen.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL, [12:41] Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "3",
+    "time": "12:20",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:54",
+    "home_event": "Penalty on DREXEL Crawford, Witt (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "11:08",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by DEL POWERS, Brendan (MAN-UP), Assist by KOLAR, Jason, goal number 36 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:08",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL, [11:08] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by DEL PREMTAJ, Logan (MAN-UP), goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DEL, [10:59] Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "10:26",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "10:08",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by DEL KOLAR, Jason (caused by Gucwa, Collin)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "Ground ball pickup by DREXEL Wallace, Jack.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:20",
+    "home_event": "GOAL by DREXEL Luthy, Teddy, goal number 3 for season.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:20",
+    "home_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DREXEL, [09:20] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "Shot by DREXEL Shortley, Aidan, SAVE ELLINGTON, Kevin.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:48",
+    "home_event": "Shot by DREXEL Farrell, Will HIT POST.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:45",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "GOAL by DEL POWERS, Brendan, Assist by CAPRI, Cory, goal number 37 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL, [07:47] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by DEL MORGAN, Finn, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Shortley, Aidan vs PREMTAJ, Logan won by DEL, [07:21] Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by DEL MORGAN, Finn, Assist by GILLIN, Patrick, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "Timeout by DREXEL.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DEL, [07:03] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DEL MCCURRY, John HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "Ground ball pickup by DREXEL McVicker, Connor.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "Shot by DREXEL Luthy, Teddy, SAVE ELLINGTON, Kevin.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "Shot by DREXEL Hooley, Conor, SAVE ELLINGTON, Kevin.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DEL MORGAN, Finn."
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DEL GILLIN, Patrick, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "05:02",
+    "home_event": "Turnover by DREXEL Donnelly, Brendan.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:00",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DEL BLACK, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "Ground ball pickup by DREXEL Donnelly, Brendan.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "Shot by DREXEL Martin, Matt HIT POST.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "Shot by DREXEL Knight, Owen WIDE.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE ELLINGTON, Kevin.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by DEL MCCURRY, John, Assist by KOLAR, Jason, goal number 21 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Shortley, Aidan vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:35",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by DEL PARMER, Bennett WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Shot by DREXEL Crawford, Witt WIDE.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Shot by DREXEL Knight, Owen HIGH.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Turnover by DREXEL Crawford, Witt (caused by COWEN, Nick).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DEL, [15:00] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "4",
+    "time": "13:58",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by DEL MCCURRY, John, Assist by D'AMBROGI, Hank, goal number 22 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DREXEL (on faceoff violation).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:09",
+    "home_event": "Turnover by DREXEL Zadell, Caden (caused by COWEN, Nick).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by DEL COWEN, Nick (caused by Hooley, Conor)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Ground ball pickup by DREXEL Hooley, Conor.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "GOAL by DREXEL Hooley, Conor, goal number 19 for season.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "GOAL by DEL PARMER, Bennett, goal number 15 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DREXEL, [12:07] Ground ball pickup by DREXEL Kammar, Liam.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Kammar, Liam, goal number 28 for season.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DREXEL, [11:50] Ground ball pickup by DREXEL Knight, Owen.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:29",
+    "home_event": "Turnover by DREXEL Knight, Owen (caused by POWELL, Liam).",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Ground ball pickup by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "11:22",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Turnover by DEL."
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Ground ball pickup by DREXEL Semple, Max.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:54",
+    "home_event": "Shot by DREXEL Crawford, Witt HIT CROSSBAR.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "GOAL by DREXEL Plotts, Tristan, goal number 7 for season.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DEL, [10:44] Ground ball pickup by DEL PREMTAJ, Logan."
+  },
+  {
+    "quarter": "4",
+    "time": "09:43",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Shot by DEL OWINGS, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "GOAL by DEL PARMER, Bennett, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DEL, [09:35] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "08:11",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "Penalty on DREXEL Carden, Luke (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot by DEL MORGAN, Finn, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:25",
+    "home_event": "Turnover by DREXEL Kammar, Liam (caused by POWERS, Brendan).",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:07",
+    "home_event": "Penalty on DREXEL Hess, Solomon (TOO MANY PLAYERS/0:30) Extra-man opportunity.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:55",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Crawford, Witt, goal number 29 for season.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:55",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Faceoff Layton, Trent vs MORRIS, OJ won by DEL, [04:55] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:05",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "Ground ball pickup by DREXEL Gabriele, Joshua.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:57",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Penalty on DEL KOLAR, Jason (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "GOAL by DREXEL Gougler, Ty (MAN-UP), Assist by Tulio, Alec, goal number 4 for season.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DREXEL.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "Shot by DREXEL Tulio, Alec WIDE.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "Shot by DREXEL Knight, Owen, SAVE ELLINGTON, Kevin.",
+    "score": "11-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:47",
+    "home_event": "",
+    "score": "11-16",
+    "away_event": "Penalty on DEL FISH, Nick (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:34",
+    "home_event": "GOAL by DREXEL Semple, Max (MAN-UP), Assist by Tulio, Alec, goal number 30 for season.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:34",
+    "home_event": "Faceoff Layton, Trent vs PREMTAJ, Logan won by DREXEL (on faceoff violation).",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "Shot by DREXEL Hallady, Finn, SAVE ELLINGTON, Kevin.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "Ground ball pickup by DREXEL Gougler, Ty.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "Ground ball pickup by DREXEL Lowe, Ryan.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Shot by DREXEL Lowe, Ryan, SAVE ELLINGTON, Kevin.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Turnover by DEL VILLANI, Ryder."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Timeout by DEL."
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Turnover by DREXEL.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Clear attempt by DEL good."
+  }
+]

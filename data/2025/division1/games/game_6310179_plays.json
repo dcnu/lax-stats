@@ -1,0 +1,1444 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Long, John at goalie for HC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Doherty, Joe at goalie for LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by LAF Sullivan, Riley (FIRST GOAL), Assist by Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Attell, Harry vs Prince, Evan won by LAF, [14:54] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "14:37",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by LAF Massotto, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "Shot by HC Messineo, Will HIGH.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by LAF failed."
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by LAF Rossi, Nick (caused by Tunney, Owen)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:36",
+    "home_event": "Ground ball pickup by HC Sheehan, Henry.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Turnover by HC Messineo, Will (caused by Finkeldie, John).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by LAF Finkeldie, John."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by LAF Rossi, Nick (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "Turnover by HC Messineo, Will (caused by Skibniewski, Matt).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by LAF Finkeldie, John."
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by LAF Sullivan, Riley HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by LAF Hill, Mason."
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by LAF Hill, Mason."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "Ground ball pickup by HC Long, John.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "Turnover by HC Carbonell, Matthew (caused by Sargent, Liam).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by LAF Hill, Mason, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by HC (on faceoff violation).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "Ground ball pickup by HC McDonald, Sam.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "GOAL by HC Lynch, Jude, Assist by Mitchell, John.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Attell, Harry vs Faccone, Nick won by LAF (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by LAF DiBattista, Benjamin, Assist by Sargent, Liam."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by HC, [07:50] Ground ball pickup by HC Ouhrabka, Gavin.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Turnover by HC Hubler, Max.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by LAF Galbraith, John."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "Ground ball pickup by HC Long, John.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:48",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "Turnover by HC Rincon, Michael.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:37",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by LAF Heaney, Joshua, SAVE Long, John."
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "Turnover by HC Webster, Bo.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by LAF failed."
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by LAF Kopen, Aidan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "Shot by HC Botek, Ryan WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "GOAL by HC Duley, Jon-Luke.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "Faceoff Attell, Harry vs Prince, Evan won by HC, [03:26] Ground ball pickup by HC Attell, Harry.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "Turnover by HC.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by LAF DiBattista, Benjamin, Assist by Sargent, Liam."
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [02:43] Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LAF Chapman, Clifford WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LAF Muller, Nick WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Shot by HC Webster, Bo WIDE.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by HC McDonald, Sam, SAVE Doherty, Joe.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Attell, Harry vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Andrew Matarese."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by LAF Heaney, Joshua, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [14:09] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by LAF Sargent, Liam HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by LAF Sullivan, Riley (caused by Doran, Jake)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:44",
+    "home_event": "Ground ball pickup by HC Doran, Jake.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:44",
+    "home_event": "GOAL by HC Messineo, Will.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:44",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Attell, Harry vs Prince, Evan won by LAF, [11:44] Ground ball pickup by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "2",
+    "time": "10:24",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by LAF Chapman, Clifford, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by HC (on faceoff violation).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:29",
+    "home_event": "Shot by HC McDonald, Sam, SAVE Doherty, Joe.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by LAF Burke, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:22",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "GOAL by LAF Merrick, Charlie, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "Timeout by HC.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Faceoff Attell, Harry vs Prince, Evan won by LAF, [09:08] Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF Heaney, Joshua HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:42",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF Duggan, Joseph, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:15",
+    "home_event": "Turnover by HC Rincon, Michael.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:11",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by LAF Skibniewski, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by LAF Skibniewski, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "06:54",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "06:10",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF DiBattista, Benjamin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Shot by HC Duley, Jon-Luke WIDE.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "Shot clock violation by HC.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:47",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "Turnover by HC Vieceli, William (caused by Burke, Brendan).",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:16",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by LAF Burke, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF Poirier, Brendan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Timeout by HC.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by LAF Hill, Mason HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Golden, Timothy vs Prince, Evan won by LAF, [01:10] Ground ball pickup by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by LAF Heaney, Joshua, Assist by Kilbride, Cade."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Larson, Owen vs Prince, Evan won by LAF, [00:59] Ground ball pickup by LAF Massotto, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "00:30",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Hill, Mason."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Turnover by LAF Hill, Mason (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "Turnover by HC Botek, Ryan.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:27",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by LAF Muller, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "Faceoff Attell, Harry vs Prince, Evan won by HC, [11:53] Ground ball pickup by HC Attell, Harry.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "GOAL by HC Lynch, Jude.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by HC, [11:15] Ground ball pickup by HC Jenkins, Julian.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "GOAL by HC Tunney, Owen.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "Faceoff Attell, Harry vs Faccone, Nick won by HC, [10:29] Ground ball pickup by HC Marchetta, Matthew.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by LAF Finkeldie, John."
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by LAF Heaney, Joshua (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Turnover by HC Messineo, Will.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:28",
+    "home_event": "Shot by HC Duley, Jon-Luke HIT POST.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "Shot by HC Mitchell, John, SAVE Doherty, Joe.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on LAF Skibniewski, Matt (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "Shot by HC Messineo, Will WIDE.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:14",
+    "home_event": "Shot clock violation by HC.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:14",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by LAF Sargent, Liam, Assist by DiBattista, Benjamin."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Faccone, Nick won by HC, [05:58] Ground ball pickup by HC Ouhrabka, Gavin.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "Turnover by HC Ramondo, Damien (caused by Morelli, Matt).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:18",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by LAF Morelli, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:08",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by LAF DiBattista, Benjamin (caused by Larson, Owen)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Ground ball pickup by HC Larson, Owen.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:55",
+    "home_event": "Turnover by HC Russler, William.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by LAF Kopen, Aidan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "Penalty on HC Hubler, Max (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by LAF Sullivan, Riley HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by LAF Duggan, Joseph, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "01:13",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by LAF Sullivan, Riley HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "00:40",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by LAF Duggan, Joseph (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:36",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "Shot by HC Duley, Jon-Luke HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "Shot by HC Messineo, Will WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "GOAL by HC Sheehan, Henry.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Attell, Harry vs Prince, Evan won by LAF, [00:04] Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "4",
+    "time": "14:53",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by LAF Prince, Evan (caused by Dowling, Jack)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:32",
+    "home_event": "Clear attempt by HC good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "GOAL by HC Lynch, Jude, Assist by Mitchell, John.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "Faceoff Attell, Harry vs Prince, Evan won by HC, [13:59] Ground ball pickup by HC McPherson, Calahan.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:42",
+    "home_event": "Clear attempt by HC good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:13",
+    "home_event": "Shot by HC Botek, Ryan WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "Shot by HC Duley, Jon-Luke HIGH.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:44",
+    "home_event": "Shot by HC Sheehan, Henry WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:33",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by LAF Duggan, Joseph."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [11:41] Ground ball pickup by LAF Poirier, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "11:34",
+    "home_event": "Penalty on HC Marchetta, Matthew (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by LAF DiBattista, Benjamin HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by LAF Heaney, Joshua, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "10:18",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:02",
+    "home_event": "Turnover by HC Hubler, Max.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Turnover by LAF Chapman, Clifford (caused by Lane, Brendan)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:34",
+    "home_event": "Ground ball pickup by HC Lane, Brendan.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Penalty on LAF Skibniewski, Matt (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "Clear attempt by HC good.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "GOAL by HC Bonomo, Michael (MAN-UP).",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "Faceoff Attell, Harry vs Prince, Evan won by HC, [08:48] Ground ball pickup by HC Attell, Harry.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Timeout by HC.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:18",
+    "home_event": "Shot clock violation by HC.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:11",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:31",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by LAF Duggan, Joseph."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by HC Ottomanelli, Andrew.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:32",
+    "home_event": "Shot by HC Ramondo, Damien, SAVE Doherty, Joe.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:27",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by LAF Heaney, Joshua, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Prince, Evan won by LAF, [04:31] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot by LAF DiBattista, Benjamin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "Clear attempt by HC good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Ground ball pickup by HC Duley, Jon-Luke.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "Shot by HC Duley, Jon-Luke WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "Turnover by HC.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:34",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Turnover by LAF Chapman, Clifford (caused by Shoemaker, Luke)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "Shot by HC Messineo, Will, SAVE Doherty, Joe.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by LAF Chapman, Clifford."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot clock violation by LAF."
+  }
+]

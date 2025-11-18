@@ -1,0 +1,1619 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "McGill, Drew at goalie for DREXEL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Greyson Brockman at goalie for MER."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Rand Paddack at goalie for MER."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by MER, [15:00] Ground ball pickup by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "GOAL by DREXEL Tulio, Alec (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [13:52] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "Shot by DREXEL Crawford, Witt WIDE RIGHT.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "Shot by DREXEL Knight, Owen, SAVE Rand Paddack.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "GOAL by DREXEL Crawford, Witt, Assist by Zadell, Caden.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [11:42] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:35",
+    "home_event": "Shot by DREXEL Hooley, Conor HIGH.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MER Kade McNeil."
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by MER Michael Frederick."
+  },
+  {
+    "quarter": "1",
+    "time": "10:37",
+    "home_event": "Ground ball pickup by DREXEL Bradley, Nate.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Luthy, Teddy.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [10:03] Ground ball pickup by DREXEL Kammar, Liam.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Turnover by DREXEL Kammar, Liam (caused by Davis Peek).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by MER Jack Callaghan."
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "Ground ball pickup by DREXEL O'Brien, Kevin.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "Shot by DREXEL Kelly, Gavin, SAVE Rand Paddack.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "Shot by DREXEL Kelly, Gavin HIGH.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "Shot by DREXEL Kelly, Gavin WIDE.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by MER Will Zylstra, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "Shot by DREXEL Semple, Max BLOCKED.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by DREXEL Zadell, Caden.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Porter, Jack.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by MER, [06:23] Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by MER Dylan McKelvy, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "Shot by DREXEL Joyner, Jack, SAVE Rand Paddack.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "Shot by DREXEL Semple, Max HIGH.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "GOAL by DREXEL Joyner, Jack, Assist by Kelly, Gavin.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by MER, [04:32] Ground ball pickup by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Penalty on DREXEL Gucwa, Collin (SLSH/0:30) Extra-man opportunity.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "GOAL by MER Michael Frederick (MAN-UP), Assist by Jack Sullivan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by MER, [03:28] Ground ball pickup by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "Ground ball pickup by DREXEL Nolan, Jack.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "GOAL by DREXEL Hooley, Conor, Assist by Semple, Max.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [02:35] Ground ball pickup by DREXEL Layton, Trent.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "Shot by DREXEL Wallace, Jack, SAVE Rand Paddack.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by MER Davis Peek."
+  },
+  {
+    "quarter": "1",
+    "time": "02:05",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by MER Michael Frederick."
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "Ground ball pickup by DREXEL Lyman, Pat.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Clear attempt by DREXEL failed.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "Turnover by DREXEL Gucwa, Collin.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by MER Dillon Bush."
+  },
+  {
+    "quarter": "1",
+    "time": "00:40",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by MER Michael Frederick (caused by Kammar, Liam)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by DREXEL Kelly, Gavin.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Faceoff Shortley, Aidan vs Peyton McNeill won by MER, [15:00] Ground ball pickup by MER Ganon Cope."
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "GOAL by MER Ganon Cope."
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by MER, [14:40] Ground ball pickup by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "14:33",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Turnover by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "GOAL by DREXEL Joyner, Jack.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [14:00] Ground ball pickup by DREXEL McVicker, Connor.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "GOAL by DREXEL Wallace, Jack, Assist by McVicker, Connor.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "Faceoff Shortley, Aidan vs Graham Hartman won by DREXEL (on faceoff violation).",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "Shot by DREXEL Zadell, Caden, SAVE Rand Paddack.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Zadell, Caden.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Faceoff Shortley, Aidan vs Graham Hartman won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:29",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Turnover by MER Dillon Bush."
+  },
+  {
+    "quarter": "2",
+    "time": "12:16",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Crawford, Witt.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Penalty on MER Tyler Gilbert (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Faceoff Layton, Trent vs Chris Cappelmann won by MER, [12:14] Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Turnover by MER Quinn Kelley (caused by Carden, Luke)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "Ground ball pickup by DREXEL Carden, Luke.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "Turnover by DREXEL Hooley, Conor.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Turnover by MER Grafton Ely."
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "Ground ball pickup by DREXEL Kammar, Liam.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:37",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Knight, Owen.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:37",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [10:37] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "GOAL by DREXEL Shortley, Aidan.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "Faceoff Shortley, Aidan vs Chris Cappelmann won by DREXEL, [10:31] Ground ball pickup by DREXEL Shortley, Aidan.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:04",
+    "home_event": "Turnover by DREXEL Wallace, Jack.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Shot by MER Dillon Bush, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "09:41",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "GOAL by DREXEL Joyner, Jack.",
+    "score": "13-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "",
+    "score": "13-2",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL, [09:02] Ground ball pickup by DREXEL Martin, Matt.",
+    "score": "13-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "GOAL by DREXEL Farrell, Will.",
+    "score": "14-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL, [08:35] Ground ball pickup by DREXEL Layton, Trent.",
+    "score": "14-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "Shot by DREXEL Luthy, Teddy HIGH.",
+    "score": "14-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "GOAL by DREXEL Semple, Max, Assist by Farrell, Will.",
+    "score": "15-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "",
+    "score": "15-2",
+    "away_event": "Faceoff DiTrolio, Sam vs Graham Hartman won by MER, [07:33] Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "",
+    "score": "15-2",
+    "away_event": "Shot by MER Kade McNeil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "",
+    "score": "15-2",
+    "away_event": "Shot by MER Michael Frederick, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "",
+    "score": "15-2",
+    "away_event": "Ground ball pickup by MER Jack Sullivan."
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "15-2",
+    "away_event": "Turnover by MER Jack Sullivan (caused by Gucwa, Collin)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:43",
+    "home_event": "Ground ball pickup by DREXEL McGill, Drew.",
+    "score": "15-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "15-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "GOAL by DREXEL Lowe, Ryan, Assist by Plotts, Tristan.",
+    "score": "16-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "",
+    "score": "16-2",
+    "away_event": "Faceoff DiTrolio, Sam vs Chris Cappelmann won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:41",
+    "home_event": "",
+    "score": "16-2",
+    "away_event": "Turnover by MER Kade McNeil (caused by Bradley, Nate)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "Ground ball pickup by DREXEL Gabriele, Joshua.",
+    "score": "16-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "16-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "Shot by DREXEL Gabriele, Joshua, SAVE Rand Paddack.",
+    "score": "16-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "",
+    "score": "16-2",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "GOAL by MER Luke Fox, Assist by Ganon Cope."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL, [04:53] Ground ball pickup by DREXEL Layton, Trent.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "Shot by DREXEL Lowe, Ryan WIDE.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Shot by DREXEL Plotts, Tristan WIDE.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "Shot by DREXEL Lowe, Ryan BLOCKED.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:15",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Turnover by MER Davis Peek."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "GOAL by DREXEL Kelly, Gavin.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Faceoff DiTrolio, Sam vs Chris Cappelmann won by MER, [02:41] Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Christian Laureano, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "Ground ball pickup by DREXEL McGill, Drew.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Shot by DREXEL Gougler, Ty, SAVE Rand Paddack.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Peyton McNeill WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "00:55",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Dillon Bush, SAVE McGill, Drew."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Turnover by DREXEL.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:00",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Jack Guido at goalie for MER."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Donnelly, Brendan at goalie for DREXEL.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL, [15:00] Ground ball pickup by DREXEL Gabriele, Joshua.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:05",
+    "home_event": "Turnover by DREXEL Zadell, Caden (caused by Quinn Kelley).",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Turnover by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "13:01",
+    "home_event": "Ground ball pickup by DREXEL Hess, Solomon.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Penalty on MER Dylan McKelvy (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "Shot by DREXEL Clark, Jack, SAVE Jack Guido.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:19",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Will Zylstra, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:31",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:27",
+    "home_event": "Shot by DREXEL Keesee, Cooper, SAVE Jack Guido.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "Turnover by DREXEL Luthy, Teddy.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Ground ball pickup by MER Jackson Phillips."
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Shot by MER Kade McNeil, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:07",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Penalty on MER Greyson Brockman (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE Jack Guido.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "Shot by DREXEL Martin, Matt, SAVE Jack Guido.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "Ground ball pickup by DREXEL Tulio, Alec.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "Turnover by DREXEL Tulio, Alec.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Ground ball pickup by MER Davis Peek."
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "",
+    "score": "17-3",
+    "away_event": "Turnover by MER Davis Peek."
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "GOAL by DREXEL Clark, Jack.",
+    "score": "18-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "",
+    "score": "18-3",
+    "away_event": "Faceoff DiTrolio, Sam vs Chris Cappelmann won by MER, [08:59] Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "",
+    "score": "18-3",
+    "away_event": "Shot by MER Peyton McNeill, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "18-3",
+    "away_event": "Shot by MER Dylan McKelvy BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "07:26",
+    "home_event": "",
+    "score": "18-3",
+    "away_event": "Turnover by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "07:16",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "18-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "GOAL by DREXEL Hallady, Finn, Assist by Lowe, Ryan.",
+    "score": "19-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "Faceoff DiTrolio, Sam vs Chris Cappelmann won by DREXEL, [06:48] Ground ball pickup by DREXEL DiTrolio, Sam.",
+    "score": "19-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Turnover by DREXEL DiTrolio, Sam.",
+    "score": "19-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "19-3",
+    "away_event": "Ground ball pickup by MER Will Zylstra."
+  },
+  {
+    "quarter": "3",
+    "time": "06:02",
+    "home_event": "",
+    "score": "19-4",
+    "away_event": "GOAL by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "06:02",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL, [06:02] Ground ball pickup by DREXEL Layton, Trent.",
+    "score": "19-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:47",
+    "home_event": "Turnover by DREXEL Layton, Trent.",
+    "score": "19-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:43",
+    "home_event": "",
+    "score": "19-4",
+    "away_event": "Ground ball pickup by MER Luke Hand."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "GOAL by MER Will Zylstra, Assist by Luke Hand."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Faceoff Layton, Trent vs Chris Cappelmann won by MER, [05:40] Ground ball pickup by MER Chris Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Dillon Bush HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Turnover by MER Matthew Brian (caused by Wallace, Jack)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by DREXEL Wallace, Jack.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "Shot by DREXEL Gougler, Ty, SAVE Jack Guido.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Ground ball pickup by MER Max Schutt."
+  },
+  {
+    "quarter": "3",
+    "time": "03:29",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Thomas Venzie BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Matthew Burnside WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Luke Fox WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:35",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Will Zylstra, SAVE Donnelly, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Shot by MER Ganon Cope HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Turnover by MER Luke Fox (caused by Tomak, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "Ground ball pickup by DREXEL Tomak, Sam.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:07",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:04",
+    "home_event": "Turnover by DREXEL Santangelo, Jayden (caused by Nolan Filley).",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:59",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Ground ball pickup by MER Nolan Filley."
+  },
+  {
+    "quarter": "3",
+    "time": "00:54",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "00:50",
+    "home_event": "",
+    "score": "19-5",
+    "away_event": "Turnover by MER Luke Fox."
+  },
+  {
+    "quarter": "3",
+    "time": "00:47",
+    "home_event": "Ground ball pickup by DREXEL Wallace, Jack.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "Schline, Charlie at goalie for DREXEL.",
+    "score": "19-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "GOAL by DREXEL Martin, Matt.",
+    "score": "20-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Faceoff DiTrolio, Sam vs Chris Cappelmann won by DREXEL (on faceoff violation).",
+    "score": "20-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:58",
+    "home_event": "Turnover by DREXEL Hallady, Finn.",
+    "score": "20-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "",
+    "score": "20-5",
+    "away_event": "Ground ball pickup by MER Kaja Brown."
+  },
+  {
+    "quarter": "4",
+    "time": "13:52",
+    "home_event": "",
+    "score": "20-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "",
+    "score": "20-5",
+    "away_event": "Shot by MER Will Zylstra, SAVE Schline, Charlie."
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "20-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "GOAL by DREXEL Clark, Jack, Assist by Lowe, Ryan.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Faceoff DiTrolio, Sam vs Graham Hartman won by MER, [12:42] Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Shot by MER Will Zylstra, SAVE Schline, Charlie."
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "DREXEL substitution: Schline, Charlie for Donnelly, Brendan.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Penalty on MER Nolan Filley (SLSH/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "Turnover by DREXEL Tulio, Alec.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Ground ball pickup by MER Jack Guido."
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Shot by MER Will Zylstra, SAVE Schline, Charlie."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:20",
+    "home_event": "Shot by DREXEL Doller, Cole, SAVE Jack Guido.",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:20",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Penalty on MER Thomas Venzie (CROSS-CHECK/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Turnover by DREXEL Hull, Max (caused by Nolan Filley).",
+    "score": "21-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:16",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Ground ball pickup by MER Andrew Goodman."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "21-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "GOAL by MER Will Schepis, Assist by Luke Fox."
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "Faceoff Layton, Trent vs Chris Cappelmann won by DREXEL (on faceoff violation).",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "Shot by DREXEL Hull, Max HIGH.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "Shot by DREXEL Doller, Cole WIDE.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "Shot by DREXEL Gabriele, Joshua, SAVE Jack Guido.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:10",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Turnover by MER Ryan Brooks."
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "Shot by DREXEL Gougler, Ty, SAVE Jack Guido.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "Shot by DREXEL Clark, Jack, SAVE Jack Guido.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "Shot by DREXEL Tomak, Sam BLOCKED.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:38",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "Turnover by DREXEL Hess, Solomon.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Shot by MER Bronson Dowdell WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Shot by MER Will Schepis, SAVE Schline, Charlie."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "Clear attempt by DREXEL good.",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "Turnover by DREXEL Hallady, Finn (caused by Max Schutt).",
+    "score": "21-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Shot by MER Peyton McNeill HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "",
+    "score": "21-6",
+    "away_event": "Shot by MER Peyton McNeill, SAVE Schline, Charlie."
+  }
+]

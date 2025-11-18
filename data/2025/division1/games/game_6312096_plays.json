@@ -1,0 +1,1528 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Justin Dalum at goalie for CSU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "LAWAS, Lucas at goalie for MU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by MU, [15:00] Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU RAPPIS, Nolan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MU BRANDT, Carsen."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU BRANDT, Carsen, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MU CAPUTO, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU RAPPIS, Nolan, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MU CAPUTO, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU McCABE, Conor HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU BRANDT, Carsen, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "Shot by CSU Alex Van Voorhis BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "11:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MU BRANDT, Carsen (FIRST GOAL), Assist by LAMARCA, David, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [11:47] Ground ball pickup by CSU Mitchell Maibuecher.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "Shot by CSU Zack Tower, SAVE LAWAS, Lucas.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Penalty on MU O'GRADY, Bobby (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "09:40",
+    "home_event": "Shot by CSU Wyatt Robertson, SAVE LAWAS, Lucas.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MU BRANDT, Carsen, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "Turnover by CSU Reggie Regala.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MU O'GRADY, Bobby HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MU HULME, Zach HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by MU RAPPIS, Nolan, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "Turnover by CSU Alex Van Voorhis.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MU KILCOYNE, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MU RAPPIS, Nolan, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MU RAPPIS, Nolan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by MU RAPPIS, Nolan (caused by Justin Dalum)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "Ground ball pickup by CSU Griffin Burkey.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "GOAL by CSU Wyatt Robertson, goal number 1 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by CSU.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on MU KILCOYNE, Ryan (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "GOAL by CSU Xander Johnson (MAN-UP), Assist by Michael Care, goal number 10 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by CSU, [04:17] Ground ball pickup by CSU Robbie Brazanskas.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "Turnover by CSU Zack Tower.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by MU FOSTER, Will, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "Ground ball pickup by CSU Liam Moffatt.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Penalty on MU BRANDT, Carsen (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "01:40",
+    "home_event": "Turnover by CSU Alex Van Voorhis.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by MU CASEY, Tommy."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Ground ball pickup by CSU Wyatt Robertson.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "GOAL by CSU Wyatt Robertson, Assist by Amiri Austin, goal number 2 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [00:24] Ground ball pickup by MU BOYLE, Brenden."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by MU BOWMAN, Andrew, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by MU, [15:00] Ground ball pickup by MU SLAGER, Adam."
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by MU WESTPHAL, Beau, Assist by SNYDER, Noah, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [14:19] Ground ball pickup by CSU Jack Dickson.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:20",
+    "home_event": "Shot by CSU Amiri Austin WIDE.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:51",
+    "home_event": "Turnover by CSU Amiri Austin.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MU NICHOLS, Jackson."
+  },
+  {
+    "quarter": "2",
+    "time": "12:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:45",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by MU BRANDT, Carsen, Assist by LAMARCA, David, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:45",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by MU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by MU FOSTER, Will, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "Turnover by CSU Adam Van Voorhis.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by MU McCABE, Conor."
+  },
+  {
+    "quarter": "2",
+    "time": "11:37",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by MU PIRAINO, Mike, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:20",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Ground ball pickup by CSU Adam Van Voorhis.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "Ground ball pickup by CSU Xander Johnson.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "GOAL by CSU Brennen Hickey, goal number 5 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Caden Wilson vs CASTER, Chandler won by MU, [10:51] Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by MU HULME, Zach HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:49",
+    "home_event": "Turnover by CSU Justin Dalum.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by MU CAPUTO, Matt, Assist by RAPPIS, Nolan, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by CSU, [09:08] Ground ball pickup by CSU Robbie Stewart.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "Turnover by CSU Robbie Stewart (caused by LAMARCA, David).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:54",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MU LAMARCA, David."
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MU McCABE, Conor WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by MU FOSTER, Will (caused by Joe Ginnetti)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Shot by CSU Xander Johnson, SAVE LAWAS, Lucas.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:33",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:02",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "Ground ball pickup by CSU Alex Long.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Shot by CSU Brennen Hickey, SAVE LAWAS, Lucas.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by MU RAPPIS, Nolan, Assist by FOSTER, Will, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU O'GRADY, Bobby HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "04:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU CAPUTO, Matt HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "Turnover by CSU Will Adair (caused by PIRAINO, Mike).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU KILCOYNE, Ryan, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "02:16",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "Turnover by CSU Xander Johnson (caused by JOHNSON, Brad).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "01:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU CAPUTO, Matt WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by MU O'GRADY, Bobby."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU CAPUTO, Matt HIT POST {free position shot}."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [15:00] Ground ball pickup by CSU Robbie Stewart.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:51",
+    "home_event": "Shot by CSU Amiri Austin WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:34",
+    "home_event": "Shot clock violation by CSU.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by MU WESTPHAL, Beau, Assist by SNYDER, Noah, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by MU, [12:46] Ground ball pickup by MU SLAGER, Adam."
+  },
+  {
+    "quarter": "3",
+    "time": "12:32",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by MU BOYLE, Brenden WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:07",
+    "home_event": "Turnover by CSU Adam Van Voorhis (caused by RAPPIS, Nolan).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:00",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by MU O'GRADY, Bobby."
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:27",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by MU RAPPIS, Nolan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by MU BOWMAN, Andrew HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "10:50",
+    "home_event": "Ground ball pickup by CSU Mitchell Maibuecher.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "GOAL by CSU Wyatt Robertson, goal number 3 for season.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [09:42] Ground ball pickup by CSU Robbie Brazanskas.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "Shot by CSU Xander Johnson WIDE.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:05",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by MU BRANDT, Carsen, Assist by CAPUTO, Matt, goal number 7 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:05",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [08:05] Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "3",
+    "time": "06:58",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by MU O'GRADY, Bobby BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "Ground ball pickup by CSU Griffin Valli.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:40",
+    "home_event": "GOAL by CSU Joe Ginnetti, goal number 1 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:40",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [06:40] Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "3",
+    "time": "05:28",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by MU O'GRADY, Bobby."
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "Ground ball pickup by CSU Griffin Valli.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "Shot by CSU Alex Van Voorhis, SAVE LAWAS, Lucas.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by MU BRANDT, Carsen (caused by Liam Moffatt)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:16",
+    "home_event": "Ground ball pickup by CSU Liam Moffatt.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:23",
+    "home_event": "Shot by CSU Layton Speer, SAVE LAWAS, Lucas.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by MU SNYDER, Noah HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "GOAL by MU SNYDER, Noah, Assist by RAPPIS, Nolan, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [01:34] Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "GOAL by MU SNYDER, Noah, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by CSU.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "Shot by CSU Wyatt Robertson WIDE.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [15:00] Ground ball pickup by CSU Robbie Brazanskas.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:47",
+    "home_event": "Ground ball pickup by CSU Drew Graves.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "Turnover by CSU Drew Graves.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "Timeout by CSU.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by MU RAPPIS, Nolan, SAVE Justin Dalum."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "Shot by CSU Amiri Austin WIDE.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:37",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Penalty on MU DETWILER, Peter (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "12:46",
+    "home_event": "Shot by CSU Wyatt Robertson HIGH.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "GOAL by CSU Jacob Lubrant (MAN-UP), Assist by Alex Van Voorhis, goal number 5 for season.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by CSU, [12:38] Ground ball pickup by CSU Griffin Valli.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "Shot by CSU Xander Johnson, SAVE LAWAS, Lucas.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:27",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by MU RAPPIS, Nolan BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:11",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:08",
+    "home_event": "Turnover by CSU Griffin Valli.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by RAPPIS, Nolan, goal number 7 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Faceoff Robbie Stewart vs SLAGER, Adam won by MU."
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by MU HULME, Zach HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "09:49",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by MU RAPPIS, Nolan HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "09:43",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by MU SNYDER, Noah."
+  },
+  {
+    "quarter": "4",
+    "time": "09:22",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by MU HULME, Zach WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by MU SNYDER, Noah, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by CSU, [09:07] Ground ball pickup by CSU Robbie Stewart.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:58",
+    "home_event": "Shot by CSU Robbie Stewart, SAVE LAWAS, Lucas.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "Shot by CSU Alex Long, SAVE LAWAS, Lucas.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "GOAL by MU FOSTER, Will, Assist by BRANDT, Carsen, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "Timeout by CSU.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [08:15] Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Turnover by MU RAPPIS, Nolan (caused by Payton Corpus)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Ground ball pickup by CSU Payton Corpus.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "Turnover by CSU Brennen Hickey.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "06:31",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by RAPPIS, Nolan, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [05:31] Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "4",
+    "time": "04:34",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Shot by MU O'GRADY, Bobby HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "Penalty on CSU Joe Ginnetti (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "GOAL by MU FOSTER, Will (MAN-UP), Assist by BRANDT, Carsen, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Faceoff Robbie Stewart vs CASTER, Chandler won by MU, [04:02] Ground ball pickup by MU JOHNSON, Brad."
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Ground ball pickup by MU CASTER, Chandler."
+  },
+  {
+    "quarter": "4",
+    "time": "03:36",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Turnover by MU HULME, Zach."
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "Clear attempt by CSU failed.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "Turnover by CSU Justin Dalum.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:34",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Shot by MU O'GRADY, Bobby HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "Ground ball pickup by CSU Robbie Brazanskas.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "Shot by CSU Wyatt Robertson WIDE.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Turnover by CSU Xander Johnson (caused by PIRAINO, Mike).",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Ground ball pickup by MU NICHOLS, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "01:26",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Turnover by MU NICHOLS, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "Turnover by CSU.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Turnover by MU RAPPIS, Nolan (caused by Seth Alejandrino)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by CSU Seth Alejandrino.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Clear attempt by CSU good.",
+    "score": "7-15",
+    "away_event": ""
+  }
+]

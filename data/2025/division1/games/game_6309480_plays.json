@@ -1,0 +1,1731 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "LaCombe, Matt at goalie for COLGATE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "FRACYON, Jack at goalie for PSU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by PSU TRAYNOR, Matt (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "Turnover by COLGATE Yates, Max (caused by ROSS, Alex).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "1",
+    "time": "13:14",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by PSU LEHMAN, Kyle (FIRST GOAL) {shot from in the circle}, Assist by O'CONNOR, Ryan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Hartzell, Johnny vs BALDWIN, Colby won by PSU, [13:45] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU TRAYNOR, Matt WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU LEHMAN, Kyle WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU HOBBS, Mac WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "Turnover by COLGATE Turner, Jack (caused by COSTIN, Will).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU COSTIN, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Turnover by COLGATE Murnane, Aidan (caused by LEHMAN, Kyle).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:19",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "Shot by COLGATE Connor, Liam WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "Shot by COLGATE Quinson, Casey WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "Turnover by COLGATE Drouin, Hunter (caused by SCARPELLO, Luke).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU LEHMAN, Kyle, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Shot by COLGATE Connor, Liam, SAVE FRACYON, Jack {shot from close left wing}.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU LONG, Ethan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by PSU LONG, Ethan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "Shot by COLGATE Quinson, Casey WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "Shot by COLGATE Connor, Liam, SAVE FRACYON, Jack.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU COSTIN, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU HOBBS, Mac WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "Penalty on COLGATE Tedesco, Donnie (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU AIMONE, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by PSU TRAYNOR, Matt, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU MATTHEWS, Liam."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by PSU TRAYNOR, Matt (MAN-UP), Assist by MATTHEWS, Liam, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE (on faceoff violation).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "Shot by COLGATE Trumble, Ben, SAVE FRACYON, Jack.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "Shot by COLGATE Trumble, Ben, SAVE FRACYON, Jack.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on PSU LONG, Ethan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "Shot by COLGATE Connor, Liam, SAVE FRACYON, Jack.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "GOAL by COLGATE Turner, Jack (MAN-UP), goal number 1 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Faceoff Rummel, Kyle vs MULLINS, Chase won by COLGATE, [02:13] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "GOAL by COLGATE Rummel, Kyle, goal number 1 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "Faceoff Hartzell, Johnny vs BALDWIN, Colby won by COLGATE, [02:07] Ground ball pickup by COLGATE Hartzell, Johnny.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "Turnover by COLGATE Rummel, Kyle (caused by BALDWIN, Colby).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by PSU DIROCCO, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot clock violation by PSU."
+  },
+  {
+    "quarter": "1",
+    "time": "00:32",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Shot by COLGATE Favaro, Ryan WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Shot by COLGATE Drouin, Hunter, SAVE FRACYON, Jack.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Penalty on COLGATE Favaro, Ryan (CONDUCT FOUL/0:30).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Penalty on PSU LEARY, Brendan (CONDUCT FOUL/0:30)."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [15:00] Ground ball pickup by PSU O'CONNOR, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "14:28",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by PSU MATTHEWS, Liam, Assist by LONG, Ethan, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:28",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [14:28] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "2",
+    "time": "14:04",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:23",
+    "home_event": "Turnover by COLGATE Quinson, Casey (caused by ROSS, Alex).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by PSU MATTHEWS, Liam (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "Penalty on COLGATE Fitzsimmons, Quinn (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by PSU DIROCCO, Ryan, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Turnover by COLGATE Connor, Liam (caused by PARNHAM, Kevin).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by PSU AQUINO, Hunter, Assist by PEDEN, Will, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [11:04] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "2",
+    "time": "10:53",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by PSU LEHMAN, Kyle (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "GOAL by COLGATE Turner, Jack, Assist by Kiefer, Andrew, goal number 1 for season.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [10:07] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by PSU TRAYNOR, Matt, Assist by ALDRIDGE, Kyle, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "Faceoff Hartzell, Johnny vs BALDWIN, Colby won by COLGATE, [09:55] Ground ball pickup by COLGATE Erickson, Sam.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "Turnover by COLGATE Erickson, Sam (caused by DIBARTOLOMEO, Lucca).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by PSU TRAYNOR, Matt, Assist by COSTIN, Will, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Timeout by COLGATE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE, [09:24] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Shot by COLGATE Rummel, Kyle WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "Shot by COLGATE Turner, Jack, SAVE FRACYON, Jack.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by PSU MATTHEWS, Liam."
+  },
+  {
+    "quarter": "2",
+    "time": "07:52",
+    "home_event": "Ground ball pickup by COLGATE Drouin, Hunter.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:35",
+    "home_event": "Turnover by COLGATE Connor, Liam.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by PSU LONG, Ethan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by PSU MATTHEWS, Liam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by PSU LONG, Ethan."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by PSU AIMONE, Jack, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by COLGATE Kiely, Michael.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:37",
+    "home_event": "GOAL by COLGATE Connor, Rory, Assist by Kiely, Michael, goal number 1 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:37",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE, [06:37] Ground ball pickup by COLGATE Lala, Thomas.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "Turnover by COLGATE Kiefer, Andrew (caused by ROSS, Alex).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by PSU ROSS, Alex."
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by PSU DIROCCO, Ryan, Assist by PEDEN, Will, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [04:56] Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "2",
+    "time": "04:10",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by PSU TRAYNOR, Matt WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:47",
+    "home_event": "Penalty on COLGATE Eldredge, Patty (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by PSU AQUINO, Hunter (MAN-UP), Assist by TRAYNOR, Matt, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "Timeout by COLGATE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:35",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [03:35] Ground ball pickup by PSU DIBARTOLOMEO, Lucca."
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by PSU DIBARTOLOMEO, Lucca."
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "GOAL by COLGATE Connor, Liam, goal number 1 for season.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE, [02:44] Ground ball pickup by COLGATE Yates, Max.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:34",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by PSU AIMONE, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by PSU AIMONE, Jack, Assist by LONG, Ethan, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Timeout by PSU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by PSU LONG, Ethan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by PSU MATTHEWS, Liam, Assist by LEHMAN, Kyle, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Hartzell, Johnny vs BALDWIN, Colby won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by PSU O'CONNOR, Ryan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [15:00] Ground ball pickup by PSU O'CONNOR, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:54",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by PSU O'CONNOR, Ryan (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:54",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:29",
+    "home_event": "Turnover by COLGATE LaCombe, Matt.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by PSU DIROCCO, Ryan, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by PSU LONG, Ethan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by PSU AIMONE, Jack, Assist by TRAYNOR, Matt, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [13:06] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PSU TRAYNOR, Matt WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "GOAL by COLGATE Drouin, Hunter, goal number 1 for season.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE, [12:21] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "Shot by COLGATE Erickson, Sam, SAVE FRACYON, Jack.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "Shot by COLGATE Drouin, Hunter, SAVE FRACYON, Jack.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Penalty on PSU LEARY, Brendan (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "10:48",
+    "home_event": "Ground ball pickup by COLGATE Turner, Jack.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "Shot by COLGATE Warchol, Wylie, SAVE FRACYON, Jack.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by PSU O'CONNOR, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by PSU O'CONNOR, Ryan (caused by Warchol, Wylie)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "Ground ball pickup by COLGATE Warchol, Wylie.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:13",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by PSU FRACYON, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "10:08",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by PSU HOBBS, Mac BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by PSU TRAYNOR, Matt WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:28",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by PSU PEDEN, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by PSU TRAYNOR, Matt, Assist by LEHMAN, Kyle, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "Penalty on COLGATE Tedesco, Donnie (SLASHING/1:00) Extra-man opportunity.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by PSU ALDRIDGE, Kyle."
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "Faceoff Rummel, Kyle vs MULLINS, Chase won by COLGATE, [08:09] Ground ball pickup by COLGATE Rummel, Kyle.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "Turnover by COLGATE Rummel, Kyle (caused by ALDRIDGE, Kyle).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by PSU AIMONE, Jack, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:19",
+    "home_event": "Turnover by COLGATE Connor, Liam (caused by LONG, Ethan).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by PSU FRACYON, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "06:19",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Penalty on PSU ROSS, Alex (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "06:09",
+    "home_event": "Shot by COLGATE Turner, Jack WIDE.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "Turnover by COLGATE Drouin, Hunter (caused by COSTIN, Will).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:53",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:05",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by PSU TRAYNOR, Matt, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by PSU LONG, Ethan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:46",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by PSU LONG, Ethan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:35",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by PSU TRAYNOR, Matt, Assist by WALSTRUM, Luke, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:35",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE (on faceoff violation).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "Turnover by COLGATE Drouin, Hunter (caused by ROSS, Alex).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU LEARY, Brendan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU LEHMAN, Kyle."
+  },
+  {
+    "quarter": "3",
+    "time": "02:25",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Timeout by PSU."
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Turnover by PSU WALSTRUM, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "Turnover by COLGATE Eldredge, Patty (caused by COSTIN, Will).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU COSTIN, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "Penalty on COLGATE Erickson, Sam (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:36",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU DIROCCO, Ryan, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "01:28",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Turnover by COLGATE Arata, Tommy (caused by PARNHAM, Kevin).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Rummel, Kyle vs GILLS, Reid won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:39",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU MATTHEWS, Liam."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Turnover by PSU TRAYNOR, Matt (caused by Erickson, Sam)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:52",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Shot by COLGATE Favaro, Ryan, SAVE FRACYON, Jack.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:38",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:16",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by PSU LEHMAN, Kyle, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:16",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Hartzell, Johnny vs BALDWIN, Colby won by PSU, [12:16] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by PSU WALSTRUM, Luke, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "11:52",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "Shot by COLGATE Connor, Liam WIDE.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:12",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Penalty on PSU LONG, Ethan (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "Shot by COLGATE Drouin, Hunter WIDE.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "GOAL by COLGATE Connor, Liam (MAN-UP), Assist by Turner, Jack, goal number 2 for season.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [10:24] Ground ball pickup by PSU DIBARTOLOMEO, Lucca."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Shot by PSU MATTHEWS, Liam, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Ground ball pickup by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Shot by PSU TRAYNOR, Matt, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "Shot by COLGATE Drouin, Hunter, SAVE FRACYON, Jack.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Ground ball pickup by PSU FRACYON, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Turnover by PSU LEARY, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:32",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Penalty on PSU ROSS, Alex (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "Shot by COLGATE Favaro, Ryan WIDE.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:03",
+    "home_event": "Shot by COLGATE Turner, Jack HIT POST.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "Ground ball pickup by COLGATE Favaro, Ryan.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Turnover by PSU WALSTRUM, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "05:33",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Penalty on PSU LONG, Ethan (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Shot by COLGATE Favaro, Ryan, SAVE FRACYON, Jack.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:09",
+    "home_event": "Ground ball pickup by COLGATE Connor, Rory.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "GOAL by COLGATE Drouin, Hunter (MAN-UP), goal number 2 for season.",
+    "score": "8-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "",
+    "score": "8-14",
+    "away_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by PSU, [04:48] Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "",
+    "score": "8-14",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "8-14",
+    "away_event": "Timeout by PSU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "8-14",
+    "away_event": "Turnover by PSU LEHMAN, Kyle (caused by Fitzsimmons, Quinn)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn.",
+    "score": "8-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "8-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "GOAL by COLGATE Connor, Liam, goal number 3 for season.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "Faceoff Rummel, Kyle vs BALDWIN, Colby won by COLGATE, [02:45] Ground ball pickup by COLGATE Yates, Max.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Ground ball pickup by PSU KEENAN, Patrick."
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "4",
+    "time": "02:40",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Shot by PSU PEDEN, Will, SAVE LaCombe, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "Shot by COLGATE Eldredge, Patty, SAVE FRACYON, Jack.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Turnover by PSU TRAYNOR, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Ground ball pickup by COLGATE LaCombe, Matt.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Ground ball pickup by PSU KING, Jon."
+  }
+]

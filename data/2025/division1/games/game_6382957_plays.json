@@ -1,0 +1,1444 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "MOORE, Anderson at goalie for GU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Logan McNaney at goalie for UMD."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff PRINCE, Ross vs Shea Keethler won by GU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "Shot by GU CARROLL, Aidan, SAVE Logan McNaney.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "Turnover by GU BAYMAN, Fulton.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by UMD Daniel Kelly (FIRST GOAL), Assist by Eric Spanos, goal number 31 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD, [13:33] Ground ball pickup by UMD Thomas Gravino."
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot clock violation by UMD."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "Turnover by GU DUDEMAINE, Lucas.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Elijah Stobaugh WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Braden Erksa WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "Shot by GU GOLDBERG, Kade WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "Turnover by GU GOLDBERG, Kade (caused by Eric  Kolar).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMD Logan McNaney."
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by UMD Zach Whittier."
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "Turnover by GU CARROLL, Aidan.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Braden Erksa HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "Clear attempt by GU failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "Turnover by GU.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Braden Erksa, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMD Eric Spanos."
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Matthew Keegan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Eric Spanos HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMD Braden Erksa."
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Daniel Kelly, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "Ground ball pickup by GU WRAY, Jordan.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "Shot by GU RANSOM, Jack HIGH.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Bryce Ford WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Braden Erksa HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMD Zach Whittier BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMD Bryce Ford."
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot clock violation by UMD."
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "Shot by GU BAYMAN, Fulton HIGH.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Penalty on UMD Thomas Gravino (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "Shot by GU DUDEMAINE, Lucas BLOCKED.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Turnover by GU CAPONITI, Henry (caused by Colin Burlace).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMD AJ  Larkin."
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by UMD Geordy Holmes, Assist by George Stamos, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by GU, [02:09] Ground ball pickup by GU MCGURRIN, Charlie.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:01",
+    "home_event": "Shot by GU BAYMAN, Fulton HIT POST.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "Ground ball pickup by GU CESARE, Joe.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Turnover by GU BAYMAN, Fulton.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by UMD Matthew Keegan, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "GOAL by GU BAYMAN, Fulton, goal number 31 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "Faceoff VAN BUREN, Wilson vs Shea Keethler won by GU, [13:12] Ground ball pickup by GU ACTON, George.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "Shot by GU CESARE, Joe, SAVE Logan McNaney.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:04",
+    "home_event": "Turnover by GU CESARE, Joe.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:37",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by UMD Daniel Kelly, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "11:33",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by UMD Jack Schultz."
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by UMD Jack Schultz WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by UMD Braden Erksa, Assist by Aidan  Aitken, goal number 28 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "Faceoff PRINCE, Ross vs Shea Keethler won by GU, [11:18] Ground ball pickup by GU ACTON, George.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "Turnover by GU BAYMAN, Fulton.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by UMD Matthew Keegan, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "09:12",
+    "home_event": "Clear attempt by GU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by DUDEMAINE, Lucas, goal number 49 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "Faceoff PRINCE, Ross vs Shea Keethler won by GU, [08:22] Ground ball pickup by GU ACTON, George.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Shot by GU CARROLL, Aidan HIGH.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by WRAY, Jordan, goal number 50 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD, [07:13] Ground ball pickup by UMD Jonah Carrier."
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by UMD Jack Schultz BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by UMD Zach Whittier."
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "GOAL by GU DUDEMAINE, Lucas, Assist by CESARE, Joe, goal number 6 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by UMD Eric Spanos, Assist by Braden Erksa, goal number 30 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Jonah Carrier won by UMD, [04:14] Ground ball pickup by UMD AJ  Larkin."
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by UMD Elijah Stobaugh WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by UMD Braden Erksa (caused by MCGURRIN, Charlie)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:14",
+    "home_event": "Ground ball pickup by GU MCGURRIN, Charlie.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:11",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "Turnover by GU MILLER, Kevin (caused by Geordy Holmes).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by UMD."
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by UMD Bryce Ford, Assist by Matthew Keegan, goal number 20 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "Faceoff PRINCE, Ross vs Shea Keethler won by GU, [01:32] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:50",
+    "home_event": "Timeout by GU.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "Shot by GU CESARE, Joe WIDE.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "Timeout by GU.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Timeout by UMD."
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "Shot by GU BAYMAN, Fulton, SAVE Logan McNaney.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by UMD failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by UMD Logan McNaney."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by GU CESARE, Joe.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD, [15:00] Ground ball pickup by UMD Jonah Carrier."
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by UMD Zach Whittier, Assist by Bryce Ford, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:48",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by UMD Matthew Keegan, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "Shot by GU BAYMAN, Fulton WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by UMD Jack Schultz, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "11:48",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:03",
+    "home_event": "Turnover by GU BAYMAN, Fulton.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by UMD Jackson Canfield."
+  },
+  {
+    "quarter": "3",
+    "time": "10:51",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by UMD Bryce Ford HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "Penalty on GU VRANIZAN, Joe (PUSHING/0:30) Extra-man opportunity.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by UMD Braden Erksa, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Shot by GU CARROLL, Aidan WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "Shot by GU CROGAN, Patrick, SAVE Logan McNaney.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:08",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "Turnover by GU CARROLL, Aidan (caused by Jack McDonald).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by UMD Logan McNaney."
+  },
+  {
+    "quarter": "3",
+    "time": "07:12",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by UMD Bryce Ford."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:04",
+    "home_event": "Clear attempt by GU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "Shot by GU RANSOM, Jack, SAVE Logan McNaney.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on UMD Will  Schaller (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity(2)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "Shot by GU DUDEMAINE, Lucas BLOCKED.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "GOAL by GU DUDEMAINE, Lucas (MAN-UP), Assist by CARROLL, Aidan, goal number 7 for season.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Jonah Carrier won by UMD (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:30",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot clock violation by UMD."
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "Clear attempt by GU good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Turnover by GU CROGAN, Patrick.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:11",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by UMD Colin Burlace."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:33",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by UMD Eric Spanos WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "Ground ball pickup by GU VRANIZAN, Joe.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "Clear attempt by GU good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "Shot by GU CARROLL, Aidan, SAVE Logan McNaney.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:15",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "Penalty on GU WRAY, Jordan (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:35",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by UMD Braden Erksa WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "Timeout by GU.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by UMD Jack Schultz (caused by VRANIZAN, Joe)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "Clear attempt by GU good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:09",
+    "home_event": "Shot by GU CARROLL, Aidan HIGH.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "Shot by GU WRAY, Jordan, SAVE Logan McNaney.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by UMD Bryce Ford, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "Clear attempt by GU failed.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:05",
+    "home_event": "Turnover by GU BANKS, Ty.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by UMD Will  Schaller."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by UMD Bryce Ford HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by UMD Braden Erksa, goal number 29 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by GU, [11:33] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "Shot by GU BAYMAN, Fulton, SAVE Logan McNaney.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by UMD Bryce Ford, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by UMD AJ  Larkin."
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by UMD AJ  Larkin, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "09:33",
+    "home_event": "Ground ball pickup by GU CROGAN, Patrick.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "Clear attempt by GU good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "GOAL by GU GOLDBERG, Kade, Assist by DUDEMAINE, Lucas, goal number 6 for season.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by UMD, [08:42] Ground ball pickup by UMD Jack McDonald."
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by UMD Aidan  Aitken, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "GOAL by UMD Braden Erksa, Assist by Aidan  Aitken, goal number 30 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:57",
+    "home_event": "Faceoff PRINCE, Ross vs Jonah Carrier won by GU (on faceoff violation).",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Turnover by GU CARROLL, Aidan.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:20",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by UMD George Stamos."
+  },
+  {
+    "quarter": "4",
+    "time": "07:14",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by UMD Eric Spanos WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:37",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by UMD Matthew Keegan HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by UMD Matthew Keegan."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by UMD Braden Erksa BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "Clear attempt by GU good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "Shot by GU CESARE, Joe, SAVE Logan McNaney.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "Shot by GU GOLDBERG, Kade, SAVE Logan McNaney.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:30",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:26",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by UMD Zach Whittier."
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "Clear attempt by GU good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "Shot by GU DUDEMAINE, Lucas, SAVE Logan McNaney.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:36",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by UMD Logan McNaney."
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:21",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "GOAL by UMD Daniel Kelly, Assist by Bryce Ford, goal number 32 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:21",
+    "home_event": "Faceoff PRINCE, Ross vs Shea Keethler won by GU, [02:21] Ground ball pickup by GU ACTON, George.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "Turnover by GU BAYMAN, Fulton (caused by Jackson Canfield).",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by UMD Jackson Canfield."
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Turnover by UMD George Stamos (caused by FOLEY, Seamus)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:34",
+    "home_event": "Ground ball pickup by GU FOLEY, Seamus.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "Shot by GU CARROLL, Aidan WIDE.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:24",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by UMD Logan McNaney."
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by UMD failed."
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Turnover by UMD Colin Burlace (caused by CARROLL, Aidan)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:12",
+    "home_event": "Shot by GU CARROLL, Aidan WIDE.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:12",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Timeout by UMD."
+  },
+  {
+    "quarter": "4",
+    "time": "00:59",
+    "home_event": "Turnover by GU CROGAN, Patrick.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:47",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by UMD good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:40",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by UMD Zack Goorno WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by UMD Colin Burlace."
+  }
+]

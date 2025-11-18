@@ -1,0 +1,1633 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Fyock, Caleb at goalie for OSU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "MANNING, Grayson at goalie for DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [15:00] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:49",
+    "home_event": "GOAL by OSU Donnery, Ryan (FIRST GOAL), Assist by Cool, Jonny, goal number 13 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:49",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [14:49] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by DEN MANNING, Noah, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [14:07] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "1",
+    "time": "13:47",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DEN MANNING, Noah, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by DEN TZAGOURNIS, Marek, Assist by MANNING, Noah, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [12:52] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DEN TARABOLETTI, Joe (caused by Van Buren, Bobby)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "Ground ball pickup by OSU Cool, Jonny.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Clear attempt by OSU failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by OSU Cool, Jonny (caused by MALAWSKY, Cody).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "Shot by OSU O'Leary, Shane, SAVE MANNING, Grayson.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by OSU Donnery, Ryan (caused by OVERLY, Russell).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DEN KLOKIW, Lucas, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "1",
+    "time": "08:27",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DEN KLOKIW, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DEN TORTOLANI, Jack (caused by Allen, Ari)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "GOAL by OSU Marinier, Alex, Assist by Haas, Garrett, goal number 25 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [07:46] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "Ground ball pickup by OSU Mayer, Ben.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "Shot by OSU Mayer, Ben HIGH.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "30-second clock violation by OSU.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "Penalty on OSU Haas, Garrett (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by DEN MURPHY, Judge (caused by Brown, Cullen)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:07",
+    "home_event": "Ground ball pickup by OSU Brown, Cullen.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by OSU O'Leary, Shane (caused by KIRSCHKE, Blake).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by DEN TARABOLETTI, Joe (caused by Eiland, Blake)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "Ground ball pickup by OSU Fyock, Caleb.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Shot by OSU Marinier, Alex, SAVE MANNING, Grayson.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by DEN FREEHILL, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by DEN MALAWSKY, Cody, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "30-second clock violation by DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "01:10",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "Shot by OSU Haas, Garrett HIT CROSSBAR.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by DEN MANNING, Grayson."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [15:00] Ground ball pickup by OSU Cool, Jonny.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "GOAL by OSU Matthews, Gannon, goal number 6 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [14:19] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by DEN KRAUS, Michael (caused by Marinier, Alex)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "Shot by OSU McKenna, Jack, SAVE MANNING, Grayson.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "Ground ball pickup by OSU Haas, Garrett.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by OSU Haas, Garrett (caused by CALDWELL, Chris).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by DEN MANNING, Grayson."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "Shot by OSU White, Liam WIDE.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:41",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by DEN KLOKIW, Lucas, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:41",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [11:41] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by DEN KRAUS, Michael (caused by Oldman, Jack)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "Ground ball pickup by OSU Oldman, Jack.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "Timeout by OSU.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "GOAL by OSU Matthews, Gannon, goal number 7 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [10:57] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:45",
+    "home_event": "Shot by OSU White, Liam, SAVE MANNING, Grayson.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:28",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by DEN BARNETT, Colm."
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "Ground ball pickup by OSU Foster, Kyle.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "Shot by OSU Shean, Ed, SAVE MANNING, Grayson.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:18",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by DEN MALAWSKY, Cody WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by DEN TZAGOURNIS, Marek."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by DEN KLOKIW, Lucas HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by DEN TZAGOURNIS, Marek."
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by DEN MANNING, Noah BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by OSU Fyock, Caleb.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "GOAL by OSU Mayer, Ben, Assist by McKenna, Jack, goal number 6 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [06:18] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:10",
+    "home_event": "Shot by OSU O'Leary, Shane, SAVE MANNING, Grayson.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "Ground ball pickup by OSU Turner, Griffin.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "GOAL by OSU White, Liam, Assist by Turner, Griffin, goal number 6 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [05:03] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "GOAL by OSU Marinier, Alex, Assist by Mayer, Ben, goal number 26 for season.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "KLEBAN, Malcolm at goalie for DEN."
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Faceoff Oldman, Jack vs TESTA, Christopher won by OSU, [03:43] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "Shot by OSU White, Liam BLOCKED.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "GOAL by OSU Shean, Ed, goal number 10 for season.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "Faceoff Oldman, Jack vs TESTA, Christopher won by OSU (on faceoff violation).",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "Ground ball pickup by OSU Matthews, Gannon.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "Shot by OSU McKenna, Jack, SAVE KLEBAN, Malcolm.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "2",
+    "time": "01:16",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Turnover by DEN CALDWELL, Chris (caused by Shean, Ed)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:16",
+    "home_event": "Timeout by OSU.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by OSU Mayer, Ben (caused by CALDWELL, Chris).",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by DEN DAVIS, Brody."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [15:00] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "Shot by OSU Marinier, Alex, SAVE KLEBAN, Malcolm.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:22",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "GOAL by DEN MALAWSKY, Cody, Assist by KELLY, Mic, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:22",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN."
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "GOAL by DEN CLARK, Daniel, Assist by MALAWSKY, Cody, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [12:42] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "Ground ball pickup by OSU Donnery, Ryan.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "GOAL by OSU Mayer, Ben, goal number 7 for season.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "Faceoff Oldman, Jack vs TESTA, Christopher won by OSU, [11:40] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "Shot by OSU Cool, Jonny WIDE.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by OSU Haas, Garrett.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by DEN OVERLY, Russell."
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:58",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Shot by DEN MALAWSKY, Cody WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Shot by DEN TZAGOURNIS, Marek HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by OSU Donnery, Ryan.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:51",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by DEN TARABOLETTI, Joe (caused by Liedel, Griffin)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "Ground ball pickup by OSU Fyock, Caleb.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:33",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "Ground ball pickup by OSU Marinier, Alex.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Shot by OSU Turner, Griffin, SAVE KLEBAN, Malcolm.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by DEN FREEHILL, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "07:22",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by DEN."
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "GOAL by OSU Marinier, Alex, Assist by Shean, Ed, goal number 27 for season.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [06:32] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by OSU Donnery, Ryan.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:13",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "GOAL by DEN TZAGOURNIS, Marek, Assist by WILSON, Casey, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [06:05] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by DEN KRAUS, Michael HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by DEN CLARK, Daniel WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:19",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "3",
+    "time": "05:00",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "GOAL by DEN TZAGOURNIS, Marek, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:00",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [05:00] Ground ball pickup by OSU Oldman, Jack.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:06",
+    "home_event": "GOAL by OSU Marinier, Alex, Assist by White, Liam, goal number 28 for season.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:06",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Oldman, Jack vs TESTA, Christopher won by DEN (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by DEN CARLSON, Joshua, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:41",
+    "home_event": "Shot by OSU Marinier, Alex, SAVE KLEBAN, Malcolm.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by OSU McKenna, Jack (caused by FREEHILL, Jimmy).",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:02",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by DEN OVERLY, Russell, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "3",
+    "time": "00:59",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:56",
+    "home_event": "Shot by OSU Marinier, Alex BLOCKED.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "GOAL by OSU Haas, Garrett, goal number 14 for season.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "Faceoff Oldman, Jack vs TESTA, Christopher won by OSU, [00:55] Ground ball pickup by OSU Eiland, Blake.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by OSU Donnery, Ryan (caused by KLEBAN, Malcolm).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by DEN KLEBAN, Malcolm HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [15:00] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "Blake, Henry at goalie for OSU.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "Penalty on OSU Allen, Ari (TARGETING HEAD/NECK/2:00) Extra-man opportunity(2).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "Penalty on OSU Fyock, Caleb (UNSPORTSMANLIKE CONDUCT/1:00).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Penalty on DEN KELLY, Mic (UNSPORTSMANLIKE CONDUCT/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:15",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by DEN MANNING, Noah (MAN-UP), Assist by CLARK, Daniel, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:15",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN."
+  },
+  {
+    "quarter": "4",
+    "time": "13:39",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by DEN CLARK, Daniel WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:12",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by DEN CLARK, Daniel, SAVE Blake, Henry."
+  },
+  {
+    "quarter": "4",
+    "time": "13:01",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:20",
+    "home_event": "Fyock, Caleb at goalie for OSU.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by OSU McKenna, Jack (caused by CALDWELL, Chris).",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Ground ball pickup by DEN WILSON, Casey."
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "GOAL by DEN KELLY, Mic, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [11:35] Ground ball pickup by OSU Cool, Jonny.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:19",
+    "home_event": "Ground ball pickup by OSU Oldman, Jack.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "GOAL by OSU O'Leary, Shane, goal number 11 for season.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by OSU, [10:45] Ground ball pickup by OSU Cool, Jonny.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by OSU Cool, Jonny (caused by KRAUS, Michael).",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Ground ball pickup by DEN WILSON, Casey."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Timeout by DEN."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by DEN TARABOLETTI, Joe, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "Shot by OSU Matthews, Gannon WIDE.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "Shot by OSU Mayer, Ben HIT CROSSBAR.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by DEN MALAWSKY, Cody HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by DEN KELLY, Mic, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "06:50",
+    "home_event": "Ground ball pickup by OSU Shaw, Dominic.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:47",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "GOAL by OSU Marinier, Alex, Assist by Allen, Ari, goal number 29 for season.",
+    "score": "14-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:53",
+    "home_event": "",
+    "score": "14-9",
+    "away_event": "Shot by DEN TARABOLETTI, Joe WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "GOAL by DEN MANNING, Noah, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Faceoff Hepworth, Zach vs KRAUS, Michael won by DEN, [05:31] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Turnover by DEN KRAUS, Michael (caused by Allen, Ari)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:22",
+    "home_event": "Ground ball pickup by OSU Allen, Ari.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by OSU Donnery, Ryan.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:15",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "4",
+    "time": "05:10",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by DEN CLARK, Daniel."
+  },
+  {
+    "quarter": "4",
+    "time": "04:25",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by DEN MANNING, Noah HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by DEN CARLSON, Joshua."
+  },
+  {
+    "quarter": "4",
+    "time": "03:57",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by DEN CARLSON, Joshua, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "Timeout by OSU.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "MANNING, Grayson at goalie for DEN."
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by DEN KELLY, Mic, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "Clear attempt by OSU failed.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by OSU Eiland, Blake (caused by CARLSON, Joshua).",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by DEN TZAGOURNIS, Marek."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Turnover by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Shot by OSU Fyock, Caleb WIDE.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "GOAL by OSU Shean, Ed, goal number 11 for season.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Faceoff Oldman, Jack vs KRAUS, Michael won by DEN, [02:24] Ground ball pickup by DEN WILSON, Casey."
+  },
+  {
+    "quarter": "4",
+    "time": "02:18",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Shot by DEN WILSON, Casey, SAVE Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "02:14",
+    "home_event": "Clear attempt by OSU good.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "Shot by OSU Matthews, Gannon WIDE.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "30-second clock violation by OSU.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "",
+    "score": "15-10",
+    "away_event": "Ground ball pickup by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "Penalty on OSU Glushakow, Braden (HOLDING/0:30) Extra-man opportunity.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "Timeout by OSU.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:07",
+    "home_event": "Blake, Henry at goalie for OSU.",
+    "score": "15-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "",
+    "score": "15-11",
+    "away_event": "GOAL by DEN TORTOLANI, Jack (MAN-UP), Assist by MANNING, Noah, goal number 7 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "",
+    "score": "15-11",
+    "away_event": "Faceoff Magtoto, Sean vs TESTA, Christopher won by DEN, [00:06] Ground ball pickup by DEN TESTA, Christopher."
+  }
+]

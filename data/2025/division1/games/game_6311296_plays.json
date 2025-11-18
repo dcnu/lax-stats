@@ -1,0 +1,1864 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nate Fechter at goalie for RMU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Zach Vigue at goalie for RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Bo Columbus vs Jackson Strickland won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by RIC Aidan O'Neil, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "Turnover by RMU Brian Simmons (caused by Mitchell Dunham).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by RIC Henry Alpaugh (FIRST GOAL), goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RIC, [12:46] Ground ball pickup by RMU Liam Keane.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Shot by RMU David Burr WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "11:28",
+    "home_event": "Ground ball pickup by RMU Rown Hynes.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "Shot by RMU David Burr WIDE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Turnover by RMU Kean Moon (caused by Hunter Smith).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:29",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Max Merklinger HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by RIC Daniel Picart HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Lucas Littlejohn, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU, [08:08] Ground ball pickup by RMU Bo Columbus.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "Turnover by RMU Gavin Pedone (caused by B. Pena-Stevenson).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by RIC Michael Farrell."
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by RIC Michael Farrell."
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Shot by RMU Tommy Mullikin WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "Turnover by RMU Liam Keane.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by RIC Ethan Gyllenhaal."
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by RIC Jack Pilling, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by RIC Aidan O'Neil, Assist by Lukas Olsson, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU, [05:50] Ground ball pickup by RMU Bo Columbus.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "Turnover by RMU Luis Gonzalez.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by RIC Aidan O'Neil, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "Ground ball pickup by RMU Nate Fechter.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "Shot by RMU Luke Prezioso, SAVE Zach Vigue.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by RIC Lukas Olsson (caused by Brendan Cina stick check)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:34",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "Turnover by RMU Colin Davis (caused by B. Pena-Stevenson).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by RIC Jack Pilling."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Timeout by RMU.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "Shot by RMU Liam Keane WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "Shot by RMU Liam Keane WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Elijah Edwards interception)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by RMU Elijah Edwards.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU (on faceoff violation).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "Turnover by RMU Tommy Mullikin.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:43",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by RIC Lucas Slate, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "Turnover by RMU River Oudemool (caused by B. Pena-Stevenson).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:04",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "Penalty on RMU Callum Witter (PUSHING/0:30) Extra-man opportunity.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "11:20",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "Turnover by RMU David Burr (caused by Tommy Stull).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:14",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by RIC Aidan O'Neil BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by RIC Leo Caine (caused by Ethan Hecht)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:33",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:29",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Timeout by RMU.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "Turnover by RMU Calum Brennan (caused by Jack Pilling).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by RIC Max Merklinger, Assist by Henry Alpaugh, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Bo Columbus vs Jackson Strickland won by RIC, [08:14] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Henry Alpaugh HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "07:40",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by RIC Aidan O'Neil, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU (on faceoff violation).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "Shot by RMU Calum Brennan WIDE.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "Turnover by RMU Calum Brennan (caused by Mitchell Dunham).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:41",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by RIC Aidan O'Neil, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:41",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RIC, [05:41] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "2",
+    "time": "05:23",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Jack Ricciardi WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Jack Ricciardi, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "Penalty on RMU Brian Simmons (UNR/1:00) Extra-man opportunity.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU, [04:17] Ground ball pickup by RMU Colin Davis.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:59",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "Ground ball pickup by RMU Calum Brennan.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "Shot by RMU David Burr, SAVE Zach Vigue.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by RIC Charlie Packard."
+  },
+  {
+    "quarter": "2",
+    "time": "03:42",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by RIC Henry Alpaugh (MAN-UP), Assist by Max Merklinger, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Owen Tapper)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:35",
+    "home_event": "Turnover by RMU Joel McCormick (caused by Hunter Smith).",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:06",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "02:06",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:53",
+    "home_event": "Turnover by RMU Charlie Marsh.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:49",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by RIC Joe Sheridan, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:49",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU, [00:49] Ground ball pickup by RMU Bo Columbus.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:35",
+    "home_event": "Turnover by RMU Bo Columbus (caused by Anthony DiCenso).",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "2",
+    "time": "00:23",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by RIC Joe Sheridan HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU, [15:00] Ground ball pickup by RMU Bo Columbus.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:41",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "Turnover by RMU John Sramac (caused by Jack Pilling).",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by RIC Joe Sheridan, Assist by Gavin Creo, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RIC, [12:44] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "3",
+    "time": "12:24",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "GOAL by RIC Henry Alpaugh, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU (on faceoff violation).",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "Turnover by RMU Liam Keane (caused by Mitchell Dunham).",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "GOAL by RIC Daniel Picart, Assist by Lucas Slate, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU, [10:52] Ground ball pickup by RMU Bo Columbus.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:48",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "Turnover by RMU Brian Simmons.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Ground ball pickup by RIC Leo Caine."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Turnover by RIC Xander Welty."
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "Shot by RMU Kean Moon, SAVE Zach Vigue.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:35",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:09",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Turnover by RIC Leo Caine."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Ground ball pickup by RMU Callum Witter.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "Shot by RMU John Sramac, SAVE Zach Vigue.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Ground ball pickup by RMU Tommy Mullikin.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "",
+    "score": "0-12",
+    "away_event": "Turnover by RIC Henry Alpaugh (caused by Nathan Ruff)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "GOAL by RMU Calum Brennan.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU, [06:21] Ground ball pickup by RMU Elijah Edwards.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "Turnover by RMU Charlie Marsh.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Turnover by RIC Gavin Creo (caused by Owen Tapper)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:28",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "Turnover by RMU Elijah Edwards (caused by Jack Pilling).",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:17",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Ground ball pickup by RIC Jack Pilling."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "GOAL by RIC Lukas Olsson, Assist by Max Merklinger, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Faceoff Bo Columbus vs Jackson Strickland won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Turnover by RIC Leo Caine."
+  },
+  {
+    "quarter": "3",
+    "time": "03:37",
+    "home_event": "Shot by RMU Gavin Pedone WIDE.",
+    "score": "1-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:18",
+    "home_event": "Ground ball pickup by RMU Bobby Reaume.",
+    "score": "1-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:11",
+    "home_event": "Turnover by RMU Bobby Reaume.",
+    "score": "1-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Ground ball pickup by RIC Luke Spitzer."
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:52",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Shot by RIC Matt Jacobsen, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:02",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "GOAL by RIC Jack Ricciardi."
+  },
+  {
+    "quarter": "3",
+    "time": "02:02",
+    "home_event": "Faceoff Bo Columbus vs Jackson Strickland won by RMU, [02:02] Ground ball pickup by RMU Bo Columbus.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "Ground ball pickup by RMU John Sramac.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "Shot by RMU John Sramac, SAVE Zach Vigue.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:22",
+    "home_event": "Turnover by RMU David Burr.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:19",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Ground ball pickup by RIC Xander Welty."
+  },
+  {
+    "quarter": "3",
+    "time": "01:14",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Shot by RIC Chris Mazzaferri, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "00:54",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:23",
+    "home_event": "Shot by RMU Joel McCormick, SAVE Zach Vigue.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:23",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Brady Carver at goalie for RMU.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Anthony DiCenso won by RMU, [15:00] Ground ball pickup by RMU Bo Columbus.",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:49",
+    "home_event": "Turnover by RMU Bo Columbus (caused by B. Pena-Stevenson).",
+    "score": "1-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "14:39",
+    "home_event": "",
+    "score": "1-14",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:20",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Aidan O'Neil, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:20",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "Faceoff Zach Seppi vs Anthony DiCenso won by RIC, [14:20] Ground ball pickup by RIC Gavin Creo."
+  },
+  {
+    "quarter": "4",
+    "time": "13:34",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "Turnover by RIC Lucas Littlejohn (caused by Charlie Marsh)."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "1-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "Ground ball pickup by RMU Brendan Cina.",
+    "score": "1-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "1-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Turnover by RMU Brendan Cina.",
+    "score": "1-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "",
+    "score": "1-15",
+    "away_event": "Shot by RIC Lucas Littlejohn, SAVE Brady Carver."
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "GOAL by RIC Evan O'Neil, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Faceoff Zach Seppi vs Jackson Strickland won by RIC, [12:28] Ground ball pickup by RIC Jackson Strickland."
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Jack Dougherty HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Evan O'Neil BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:13",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Evan O'Neil, SAVE Brady Carver."
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Ground ball pickup by RMU Brady Carver.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Shot by RMU Owen Tapper, SAVE Zach Vigue.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:27",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:07",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Jack Dougherty WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:53",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Luke Meyer, SAVE Brady Carver."
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Ground ball pickup by RMU Brady Erdos.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "Ground ball pickup by RMU Calum Brennan.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:46",
+    "home_event": "Ground ball pickup by RMU John Sramac.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "Shot by RMU Ryan Stiefel WIDE.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "Shot clock violation by RMU.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Shot by RIC Porter Barnett WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "Ground ball pickup by RMU Nathan Gabriel.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:18",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:04",
+    "home_event": "Turnover by RMU River Oudemool.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Turnover by RIC William Schneider (caused by Nathan Ruff)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:33",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Shot by RMU John Sramac, SAVE Zach Vigue.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Brody Murphy at goalie for RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "06:04",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Turnover by RIC Evan Leonardo."
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "Ground ball pickup by RMU Charlie Marsh.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:56",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Turnover by RMU Nathan Ruff (caused by Kaleb Griffith).",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Turnover by RIC Leo Caine."
+  },
+  {
+    "quarter": "4",
+    "time": "05:06",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "Shot by RMU Nolan Barker WIDE.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "Shot by RMU Gavin Pedone, SAVE Brody Murphy.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Ground ball pickup by RIC Kaleb Griffith."
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "1-16",
+    "away_event": "Turnover by RIC Harrison Voelzke (caused by Natt King)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "Ground ball pickup by RMU Zach Turner.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "GOAL by RMU Gavin Pedone.",
+    "score": "2-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "Faceoff Zach Seppi vs Jackson Strickland won by RMU, [03:59] Ground ball pickup by RMU Zach Seppi.",
+    "score": "2-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "2-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "Turnover by RMU Nolan Barker.",
+    "score": "2-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:18",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Ground ball pickup by RIC Bo Brown."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:10",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Shot by RIC Porter Barnett WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Turnover by RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "03:03",
+    "home_event": "Shot by RMU Kean Moon, SAVE Brody Murphy.",
+    "score": "2-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:03",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Ground ball pickup by RIC Luke Spitzer."
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "GOAL by RIC Leo Caine, Assist by Evan O'Neil, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "Faceoff Zach Seppi vs Anthony DiCenso won by RMU, [02:22] Ground ball pickup by RMU Zach Seppi.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:17",
+    "home_event": "Shot by RMU Zach Seppi, SAVE Brody Murphy.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:36",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by RIC Leo Caine (caused by Natt King)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "Ground ball pickup by RMU Nathan Gabriel.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:24",
+    "home_event": "Shot by RMU Zach Turner HIT POST.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "Shot by RMU John Sramac WIDE.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:28",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by RIC Porter Barnett."
+  }
+]

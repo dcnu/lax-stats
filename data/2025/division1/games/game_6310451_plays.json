@@ -1,0 +1,1871 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Rand Paddack at goalie for MERCER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Noble Smith at goalie for MARIST."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [15:00] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MARIST Collin Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MARIST Collin Patrick WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "Ground ball pickup by MERCER Jackson Phillips.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "Ground ball pickup by MERCER Will Zylstra.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "Shot by MERCER Will Zylstra, SAVE Noble Smith",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MARIST Drew Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MARIST Drew Anderson WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "12:39",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Shot by MERCER Dillon Bush HIGH",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on MARIST Joshua Arneson (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Ben Jose.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MARIST Ryan Jones."
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "GOAL by MERCER Dillon Bush (MAN-UP) (FIRST GOAL), Assist by Jack Sullivan, goal number 5 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [11:18] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MARIST Dylan Bedell (caused by Kobe Handsor)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "Ground ball pickup by MERCER Team.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "Shot by MERCER Jackson Hirschy, SAVE Noble Smith",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MARIST Collin Patrick, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "Ground ball pickup by MERCER Rand Paddack.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Thomas Venzie.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MARIST Sam Ferrel, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "Ground ball pickup by MERCER Davis Peek.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "Shot by MERCER Dillon Bush, SAVE Noble Smith",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "Ground ball pickup by MERCER Jack Sullivan.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Dillon Bush (caused by Aiden McCaffrey).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MARIST Joshua Balcarcel HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "Penalty on MERCER Ganon Cope (PUSHING/0:30) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MARIST Drew Weissman WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by MARIST Collin Patrick, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [05:47] Ground ball pickup by MARIST Team."
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by MARIST Drew Anderson, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Chris Cappelmann vs Josh Smith won by MARIST, [05:04] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by MARIST Josh Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Davis Peek.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by MARIST Christian Colantonio, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "GOAL by MERCER Michael Frederick, goal number 2 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Faceoff Chris Cappelmann vs Josh Smith won by MERCER, [02:56] Ground ball pickup by MERCER Chris Cappelmann.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Chris Cappelmann.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by MARIST Sam Ferrel."
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MERCER Rand Paddack (caused by Collin Patrick).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "1",
+    "time": "00:28",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by MARIST Collin Patrick, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:28",
+    "home_event": "Faceoff Chris Cappelmann vs Josh Smith won by MERCER, [00:28] Ground ball pickup by MERCER Tyler Gilbert.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by MERCER Michael Frederick.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Shot by MERCER Will Zylstra WIDE",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Penalty on MARIST Michael Cassanno (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "30-second clock violation by MERCER.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:54",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "2",
+    "time": "13:27",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "GOAL by MERCER Ben Jose, Assist by Michael Frederick, goal number 3 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MERCER, [13:05] Ground ball pickup by MERCER Chris Cappelmann.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MERCER Dillon Bush (caused by Aiden McCaffrey).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Ryan Herr."
+  },
+  {
+    "quarter": "2",
+    "time": "12:15",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:10",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Michael Cassanno, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Team."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Dylan Stadler, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "2",
+    "time": "11:03",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:14",
+    "home_event": "Shot by MERCER Christian Laureano, SAVE Noble Smith",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Ryan Herr."
+  },
+  {
+    "quarter": "2",
+    "time": "09:59",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by MARIST Ryan Herr."
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "Shot by MERCER Will Zylstra, SAVE Noble Smith",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Sean Mullan."
+  },
+  {
+    "quarter": "2",
+    "time": "08:54",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Kevin Radmann BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Drew Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Drew Anderson BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Team."
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "Penalty on MERCER Brady Corkill (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:35",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Ground ball pickup by MERCER Kobe Handsor.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MERCER Rand Paddack.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by MARIST Drew Weissman."
+  },
+  {
+    "quarter": "2",
+    "time": "07:20",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by MARIST Drew Weissman (MAN-UP), goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:20",
+    "home_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MERCER, [07:20] Ground ball pickup by MERCER Quinn Kelley.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MERCER Quinn Kelley.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by MARIST Collin Patrick, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [06:28] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by MARIST Dylan Bedell, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "2",
+    "time": "06:18",
+    "home_event": "Ground ball pickup by MERCER Tyler Gilbert.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "Ground ball pickup by MERCER Chris Cappelmann.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:58",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:55",
+    "home_event": "Shot by MERCER Michael Frederick HIGH",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Shot by MERCER Michael Frederick WIDE",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:07",
+    "home_event": "Ground ball pickup by MERCER Michael Frederick.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "GOAL by MERCER Dillon Bush, Assist by Michael Frederick, goal number 6 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "Faceoff Chris Cappelmann vs Josh Smith won by MERCER, [04:46] Ground ball pickup by MERCER Quinn Kelley.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "Shot by MERCER Will Zylstra HIGH",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:48",
+    "home_event": "Shot by MERCER Christian Laureano WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "Shot by MERCER Kade McNeil WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "Shot by MERCER Luke Fox HIT POST",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "Ground ball pickup by MERCER Kade McNeil.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MERCER Christian Laureano (caused by Aidan Quinn).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Aidan Quinn."
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by MARIST Steven Cain."
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Timeout by MERCER.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:19",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on MARIST Joshua Arneson (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "Shot by MERCER Michael Frederick, SAVE Noble Smith",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "Ground ball pickup by MERCER Dillon Bush.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Shot by MERCER Dillon Bush WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:49",
+    "home_event": "Shot by MERCER Dillon Bush BLOCKED",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:45",
+    "home_event": "Ground ball pickup by MERCER Team.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:23",
+    "home_event": "Timeout by MERCER.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MERCER Michael Frederick (caused by Aiden McCaffrey).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Noble Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MERCER, [15:00] Ground ball pickup by MERCER Chris Cappelmann.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:48",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on MARIST Michael Cassanno (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "Shot by MERCER Luke Fox HIT CROSSBAR",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:34",
+    "home_event": "Ground ball pickup by MERCER Luke Fox.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:32",
+    "home_event": "Ground ball pickup by MERCER Team.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MERCER Dillon Bush (caused by Ryan Jones).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Ryan Jones."
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MERCER Rand Paddack.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Joshua Balcarcel, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Jake Deacy, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "3",
+    "time": "12:19",
+    "home_event": "Ground ball pickup by MERCER Tyler Gilbert.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MERCER Rand Paddack.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Jake Deacy."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Sean Mullan HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "11:26",
+    "home_event": "Penalty on MERCER Thomas Venzie (PUSHING/0:30) Extra-man opportunity.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:24",
+    "home_event": "Penalty on MERCER Luke Hand (INTERFERENCE/0:30).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:23",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Joshua Balcarcel HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "11:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Drew Cornax WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:01",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Team."
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Joshua Balcarcel, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "Ground ball pickup by MERCER Kobe Handsor.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MERCER Ganon Cope (caused by Aidan Quinn).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "3",
+    "time": "09:34",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:55",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "3",
+    "time": "08:50",
+    "home_event": "Ground ball pickup by MERCER Tyler Gilbert.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "Shot by MERCER Michael Frederick, SAVE Noble Smith",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "Ground ball pickup by MERCER Tyler Gilbert.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:28",
+    "home_event": "Shot by MERCER Tyler Gilbert WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:14",
+    "home_event": "Shot by MERCER Dillon Bush WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:49",
+    "home_event": "Shot by MERCER Dillon Bush WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MARIST Kevin Radmann."
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "Shot by MERCER Michael Frederick HIGH",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Timeout by MARIST."
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Shot by MERCER Dylan McKelvy HIT POST",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:03",
+    "home_event": "Ground ball pickup by MERCER Team.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Shot by MERCER Dylan McKelvy WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "Ground ball pickup by MERCER Will Zylstra.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "GOAL by MERCER Will Zylstra, goal number 5 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by MARIST Jake Deacy, Assist by Collin Patrick, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "Faceoff Carter Kryszak vs Dylan Bedell won by MERCER, [04:29] Ground ball pickup by MERCER Team.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:49",
+    "home_event": "Shot by MERCER Christian Laureano, SAVE Noble Smith",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:44",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "3",
+    "time": "03:31",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by MARIST Sam Ferrel, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [02:34] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by MARIST Drew Anderson, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "Timeout by MERCER.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [02:05] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by MARIST Dylan Bedell (caused by Quinn Kelley)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MERCER Ganon Cope (caused by Kevin Radmann).",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": "3",
+    "time": "01:01",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by MARIST Michael Cassanno WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by MARIST Joshua Balcarcel, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MERCER, [00:24] Ground ball pickup by MERCER Ganon Cope.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "Shot by MERCER Dylan McKelvy WIDE",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [15:00] Ground ball pickup by MARIST Kevin Radmann."
+  },
+  {
+    "quarter": "4",
+    "time": "14:49",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by MARIST Kevin Radmann, SAVE Rand Paddack"
+  },
+  {
+    "quarter": "4",
+    "time": "14:31",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "Shot by MERCER Michael Frederick, SAVE Noble Smith",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by MARIST Joshua Balcarcel (caused by Kobe Handsor)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "Ground ball pickup by MERCER Rand Paddack.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MERCER Rand Paddack.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by MARIST Collin Patrick, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [12:40] Ground ball pickup by MARIST Michael Cassanno."
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by MARIST Jake Deacy, Assist by Michael Cassanno, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [12:29] Ground ball pickup by MARIST Dylan Bedell."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by MARIST Dylan Bedell, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "Faceoff Carter Kryszak vs Josh Smith won by MERCER, [12:19] Ground ball pickup by MERCER Thomas Venzie.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:27",
+    "home_event": "Shot by MERCER Dylan McKelvy, SAVE Noble Smith",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:26",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Penalty on MARIST Collin Patrick (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "Shot by MERCER Jack Sullivan, SAVE Noble Smith",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:10",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by MARIST Ryan Jones."
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Turnover by MARIST Ryan Herr."
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by MERCER Brady Corkill.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "Clear attempt by MERCER good.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "Shot by MERCER Dillon Bush, SAVE Noble Smith",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Turnover by MARIST Noble Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "10:06",
+    "home_event": "Ground ball pickup by MERCER Brady Corkill.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Shot by MERCER Dillon Bush, SAVE Noble Smith",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Ground ball pickup by MERCER Will Zylstra.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "GOAL by MERCER Will Zylstra, goal number 6 for season.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MERCER, [09:19] Ground ball pickup by MERCER Thomas Venzie.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MERCER Luke Hand (caused by Aidan Quinn).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by MARIST Aiden McCaffrey (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "Ground ball pickup by MERCER Thomas Venzie.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:08",
+    "home_event": "Shot by MERCER Christian Laureano HIGH",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:45",
+    "home_event": "Shot by MERCER Peyton McNeill WIDE",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "Shot by MERCER Will Zylstra HIGH",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:24",
+    "home_event": "30-second clock violation by MERCER.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "Shot by MERCER Will Zylstra WIDE",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:00",
+    "home_event": "Shot by MERCER Michael Frederick BLOCKED",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by MARIST Noble Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "05:46",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by MARIST Michael Cassanno, Assist by Aiden McCaffrey, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "Penalty on MERCER Luke Fox (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST, [05:40] Ground ball pickup by MARIST Joshua Balcarcel."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by MARIST Joshua Balcarcel (MAN-UP), Assist by Drew Weissman, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Chris Cappelmann vs Dylan Bedell won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by MARIST Sean Mullan."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "03:38",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "Clear attempt by MERCER failed.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MERCER Davis Peek.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:51",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "Penalty on MERCER Jack Sullivan (PUSHING/0:30) Extra-man opportunity.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "GOAL by MARIST Sean Mullan (MAN-UP), Assist by Steven Cain, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Penalty on MARIST Sean Mullan (PUSHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "GOAL by MARIST Michael Cassanno (MAN-DOWN), Assist by Aiden McCaffrey, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "Faceoff Carter Kryszak vs Josh Smith won by MERCER, [01:55] Ground ball pickup by MERCER Carter Kryszak.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "Shot by MERCER Michael Frederick WIDE",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "Shot by MERCER Will Zylstra, SAVE Noble Smith",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:12",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Ground ball pickup by MARIST Kevin Radmann."
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Shot by MARIST Joshua Balcarcel WIDE"
+  }
+]

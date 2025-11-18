@@ -1,0 +1,1808 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Owen Hirsch at goalie for FFD.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Downs, Luke at goalie for TOWSON."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by TOWSON Schrier, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by TOWSON Schrier, Ryan, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "Clear attempt by FFD failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "Turnover by FFD Nate Livingston.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by TOWSON Spagnolli, Conor."
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by TOWSON Scott, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by TOWSON Fitzpatrick, Ronan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by FFD Rory Thompson.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "GOAL by FFD Will Consoli (FIRST GOAL), Assist by Matt Rice, goal number 16 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD, [12:27] Ground ball pickup by FFD Austin McClintic.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "Shot by FFD Will Consoli WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:20",
+    "home_event": "Turnover by FFD Jake Gilbert (caused by Petro, Joe).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "1",
+    "time": "11:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by TOWSON Weisshaar, Mikey, goal number 35 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:36",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "Turnover by FFD Luke Fisher.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Timeout by TOWSON."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by TOWSON Matusek, Chuck."
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "Clear attempt by FFD failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "Turnover by FFD Owen Hirsch (caused by Petro, Joe).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by TOWSON Weisshaar, Mikey, Assist by Smith, Elijah, goal number 36 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD, [08:28] Ground ball pickup by FFD Dylan Smith.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "GOAL by FFD Rory Thompson, goal number 1 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "Faceoff Daniel Davis vs Constantinides, Matt won by FFD, [08:10] Ground ball pickup by FFD Daniel Davis.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "Shot by FFD Matt Rice WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "Shot by FFD Keegan Lynch WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "Shot by FFD Rob Moore BLOCKED.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "Ground ball pickup by FFD Keegan Lynch.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "GOAL by FFD Devin Lampron, Assist by Keegan Lynch, goal number 27 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON."
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by TOWSON Webber, Josh HIT CROSSBAR."
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "Shot by FFD Devin Lampron HIGH.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Shot by FFD Will Consoli, SAVE Downs, Luke.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "Shot by FFD Will Consoli BLOCKED.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "Ground ball pickup by FFD Devin Lampron.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "Shot by FFD Rob Moore WIDE.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:37",
+    "home_event": "Shot by FFD Devin Lampron WIDE.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "GOAL by FFD Rob Moore, goal number 10 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON, [05:26] Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by TOWSON Smith, Elijah."
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:19",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by TOWSON Gallagher, Chop."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "Ground ball pickup by FFD Andrew Kasten.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "Clear attempt by FFD failed.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Turnover by FFD Andrew Kasten (caused by Gallagher, Chop).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by TOWSON Spagnolli, Conor."
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by TOWSON Weisshaar, Mikey (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "Ground ball pickup by FFD Owen Hirsch.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:10",
+    "home_event": "Shot by FFD Justin Brown BLOCKED.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by TOWSON Matusek, Chuck, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON, [02:26] Ground ball pickup by TOWSON Constantinides, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by TOWSON Weisshaar, Mikey, Assist by Constantinides, Matt, goal number 37 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Dylan Smith vs Constantinides, Matt won by TOWSON (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Turnover by FFD Luke Okupski (caused by Reilly, Dan).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by TOWSON Spagnolli, Conor WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "Shot by FFD Keegan Lynch, SAVE Downs, Luke.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Shot by FFD Jake Gilbert HIGH.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON, [15:00] Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "13:54",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot clock violation by TOWSON."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "Shot by FFD Dylan Smith HIGH.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "Ground ball pickup by FFD Luke Okupski.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:41",
+    "home_event": "Shot by FFD Rob Moore WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "GOAL by FFD Luke Okupski, goal number 23 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Dylan Smith vs Constantinides, Matt won by TOWSON, [12:33] Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by TOWSON Morin, Sam (caused by Austin McClintic)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:13",
+    "home_event": "Ground ball pickup by FFD Carson Dyl.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Turnover by FFD Shane Elliott (caused by Smith, Elijah).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by TOWSON Webber, Josh."
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "GOAL by TOWSON Gallagher, Chop, goal number 15 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Dylan Smith vs Constantinides, Matt won by TOWSON, [11:29] Ground ball pickup by TOWSON Ellis, Ben."
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by TOWSON Scott, Owen, Assist by Weisshaar, Mikey, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "Faceoff Dylan Smith vs Lopez, Kai won by FFD, [10:45] Ground ball pickup by FFD Dylan Smith.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:00",
+    "home_event": "Turnover by FFD Jason LaMay Jr. (caused by Petro, Joe).",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "Penalty on FFD Eli Adams (HOLDING/0:30) Extra-man opportunity.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "GOAL by TOWSON Gallagher, Chop, Assist by Webber, Josh, goal number 16 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD, [08:16] Ground ball pickup by FFD Dylan Smith.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "GOAL by FFD Luke Okupski, Assist by Rob Moore, goal number 24 for season.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD, [07:31] Ground ball pickup by FFD Dylan Smith.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "GOAL by FFD Keegan Lynch, Assist by Devin Lampron, goal number 17 for season.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff Daniel Davis vs Quandt, Myles won by TOWSON (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by TOWSON Roussel, Alex HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "Turnover by FFD Keegan Lynch.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:27",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by TOWSON Scott, Owen HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by TOWSON Scott, Owen, Assist by Fitzpatrick, Ronan, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Dylan Smith vs Quandt, Myles won by TOWSON, [04:53] Ground ball pickup by TOWSON Meidling, Joe."
+  },
+  {
+    "quarter": "2",
+    "time": "03:59",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by TOWSON Roussel, Alex, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "2",
+    "time": "03:56",
+    "home_event": "Ground ball pickup by FFD Julian Radossich.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:48",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Timeout by FFD.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "Shot by FFD Keegan Lynch HIT CROSSBAR.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "Ground ball pickup by FFD Keegan Lynch.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "Turnover by FFD Rob Moore (caused by Petro, Joe).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by TOWSON Glass, Ray."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by TOWSON Meidling, Joe."
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "Ground ball pickup by FFD Luke Okupski.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "Shot by FFD Devin Lampron, SAVE Downs, Luke.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:16",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by TOWSON Webber, Josh."
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by TOWSON Webber, Josh, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by TOWSON Webber, Josh."
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "Timeout by FFD.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Shot by FFD Luke Okupski HIGH.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Turnover by FFD Rob Moore (caused by Spagnolli, Conor).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by TOWSON Spagnolli, Conor."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Dylan Smith vs Constantinides, Matt won by TOWSON, [15:00] Ground ball pickup by TOWSON Constantinides, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "14:56",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by TOWSON Constantinides, Matt, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:56",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Daniel Davis vs Constantinides, Matt won by TOWSON, [14:56] Ground ball pickup by TOWSON Constantinides, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:36",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by TOWSON Scott, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Ground ball pickup by FFD Eli Adams.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:26",
+    "home_event": "Clear attempt by FFD failed.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:26",
+    "home_event": "Turnover by FFD Eli Adams (caused by Schrier, Ryan).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Roussel, Alex BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "12:32",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "Turnover by FFD Rob Moore (caused by Downs, Luke).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:05",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "Ground ball pickup by FFD Julian Radossich.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:55",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Shot by FFD Luke Okupski, SAVE Downs, Luke.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Spagnuolo, Joe'll."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Matusek, Chuck HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "Shot by FFD Keegan Lynch HIT CROSSBAR.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by FFD Rory Thompson.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "Shot by FFD Devin Lampron, SAVE Downs, Luke.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:45",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Webber, Josh, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "3",
+    "time": "07:01",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by TOWSON Scott, Owen (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:50",
+    "home_event": "Clear attempt by FFD failed.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "Turnover by FFD Owen Hirsch (caused by Weisshaar, Mikey).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:47",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Owen Hirsch."
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:16",
+    "home_event": "Shot by FFD Jake Gilbert, SAVE Downs, Luke.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:52",
+    "home_event": "Shot by FFD Luke Okupski, SAVE Downs, Luke.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:42",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:42",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by TOWSON Glass, Ray."
+  },
+  {
+    "quarter": "3",
+    "time": "03:57",
+    "home_event": "Shot by FFD Devin Lampron HIGH.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:25",
+    "home_event": "Turnover by FFD Jason LaMay Jr. (caused by Morin, Sam).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by TOWSON Goldt, Andrew."
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:06",
+    "home_event": "Shot by FFD Rob Moore BLOCKED.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "01:51",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:17",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Schrier, Ryan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by TOWSON Fitzpatrick, Ronan."
+  },
+  {
+    "quarter": "3",
+    "time": "01:06",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by TOWSON Gallagher, Chop HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by TOWSON Weisshaar, Mikey, goal number 38 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Shot by FFD Devin Lampron, SAVE Downs, Luke.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:19",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Penalty on TOWSON Meidling, Joe (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "14:09",
+    "home_event": "Turnover by FFD Keegan Lynch.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by TOWSON Webber, Josh HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by TOWSON Fitzpatrick, Ronan."
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Faceoff Dylan Smith vs Constantinides, Matt won by TOWSON, [12:57] Ground ball pickup by TOWSON Constantinides, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Turnover by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:19",
+    "home_event": "Shot by FFD Will Consoli HIGH.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:07",
+    "home_event": "Shot by FFD Will Consoli WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "Turnover by FFD Keegan Lynch (caused by Petro, Joe).",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot clock violation by TOWSON."
+  },
+  {
+    "quarter": "4",
+    "time": "09:21",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:45",
+    "home_event": "Ground ball pickup by FFD Nate Livingston.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "Turnover by FFD Justin Brown.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by TOWSON failed."
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Turnover by TOWSON."
+  },
+  {
+    "quarter": "4",
+    "time": "08:25",
+    "home_event": "Shot by FFD Keegan Lynch, SAVE Downs, Luke.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by FFD Jason LaMay Jr..",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "Turnover by FFD Jason LaMay Jr. (caused by Meidling, Joe).",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by TOWSON Morin, Sam."
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:31",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by TOWSON Schrier, Ryan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:04",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Shot by TOWSON Weisshaar, Mikey BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by TOWSON Matusek, Chuck."
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "GOAL by TOWSON Schrier, Ryan, Assist by Roussel, Alex, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "Timeout by FFD.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Shot by FFD Devin Lampron WIDE.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "Shot by FFD Rob Moore WIDE.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "Turnover by FFD Will Consoli.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "4",
+    "time": "04:39",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "GOAL by TOWSON Roussel, Alex, Assist by Weisshaar, Mikey, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:39",
+    "home_event": "Faceoff Dylan Smith vs Quandt, Myles won by FFD, [04:39] Ground ball pickup by FFD Dylan Smith.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "Shot by FFD Will Consoli, SAVE Downs, Luke.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Penalty on TOWSON Spagnuolo, Joe'll (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "Ground ball pickup by FFD Luke Okupski.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:26",
+    "home_event": "GOAL by FFD Rob Moore (MAN-UP), Assist by Luke Okupski, goal number 11 for season.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:26",
+    "home_event": "Faceoff Dylan Smith vs Constantinides, Matt won by FFD, [03:26] Ground ball pickup by FFD Dylan Smith.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "Turnover by FFD Rob Moore (caused by Spagnolli, Conor).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by TOWSON Spagnolli, Conor."
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Turnover by TOWSON Weisshaar, Mikey."
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "Ground ball pickup by FFD Andrew Kasten.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Clear attempt by FFD good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:34",
+    "home_event": "Turnover by FFD Devin Lampron (caused by Scott, Owen).",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:29",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by TOWSON Petro, Joe."
+  },
+  {
+    "quarter": "4",
+    "time": "01:23",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Clear attempt by TOWSON good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "8-14",
+    "away_event": "GOAL by TOWSON Roussel, Alex, Assist by Scott, Owen, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "Faceoff Dylan Smith vs Quandt, Myles won by FFD, [01:21] Ground ball pickup by FFD Dylan Smith.",
+    "score": "8-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "Timeout by FFD.",
+    "score": "8-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "GOAL by FFD Keegan Lynch, Assist by Will Consoli, goal number 18 for season.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "Faceoff Dylan Smith vs Quandt, Myles won by FFD, [00:57] Ground ball pickup by FFD Dylan Smith.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "Shot by FFD Devin Lampron, SAVE Downs, Luke.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "Turnover by FFD Devin Lampron.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Clear attempt by TOWSON good."
+  }
+]

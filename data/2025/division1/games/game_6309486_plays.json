@@ -1,0 +1,1836 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nate Fechter at goalie for RMU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "FRACYON, Jack at goalie for PSU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU, [15:00] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by PSU ALDRIDGE, Kyle (FIRST GOAL), Assist by BALDWIN, Colby, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU (on faceoff violation).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "Turnover by RMU Joel McCormick (caused by ALDRIDGE, Kyle).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:35",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU O'CONNOR, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:33",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by PSU AIMONE, Jack (caused by Charlie Marsh)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by PSU ROSS, Alex."
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by PSU AIMONE, Jack (caused by Ethan Hecht)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by Brendan Cina, goal number 14 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "Faceoff Bo Columbus vs MULLINS, Chase won by RMU.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Turnover by RMU David Burr.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by PSU ALDRIDGE, Kyle."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by PSU ALDRIDGE, Kyle (caused by Nathan Ruff)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "Ground ball pickup by RMU Colin Davis.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "Turnover by RMU Ryan Stiefel (caused by PEDEN, Will).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by PSU PEDEN, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "11:43",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by PSU WALSTRUM, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by PSU PEDEN, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot clock violation by PSU."
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "Turnover by RMU David Burr (caused by ROSS, Alex).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by PSU LONG, Ethan, Assist by AQUINO, Hunter, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [09:51] Ground ball pickup by RMU Elijah Edwards.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "Turnover by RMU Elijah Edwards (caused by DIBARTOLOMEO, Lucca).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by PSU WALSTRUM, Luke, Assist by PEDEN, Will, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "Timeout by RMU.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU, [09:39] Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by PSU AIMONE, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "Ground ball pickup by RMU Luke Prezioso.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "GOAL by RMU Will MacLeod, Assist by Liam Keane, goal number 2 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [07:53] Ground ball pickup by RMU Bo Columbus.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "Shot by RMU David Burr, SAVE FRACYON, Jack.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "Ground ball pickup by RMU David Burr.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by David Burr, goal number 15 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU (on faceoff violation).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:54",
+    "home_event": "Turnover by RMU Graeme MacLennan (caused by DIBARTOLOMEO, Peri).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "Ground ball pickup by RMU Will MacLeod.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:33",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "Ground ball pickup by RMU Charlie Marsh.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "GOAL by RMU Bobby Reaume, Assist by Luke Prezioso, goal number 2 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Bo Columbus vs MULLINS, Chase won by PSU, [06:06] Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:11",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by PSU WALSTRUM, Luke (caused by Owen Tapper)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "Turnover by RMU Charlie Marsh (caused by O'CONNOR, Ryan).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by PSU O'CONNOR, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by PSU LONG, Ethan, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by PSU AIMONE, Jack, goal number 12 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [04:09] Ground ball pickup by RMU Bo Columbus.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Turnover by RMU Calum Brennan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by PSU LEARY, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by PSU ROSS, Alex, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "Ground ball pickup by RMU Ethan Hecht.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Turnover by RMU Will MacLeod.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by PSU CARRAGHER, Patrick HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "Ground ball pickup by RMU Colin Davis.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "Turnover by RMU Kean Moon.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by PSU LEARY, Brendan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [00:21] Ground ball pickup by RMU Bo Columbus.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Turnover by RMU Bo Columbus (caused by O'CONNOR, Ryan).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by PSU LONG, Ethan, Assist by AIMONE, Jack, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Bo Columbus vs MULLINS, Chase won by PSU, [00:01] Ground ball pickup by PSU MULLINS, Chase."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [15:00] Ground ball pickup by RMU Gavin Pedone.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:44",
+    "home_event": "Turnover by RMU Gavin Pedone.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:37",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by PSU WALSTRUM, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by PSU WALSTRUM, Luke, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "Faceoff Bo Columbus vs MULLINS, Chase won by RMU, [13:41] Ground ball pickup by RMU Charlie Marsh.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:24",
+    "home_event": "Ground ball pickup by RMU Brian Simmons.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:20",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:11",
+    "home_event": "Shot by RMU Elijah Edwards WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "Shot by RMU Joel McCormick, SAVE FRACYON, Jack.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:41",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:01",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by PSU HENNING, Kris, Assist by PEDEN, Will, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:01",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [12:01] Ground ball pickup by RMU Elijah Edwards.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Shot by RMU Bobby Reaume, SAVE FRACYON, Jack.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "10:53",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by PSU ALDRIDGE, Kyle (caused by Calum Brennan)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "Ground ball pickup by RMU Calum Brennan.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Shot by RMU Will MacLeod, SAVE FRACYON, Jack.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by PSU PEDEN, Will, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:23",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:18",
+    "home_event": "Shot by RMU Gavin Pedone, SAVE FRACYON, Jack.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:12",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by PSU AIMONE, Jack, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by PSU PEDEN, Will."
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by PSU LONG, Ethan, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by PSU AQUINO, Hunter."
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by PSU LONG, Ethan, Assist by AIMONE, Jack, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:57",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Turnover by PSU GLATZ, Garrett."
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:02",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:52",
+    "home_event": "Shot by RMU Kean Moon HIGH.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Penalty on PSU DIBARTOLOMEO, Peri (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "Shot by RMU Kean Moon, SAVE FRACYON, Jack.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by PSU FRACYON, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Turnover by PSU LONG, Ethan."
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Turnover by RMU.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:22",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by PSU PEDEN, Will, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Bo Columbus vs GILLS, Reid won by PSU."
+  },
+  {
+    "quarter": "2",
+    "time": "02:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by PSU MATTHEWS, Liam BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by PSU MATTHEWS, Liam."
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by PSU AIMONE, Jack HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by PSU LONG, Ethan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "GOAL by PSU LONG, Ethan, Assist by AIMONE, Jack, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "Timeout by RMU.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Faceoff Bo Columbus vs GILLS, Reid won by PSU, [02:17] Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Shot by PSU AQUINO, Hunter WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "GOAL by PSU GLATZ, Garrett, Assist by WALSTRUM, Luke, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "Faceoff Bo Columbus vs GILLS, Reid won by RMU.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "Shot by RMU Luis Gonzalez WIDE.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:32",
+    "home_event": "Penalty on RMU Bobby Reaume (PUSHING/0:30) Extra-man opportunity.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:22",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by PSU AQUINO, Hunter BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by PSU AQUINO, Hunter."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs GILLS, Reid won by RMU (on faceoff violation).",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "Turnover by RMU Luke Prezioso (caused by ROSS, Alex).",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by PSU ROSS, Alex."
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:04",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by PSU MATTHEWS, Liam, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "13:56",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "GOAL by RMU Kean Moon, goal number 5 for season.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU."
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by PSU MATTHEWS, Liam, Assist by AIMONE, Jack, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by RMU, [12:33] Ground ball pickup by RMU Colin Davis.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:12",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by Bobby Reaume, goal number 16 for season.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:12",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU, [11:12] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "3",
+    "time": "11:03",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU BALDWIN, Colby, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU MATTHEWS, Liam."
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU MATTHEWS, Liam, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU CARRAGHER, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU HOBBS, Mac WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:45",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by PSU CARRAGHER, Patrick, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:38",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:28",
+    "home_event": "Ground ball pickup by RMU Calum Brennan.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:23",
+    "home_event": "Shot by RMU David Burr HIT POST.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Turnover by PSU PEDEN, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "Shot by RMU Kean Moon HIT POST.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "Ground ball pickup by RMU Joel McCormick.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:38",
+    "home_event": "Turnover by RMU Joel McCormick (caused by KING, Jon).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by PSU KING, Jon, Assist by AQUINO, Hunter, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU, [07:27] Ground ball pickup by PSU LEARY, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by PSU AQUINO, Hunter WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:41",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by PSU AIMONE, Jack, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "Ground ball pickup by RMU Nate Fechter.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "Shot by RMU David Burr, SAVE FRACYON, Jack.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:39",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by PSU HOBBS, Mac (caused by Nate Fechter)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "Ground ball pickup by RMU Nate Fechter.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Turnover by RMU David Burr.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:19",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "GOAL by PSU CARRAGHER, Patrick, Assist by WALSTRUM, Luke, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Timeout by RMU.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Faceoff Bo Columbus vs BALDWIN, Colby won by PSU, [05:12] Ground ball pickup by PSU BALDWIN, Colby."
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by PSU AQUINO, Hunter WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by PSU AIMONE, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by PSU GLATZ, Garrett WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "GOAL by PSU AQUINO, Hunter, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Faceoff Zach Seppi vs GILLS, Reid won by PSU, [03:51] Ground ball pickup by PSU GILLS, Reid."
+  },
+  {
+    "quarter": "3",
+    "time": "03:43",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "03:29",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Turnover by PSU FRACYON, Jack (caused by Brian Simmons)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:23",
+    "home_event": "Ground ball pickup by RMU Brian Simmons.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "Shot by RMU Elijah Edwards, SAVE FRACYON, Jack.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:10",
+    "home_event": "Turnover by RMU Luke Prezioso.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:01",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Shot by PSU MATTHEWS, Liam, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "Turnover by RMU Charlie Marsh.",
+    "score": "6-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "GOAL by PSU WALSTRUM, Luke, Assist by LONG, Ethan, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Faceoff Zach Seppi vs GILLS, Reid won by PSU, [01:53] Ground ball pickup by PSU GILLS, Reid."
+  },
+  {
+    "quarter": "3",
+    "time": "01:47",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Clear attempt by PSU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "01:15",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Turnover by PSU AIMONE, Jack (caused by Nate Fechter)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "Ground ball pickup by RMU Nate Fechter.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:01",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "Shot by RMU David Burr HIGH.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Turnover by RMU Liam Keane (caused by DIBARTOLOMEO, Peri).",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Ground ball pickup by PSU COSTIN, Will."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "JOHNSON, Ben at goalie for PSU."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Brady Carver at goalie for RMU.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Cristian Davis vs MULLINS, Chase won by RMU, [15:00] Ground ball pickup by RMU Cristian Davis.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "GOAL by RMU Luke Prezioso, Assist by Kean Moon, goal number 5 for season.",
+    "score": "7-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "",
+    "score": "7-17",
+    "away_event": "Faceoff Cristian Davis vs GILLS, Reid won by PSU, [14:10] Ground ball pickup by PSU GILLS, Reid."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "7-18",
+    "away_event": "GOAL by PSU MATTHEWS, Liam, Assist by AIMONE, Jack, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "7-18",
+    "away_event": "Faceoff Cristian Davis vs GILLS, Reid won by PSU, [13:30] Ground ball pickup by PSU KING, Jon."
+  },
+  {
+    "quarter": "4",
+    "time": "12:48",
+    "home_event": "",
+    "score": "7-18",
+    "away_event": "Shot by PSU HOBBS, Mac HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "GOAL by PSU MATTHEWS, Liam, Assist by GLATZ, Garrett, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Faceoff Cristian Davis vs GILLS, Reid won by PSU, [12:23] Ground ball pickup by PSU GILLS, Reid."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:19",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Shot by PSU HOBBS, Mac BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:14",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Ground ball pickup by PSU HENNING, Kris."
+  },
+  {
+    "quarter": "4",
+    "time": "11:10",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Shot by PSU HENNING, Kris WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "7-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:27",
+    "home_event": "Ground ball pickup by RMU Luke Prezioso.",
+    "score": "7-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "Ground ball pickup by RMU Luke Prezioso.",
+    "score": "7-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "Shot by RMU Luis Gonzalez, SAVE JOHNSON, Ben.",
+    "score": "7-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Ground ball pickup by PSU PARNHAM, Kevin."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "",
+    "score": "7-19",
+    "away_event": "Shot by PSU SCURCI, Wesley WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "GOAL by PSU BARRY, Nils, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Faceoff Cristian Davis vs GILLS, Reid won by PSU, [08:28] Ground ball pickup by PSU MCKEON, Mark."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Shot by PSU SCURCI, Wesley, SAVE Brady Carver."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "Shot by RMU John Sramac WIDE.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "Shot by RMU River Oudemool WIDE.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "Shot by RMU John Sramac, SAVE JOHNSON, Ben.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:11",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:53",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Turnover by PSU SCURCI, Wesley."
+  },
+  {
+    "quarter": "4",
+    "time": "05:32",
+    "home_event": "Shot by RMU Joel McCormick, SAVE JOHNSON, Ben.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "Ground ball pickup by RMU John Sramac.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:23",
+    "home_event": "GOAL by RMU Joel McCormick, Assist by Kean Moon, goal number 3 for season.",
+    "score": "8-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:23",
+    "home_event": "",
+    "score": "8-20",
+    "away_event": "Faceoff Cristian Davis vs GILLS, Reid won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "8-21",
+    "away_event": "GOAL by PSU BARRY, Nils, Assist by CARRAGHER, Patrick, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "8-21",
+    "away_event": "Faceoff Zach Seppi vs GILLS, Reid won by PSU, [04:40] Ground ball pickup by PSU GILLS, Reid."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "8-21",
+    "away_event": "Ground ball pickup by PSU KEENAN, Patrick."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "",
+    "score": "8-21",
+    "away_event": "Shot by PSU JASZCZ, Dylan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "GOAL by PSU CALANDRINO, Joe, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Faceoff Zach Seppi vs HUGHSON, Richie won by PSU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Turnover by PSU CALANDRINO, Joe."
+  },
+  {
+    "quarter": "4",
+    "time": "03:09",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "Ground ball pickup by RMU River Oudemool.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Penalty on PSU TORGGLER, Dillon (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "Shot by RMU John Sramac WIDE.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Ground ball pickup by PSU JOHNSON, Ben."
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Clear attempt by PSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Shot clock violation by PSU."
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "Ground ball pickup by RMU John Sramac.",
+    "score": "8-22",
+    "away_event": ""
+  }
+]

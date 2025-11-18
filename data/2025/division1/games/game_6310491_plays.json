@@ -1,0 +1,1920 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Rand Paddack at goalie for MER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Scarborough at goalie for SJU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER, [15:00] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "GOAL by MER Chris Cappelmann (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [14:50] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by SJU Adrian Nowak WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by SJU Ryan Ormond WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "Ground ball pickup by MER Will Zylstra.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Shot by MER Will Zylstra, SAVE Patrick Scarborough.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "Shot by MER Dillon Bush, SAVE Patrick Scarborough.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by SJU Adrian Nowak, Assist by Bobby Seel, goal number 12 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [12:14] Ground ball pickup by SJU Wade Bryan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by SJU Wade Bryan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "Faceoff Chris Cappelmann vs Ethan Wiegand won by MER, [12:04] Ground ball pickup by MER Quinn Kelley.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "Shot by MER Quinn Kelley WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "GOAL by MER Michael Frederick.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [11:22] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by SJU Drew Wasserman, Assist by Brian Kelly, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER, [10:05] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "Shot by MER Will Zylstra, SAVE Patrick Scarborough.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by SJU Quinn Falasca, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "Turnover by MER Rand Paddack.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by SJU Brian Kelly, goal number 19 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER (on faceoff violation).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Michael Frederick.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "Faceoff Chris Cappelmann vs Ethan Wiegand won by MER, [07:47] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "Shot by MER Michael Frederick WIDE.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by SJU Cam Konradi (caused by Dillon Bush)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "Ground ball pickup by MER Dillon Bush.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "GOAL by MER Jack Sullivan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "Faceoff Chris Cappelmann vs Ethan Wiegand won by MER, [06:52] Ground ball pickup by MER Thomas Venzie.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "Shot by MER Dylan McKelvy WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "Turnover by MER Michael Frederick.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by SJU Cam Konradi."
+  },
+  {
+    "quarter": "1",
+    "time": "05:48",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by SJU Cam Konradi (caused by Kade McNeil)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "Ground ball pickup by MER Dillon Bush.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:11",
+    "home_event": "Turnover by MER Jack Sullivan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by SJU Adrian Nowak, Assist by Mitch Campbell, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Chris Cappelmann vs Ethan Wiegand won by SJU, [04:43] Ground ball pickup by SJU Brady Rauner."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by SJU Brady Rauner."
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "Shot by MER Kade McNeil BLOCKED.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:53",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "Shot by MER Will Zylstra BLOCKED.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "Ground ball pickup by MER Kade McNeil.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Chris Cappelmann vs Ethan Wiegand won by SJU, [03:33] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Turnover by MER Kyle Pierce.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by SJU Bobby Seel, goal number 11 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "Faceoff Chris Cappelmann vs John Mavlios won by MER, [02:24] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "Shot by MER Will Zylstra, SAVE Patrick Scarborough.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "Ground ball pickup by MER Jack Sullivan.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "Shot by MER Jack Sullivan HIGH.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "GOAL by MER Luke Fox.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER, [01:22] Ground ball pickup by MER Thomas Venzie.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "Shot by MER Chris Cappelmann, SAVE Patrick Scarborough.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "Turnover by MER Dillon Bush.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by SJU Zander Hauck."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by SJU Bobby Seel, goal number 12 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [00:04] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [15:00] Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "2",
+    "time": "14:49",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Turnover by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "2",
+    "time": "14:48",
+    "home_event": "Clear attempt by MER good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:33",
+    "home_event": "Turnover by MER Jack Sullivan (caused by Zander Hauck).",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:28",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "14:04",
+    "home_event": "Clear attempt by MER good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:11",
+    "home_event": "GOAL by MER Jackson Hirschy, Assist by Jack Sullivan.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:11",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [13:11] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "2",
+    "time": "12:40",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by SJU Brady Rauner."
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "Turnover by MER Brady Corkill (caused by Tyson Meade).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by SJU Dan Koban."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by SJU Adrian Nowak, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by SJU Brian Kelly (caused by Rand Paddack)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "Ground ball pickup by MER Rand Paddack.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Turnover by MER Brady Corkill.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Penalty on MER Christian Laureano (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by SJU Ryan Ormond (MAN-UP), Assist by Brian Kelly, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "Faceoff Carter Kryszak vs Adam Dembicki won by MER, [10:08] Ground ball pickup by MER Nolan Filley.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [09:15] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "GOAL by SJU Bobby Seel, Assist by Brian Kelly, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [08:56] Ground ball pickup by SJU Brady Rauner."
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "Clear attempt by MER good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Patrick Scarborough.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:11",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Turnover by SJU Drew Lindsay (caused by Michael Frederick)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:49",
+    "home_event": "Shot by MER Michael Frederick, SAVE Patrick Scarborough.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:47",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SJU Maclin Keyser."
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Turnover by SJU."
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Jack Sullivan.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by SJU Mitch Campbell, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:17",
+    "home_event": "Ground ball pickup by MER Tyler Gilbert.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:16",
+    "home_event": "Clear attempt by MER good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:49",
+    "home_event": "Timeout by MER.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:35",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "Shot by MER Christian Laureano, SAVE Patrick Scarborough.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by SJU Jayson Cardenas WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Turnover by SJU Ryan Ormond (caused by Davis Peek)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:09",
+    "home_event": "Ground ball pickup by MER Davis Peek.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Turnover by MER Kobe Handsor.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Turnover by SJU Jayson Cardenas (caused by Brady Corkill)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Jackson Phillips.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by SJU Brian Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "Clear attempt by MER good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "GOAL by MER Dillon Bush.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Faceoff Carter Kryszak vs Adam Dembicki won by SJU, [01:35] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "GOAL by SJU Drew Wasserman, Assist by Mitch Campbell, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:23",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Bobby Seel, goal number 15 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by MER Kobe Handsor.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [15:00] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "3",
+    "time": "14:20",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "14:12",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "Shot by SJU Brian Kelly, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "Ground ball pickup by MER Quinn Kelley.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "Clear attempt by MER good.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Timeout by MER.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [13:31] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "3",
+    "time": "13:25",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Turnover by SJU Brady Rauner (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:23",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "Shot by MER Luke Fox, SAVE Patrick Scarborough {shot from close left wing}.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by SJU Quinn Falasca."
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by SJU Brian Kelly HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "12:01",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by SJU Jayson Cardenas BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by SJU Bobby Seel."
+  },
+  {
+    "quarter": "3",
+    "time": "11:41",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "11:37",
+    "home_event": "Clear attempt by MER good.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:23",
+    "home_event": "Shot by MER Dillon Bush BLOCKED.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:01",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Shot by MER Dillon Bush HIT POST.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:43",
+    "home_event": "Ground ball pickup by MER Michael Frederick.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "GOAL by MER Will Zylstra, Assist by Ganon Cope.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [10:37] Ground ball pickup by SJU Cam Konradi."
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Shot by SJU Dan Koban, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "10:01",
+    "home_event": "Ground ball pickup by MER Tyler Gilbert.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:00",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "Shot by MER Michael Frederick, SAVE Patrick Scarborough.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:09",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "Ground ball pickup by MER Dylan McKelvy.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "Shot by MER Ganon Cope, SAVE Patrick Scarborough.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:27",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Turnover by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:36",
+    "home_event": "Turnover by MER Jackson Hirschy (caused by Maclin Keyser).",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Ground ball pickup by SJU Bobby Seel."
+  },
+  {
+    "quarter": "3",
+    "time": "06:33",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Shot by SJU Adrian Nowak WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:13",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "GOAL by SJU Brian Kelly, goal number 20 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:13",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER, [06:13] Ground ball pickup by MER Will Zylstra.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:39",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "Shot by MER Jack Sullivan, SAVE Patrick Scarborough.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:17",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Ground ball pickup by SJU Nick Turrini."
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Zander Hauck, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [05:09] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Turnover by SJU Bobby Seel."
+  },
+  {
+    "quarter": "3",
+    "time": "04:31",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:09",
+    "home_event": "Shot by MER Ganon Cope HIGH.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Shot by MER Dillon Bush, SAVE Patrick Scarborough.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:53",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "GOAL by SJU Jayson Cardenas, Assist by Mitch Campbell, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "Penalty on MER Davis Peek (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [03:20] Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Turnover by SJU Tyson Meade."
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:55",
+    "home_event": "Turnover by MER Max Schutt (caused by Ryan Ormond).",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Shot by SJU Drew Wasserman BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "02:21",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:16",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:16",
+    "home_event": "Turnover by MER Thomas Venzie.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:47",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Turnover by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "3",
+    "time": "01:46",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:48",
+    "home_event": "Shot by MER Dillon Bush, SAVE Patrick Scarborough.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:45",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Ground ball pickup by SJU Brian Kelly."
+  },
+  {
+    "quarter": "3",
+    "time": "00:12",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Shot by SJU Brian Kelly WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "GOAL by SJU Adrian Nowak, goal number 15 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [15:00] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Shot by SJU Mitch Campbell, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "4",
+    "time": "13:38",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Brian Kelly, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:38",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER (on faceoff violation).",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "Shot by MER Will Zylstra, SAVE Patrick Scarborough.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "4",
+    "time": "12:51",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Turnover by SJU Adrian Nowak (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:06",
+    "home_event": "Clear attempt by MER good.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:59",
+    "home_event": "GOAL by MER Will Zylstra, Assist by Kobe Handsor.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:59",
+    "home_event": "Faceoff Chris Cappelmann vs John Mavlios won by MER, [11:59] Ground ball pickup by MER Kyle Pierce.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "Shot by MER Dillon Bush HIGH.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "Turnover by MER.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Shot by SJU Mitch Campbell WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Shot by SJU Adrian Nowak, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:22",
+    "home_event": "",
+    "score": "14-18",
+    "away_event": "GOAL by SJU Brian Kelly, Assist by Bobby Seel, goal number 21 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:22",
+    "home_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by MER, [09:22] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "14-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "Shot by MER Kade McNeil WIDE.",
+    "score": "14-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:21",
+    "home_event": "Shot by MER Kade McNeil, SAVE Patrick Scarborough.",
+    "score": "14-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "",
+    "score": "14-18",
+    "away_event": "Penalty on SJU Zander Hauck (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "07:37",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "14-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "GOAL by MER Will Zylstra, Assist by Jack Sullivan.",
+    "score": "15-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "",
+    "score": "15-18",
+    "away_event": "Penalty on SJU Edgar Ford (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "15-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Jack Sullivan.",
+    "score": "16-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [06:44] Ground ball pickup by SJU Brady Rauner."
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "4",
+    "time": "05:23",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Shot by SJU Brian Kelly WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:15",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Turnover by SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "05:14",
+    "home_event": "Clear attempt by MER good.",
+    "score": "16-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "Shot by MER Michael Frederick HIT POST.",
+    "score": "16-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "",
+    "score": "16-18",
+    "away_event": "Shot by SJU Jayson Cardenas WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "GOAL by SJU Adrian Nowak, Assist by Brian Kelly, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "Penalty on MER Kyle Pierce (UR/1:00) Extra-man opportunity.",
+    "score": "16-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "Penalty on MER Tyler Gilbert (UR/1:00).",
+    "score": "16-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Penalty on SJU Drew Wasserman (UR/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Turnover by SJU Bobby Seel."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "16-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "Turnover by MER Kobe Handsor.",
+    "score": "16-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "16-19",
+    "away_event": "Shot by SJU Bobby Seel WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "",
+    "score": "16-20",
+    "away_event": "GOAL by SJU Adrian Nowak, Assist by Brian Kelly, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "",
+    "score": "16-20",
+    "away_event": "Faceoff Chris Cappelmann vs Adam Dembicki won by SJU, [01:40] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "",
+    "score": "16-20",
+    "away_event": "Turnover by SJU Mitch Campbell (caused by Davis Peek)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "Ground ball pickup by MER Brady Corkill.",
+    "score": "16-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Clear attempt by MER good.",
+    "score": "16-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "Turnover by MER Thomas Venzie.",
+    "score": "16-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "16-20",
+    "away_event": "Clear attempt by SJU good."
+  }
+]

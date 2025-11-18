@@ -1,0 +1,1836 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nolan Hudnut at goalie for BELL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Fyock, Caleb at goalie for OSU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [15:00] Draw control by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "14:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by OSU Oldman, Jack (caused by Matt Kirton)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Van Buren, Bobby).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by OSU Mayer, Ben."
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Foster, Kyle).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by OSU Foster, Kyle."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by OSU Marinier, Alex."
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Van Buren, Bobby).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by OSU Van Buren, Bobby."
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by OSU Brown, Cullen."
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by OSU Langermeier, Greg HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by OSU O'Leary, Shane."
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Clear attempt by BELL failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "Turnover by BELL Christopher Reynolds.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by OSU Fyock, Caleb."
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by OSU Langermeier, Greg (FIRST GOAL), Assist by Foster, Kyle, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by OSU Marinier, Alex WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by OSU McKenna, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "Shot by BELL Justin Wescoat, SAVE Fyock, Caleb.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by OSU Haas, Garrett, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "Faceoff Cole Messick vs Oldman, Jack won by BELL, [09:23] Ground ball pickup by BELL Cole Messick.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "Turnover by BELL Ezra Moore.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by OSU Allen, Ari."
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by OSU Marinier, Alex, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by OSU Donnery, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by OSU Marinier, Alex, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "Penalty on BELL Nicholas Sheremetta (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by OSU Turner, Griffin, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by OSU Donnery, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by OSU Donnery, Ryan (MAN-UP), goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Cole Messick vs Oldman, Jack won by OSU, [07:08] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by OSU Oldman, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by OSU Haas, Garrett HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by OSU Marinier, Alex, Assist by McKenna, Jack, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "Timeout by BELL.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Cole Messick vs Oldman, Jack won by OSU, [06:17] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Donnery, Ryan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "05:37",
+    "home_event": "Ground ball pickup by BELL Robert MacMichael.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "Shot by BELL Ty Washington, SAVE Fyock, Caleb.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Ground ball pickup by BELL Ty Washington.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "Shot by BELL John Alie, SAVE Fyock, Caleb.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Mayer, Ben HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Haas, Garrett HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by OSU Marinier, Alex."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Mayer, Ben WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Penalty on BELL Brady Long (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Penalty on BELL Matt Kirton (ILLEGAL BODY CHECK/1:00).",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Donnery, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Donnery, Ryan HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Donnery, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU Haas, Garrett, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by OSU Mayer, Ben."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Timeout by OSU."
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU O'Leary, Shane HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by OSU White, Liam, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "Ground ball pickup by BELL Brady Long.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "Shot by BELL Justin Wescoat, SAVE Fyock, Caleb.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "Ground ball pickup by BELL John Alie.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "GOAL by BELL Justin Wescoat, goal number 3 for season.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [15:00] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by OSU Marinier, Alex, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:54",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:34",
+    "home_event": "Turnover by BELL Justin Wescoat (caused by Allen, Ari).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by OSU Allen, Ari."
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by OSU Eiland, Blake, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "12:43",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by OSU Donnery, Ryan HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "Ground ball pickup by BELL Ty Washington.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Ground ball pickup by BELL Luke Healy.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:40",
+    "home_event": "Shot by BELL Michael Blaymires WIDE.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "Turnover by BELL Sam Boylston (caused by Langermeier, Greg).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by OSU Brown, Cullen."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by OSU Marinier, Alex WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by OSU McKenna, Jack, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Turnover by OSU White, Liam (caused by Christopher Reynolds)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by BELL Jaden Wilkins.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "Shot by BELL John Alie HIT POST.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Turnover by BELL Joe Alie.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by OSU Fyock, Caleb."
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by OSU O'Leary, Shane, Assist by Magee, Dillon, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Faceoff Aidan Fearn vs Oldman, Jack won by BELL, [08:16] Ground ball pickup by BELL Aidan Fearn.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "Ground ball pickup by BELL Ezra Moore.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "Timeout by BELL.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Van Buren, Bobby).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by OSU Van Buren, Bobby."
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by OSU Haas, Garrett WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:10",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by OSU Walsh, Jackson (caused by Robert Pope)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "Shot by BELL Sam Boylston HIT POST.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by OSU Eiland, Blake."
+  },
+  {
+    "quarter": "2",
+    "time": "05:23",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:18",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by OSU Eiland, Blake, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "Ground ball pickup by BELL Ezra Moore.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "GOAL by BELL John Alie, goal number 8 for season.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Faceoff Aidan Fearn vs Oldman, Jack won by BELL, [04:30] Ground ball pickup by BELL Matt Kirton.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "Turnover by BELL Matt Kirton (caused by Antoniou, Zack).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by OSU Antoniou, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "Penalty on BELL Matt Kirton (PUSHING/0:30) Extra-man opportunity.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by OSU O'Leary, Shane HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:33",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by OSU Marinier, Alex WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by OSU O'Leary, Shane, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "Turnover by BELL Ethan Tunucci (caused by Glushakow, Braden).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by OSU Bowen, Dante."
+  },
+  {
+    "quarter": "2",
+    "time": "02:37",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by OSU Bowen, Dante WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:16",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by OSU Haas, Garrett, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by OSU Donnery, Ryan, Assist by Haas, Garrett, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [01:50] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "00:51",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Turnover by OSU Haas, Garrett."
+  },
+  {
+    "quarter": "2",
+    "time": "00:48",
+    "home_event": "Ground ball pickup by BELL Robert MacMichael.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Aidan Fearn vs Oldman, Jack won by BELL, [15:00] Ground ball pickup by BELL Robert MacMichael.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "GOAL by BELL Michael Blaymires, Assist by Jackson Campisano, goal number 6 for season.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "Faceoff Aidan Fearn vs Oldman, Jack won by BELL.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "Turnover by BELL Ezra Moore.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "GOAL by OSU Donnery, Ryan, Assist by Haas, Garrett, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [13:35] Ground ball pickup by OSU Allen, Ari."
+  },
+  {
+    "quarter": "3",
+    "time": "13:23",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by OSU Marinier, Alex, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by OSU Haas, Garrett."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by OSU O'Leary, Shane, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:18",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by OSU Donnery, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU McKenna, Jack HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU Donnery, Ryan, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "Ground ball pickup by BELL Nolan Hudnut.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Shot by BELL Justin Wescoat HIGH.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:21",
+    "home_event": "Shot by BELL John Alie, SAVE Fyock, Caleb.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Turnover by OSU Allen, Ari (caused by Matt Kirton)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:08",
+    "home_event": "Ground ball pickup by BELL Ty Washington.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "Turnover by BELL Luke Healy (caused by Brown, Cullen).",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by OSU Brown, Cullen."
+  },
+  {
+    "quarter": "3",
+    "time": "09:09",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU O'Leary, Shane HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "Ground ball pickup by BELL Brady Long.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "Turnover by BELL Michael Blaymires (caused by Antoniou, Zack).",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by OSU Brown, Cullen."
+  },
+  {
+    "quarter": "3",
+    "time": "07:18",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU White, Liam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU White, Liam HIT CROSSBAR."
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by OSU White, Liam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by OSU Marinier, Alex, Assist by Walsh, Jackson, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "Faceoff Cole Messick vs Oldman, Jack won by BELL, [06:12] Ground ball pickup by BELL Robert MacMichael.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:52",
+    "home_event": "Turnover by BELL Justin Wescoat (caused by Cool, Jonny).",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:48",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by OSU Cool, Jonny."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Turnover by OSU Langermeier, Greg."
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "Shot by BELL Ty Washington, SAVE Fyock, Caleb.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:00",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by OSU O'Leary, Shane BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by OSU Shean, Ed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:02",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by OSU Magee, Dillon WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by OSU Magee, Dillon."
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot clock violation by OSU."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:29",
+    "home_event": "Timeout by BELL.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:11",
+    "home_event": "Shot by BELL John Alie WIDE.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by OSU White, Liam, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Faceoff Cole Messick vs Oldman, Jack won by OSU, [02:45] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Turnover by OSU Mayer, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Ground ball pickup by BELL Robert MacMichael.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Antoniou, Zack).",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by OSU Brown, Cullen."
+  },
+  {
+    "quarter": "3",
+    "time": "01:17",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "GOAL by OSU Turner, Griffin, Assist by Haas, Garrett, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [00:29] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by OSU Haas, Garrett, Assist by Shean, Ed, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU, [00:18] Ground ball pickup by OSU Cool, Jonny."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "GOAL by OSU Haas, Garrett, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Penalty on BELL Matt Kirton (ILLEGAL BODY CHECK/2:00) Extra-man opportunity.",
+    "score": "3-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:38",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "GOAL by OSU McKenna, Jack (MAN-UP), goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:38",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Faceoff Cole Messick vs Oldman, Jack won by OSU, [14:38] Ground ball pickup by OSU Oldman, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "GOAL by OSU Shean, Ed (MAN-UP), Assist by Turner, Griffin, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Faceoff Cole Messick vs Oldman, Jack won by OSU, [14:01] Ground ball pickup by OSU Glushakow, Braden."
+  },
+  {
+    "quarter": "4",
+    "time": "13:26",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "GOAL by OSU Marinier, Alex (MAN-UP), Assist by McKenna, Jack, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:26",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Faceoff Aidan Fearn vs Oldman, Jack won by OSU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by OSU O'Leary, Shane."
+  },
+  {
+    "quarter": "4",
+    "time": "13:01",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:49",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Antoniou, Zack).",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:13",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU Mcdonald, Ellis."
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "12:09",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by OSU Mcdonald, Ellis (caused by Michael Blaymires)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:04",
+    "home_event": "Ground ball pickup by BELL Ezra Moore.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "Turnover by BELL Ezra Moore.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:57",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU Antoniou, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by OSU Shean, Ed, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Turnover by BELL Luke Healy (caused by Fyock, Caleb).",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:07",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU Fyock, Caleb."
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by OSU Turner, Griffin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Blake, Henry at goalie for OSU."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "Penalty on BELL Justin Wescoat (PUSHING/0:30) Extra-man opportunity.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU McKenna, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by OSU Marinier, Alex BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "Turnover by BELL John Alie.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by OSU Bowen, Dante (caused by Ezra Moore)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Shot by BELL Justin Wescoat BLOCKED.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "Turnover by BELL Justin Wescoat (caused by O'Connor, Corey).",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU O'Connor, Corey."
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:00",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by OSU Magee, Dillon."
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "Shot by BELL Joe Alie, SAVE Blake, Henry.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:24",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU Glushakow, Braden."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by OSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by OSU Janowicz, Tommy, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:42",
+    "home_event": "Jack Bryant at goalie for BELL.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "Turnover by BELL Ethan Tunucci (caused by Bowen, Dante).",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by OSU Bowen, Dante."
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by OSU Walsh, Jackson (caused by Ethan Tunucci)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "GOAL by BELL Ty Washington, goal number 3 for season.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Faceoff Cole Messick vs Kraske, Coleman won by OSU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:42",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by OSU Magee, Dillon."
+  },
+  {
+    "quarter": "4",
+    "time": "03:16",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by OSU Bregman, Mason (caused by Christopher Reynolds)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "Clear attempt by BELL failed.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "Turnover by BELL Jaden Wilkins (caused by Janowicz, Tommy).",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by OSU Connolley, Dorian."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "Penalty on BELL Jackson Campisano (SLASHING/1:00) Extra-man opportunity.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Timeout by OSU."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Scholl, Macguire at goalie for OSU."
+  },
+  {
+    "quarter": "4",
+    "time": "02:13",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by OSU Connolley, Dorian."
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by OSU Janowicz, Tommy (caused by Christopher Reynolds)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:26",
+    "home_event": "Ground ball pickup by BELL Mikey Usterbowski.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:26",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Penalty on OSU Mcdonald, Ellis (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "Shot by BELL Joe Alie HIGH.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "Turnover by BELL Michael Blaymires (caused by Glushakow, Braden).",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by OSU Glushakow, Braden."
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Clear attempt by OSU good."
+  }
+]

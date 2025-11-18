@@ -1,0 +1,1647 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "LAWAS, Lucas at goalie for MU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "FARGIONE, Denis at goalie for VU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "Turnover by MU FOSTER, Will.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by MU NICHOLAS, Brady.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "Clear attempt by MU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "GOAL by MU RAPPIS, Nolan (FIRST GOAL), Assist by JOHNSON, Brad.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Faceoff SLAGER, Adam vs CUNNINGHAM, Ryan won by MU, [12:19] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Turnover by MU HILTZ, Hayden (caused by MACKIE, Scot).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VU LICATA, Matt (caused by LAWAS, Lucas)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "Ground ball pickup by MU LAWAS, Lucas.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "Shot by MU BRANDT, Carsen HIT POST.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "Ground ball pickup by MU NICHOLS, Jackson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Shot by MU BRANDT, Carsen WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:52",
+    "home_event": "Shot clock violation by MU.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by VU NEWTON, Lucas, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by VU NEWTON, Lucas, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "Shot by MU KILCOYNE, Ryan WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "Shot by MU DETWILER, Peter, SAVE FARGIONE, Denis.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:31",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by VU BOES, Tyler WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VU LINK, David."
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "Shot by MU O'GRADY, Bobby, SAVE FARGIONE, Denis.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Penalty on VU LICATA, Matt (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "GOAL by MU CAPUTO, Matt (MAN-UP), Assist by O'GRADY, Bobby.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU, [05:50] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by VU RAYMOND, Luke HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by VU NEWTON, Lucas HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by VU MICHENER, Gavin (caused by KILCOYNE, Ryan)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "Ground ball pickup by MU NICHOLAS, Brady.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "Clear attempt by MU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "GOAL by MU DETWILER, Peter, Assist by HILTZ, Hayden.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU, [03:50] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by VU LICATA, Matt, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "Ground ball pickup by MU PIRAINO, Mike.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "Shot by MU PIRAINO, Mike WIDE.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "Clear attempt by MU good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by VU MELCHIONNI, Jake, Assist by MICHENER, Colin, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "Turnover by MU WESTPHAL, Beau (caused by HEWITT, Peter).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VU HEWITT, Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VU WILLIAMS, Luke, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "01:38",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VU SWIRBALUS, Matthew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by VU SWIRBALUS, Matthew, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff SLAGER, Adam vs CUNNINGHAM, Ryan won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by VU LICATA, Matt (caused by KILCOYNE, Ryan)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by MU NICHOLAS, Brady.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff AMBUSH, Ty vs GLOMB, George won by VU, [15:00] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "2",
+    "time": "14:30",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "Clear attempt by MU good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "Shot by MU FOSTER, Will, SAVE FARGIONE, Denis.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "13:06",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MELCHIONNI, Jake, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "Ground ball pickup by MU PIRAINO, Mike.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "Clear attempt by MU failed.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "Turnover by MU PIRAINO, Mike.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU BEEGHLY, James BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:01",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MICHENER, Colin HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU MICHENER, Colin HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "Timeout by MU.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Penalty on VU PRYBYLSKI, Mack (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "Shot by MU KILCOYNE, Ryan WIDE.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:47",
+    "home_event": "Clear attempt by MU good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Shot by MU BRANDT, Carsen HIT POST.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Penalty on VU MACKIE, Scot (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "GOAL by MU BOWMAN, Andrew (MAN-UP), Assist by O'GRADY, Bobby.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "Turnover by MU O'GRADY, Bobby.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by VU MICHENER, Gavin."
+  },
+  {
+    "quarter": "2",
+    "time": "08:53",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by VU MICHENER, Gavin (caused by CASTILLO, Jadyn)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:49",
+    "home_event": "Ground ball pickup by MU CASTILLO, Jadyn.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "Clear attempt by MU good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "Turnover by MU BRANDT, Carsen (caused by MELCHIONNI, Jake).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:08",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by VU MALLEE, Brett."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by VU BOES, Tyler, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "Faceoff SLAGER, Adam vs CUNNINGHAM, Ryan won by MU, [08:32] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:36",
+    "home_event": "Shot by MU O'GRADY, Bobby BLOCKED.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:01",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VU MICHENER, Gavin HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "06:41",
+    "home_event": "Clear attempt by MU good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "Shot by MU McCABE, Conor, SAVE FARGIONE, Denis.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VU MALLEE, Brett."
+  },
+  {
+    "quarter": "2",
+    "time": "06:05",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VU LINK, David."
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by VU LICATA, Matt, Assist by LINK, David, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff SLAGER, Adam vs GLOMB, George won by VU, [04:21] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VU GLOMB, George, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "Clear attempt by MU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Turnover by MU RAPPIS, Nolan.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VU LICATA, Matt HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VU LUCCHESI, Nick WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "02:04",
+    "home_event": "Clear attempt by MU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "Shot by MU BRANDT, Carsen WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "Turnover by MU McCABE, Conor.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:50",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "2",
+    "time": "00:43",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:28",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by VU LICATA, Matt, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Faceoff SLAGER, Adam vs GLOMB, George won by MU, [00:05] Ground ball pickup by MU BOYLE, Brenden.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by VU NEWTON, Lucas, Assist by MICHENER, Gavin, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU, [14:10] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot clock violation by VU."
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "Shot by MU KILCOYNE, Ryan HIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:36",
+    "home_event": "Clear attempt by MU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "GOAL by MU O'GRADY, Bobby, Assist by RAPPIS, Nolan.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "Faceoff AMBUSH, Ty vs GLOMB, George won by MU, [12:04] Ground ball pickup by MU AMBUSH, Ty.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:18",
+    "home_event": "GOAL by MU FOSTER, Will.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:18",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff AMBUSH, Ty vs SANDOVAL, Tyler won by VU, [11:18] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Gavin HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "10:42",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "10:30",
+    "home_event": "Shot by MU LAWAS, Lucas HIGH.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:22",
+    "home_event": "Clear attempt by MU good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "3",
+    "time": "10:15",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:22",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Gavin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "09:16",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "Shot by MU NICHOLAS, Brady HIGH.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "Clear attempt by MU good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:55",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:45",
+    "home_event": "Penalty on MU BRANDT, Carsen (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by VU LICATA, Matt (MAN-UP), Assist by MARTIN, Dan, goal number 7 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff AMBUSH, Ty vs SANDOVAL, Tyler won by VU, [07:15] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VU LICATA, Matt WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VU MICHENER, Colin HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VU BOES, Tyler, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "06:15",
+    "home_event": "Ground ball pickup by MU HILTZ, Hayden.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Clear attempt by MU good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:03",
+    "home_event": "Turnover by MU KILCOYNE, Ryan.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:44",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VU RAYMOND, Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:52",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "Ground ball pickup by MU LAWAS, Lucas.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "Clear attempt by MU good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "GOAL by MU RAPPIS, Nolan, Assist by FOSTER, Will.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU, [04:10] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "04:01",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by VU MICHENER, Colin, Assist by MICHENER, Gavin, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:01",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff AMBUSH, Ty vs SANDOVAL, Tyler won by VU, [04:01] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot clock violation by VU."
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "Turnover by MU FOSTER, Will (caused by SHOEMAKER, Jack).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "01:08",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by VU LUCCHESI, Nick, Assist by LICATA, Matt, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff AMBUSH, Ty vs CUNNINGHAM, Ryan won by VU, [00:22] Ground ball pickup by VU CUNNINGHAM, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff AMBUSH, Ty vs CUNNINGHAM, Ryan won by VU, [00:00] Ground ball pickup by VU CUNNINGHAM, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "14:49",
+    "home_event": "Penalty on MU AMBUSH, Ty (TRIPPING/0:30) Extra-man opportunity.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by VU CEPIEL, Quinton WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "Shot by MU KILCOYNE, Ryan.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "Shot by MU RAPPIS, Nolan.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Shot by MU FOSTER, Will HIGH.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:32",
+    "home_event": "GOAL by MU BRANDT, Carsen.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:32",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU, [13:32] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "GOAL by MU RAPPIS, Nolan, Assist by BOYLE, Brenden.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff SLAGER, Adam vs GLOMB, George won by VU, [13:21] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VU MICHENER, Gavin, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "Clear attempt by MU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "GOAL by MU O'GRADY, Bobby, Assist by FOSTER, Will.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "Faceoff SLAGER, Adam vs GLOMB, George won by MU.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "Shot by MU FOSTER, Will HIT POST.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Turnover by MU BRANDT, Carsen (caused by KEMLER, Beau).",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "4",
+    "time": "10:46",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by VU MELCHIONNI, Jake, Assist by MICHENER, Colin, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "Faceoff SLAGER, Adam vs GLOMB, George won by MU, [10:39] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:27",
+    "home_event": "Turnover by MU O'GRADY, Bobby.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:13",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by VU MALLEE, Brett."
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by VU MICHENER, Colin BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by VU LICATA, Matt BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by VU LUCCHESI, Nick, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Ground ball pickup by MU NICHOLAS, Brady.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:01",
+    "home_event": "Clear attempt by MU good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:03",
+    "home_event": "GOAL by MU O'GRADY, Bobby, Assist by BRANDT, Carsen.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:03",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU, [09:03] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "Shot by MU FOSTER, Will WIDE.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "GOAL by MU SNYDER, Noah.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by MU, [07:54] Ground ball pickup by MU LAMARCA, David.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "Turnover by MU FOSTER, Will (caused by MELCHIONNI, Jake).",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by VU MICHENER, Gavin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Ground ball pickup by VU LICATA, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Shot by VU LINK, David BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "GOAL by VU MICHENER, Colin, Assist by LUCCHESI, Nick, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "Faceoff SLAGER, Adam vs CUNNINGHAM, Ryan won by MU, [05:05] Ground ball pickup by MU DETWILER, Peter.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "GOAL by MU O'GRADY, Bobby, Assist by FOSTER, Will.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Faceoff SLAGER, Adam vs GLOMB, George won by MU, [04:22] Ground ball pickup by MU HILTZ, Hayden.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "Timeout by MU.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "Turnover by MU CAPUTO, Matt.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:19",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "Penalty on MU BRANDT, Carsen (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:00",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Shot by VU LICATA, Matt, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "Ground ball pickup by MU LAMARCA, David.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "Turnover by MU BOYLE, Brenden (caused by MICHENER, Colin).",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "GOAL by VU LICATA, Matt, Assist by LUCCHESI, Nick, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU, [02:11] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "GOAL by VU LICATA, Matt, Assist by MICHENER, Gavin, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Faceoff SLAGER, Adam vs SANDOVAL, Tyler won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "GOAL by VU RAYMOND, Luke, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Faceoff AMBUSH, Ty vs CUNNINGHAM, Ryan won by VU, [01:30] Ground ball pickup by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Shot clock violation by VU."
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "Shot by MU KILCOYNE, Ryan BLOCKED.",
+    "score": "13-14",
+    "away_event": ""
+  }
+]

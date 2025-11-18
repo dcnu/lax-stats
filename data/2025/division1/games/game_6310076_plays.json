@@ -1,0 +1,1472 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "DONAHUE, Dan at goalie for PC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "KLEBAN, Malcolm at goalie for DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:35",
+    "home_event": "Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "Ground ball pickup by PC PANICCIA, Albert.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE KLEBAN, Malcolm {shot from close left wing}.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEN WILSON, Casey."
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DEN WILSON, Casey."
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Clear attempt by PC good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "Shot by PC COOPER, Jack, SAVE KLEBAN, Malcolm.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "Shot by PC CHAMBERS, Rhett WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:29",
+    "home_event": "Ground ball pickup by PC HORRIGAN, Jack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "GOAL by PC CHAMBERS, Rhett (FIRST GOAL), goal number 16 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by DEN, [12:09] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by DEN CLARK, Daniel WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "Penalty on PC PANICCIA, Albert (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by DEN MALAWSKY, Cody WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "30-second clock violation by DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "Clear attempt by PC good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "Shot by PC WILKERSON, Jay WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "Shot by PC HORRIGAN, Jack WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by PC JOSEPH, Richie (caused by TRUMBLE, Sam).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by DEN DAVIS, Brody."
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "30-second clock violation by DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "Clear attempt by PC good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "GOAL by PC CHAMBERS, Rhett, goal number 17 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by PC (on faceoff violation).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "GOAL by PC BELL, Ryan, goal number 12 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC, [05:25] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "GOAL by PC HORRIGAN, Jack, Assist by BELL, Ryan, goal number 31 for season.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Timeout by DEN."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC, [04:17] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "Ground ball pickup by PC BRAZELL, Sam.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "Shot by PC BRAZELL, Sam WIDE.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by DEN MALAWSKY, Cody (caused by DENNISON, Gregg)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Clear attempt by PC good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:29",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE KLEBAN, Malcolm.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "Clear attempt by PC good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "Shot by PC CHAMBERS, Rhett WIDE.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by PC CHAMBERS, Rhett.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by DEN TORTOLANI, Jack, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC (on faceoff violation).",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "Shot by PC CHAMBERS, Rhett, SAVE KLEBAN, Malcolm.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "Ground ball pickup by PC KENNEDY, Parker.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "2",
+    "time": "13:06",
+    "home_event": "Clear attempt by PC failed.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by PC DONAHUE, Dan.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by DEN MALAWSKY, Cody BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:48",
+    "home_event": "Clear attempt by PC good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:55",
+    "home_event": "Shot by PC JOSEPH, Richie WIDE.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by DEN DAVIS, Brody."
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "GOAL by PC HORRIGAN, Jack, goal number 32 for season.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by DEN, [11:08] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "10:25",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by DEN MALAWSKY, Cody, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Turnover by DEN KLOKIW, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "Clear attempt by PC good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "Shot by PC BELL, Ryan WIDE.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Penalty on DEN KIRSCHKE, Blake (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "08:37",
+    "home_event": "Ground ball pickup by PC BRAZELL, Sam.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "GOAL by PC HORRIGAN, Jack (MAN-UP), Assist by BELL, Ryan, goal number 33 for season.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by DEN, [08:30] Ground ball pickup by DEN KRAUS, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "GOAL by DEN TZAGOURNIS, Marek, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by PC, [07:56] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:51",
+    "home_event": "Shot by PC MCCONNAUGHEY, Quinn WIDE.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "Shot by PC WILKERSON, Jay HIGH.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:46",
+    "home_event": "GOAL by PC JOSEPH, Richie, Assist by CHAMBERS, Rhett, goal number 31 for season.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:46",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "Shot by PC DALE, Ben, SAVE KLEBAN, Malcolm.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "Ground ball pickup by PC FLYNN, Tyler.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "GOAL by PC FLYNN, Tyler, goal number 3 for season.",
+    "score": "8-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "",
+    "score": "8-1",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by DEN (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "",
+    "score": "8-1",
+    "away_event": "Shot by DEN CLARK, Daniel HIT CROSSBAR."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "8-1",
+    "away_event": "Turnover by DEN CLARK, Daniel."
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "Clear attempt by PC good.",
+    "score": "8-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "Ground ball pickup by PC BRAZELL, Sam.",
+    "score": "8-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "Shot by PC WILKERSON, Jay WIDE.",
+    "score": "8-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "Shot by PC JOSEPH, Richie WIDE.",
+    "score": "8-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:15",
+    "home_event": "",
+    "score": "8-1",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "03:15",
+    "home_event": "",
+    "score": "8-1",
+    "away_event": "Penalty on DEN DAVIS, Brody (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "GOAL by PC HORRIGAN, Jack (MAN-UP), Assist by CHAMBERS, Rhett, goal number 34 for season.",
+    "score": "9-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "",
+    "score": "9-1",
+    "away_event": "Faceoff COOPER, Jack vs LAIR, Braeden won by DEN, [02:58] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "GOAL by DEN TORTOLANI, Jack, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by DEN, [02:00] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Ground ball pickup by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by DEN CLARK, Daniel, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by DEN KELLY, Mic, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by DEN, [15:00] Ground ball pickup by DEN MALAWSKY, Cody."
+  },
+  {
+    "quarter": "3",
+    "time": "14:51",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by DEN MALAWSKY, Cody, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by DEN KELLY, Mic, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Ground ball pickup by DEN MANNING, Noah."
+  },
+  {
+    "quarter": "3",
+    "time": "13:54",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by DEN KELLY, Mic WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "GOAL by DEN MANNING, Noah, goal number 29 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by DEN, [13:31] Ground ball pickup by DEN TRUMBLE, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Ground ball pickup by DEN KLOKIW, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Turnover by DEN MALAWSKY, Cody (caused by DENNISON, Gregg)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:25",
+    "home_event": "Ground ball pickup by PC DENNISON, Gregg.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Shot by DEN TARABOLETTI, Joe WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "Penalty on PC METZGER, Dean (SLASHING/1:00) Extra-man opportunity.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by PC DONAHUE, Dan (caused by TORTOLANI, Jack).",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "9-3",
+    "away_event": "Ground ball pickup by DEN TORTOLANI, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "GOAL by DEN MALAWSKY, Cody (MAN-UP), Assist by TORTOLANI, Jack, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC, [11:17] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "30-second clock violation by PC.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by DEN CLARK, Daniel HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "08:44",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by DEN CLARK, Daniel WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:27",
+    "home_event": "Penalty on PC SMITH, Charlie (PUSHING/0:30) Extra-man opportunity.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:58",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by DEN KELLY, Mic WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Turnover by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "3",
+    "time": "07:34",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "Clear attempt by PC good.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:00",
+    "home_event": "Shot by PC HORRIGAN, Jack WIDE.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by PC HORRIGAN, Jack (caused by KELLY, Mic).",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:13",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Ground ball pickup by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "3",
+    "time": "05:52",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by DEN TARABOLETTI, Joe HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Ground ball pickup by PC SMITH, Charlie.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "Clear attempt by PC failed.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by PC DONAHUE, Dan.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:02",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by DEN MANNING, Noah, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "GOAL by DEN CARLSON, Joshua, Assist by CLARK, Daniel, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "Shot by PC WILKERSON, Jay WIDE.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "Shot by PC JOSEPH, Richie, SAVE KLEBAN, Malcolm.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Timeout by DEN."
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "GOAL by PC BELL, Ryan, goal number 13 for season.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by PC, [02:37] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by PC WILKERSON, Jay (caused by KLEBAN, Malcolm).",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "01:27",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by DEN CALDWELL, Chris (caused by BRAZELL, Sam)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:14",
+    "home_event": "Ground ball pickup by PC WILKERSON, Jay.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE KLEBAN, Malcolm.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by PC CHAMBERS, Rhett.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by PC CHAMBERS, Rhett (caused by CALDWELL, Chris).",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs KRAUS, Michael won by PC (on faceoff violation).",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:20",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Penalty on DEN KIRSCHKE, Blake (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "Shot by PC JOSEPH, Richie, SAVE KLEBAN, Malcolm.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "Ground ball pickup by PC CHAMBERS, Rhett.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC BRAZELL, Sam.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:48",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN FREEHILL, Jimmy."
+  },
+  {
+    "quarter": "4",
+    "time": "12:06",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN TORTOLANI, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by DEN TARABOLETTI, Joe."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "Ground ball pickup by PC OLENIK, Ian.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC MATIA, Chris.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:51",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "Timeout by PC.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by DEN TARABOLETTI, Joe (caused by FINETTO, Owen)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "Ground ball pickup by PC PANICCIA, Albert.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "Shot by PC DONAHUE, Dan WIDE.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:25",
+    "home_event": "Shot by PC CHAMBERS, Rhett WIDE.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "Shot by PC JOSEPH, Richie HIT POST.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC JOSEPH, Richie.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Shot by DEN CARLSON, Joshua WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by DEN KELLY, Mic."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Shot by PC DENNISON, Gregg WIDE.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Shot by PC WILKERSON, Jay, SAVE KLEBAN, Malcolm.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN KIRSCHKE, Blake."
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Turnover by DEN BARNETT, Colm (caused by METZGER, Dean)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "Ground ball pickup by PC METZGER, Dean.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC FLYNN, Tyler.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Ground ball pickup by DEN KIRSCHKE, Blake."
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "",
+    "score": "10-5",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "GOAL by DEN TZAGOURNIS, Marek, Assist by MALAWSKY, Cody, goal number 15 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs LAIR, Braeden won by PC.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by DEN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC WILKERSON, Jay (caused by DAVIS, Brody).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by DEN CALDWELL, Chris."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by DEN MALAWSKY, Cody, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by PC BRAZELL, Sam.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by DEN KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by DEN good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by DEN TZAGOURNIS, Marek WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by DEN TZAGOURNIS, Marek."
+  }
+]

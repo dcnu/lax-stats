@@ -1,0 +1,1717 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Sean Byrne at goalie for ARMY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Hugh Conrad at goalie for YALE."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [15:00] Ground ball pickup by ARMY Will Coletti.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "GOAL by ARMY Will Coletti (FIRST GOAL), goal number 1 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Will Coletti vs Machado Rodriguez won by YALE, [14:56] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by YALE Chris Lyons, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Ground ball pickup by ARMY Christian Mazur.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Turnover by ARMY Ryan Sellew.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by YALE Leo Johnson."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by YALE Leo Johnson HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by YALE Max Krevsky (caused by Keagan Treacy)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Ground ball pickup by ARMY Sean Byrne.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Shot by ARMY Brayden Fountain, SAVE Hugh Conrad.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by YALE Michael Alexander."
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by YALE David Anderson, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "Shot by ARMY Hill Plunkett, SAVE Hugh Conrad.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "Penalty on ARMY Grant Masterson (PUSHING/0:30) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by YALE William Sheehan, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "Ground ball pickup by ARMY AJ Pilate.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "Shot by ARMY Evan Plunkett WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by YALE Carson Kuhl."
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "Shot by ARMY Connor Hofauer, SAVE Hugh Conrad.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Ground ball pickup by ARMY Dylan D'Agostino.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "Shot by ARMY Dylan D'Agostino WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Gunnar Fellows, goal number 9 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [07:37] Ground ball pickup by ARMY Christian Fournier.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:47",
+    "home_event": "GOAL by ARMY Evan Plunkett, Assist by Brayden Fountain, goal number 3 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [06:43] Ground ball pickup by ARMY Will Coletti.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "GOAL by ARMY Grant Masterson, goal number 1 for season.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "Faceoff Will Coletti vs Nick Wehmeyer won by ARMY, [06:07] Ground ball pickup by ARMY Will Coletti.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "GOAL by ARMY Jackson Eicher, goal number 6 for season.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Timeout by YALE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [05:42] Ground ball pickup by ARMY Will Coletti.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "Shot by ARMY Evan Plunkett HIT POST.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "Ground ball pickup by ARMY AJ Pilate.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:19",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Hugh Conrad.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Turnover by YALE David Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "Ground ball pickup by ARMY Christian Mazur.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "Shot by ARMY Jackson Eicher WIDE.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Penalty on YALE Max Krevsky (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "GOAL by ARMY Gunnar Fellows (MAN-UP), Assist by Jackson Eicher, goal number 3 for season.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [02:13] Ground ball pickup by ARMY Will Coletti.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Hugh Conrad.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by YALE Patrick Pisano."
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "Ground ball pickup by ARMY Christian Fournier.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Ryan Nixon, goal number 10 for season.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "Faceoff Will Coletti vs Nick Wehmeyer won by ARMY, [01:35] Ground ball pickup by ARMY Will Coletti.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Turnover by ARMY Will Coletti (caused by Jack Stuzin).",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "7-0",
+    "away_event": "Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "GOAL by YALE Jack Stuzin, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Faceoff Will Coletti vs Nick Wehmeyer won by YALE, [01:14] Ground ball pickup by YALE Nick Wehmeyer."
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Max Krevsky WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Carson Kuhl, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Faceoff Will Coletti vs Nick Wehmeyer won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:11",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE David Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Brad Sharp, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "13:48",
+    "home_event": "Ground ball pickup by ARMY Sean Byrne.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "Shot by ARMY Gunnar Fellows HIT POST.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:28",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Tristan Ghosh."
+  },
+  {
+    "quarter": "2",
+    "time": "13:19",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:44",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Cole Cashion WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:29",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Turnover by YALE Peter Moynihan (caused by Ryan Nixon)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Hugh Conrad.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "Shot by ARMY Aiden Weisenborn WIDE.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:35",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Hugh Conrad."
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Konrad Miklaszewski."
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Johnny Keib, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "10:27",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Chris Lyons."
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Brad Sharp WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Leo Johnson, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:45",
+    "home_event": "Timeout by ARMY.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:28",
+    "home_event": "Turnover by ARMY Grant Masterson (caused by Tristan Ghosh).",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Christian Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Cole Cashion WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "Penalty on ARMY Ryan Nixon (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Shot by YALE Max Krevsky WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "Turnover by ARMY Sean Byrne.",
+    "score": "7-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:49",
+    "home_event": "",
+    "score": "7-1",
+    "away_event": "Ground ball pickup by YALE Max Krevsky."
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "GOAL by YALE William Sheehan (MAN-UP), Assist by Max Krevsky, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "Faceoff Robert Simone vs Nick Wehmeyer won by ARMY, [07:53] Ground ball pickup by ARMY Robert Simone.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Shot by ARMY Ryan Sellew WIDE.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "GOAL by ARMY Jackson Eicher, Assist by Evan Plunkett, goal number 7 for season.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Faceoff Will Coletti vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Shot by YALE David Anderson WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Shot by YALE Peter Moynihan, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "05:35",
+    "home_event": "Clear attempt by ARMY failed.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "Turnover by ARMY AJ Pilate.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:23",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Turnover by YALE Leo Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "04:47",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "Turnover by ARMY Billy Adams.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Shot by YALE Cole Cashion BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "04:12",
+    "home_event": "Penalty on ARMY Billy Adams (HOLDING/0:30) Extra-man opportunity.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:12",
+    "home_event": "Penalty on ARMY CJ Monturio (PUSHING/0:30).",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Turnover by YALE Johnny Keib."
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "Turnover by ARMY Evan Plunkett.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Turnover by YALE Jack Stuzin (caused by Gunnar Fellows)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "Ground ball pickup by ARMY Gunnar Fellows.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "GOAL by ARMY Gunnar Fellows, goal number 4 for season.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Faceoff Will Coletti vs Machado Rodriguez won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Shot by YALE Carson Kuhl BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:35",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "Shot by ARMY Gunnar Fellows WIDE.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Timeout by YALE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "GOAL by ARMY Evan Plunkett, goal number 4 for season.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Faceoff Robert Simone vs Machado Rodriguez won by YALE, [01:56] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by YALE Johnny Keib, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by YALE Johnny Keib, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Turnover by ARMY Gunnar Fellows (caused by Konrad Miklaszewski).",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Ground ball pickup by YALE Konrad Miklaszewski."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Faceoff Will Coletti vs Machado Rodriguez won by YALE, [15:00] Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "3",
+    "time": "14:43",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:12",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by YALE Brad Sharp WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "Penalty on ARMY AJ Pilate (SLASHING/1:00) Extra-man opportunity.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "Penalty on ARMY AJ Pilate (TRIPPING/1:00).",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by YALE Chris Lyons, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Ground ball pickup by YALE David Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "GOAL by YALE David Anderson (MAN-UP), goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Faceoff Will Coletti vs Machado Rodriguez won by YALE, [13:40] Ground ball pickup by YALE Machado Rodriguez."
+  },
+  {
+    "quarter": "3",
+    "time": "12:55",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Turnover by YALE Cole Cashion (caused by Christian Fournier)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:51",
+    "home_event": "Ground ball pickup by ARMY AJ Pilate.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Turnover by ARMY AJ Pilate.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Ground ball pickup by YALE Patrick Pisano."
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by YALE Johnny Keib BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:59",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Ground ball pickup by YALE Chris Lyons."
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by YALE Carson Kuhl, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:26",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Penalty on YALE Patrick Pisano (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "Shot by ARMY Aiden Weisenborn, SAVE Hugh Conrad.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:02",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Turnover by YALE Tristan Ghosh (caused by Brayden Fountain)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:55",
+    "home_event": "Turnover by ARMY Brayden Fountain (caused by Hugh Conrad).",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Ground ball pickup by YALE Hugh Conrad."
+  },
+  {
+    "quarter": "3",
+    "time": "09:45",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:12",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by YALE David Anderson, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:26",
+    "home_event": "Shot by ARMY Gunnar Fellows WIDE.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "Ground ball pickup by ARMY Christian Mazur.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Jackson Eicher, goal number 11 for season.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY, [08:01] Ground ball pickup by ARMY Will Coletti.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:47",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "Shot by ARMY Brayden Fountain WIDE.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:10",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Hugh Conrad.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:01",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:15",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Shot by YALE Brad Sharp WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Ground ball pickup by YALE Carson Kuhl."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Shot by YALE Carson Kuhl HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "GOAL by ARMY Finn McCullough, goal number 2 for season.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY (on faceoff violation).",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:39",
+    "home_event": "Timeout by ARMY.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:00",
+    "home_event": "Shot by ARMY Evan Plunkett WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:49",
+    "home_event": "Shot by ARMY Aiden Weisenborn HIGH.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "Turnover by ARMY Brayden Fountain (caused by Michael Alexander).",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:35",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by YALE Michael Alexander."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by YALE Max Krevsky, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "Shot by ARMY John Manero, SAVE Hugh Conrad.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by YALE Johnny Keib, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Turnover by ARMY Jackson Eicher.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by YALE Patrick Pisano."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE Patrick Pisano (caused by Christian Fournier)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Will Coletti vs Machado Rodriguez won by ARMY (on faceoff violation).",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "Shot by ARMY Jackson Eicher HIT POST.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:54",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "Shot by ARMY Brayden Fountain BLOCKED.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by YALE Tristan Ghosh."
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE Carson Kuhl (caused by Ryan Nixon)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:51",
+    "home_event": "Ground ball pickup by ARMY Christian Fournier.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:49",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "Shot by ARMY Aiden Weisenborn, SAVE Hugh Conrad.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:19",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE David Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "11:08",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "Ground ball pickup by ARMY Aiden Weisenborn.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "Shot clock violation by ARMY.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:42",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:13",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE Max Krevsky (caused by CJ Monturio)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "Ground ball pickup by ARMY CJ Monturio.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "Shot by ARMY CJ Monturio WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "Shot by ARMY Jackson Eicher WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "Shot clock violation by ARMY.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE Patrick Pisano (caused by Christian Fournier)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:51",
+    "home_event": "Ground ball pickup by ARMY Christian Mazur.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "Shot by ARMY Gunnar Fellows, SAVE Hugh Conrad.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:31",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by YALE Cole Cashion (caused by Christian Fournier)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "Ground ball pickup by ARMY John Sullivan.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "GOAL by ARMY Gunnar Fellows, goal number 5 for season.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Faceoff Will Coletti vs Nick Wehmeyer won by YALE (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Turnover by YALE Max Krevsky."
+  },
+  {
+    "quarter": "4",
+    "time": "04:43",
+    "home_event": "Turnover by ARMY Jackson Eicher (caused by Jack Stuzin).",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:39",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Ground ball pickup by YALE Jack Stuzin."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Shot by YALE Peter Moynihan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Turnover by YALE Connor Gately (caused by Ryan Nixon)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "Clear attempt by ARMY failed.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:23",
+    "home_event": "Turnover by ARMY Sean Byrne.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:17",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Clear attempt by YALE good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:34",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Shot by YALE Max Krevsky, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "Evan Richardson at goalie for ARMY.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Penalty on YALE Hugh Conrad (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "",
+    "score": "13-3",
+    "away_event": "Jared Paquette at goalie for YALE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "GOAL by ARMY Hill Plunkett (MAN-UP), goal number 3 for season.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Hugh Conrad at goalie for YALE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Faceoff Robert Simone vs Nick Wehmeyer won by ARMY, [01:51] Ground ball pickup by ARMY Finn McCullough.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "Shot by ARMY Mike Harney, SAVE Hugh Conrad.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Penalty on YALE Patrick Pisano (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Penalty on YALE Luke Michalik (ILLEGAL BODY CHECK/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Penalty on YALE Hugh Conrad (TRIPPING/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Jared Paquette at goalie for YALE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "Shot clock violation by ARMY.",
+    "score": "14-3",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Long, John at goalie for HC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "DONAHUE, Dan at goalie for PC."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by HC (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "GOAL by HC Messineo, Will (FIRST GOAL), Assist by Tunney, Owen.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "Faceoff Attell, Harry vs LISTON, Spencer won by HC, [14:24] Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "Shot by HC Messineo, Will HIGH.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "Ground ball pickup by HC Lynch, Jude.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "GOAL by HC Mitchell, John, Assist by Lynch, Jude.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [13:23] Ground ball pickup by PC FINETTO, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by PC BELL, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "Ground ball pickup by HC Botek, Ryan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "Shot by HC Messineo, Will, SAVE DONAHUE, Dan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by PC CARROLL, Frankie."
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by PC CARROLL, Frankie."
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "Shot by HC Duley, Jon-Luke WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by PC FLISS, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "Penalty on HC Hubler, Max (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by PC HORRIGAN, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by PC MCALEAVEY, Patrick, SAVE Long, John."
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by PC HORRIGAN, Jack, Assist by DALE, Ben."
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC."
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by PC JASKIEWICZ, Chris, SAVE Long, John."
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Ground ball pickup by HC Franklin, Jaydon.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Turnover by HC Deo, Will (caused by CARROLL, Frankie).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by PC CARROLL, Frankie."
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by PC KENNEDY, Parker WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "Turnover by HC.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by PC DENNISON, Gregg."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by PC CHAMBERS, Rhett."
+  },
+  {
+    "quarter": "1",
+    "time": "05:37",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "Turnover by HC Doran, Jake.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "Timeout by HC.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:27",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [04:46] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [04:41] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by PC JOSEPH, Richie WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "Turnover by HC Rincon, Michael.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by PC BELL, Ryan (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by HC Fallon, Cooper.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Turnover by HC Tunney, Owen.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by PC HORRIGAN, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by PC MCALEAVEY, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by PC JOSEPH, Richie."
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by HC (on faceoff violation).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "GOAL by HC Russler, William.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "Faceoff Attell, Harry vs LISTON, Spencer won by HC, [00:13] Ground ball pickup by HC Fallon, Cooper.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Turnover by HC Fallon, Cooper (caused by LISTON, Spencer).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by PC BELL, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [15:00] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "2",
+    "time": "14:07",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by PC DALE, Ben."
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "Ground ball pickup by HC Long, John.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "Shot by HC Tunney, Owen HIGH.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "Turnover by HC Messineo, Will.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:28",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:43",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by PC HORRIGAN, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by PC MATIA, Chris WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:14",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by PC BELL, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [11:13] Ground ball pickup by PC SPAZIANO, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by PC HORRIGAN, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by PC JASKIEWICZ, Chris."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by PC BELL, Ryan, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "Turnover by HC Ottomanelli, Andrew.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by PC CHAMBERS, Rhett, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by HC, [09:21] Ground ball pickup by HC Jenkins, Julian.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:38",
+    "home_event": "Shot by HC Deo, Will, SAVE DONAHUE, Dan.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:08",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by PC CHAMBERS, Rhett (caused by Fallon, Cooper)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "Turnover by HC Tunney, Owen.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by PC BELL, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "07:43",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by PC CARROLL, Frankie HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "GOAL by PC JOSEPH, Richie."
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "Timeout by HC.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by HC (on faceoff violation).",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "GOAL by HC Messineo, Will.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "Faceoff Ouhrabka, Gavin vs LISTON, Spencer won by HC, [06:31] Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "Shot by HC Mitchell, John, SAVE DONAHUE, Dan.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:40",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by PC HORRIGAN, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC FLYNN, Tyler (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:18",
+    "home_event": "Clear attempt by HC good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "Turnover by HC Mitchell, John (caused by PANICCIA, Albert).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:49",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by PC PANICCIA, Albert."
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC PANICCIA, Albert (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:40",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE DONAHUE, Dan.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by PC METZGER, Dean."
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by PC BELL, Ryan, SAVE Long, John."
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:25",
+    "home_event": "Clear attempt by HC good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "Turnover by HC McDonald, Sam.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by PC DALE, Ben."
+  },
+  {
+    "quarter": "2",
+    "time": "01:45",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC DONAHUE, Dan (caused by Mitchell, John)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:36",
+    "home_event": "Ground ball pickup by HC Mitchell, John.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by PC DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Penalty on PC DENNISON, Gregg (MAJOR/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC DENNISON, Gregg."
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "Shot by HC Lynch, Jude, SAVE DONAHUE, Dan.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC DONAHUE, Dan (caused by Ottomanelli, Andrew)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:30",
+    "home_event": "Shot by HC Messineo, Will WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:25",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by PC DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:25",
+    "home_event": "GOAL by HC Ottomanelli, Andrew, Assist by Mitchell, John.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:25",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [14:25] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "3",
+    "time": "13:20",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by PC HORRIGAN, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "13:12",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "Shot by HC Botek, Ryan, SAVE DONAHUE, Dan.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:17",
+    "home_event": "Turnover by HC Botek, Ryan (caused by OLENIK, Ian).",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by PC BELL, Ryan, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by PC HORRIGAN, Jack, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [12:14] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by PC BELL, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:06",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by PC BRAZELL, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "11:06",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [11:06] Ground ball pickup by PC PANICCIA, Albert."
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:47",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by PC JOSEPH, Richie."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "Ground ball pickup by HC Hubler, Max.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:28",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "Ground ball pickup by HC McDonald, Sam.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "Shot by HC Tunney, Owen HIGH.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:26",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:39",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by PC JOSEPH, Richie, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:57",
+    "home_event": "Shot by HC Webster, Bo, SAVE DONAHUE, Dan.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:54",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by PC METZGER, Dean."
+  },
+  {
+    "quarter": "3",
+    "time": "06:40",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by PC HORRIGAN, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by PC HORRIGAN, Jack, Assist by DALE, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [05:45] Ground ball pickup by PC PANICCIA, Albert."
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by PC BISBEE, Hunter BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [04:30] Ground ball pickup by PC FLISS, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "04:13",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PC FLISS, Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:25",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PC FLYNN, Tyler HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by PC MCALEAVEY, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PC KENNEDY, Parker, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "03:16",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:11",
+    "home_event": "Turnover by HC Long, John.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by PC METZGER, Dean."
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PC FLYNN, Tyler, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "02:35",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by PC MCALEAVEY, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by PC HORRIGAN, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "Timeout by HC.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:44",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "01:44",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [01:44] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "3",
+    "time": "00:52",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by PC WILKERSON, Jay, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "00:35",
+    "home_event": "Ground ball pickup by HC Long, John.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:33",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:27",
+    "home_event": "Turnover by HC Rincon, Michael.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff Attell, Harry vs MCCONNAUGHEY, Quinn won by PC, [15:00] Ground ball pickup by PC FLISS, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by PC KENNEDY, Parker, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "Ground ball pickup by HC Franklin, Jaydon.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:52",
+    "home_event": "Turnover by HC Franklin, Jaydon.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by PC KENNEDY, Parker, Assist by HORRIGAN, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Ouhrabka, Gavin vs MCCONNAUGHEY, Quinn won by PC, [13:50] Ground ball pickup by PC MCCONNAUGHEY, Quinn."
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC JOSEPH, Richie, SAVE Long, John {shot from close left wing}."
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "Turnover by HC Russler, William.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:21",
+    "home_event": "Turnover by HC.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC BRAZELL, Sam, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by PC HORRIGAN, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC DALE, Ben, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "11:23",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC HORRIGAN, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "Ground ball pickup by HC Long, John.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:17",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Turnover by HC Shoemaker, Luke.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by PC CARROLL, Frankie."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC HORRIGAN, Jack WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "Shot by HC Messineo, Will, SAVE DONAHUE, Dan.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:42",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:34",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by PC DONAHUE, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "Ground ball pickup by HC Botek, Ryan.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE DONAHUE, Dan.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by PC JOSEPH, Richie."
+  },
+  {
+    "quarter": "4",
+    "time": "07:46",
+    "home_event": "Penalty on HC Duley, Jon-Luke (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:24",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by PC MCALEAVEY, Patrick, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by PC MCALEAVEY, Patrick, Assist by BELL, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "PERRY, Eddy at goalie for PC."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff Larson, Owen vs COOPER, Jack won by PC, [07:13] Ground ball pickup by PC PANICCIA, Albert."
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by PC BISBEE, Hunter, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "06:10",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by PC JASKIEWICZ, Chris WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by PC FERARRO, Will, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "Ground ball pickup by HC Duley, Jon-Luke.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE PERRY, Eddy.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by HC Lynch, Jude.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "GOAL by HC Lynch, Jude, Assist by Sheehan, Henry.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "Faceoff Larson, Owen vs COOPER, Jack won by HC (on faceoff violation).",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "Shot by HC Russler, William WIDE.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "GOAL by HC Ottomanelli, Andrew.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "Faceoff Larson, Owen vs COOPER, Jack won by HC, [03:25] Ground ball pickup by HC Larson, Owen.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "GOAL by HC Duley, Jon-Luke.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Faceoff Larson, Owen vs COOPER, Jack won by PC (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Turnover by PC MARKOWSKI, Stephen (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:37",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "Turnover by HC Jenkins, Julian.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Clear attempt by PC good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Shot by PC MATIA, Chris, SAVE Long, John."
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "Clear attempt by HC good.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:10",
+    "home_event": "Turnover by HC Russler, William.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Ground ball pickup by PC COUTU, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "01:02",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Clear attempt by PC failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Turnover by PC COUTU, Jackson."
+  },
+  {
+    "quarter": "4",
+    "time": "00:47",
+    "home_event": "Clear attempt by HC good.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Shot by HC Webster, Bo, SAVE PERRY, Eddy.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Ground ball pickup by PC BOURGET, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Ground ball pickup by PC MEOLA, Luca."
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Clear attempt by PC good."
+  }
+]

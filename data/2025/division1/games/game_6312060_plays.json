@@ -1,0 +1,1787 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "YI, Nate at goalie for WAGNER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Tyler Moritzen at goalie for MERCYHUR."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER CALLAGHAN, Smith.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "Ground ball pickup by WAGNER SABIA, Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:39",
+    "home_event": "Shot by WAGNER SIEB, Ethan, SAVE Tyler Moritzen.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "Shot by WAGNER CALLAGHAN, Smith WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "Shot by WAGNER SIEB, Ethan HIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER SIEB, Ethan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MERCYHUR Colin Tardif (FIRST GOAL), Assist by Chase Petschke."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [10:57] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER MERCADO, Daniel (caused by Charlie Gleason).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb, Assist by Antonio Rossetti."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [10:15] Ground ball pickup by WAGNER BEAMER,SAM.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER BEAMER,SAM (caused by Charlie Gleason).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by MERCYHUR Colin Tardif (caused by KROSS, Nico)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "Clear attempt by WAGNER failed.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER BEAMER,SAM.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MERCYHUR Colin Tardif, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [07:11] Ground ball pickup by WAGNER MUCHINEUTA, Ian.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean (caused by Drew Pagano).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by MERCYHUR Jackson Saulpaugh."
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "Ground ball pickup by WAGNER BEAMER,SAM.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "GOAL by WAGNER MITCHELL, Jake.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [05:08] Ground ball pickup by MERCYHUR Andrew Vetter."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by MERCYHUR Andrew Vetter (caused by MERCADO, Daniel)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "Ground ball pickup by WAGNER MUCHINEUTA, Ian.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "GOAL by WAGNER CALDWELL,PATRICK, Assist by MITCHELL, Jake.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [04:26] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "Ground ball pickup by WAGNER CALDWELL,PATRICK.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "Shot by WAGNER MITCHELL, Jake WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "30-second clock violation by WAGNER.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by MERCYHUR Chase Petschke."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [02:21] Ground ball pickup by MERCYHUR Andrew Vetter."
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [01:17] Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Penalty on MERCYHUR Jeremi Phoenix-Lefeb (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "GOAL by WAGNER SANCHEZ, Sean (MAN-UP), Assist by CALDWELL,PATRICK.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [00:59] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "Shot by WAGNER MERCADO, Daniel WIDE.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Shot by WAGNER MITCHELL, Jake HIGH.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Penalty on MERCYHUR Jackson Saulpaugh (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:42",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK BLOCKED.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK WIDE.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "30-second clock violation by WAGNER.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by WAGNER CALDWELL,PATRICK (caused by Cooper Joyce).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:13",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by MERCYHUR Ben Schellinger."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by MERCYHUR Ben Schellinger (caused by CALDWELL,PATRICK)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "Ground ball pickup by WAGNER CALDWELL,PATRICK.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "GOAL by WAGNER SANCHEZ, Sean, Assist by CALDWELL,PATRICK.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [12:07] Ground ball pickup by WAGNER HOKE, Quin.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by WAGNER KROSS, Nico (caused by Brice Beetow).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:52",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MERCYHUR Jackson Saulpaugh."
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Colin Tardif, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "11:41",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by WAGNER SANCHEZ, Sean.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MERCYHUR Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "11:24",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Chase Petschke HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "10:25",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Timeout by WAGNER.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:06",
+    "home_event": "Shot by WAGNER MITCHELL, Jake, SAVE Tyler Moritzen.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:59",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by MERCYHUR Colin Tardif."
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "Ground ball pickup by WAGNER YI, Nate.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:51",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:11",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK, SAVE Tyler Moritzen.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "2",
+    "time": "07:52",
+    "home_event": "Ground ball pickup by WAGNER CALLAGHAN, Smith.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "GOAL by WAGNER CALDWELL,PATRICK.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [07:00] Ground ball pickup by MERCYHUR Andrew Vetter."
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "05:58",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:30",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean, SAVE Tyler Moritzen.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:26",
+    "home_event": "Ground ball pickup by WAGNER MITCHELL, Jake.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "GOAL by WAGNER SIEB, Ethan.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER (on faceoff violation).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by WAGNER MITCHELL, Jake (caused by Drew Pagano).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:15",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Penalty on WAGNER BEAMER,SAM (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by MERCYHUR Rob Madden."
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Timeout by MERCYHUR."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney, SAVE YI, Nate."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "2",
+    "time": "01:59",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb HIT CROSSBAR."
+  },
+  {
+    "quarter": "2",
+    "time": "01:25",
+    "home_event": "Ground ball pickup by WAGNER KROSS, Nico.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "Timeout by WAGNER.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:32",
+    "home_event": "GOAL by WAGNER CALDWELL,PATRICK, Assist by MITCHELL, Jake.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:32",
+    "home_event": "Faceoff MERCADO, Daniel vs Jimmy Neal won by WAGNER, [00:32] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK, SAVE Tyler Moritzen.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [15:00] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Jaret Jawor at goalie for MERCYHUR."
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "GOAL by WAGNER MITCHELL, Jake.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [13:40] Ground ball pickup by MERCYHUR Andrew Vetter."
+  },
+  {
+    "quarter": "3",
+    "time": "13:25",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by MERCYHUR Charlie Gleason."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Turnover by MERCYHUR Charlie Gleason."
+  },
+  {
+    "quarter": "3",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by WAGNER MUCHINEUTA, Ian.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:00",
+    "home_event": "Shot by WAGNER SIEB, Ethan, SAVE Jaret Jawor.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "3",
+    "time": "12:30",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by MERCYHUR Colin Tardif."
+  },
+  {
+    "quarter": "3",
+    "time": "11:50",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by MERCYHUR Ethan Landymore WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "GOAL by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [11:44] Ground ball pickup by WAGNER MUCHINEUTA, Ian.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "Ground ball pickup by WAGNER SIEB, Ethan.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "GOAL by WAGNER SIEB, Ethan.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [10:27] Ground ball pickup by MERCYHUR Andrew Vetter."
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:20",
+    "home_event": "Penalty on WAGNER YOSHIOKA, Cole (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore (MAN-UP), Assist by Antonio Rossetti."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [08:39] Ground ball pickup by MERCYHUR Adam Oscarson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE YI, Nate."
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "Shot by WAGNER MITCHELL, Jake, SAVE Jaret Jawor.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:36",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Turnover by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK, SAVE Jaret Jawor.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean WIDE.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by WAGNER SIEB, Ethan (caused by Charlie Gleason).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by MERCYHUR Charlie Gleason."
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by MERCYHUR Adam Oscarson HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Turnover by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "Ground ball pickup by WAGNER JULICH, Conor.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by WAGNER MITCHELL, Jake.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "3",
+    "time": "04:16",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Turnover by MERCYHUR Chase Petschke."
+  },
+  {
+    "quarter": "3",
+    "time": "03:15",
+    "home_event": "Ground ball pickup by WAGNER YI, Nate.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "Ground ball pickup by WAGNER CALDWELL,PATRICK.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "GOAL by WAGNER SIEB, Ethan, Assist by MITCHELL, Jake.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [02:30] Ground ball pickup by WAGNER KROSS, Nico.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "Ground ball pickup by WAGNER CALLAGHAN, Smith.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "Shot by WAGNER SIEB, Ethan WIDE.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:10",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Penalty on MERCYHUR Brice Beetow (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Shot by WAGNER MCMAHON, Danny, SAVE Jaret Jawor.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:23",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by MERCYHUR Jaret Jawor."
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "Ground ball pickup by WAGNER CALDWELL,PATRICK.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by MERCYHUR Elias Harless (caused by YOSHIOKA, Cole)."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by WAGNER MCMAHON, Danny (caused by Ben Schellinger).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by MERCYHUR Adam Oscarson."
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "GOAL by MERCYHUR Chase Petschke."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [13:21] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "GOAL by WAGNER MERCADO, Daniel.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [13:19] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:08",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by WAGNER CALDWELL,PATRICK.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:54",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Ground ball pickup by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:29",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "GOAL by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "4",
+    "time": "11:29",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [11:29] Ground ball pickup by WAGNER SABIA, Colin.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by WAGNER SABIA, Colin (caused by Charlie Gleason).",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:48",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb, Assist by Colin Tardif."
+  },
+  {
+    "quarter": "4",
+    "time": "10:48",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR, [10:48] Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb, SAVE YI, Nate."
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "Shot by WAGNER SIEB, Ethan, SAVE Jaret Jawor.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:17",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti, SAVE YI, Nate."
+  },
+  {
+    "quarter": "4",
+    "time": "08:05",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "Shot by WAGNER SIEB, Ethan, SAVE Jaret Jawor.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Ethan Landymore BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "06:10",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Chase Petschke, SAVE YI, Nate."
+  },
+  {
+    "quarter": "4",
+    "time": "06:04",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "Timeout by WAGNER.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "Shot by WAGNER MITCHELL, Jake HIGH.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:00",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK, SAVE Jaret Jawor.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:45",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:57",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Ground ball pickup by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Turnover by MERCYHUR Jeremi Phoenix-Lefeb (caused by MCMAHON, Tristan)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "Ground ball pickup by WAGNER MCMAHON, Tristan.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:42",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by WAGNER MITCHELL, Jake (caused by Drew Pagano).",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Timeout by MERCYHUR."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Turnover by MERCYHUR Colin Tardif (caused by HOKE, Quin)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "Ground ball pickup by WAGNER HOKE, Quin.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "Ground ball pickup by WAGNER HOKE, Quin.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "Shot by WAGNER MITCHELL, Jake, SAVE Jaret Jawor.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "Timeout by WAGNER.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by MERCYHUR Colin Tardif WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "GOAL by MERCYHUR Colin Tardif, Assist by Ryan Mahoney."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "Faceoff MERCADO, Daniel vs Drew Pagano won by WAGNER, [00:11] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by WAGNER MERCADO, Daniel (caused by Brenton Paladino).",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by WAGNER, [04:00] Ground ball pickup by WAGNER MERCADO, Daniel.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "Timeout by WAGNER.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "Shot by WAGNER CALDWELL,PATRICK WIDE.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "Shot by WAGNER SANCHEZ, Sean, SAVE Jaret Jawor.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Turnover by MERCYHUR Drew Pagano (caused by SANCHEZ, Sean)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "Ground ball pickup by WAGNER SANCHEZ, Sean.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER MCMAHON, Danny (caused by Jaret Jawor).",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by MERCYHUR Jaret Jawor."
+  },
+  {
+    "quarter": "1",
+    "time": "02:03",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Timeout by MERCYHUR."
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "Ground ball pickup by WAGNER BEAMER,SAM.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by WAGNER BEAMER,SAM (caused by Ethan Landymore).",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti, SAVE YI, Nate."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Turnover by MERCYHUR Jeremi Phoenix-Lefeb (caused by MCMAHON, Tristan)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Faceoff MERCADO, Daniel vs Andrew Vetter won by MERCYHUR (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:40",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney HIT CROSSBAR."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Turnover by MERCYHUR Colin Tardif."
+  },
+  {
+    "quarter": "2",
+    "time": "02:49",
+    "home_event": "Clear attempt by WAGNER good.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:39",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by MERCYHUR Jaret Jawor."
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "",
+    "score": "11-12",
+    "away_event": "GOAL by MERCYHUR Chase Petschke."
+  }
+]

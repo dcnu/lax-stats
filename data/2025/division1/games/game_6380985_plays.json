@@ -1,0 +1,1913 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "DONAHUE, Dan at goalie for PC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "FARGIONE, Denis at goalie for VU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by VU LICATA, Matt (caused by PANICCIA, Albert)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "Clear attempt by PC good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "GOAL by PC JOSEPH, Richie (FIRST GOAL), goal number 34 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff COOPER, Jack vs SANDOVAL, Tyler won by VU, [13:59] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by VU LUCCHESI, Nick (caused by FLISS, Luke)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "Ground ball pickup by PC FLISS, Luke.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "Clear attempt by PC good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan, goal number 35 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU, [13:30] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by VU LICATA, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE FARGIONE, Denis.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:29",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Penalty on VU WILLIAMS, Luke (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Shot by PC BRAZELL, Sam, SAVE FARGIONE, Denis.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Turnover by PC CHAMBERS, Rhett.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by VU AHEARN, Aidan (caused by BRAZELL, Sam)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "Ground ball pickup by PC CHAMBERS, Rhett.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "Shot by PC BELL, Ryan WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "Shot by PC CHAMBERS, Rhett, SAVE FARGIONE, Denis.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "GOAL by PC JOSEPH, Richie, goal number 36 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by VU LUCCHESI, Nick, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "Faceoff COOPER, Jack vs SANDOVAL, Tyler won by PC, [09:24] Ground ball pickup by PC COOPER, Jack.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "Turnover by PC FLISS, Luke (caused by WELGOS, Ryan).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by VU LICATA, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "Clear attempt by PC good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "GOAL by PC WILKERSON, Jay, goal number 11 for season.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff COOPER, Jack vs SANDOVAL, Tyler won by VU, [07:40] Ground ball pickup by VU SANDOVAL, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Turnover by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "Shot by PC JASKIEWICZ, Chris BLOCKED.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by PC JASKIEWICZ, Chris.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "GOAL by PC JASKIEWICZ, Chris, goal number 4 for season.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Faceoff COOPER, Jack vs GLOMB, George won by VU, [06:46] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "06:22",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by VU FARGIONE, Denis (caused by CARROLL, Frankie)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "Ground ball pickup by PC PANICCIA, Albert.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "Turnover by PC PANICCIA, Albert (caused by MELCHIONNI, Jake).",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by VU LINK, David."
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by VU MACKIE, Scot WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by VU LUCCHESI, Nick BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "Penalty on PC CARROLL, Frankie (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by VU MICHENER, Colin, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by VU RAYMOND, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "GOAL by VU RAYMOND, Luke (MAN-UP), goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Faceoff COOPER, Jack vs SANDOVAL, Tyler won by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Turnover by VU MARTIN, Dan (caused by FINETTO, Owen)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "Ground ball pickup by PC FLISS, Luke.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "Clear attempt by PC good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "Shot by PC CHAMBERS, Rhett WIDE.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "GOAL by PC HORRIGAN, Jack, Assist by JOSEPH, Richie, goal number 42 for season.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU, [03:18] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Shot by VU LINK, David WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "GOAL by VU RAYMOND, Luke, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU, [02:12] Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by VU LINK, David."
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "Penalty on PC FINETTO, Owen (ILLEGAL BODY CHECK/2:00) Extra-man opportunity(2).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by VU MICHENER, Colin (MAN-UP), Assist by RAYMOND, Luke, goal number 24 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by PC, [01:39] Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "Timeout by PC.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "Turnover by PC BELL, Ryan (caused by KEMLER, Beau).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by VU MELCHIONNI, Jake, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "Turnover by PC BELL, Ryan (caused by SHOEMAKER, Jack).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by VU MARTIN, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by VU MARTIN, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "Clear attempt by PC good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "Shot by PC CARROLL, Frankie WIDE.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Penalty on VU MARTIN, Dan (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by VU NEWTON, Lucas, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff COOPER, Jack vs GLOMB, George won by VU."
+  },
+  {
+    "quarter": "2",
+    "time": "13:46",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:19",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by VU RAYMOND, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Turnover by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "Shot by PC DONAHUE, Dan WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "Clear attempt by PC good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:26",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by VU MARTIN, Dan, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "Clear attempt by PC failed.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Turnover by PC PANICCIA, Albert.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:58",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by VU LICATA, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by VU LICATA, Matt, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:43",
+    "home_event": "Clear attempt by PC good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "GOAL by PC WILKERSON, Jay, goal number 12 for season.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU, [10:48] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "2",
+    "time": "10:10",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VU SWIRBALUS, Matthew WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:07",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "Clear attempt by PC good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "Ground ball pickup by PC CHAMBERS, Rhett.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "Shot by PC MATIA, Chris, SAVE FARGIONE, Denis.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by VU MARTIN, Dan, Assist by SWIRBALUS, Matthew, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [08:27] Ground ball pickup by PC CARROLL, Frankie.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:07",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Penalty on VU MACKIE, Scot (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "Shot by PC HORRIGAN, Jack HIGH.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:23",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by VU RAYMOND, Luke WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:36",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by VU SWIRBALUS, Matthew, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "Ground ball pickup by PC OLENIK, Ian.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Clear attempt by PC good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "Shot by PC BELL, Ryan WIDE.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "Ground ball pickup by PC JOSEPH, Richie.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "Timeout by PC.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE FARGIONE, Denis.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:47",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by VU NEWTON, Lucas HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "04:38",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "04:35",
+    "home_event": "Ground ball pickup by PC PANICCIA, Albert.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Clear attempt by PC good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "GOAL by PC METZGER, Dean, goal number 1 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by PC, [04:30] Ground ball pickup by PC FLISS, Luke.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "Turnover by PC JOSEPH, Richie (caused by MELCHIONNI, Jake).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:11",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by VU BOES, Tyler, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:11",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [03:11] Ground ball pickup by PC PANICCIA, Albert.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by VU MICHENER, Colin (caused by SMITH, Charlie)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "Ground ball pickup by PC SMITH, Charlie.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:43",
+    "home_event": "Clear attempt by PC good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Turnover by PC WILKERSON, Jay (caused by HEWITT, Peter).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:58",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU HEWITT, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "00:47",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:38",
+    "home_event": "Clear attempt by PC failed.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:37",
+    "home_event": "Turnover by PC DONAHUE, Dan.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU HEWITT, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "00:32",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by VU HEWITT, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "00:29",
+    "home_event": "Ground ball pickup by PC DENNISON, Gregg.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by VU SHOEMAKER, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Penalty on VU SHOEMAKER, Jack (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "14:47",
+    "home_event": "Shot by PC CHAMBERS, Rhett HIGH.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:17",
+    "home_event": "Turnover by PC BELL, Ryan.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:14",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:19",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "13:16",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by VU NEWTON, Lucas, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "Clear attempt by PC good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "Shot by PC HORRIGAN, Jack, SAVE FARGIONE, Denis.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "12:48",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by VU SWIRBALUS, Matthew, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU, [12:00] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Turnover by VU MACKIE, Scot (caused by OLENIK, Ian)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:49",
+    "home_event": "Ground ball pickup by PC OLENIK, Ian.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "Shot by PC JOSEPH, Richie, SAVE FARGIONE, Denis.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by VU SWIRBALUS, Matthew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "GOAL by VU LICATA, Matt, goal number 24 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [10:37] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:01",
+    "home_event": "Shot by PC HORRIGAN, Jack WIDE.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:52",
+    "home_event": "Turnover by PC JOSEPH, Richie.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VU MICHENER, Colin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:37",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VU WILLIAMS, Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:37",
+    "home_event": "Penalty on PC SMITH, Charlie (PUSHING/0:30) Extra-man opportunity.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VU BOES, Tyler BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:12",
+    "home_event": "Clear attempt by PC good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "Shot by PC JOSEPH, Richie, SAVE FARGIONE, Denis.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "Ground ball pickup by PC BELL, Ryan.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:25",
+    "home_event": "Shot by PC HORRIGAN, Jack BLOCKED.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:17",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "Penalty on PC FINETTO, Owen (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VU RAYMOND, Luke, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Turnover by PC.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "GOAL by VU LICATA, Matt (MAN-UP), Assist by RAYMOND, Luke, goal number 25 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by PC (on faceoff violation).",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Shot by PC JOSEPH, Richie BLOCKED.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "Shot by PC JOSEPH, Richie, SAVE FARGIONE, Denis.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by VU WILLIAMS, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "04:42",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by VU NEWTON, Lucas, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Ground ball pickup by PC DENNISON, Gregg.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "Clear attempt by PC failed.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "Turnover by PC SIMONTON, Chris (caused by KEMLER, Beau).",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by VU KEMLER, Beau."
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by VU MICHENER, Colin HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:13",
+    "home_event": "Penalty on PC BRAZELL, Sam (HOLDING/0:30) Extra-man opportunity.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "GOAL by VU MICHENER, Colin (MAN-UP), Assist by LICATA, Matt, goal number 25 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [01:59] Ground ball pickup by PC FINETTO, Owen.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "Turnover by PC FINETTO, Owen (caused by MELCHIONNI, Jake).",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by VU MELCHIONNI, Jake."
+  },
+  {
+    "quarter": "3",
+    "time": "01:08",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by VU LICATA, Matt, goal number 26 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:08",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by VU WILLIAMS, Luke, Assist by NEWTON, Lucas, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by PC, [00:05] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU, [15:00] Ground ball pickup by VU CEPIEL, Quinton."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Turnover by VU MICHENER, Colin."
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "Shot by PC DENNISON, Gregg WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Clear attempt by PC good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "Shot by PC CHAMBERS, Rhett, SAVE FARGIONE, Denis.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "Ground ball pickup by PC HORRIGAN, Jack.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "GOAL by PC BELL, Ryan, goal number 16 for season.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU, [13:33] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Turnover by VU GLOMB, George."
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by PC HORRIGAN, Jack.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "GOAL by PC JOSEPH, Richie, Assist by BELL, Ryan, goal number 37 for season.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "Penalty on PC JOSEPH, Richie (UNNECESSARY ROUGHNESS/1:00).",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Penalty on VU FARGIONE, Denis (UNNECESSARY ROUGHNESS/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "WILSON, Anthony at goalie for VU."
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [12:28] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:22",
+    "home_event": "Turnover by PC MCCONNAUGHEY, Quinn.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:16",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by VU WILSON, Anthony."
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "FARGIONE, Denis at goalie for VU."
+  },
+  {
+    "quarter": "4",
+    "time": "11:21",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Shot by VU MARTIN, Dan BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by VU CEPIEL, Quinton."
+  },
+  {
+    "quarter": "4",
+    "time": "11:07",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Turnover by VU LICATA, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "10:47",
+    "home_event": "Clear attempt by PC good.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "GOAL by PC BELL, Ryan, Assist by BRAZELL, Sam, goal number 17 for season.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "GOAL by VU RAYMOND, Luke, Assist by NEWTON, Lucas, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "Faceoff COOPER, Jack vs GLOMB, George won by VU, [09:39] Ground ball pickup by VU GLOMB, George."
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "",
+    "score": "11-14",
+    "away_event": "Shot by VU NEWTON, Lucas, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "Clear attempt by PC good.",
+    "score": "11-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "GOAL by PC BRAZELL, Sam, Assist by SMITH, Charlie, goal number 11 for season.",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by PC, [08:44] Ground ball pickup by PC MCCONNAUGHEY, Quinn.",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "GOAL by PC MCCONNAUGHEY, Quinn, goal number 3 for season.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by PC.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:06",
+    "home_event": "Shot by PC CHAMBERS, Rhett HIT POST.",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "Turnover by PC HORRIGAN, Jack (caused by SHOEMAKER, Jack).",
+    "score": "13-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "13-14",
+    "away_event": "Shot by VU RAYMOND, Luke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "GOAL by VU CEPIEL, Quinton, Assist by LICATA, Matt, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Officials timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs SANDOVAL, Tyler won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "",
+    "score": "13-15",
+    "away_event": "Shot by VU WILLIAMS, Luke, SAVE DONAHUE, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "Ground ball pickup by PC DENNISON, Gregg.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:17",
+    "home_event": "Clear attempt by PC good.",
+    "score": "13-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "GOAL by PC HORRIGAN, Jack, Assist by BELL, Ryan, goal number 43 for season.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Faceoff COOPER, Jack vs GLOMB, George won by VU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Ground ball pickup by VU NEWTON, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Shot clock violation by VU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "Clear attempt by PC good.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "Shot by PC WILKERSON, Jay, SAVE FARGIONE, Denis.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:41",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Turnover by VU LICATA, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "01:22",
+    "home_event": "Ground ball pickup by PC DONAHUE, Dan.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "Clear attempt by PC good.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Shot by PC WILKERSON, Jay, SAVE FARGIONE, Denis.",
+    "score": "14-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:36",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "14-15",
+    "away_event": "Clear attempt by VU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "GOAL by VU MELCHIONNI, Jake, Assist by MICHENER, Colin, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Timeout by VU."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Faceoff MCCONNAUGHEY, Quinn vs GLOMB, George won by VU, [00:18] Ground ball pickup by VU MACKIE, Scot."
+  },
+  {
+    "quarter": "4",
+    "time": "00:04",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Clear attempt by VU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "14-16",
+    "away_event": "Turnover by VU FARGIONE, Denis."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by PC BELL, Ryan.",
+    "score": "14-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Shot by PC BELL, Ryan WIDE.",
+    "score": "14-16",
+    "away_event": ""
+  }
+]

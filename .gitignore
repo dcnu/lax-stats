@@ -28,8 +28,13 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+# outputs
+outputs/logs/
+*.log
+
 # env files
 .env*
+config.json
 
 # vercel
 .vercel
@@ -43,7 +48,11 @@ next-env.d.ts
 .cursorignore
 .cursor/
 .vscode/
+.claude/
 
 # Development
 TODO/
 supabase/
+
+# Archive
+archive/

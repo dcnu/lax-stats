@@ -1,0 +1,1710 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Rand Paddack at goalie for MER.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ben Kieu at goalie for HAMPTON."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "Shot by MER Dylan McKelvy, SAVE Ben Kieu.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:05",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by HAMPTON Tre Childers WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "Clear attempt by MER good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "GOAL by MER Luke Fox (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "Faceoff Chris Cappelmann vs Mason Howard won by MER, [12:05] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "Turnover by MER Luke Fox.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by HAMPTON Jonathan Angel (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "Clear attempt by MER good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "Shot by MER Dylan McKelvy WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "Shot by MER Ganon Cope, SAVE Ben Kieu.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "GOAL by MER Jack Sullivan.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "Faceoff Chris Cappelmann vs Mason Howard won by MER (on faceoff violation).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "GOAL by MER Jackson Hirschy, Assist by Michael Frederick.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "Faceoff Chris Cappelmann vs Matthew Hall won by MER, [09:35] Ground ball pickup by MER Tyler Gilbert.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "Shot by MER Chris Cappelmann WIDE.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "Shot by MER Ganon Cope, SAVE Ben Kieu.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HAMPTON Canyon Steverson WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "Ground ball pickup by MER Owen Rhodes.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "Turnover by MER Will Zylstra.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by HAMPTON David Jackson WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "Ground ball pickup by MER Owen Rhodes.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by HAMPTON Sebastian West."
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by HAMPTON Sebastian West."
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "Clear attempt by MER good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "Shot by MER Matthew Brian HIGH.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "Shot by MER Peyton McNeill WIDE RIGHT.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "Turnover by MER Will Zylstra (caused by Zion Garcia).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by HAMPTON Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by HAMPTON Mamadou Meite."
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER, [06:24] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "Turnover by MER Dylan McKelvy (caused by Christian Stringer).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by HAMPTON Dillon Bethea HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "Turnover by MER Davis Peek.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by HAMPTON Alex Lacey."
+  },
+  {
+    "quarter": "1",
+    "time": "05:17",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by HAMPTON Darius Stanley BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "GOAL by MER Jack Sullivan.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by HAMPTON, [04:45] Ground ball pickup by HAMPTON Braeden Lessane."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by HAMPTON Darius Stanley WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Ground ball pickup by MER Greyson Brockman.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Turnover by MER Greyson Brockman.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by HAMPTON AJ Knox WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Turnover by MER Jackson Hirschy (caused by Christian Stringer).",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "GOAL by HAMPTON AJ Knox, Assist by Sebastian West."
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "Penalty on MER Jackson Phillips (TRIPPING/0:30) Extra-man opportunity.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:08",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by HAMPTON Sebastian West."
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Shot by MER Jack Sullivan BLOCKED.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:00",
+    "home_event": "Shot by MER Jack Sullivan WIDE RIGHT.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "Shot by MER Luke Fox, SAVE Ben Kieu.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by HAMPTON Zion Garcia."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by HAMPTON Darius Stanley WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER, [15:00] Ground ball pickup by MER Kyle Pierce.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Turnover by MER Dillon Bush (caused by Zion Garcia).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:56",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:38",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by HAMPTON AJ Knox, Assist by Sebastian West."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "behindtheback"
+  },
+  {
+    "quarter": "2",
+    "time": "13:38",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Chris Cappelmann vs Mason Howard won by HAMPTON (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:58",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by HAMPTON Darius Stanley (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "Clear attempt by MER good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:15",
+    "home_event": "Shot by MER Dillon Bush, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:04",
+    "home_event": "Ground ball pickup by MER Peyton McNeill.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on HAMPTON Canyon Steverson (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "Shot by MER Michael Frederick, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "Shot by MER Michael Frederick, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on HAMPTON Taylor Whitt (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "Shot by MER Dillon Bush, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:46",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by HAMPTON Dillon Bethea."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "Shot by MER Jack Sullivan, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by HAMPTON Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "09:33",
+    "home_event": "Ground ball pickup by MER Ben Jose.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "Shot by MER Dillon Bush WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on HAMPTON Darius Stanley (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "Shot by MER Jack Sullivan, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "Shot by MER Ben Jose WIDE RIGHT.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "Shot by MER Dillon Bush, SAVE Ben Kieu.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by HAMPTON Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by HAMPTON failed."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "GOAL by MER Greyson Brockman, Assist by Jack Sullivan.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Faceoff Chris Cappelmann vs Matthew Hall won by MER, [07:45] Ground ball pickup by MER Kyle Pierce.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Shot by MER Will Zylstra WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Shot by MER Peyton McNeill HIGH.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Shot by MER Michael Frederick WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Shot by MER Peyton McNeill HIGH.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "Turnover by MER.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:55",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:41",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by HAMPTON Zion Garcia, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by HAMPTON Zion Garcia, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "Clear attempt by MER good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:27",
+    "home_event": "Shot by MER Kobe Handsor, SAVE Ben Kieu.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "Shot by MER Michael Frederick, SAVE Ben Kieu.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "Timeout by MER.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "GOAL by MER Luke Fox, Assist by Matthew Brian.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "Faceoff Chris Cappelmann vs Mason Howard won by MER, [05:06] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "Shot by MER Michael Frederick HIGH.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER, [04:32] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "GOAL by MER Michael Frederick.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER, [03:44] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "Clear attempt by MER good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:09",
+    "home_event": "Shot by MER Will Zylstra HIGH.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:45",
+    "home_event": "GOAL by MER Will Zylstra, Assist by Jackson Hirschy.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:45",
+    "home_event": "Faceoff Chris Cappelmann vs Matthew Hall won by MER (on faceoff violation).",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Clear attempt by MER good.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "GOAL by MER Dillon Bush.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Timeout by HAMPTON."
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "Faceoff Chris Cappelmann vs Braeden Lessane won by MER (on faceoff violation).",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "GOAL by MER Matthew Brian.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "Faceoff Chris Cappelmann vs Mason Howard won by MER, [01:56] Ground ball pickup by MER Chris Cappelmann.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "GOAL by MER Dillon Bush.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Faceoff Chris Cappelmann vs Mason Howard won by HAMPTON (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by HAMPTON Chaz Hughes."
+  },
+  {
+    "quarter": "2",
+    "time": "01:02",
+    "home_event": "Ground ball pickup by MER Thomas Venzie.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "Clear attempt by MER good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Timeout by MER.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "GOAL by MER Dillon Bush, Assist by Ryan Brooks.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "Faceoff Carter Kryszak vs Mason Howard won by MER, [00:40] Ground ball pickup by MER Carter Kryszak.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:34",
+    "home_event": "Shot by MER Will Zylstra BLOCKED.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "GOAL by MER Dylan McKelvy, Assist by Will Zylstra.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "beat the buzzer"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Carter Kryszak vs Mason Howard won by MER (on faceoff violation).",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:47",
+    "home_event": "Shot by MER Ganon Cope WIDE.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:22",
+    "home_event": "Ground ball pickup by MER Jack Sullivan.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "Shot by MER Jack Sullivan HIT POST.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Ground ball pickup by HAMPTON Christian Stringer."
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Turnover by HAMPTON Christian Stringer (caused by Davis Peek)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "Ground ball pickup by MER Davis Peek.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:25",
+    "home_event": "Turnover by MER.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:05",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Shot by HAMPTON Darius Stanley WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:35",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Ground ball pickup by HAMPTON Mamadou Meite."
+  },
+  {
+    "quarter": "3",
+    "time": "12:25",
+    "home_event": "",
+    "score": "14-3",
+    "away_event": "Turnover by HAMPTON Mamadou Meite (caused by Davis Peek)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "Clear attempt by MER good.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Penalty on HAMPTON Sebastian West (TRIPPING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Faceoff Carter Kryszak vs Braeden Lessane won by MER, [12:10] Ground ball pickup by MER Carter Kryszak.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Shot by MER Jack Sullivan WIDE LEFT.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:10",
+    "home_event": "GOAL by MER Ben Jose (MAN-UP), Assist by Luke Fox.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:10",
+    "home_event": "Faceoff Carter Kryszak vs Braeden Lessane won by MER, [11:10] Ground ball pickup by MER Carter Kryszak.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Penalty on HAMPTON Zion Garcia (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "Shot by MER Will Zylstra, SAVE Ben Kieu.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Turnover by HAMPTON Dillon Bethea (caused by Will Zylstra)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Ganon Cope.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "Faceoff Carter Kryszak vs Matthew Hall won by MER, [10:03] Ground ball pickup by MER Greyson Brockman.",
+    "score": "17-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "GOAL by MER Quinn Kelley, Assist by Greyson Brockman.",
+    "score": "18-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "Faceoff Carter Kryszak vs Matthew Hall won by MER, [09:48] Ground ball pickup by MER Carter Kryszak.",
+    "score": "18-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "GOAL by MER Will Zylstra.",
+    "score": "19-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "19-3",
+    "away_event": "Penalty on HAMPTON Zachary Ramseur (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "19-3",
+    "away_event": "Faceoff Carter Kryszak vs Matthew Hall won by HAMPTON."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "19-3",
+    "away_event": "Turnover by HAMPTON Karson Seth."
+  },
+  {
+    "quarter": "3",
+    "time": "08:33",
+    "home_event": "",
+    "score": "19-3",
+    "away_event": "LJ Collinsworth at goalie for HAMPTON."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "GOAL by MER Ben Jose (MAN-UP), Assist by Matthew Brian.",
+    "score": "20-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "Faceoff Carter Kryszak vs Mason Howard won by MER, [07:44] Ground ball pickup by MER Carter Kryszak.",
+    "score": "20-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "Ground ball pickup by MER Ryan Brooks.",
+    "score": "20-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "GOAL by MER Will Schepis.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "Faceoff Carter Kryszak vs Braeden Lessane won by MER, [06:46] Ground ball pickup by MER Carter Kryszak.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "Shot by MER Bennett Junod, SAVE LJ Collinsworth.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Canyon Steverson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Sebastian West BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "04:31",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Canyon Steverson HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "04:24",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Turnover by HAMPTON Darius Stanley (caused by Kaja Brown)."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Ground ball pickup by MER Kaja Brown.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Turnover by MER Kaja Brown (caused by Alex Lacey).",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:56",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Ground ball pickup by HAMPTON Alex Lacey."
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Alex Lacey, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "03:42",
+    "home_event": "Turnover by MER.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Mamadou Meite, SAVE Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "02:55",
+    "home_event": "Turnover by MER Matthew Burnside (caused by Tre Childers).",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "Clear attempt by MER failed.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "Chance Haynie at goalie for MER.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:33",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Ground ball pickup by HAMPTON Mamadou Meite."
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Mamadou Meite HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Tre Childers, SAVE Chance Haynie."
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "Clear attempt by MER good.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:50",
+    "home_event": "Turnover by MER Quinn Kelley.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON failed."
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Turnover by HAMPTON AJ Knox."
+  },
+  {
+    "quarter": "3",
+    "time": "01:06",
+    "home_event": "Clear attempt by MER good.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "Shot by MER Will Schepis, SAVE LJ Collinsworth.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Ground ball pickup by HAMPTON Zion Garcia."
+  },
+  {
+    "quarter": "3",
+    "time": "00:27",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Turnover by HAMPTON Zion Garcia."
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON failed."
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "Shot by MER Matthew Brian, SAVE LJ Collinsworth.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Penalty on HAMPTON Mamadou Meite (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Turnover by MER Luke Fox.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:37",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:28",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Turnover by HAMPTON Canyon Steverson."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "Clear attempt by MER good.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "Turnover by MER Jackson Hirschy.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Ground ball pickup by HAMPTON Myles Johnson."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Shot by HAMPTON Sebastian West, SAVE Chance Haynie."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "Clear attempt by MER good.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:25",
+    "home_event": "Ground ball pickup by MER Ganon Cope.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:17",
+    "home_event": "Shot by MER Ganon Cope, SAVE LJ Collinsworth.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:15",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:01",
+    "home_event": "",
+    "score": "21-3",
+    "away_event": "Turnover by HAMPTON Zion Garcia (caused by Thomas Venzie)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "Ground ball pickup by MER Max Schutt.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:50",
+    "home_event": "Clear attempt by MER good.",
+    "score": "21-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "GOAL by MER Ryan Brooks, Assist by Bennett Junod.",
+    "score": "22-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "Faceoff Carter Kryszak vs Braeden Lessane won by MER, [08:57] Ground ball pickup by MER Carter Kryszak.",
+    "score": "22-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:23",
+    "home_event": "Turnover by MER Bennett Junod.",
+    "score": "22-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:00",
+    "home_event": "",
+    "score": "22-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:45",
+    "home_event": "",
+    "score": "22-3",
+    "away_event": "Shot by HAMPTON Elijah Jean-Jacques, SAVE Chance Haynie."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "22-3",
+    "away_event": "Shot by HAMPTON Reed Shaw, SAVE Chance Haynie."
+  },
+  {
+    "quarter": "4",
+    "time": "07:25",
+    "home_event": "Ground ball pickup by MER Michael Corkill.",
+    "score": "22-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:18",
+    "home_event": "Clear attempt by MER good.",
+    "score": "22-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:33",
+    "home_event": "GOAL by MER Ryan Brooks, Assist by Ben Jose.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:33",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Faceoff Owen Rhodes vs Matthew Hall won by HAMPTON, [06:33] Ground ball pickup by HAMPTON AJ Knox."
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "Penalty on MER Michael Corkill (SLASHING/1:00) Extra-man opportunity.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:09",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Turnover by HAMPTON Mamadou Meite."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Turnover by MER.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Shot by HAMPTON Tre Childers WIDE LEFT."
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Clear attempt by MER good.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "Shot by MER Bennett Junod WIDE.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "Turnover by MER.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:21",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Clear attempt by HAMPTON good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Turnover by HAMPTON Zion Garcia (caused by Nolan Filley)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "Ground ball pickup by MER Nolan Filley.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:10",
+    "home_event": "Clear attempt by MER good.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "Turnover by MER Luke Fox (caused by Alex Lacey).",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Ground ball pickup by HAMPTON Khari Seals."
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Shot by HAMPTON Reed Shaw WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "01:48",
+    "home_event": "Clear attempt by MER good.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "Turnover by MER Will Schepis (caused by Reed Shaw).",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "",
+    "score": "23-3",
+    "away_event": "Turnover by HAMPTON Sebastian West."
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "Ground ball pickup by MER Kaja Brown.",
+    "score": "23-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Turnover by MER.",
+    "score": "23-3",
+    "away_event": ""
+  }
+]

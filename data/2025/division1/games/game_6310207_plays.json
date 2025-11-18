@@ -1,0 +1,1514 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "OVEREND, Zack at goalie for HPU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Isaac Farmer at goalie for SBU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [15:00] Ground ball pickup by SBU Connor Ballou."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by SBU Connor Ballou."
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "Ground ball pickup by HPU ROBINS, Carson.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HPU ROBINS, Carson (caused by Owen Tasse).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SBU Patrick Shanahan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by SBU Drew Kenney WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by SBU Drew Kenney, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "Shot by HPU COOKE, Colin, SAVE Isaac Farmer",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SBU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by SBU Kaden Brennan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "GOAL by HPU BUNTEN, Owen (FIRST GOAL), Assist by WIXTED, Justin, goal number 34 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [12:10] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "GOAL by HPU MEEHAN, Tommy, goal number 9 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [11:02] Ground ball pickup by SBU Lad Harper."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SBU Conor Murphy WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SBU Jake Kucinski WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "Penalty on HPU WESTBROOKS, James (HOLDING/0:30) Extra-man opportunity.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SBU Kyle Pepper, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Shot by HPU CANN, Ian HIGH",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "Shot by HPU WIXTED, Justin, SAVE Isaac Farmer",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by SBU Blayze Becker."
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by SBU Cole Tucker."
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "Shot by HPU ROVERE, Collin WIDE",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "Shot by HPU ROVERE, Collin BLOCKED",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HPU COOKE, Colin (caused by Henry Coke).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by SBU Patrick Shanahan, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [05:52] Ground ball pickup by SBU Lad Harper."
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by SBU Kyle Pepper, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "Ground ball pickup by HPU OVEREND, Zack.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "Shot by HPU HYNES, Ryan WIDE",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HPU.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by SBU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by SBU Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "Shot by HPU CANN, Ian, SAVE Isaac Farmer",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Timeout by SBU."
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "GOAL by HPU ROVERE, Collin, Assist by WIXTED, Justin, goal number 13 for season.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [02:15] Ground ball pickup by SBU Lad Harper."
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by SBU O. Maracle WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HPU LUTZEL, Matt.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by SBU Patrick Shanahan."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by SBU Patrick Shanahan (caused by DERMON, Luke)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Ground ball pickup by HPU BRENFLECK, Zack.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Shot by HPU WEITZMAN, Josh, SAVE Isaac Farmer",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [15:00] Ground ball pickup by SBU Owen Tasse."
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by SBU Drew Kenney, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "Shot by HPU ROVERE, Collin, SAVE Isaac Farmer",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:29",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by SBU Benny Carter."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by SBU Chris Lawrence."
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Ground ball pickup by HPU PAXTON, Charlie.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "GOAL by HPU STEPHENS, Caio, Assist by PAXTON, Charlie, goal number 1 for season.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [12:54] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by HPU ROBINS, Carson.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Shot by HPU WIXTED, Justin BLOCKED",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "Shot by HPU HYNES, Ryan, SAVE Isaac Farmer",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Ground ball pickup by SBU Ryan Olan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by SBU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Turnover by SBU Ryan Olan (caused by CANN, Ian)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Ground ball pickup by HPU CANN, Ian.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:40",
+    "home_event": "GOAL by HPU BUNTEN, Owen, Assist by COOKE, Colin, goal number 35 for season.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:35",
+    "home_event": "Faceoff ACCARDO, Luca vs Quinn Nolan won by HPU, [12:54] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "GOAL by HPU WEITZMAN, Josh, Assist by BRENFLECK, Zack, goal number 1 for season.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU (on faceoff violation).",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Shot by HPU MEEHAN, Tommy, SAVE Isaac Farmer",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by SBU."
+  },
+  {
+    "quarter": "2",
+    "time": "09:13",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by HPU ROBINS, Carson (caused by Ryan Olan).",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:12",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Chris Lawrence, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "Clear attempt by HPU failed.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by HPU OVEREND, Zack (caused by Chris Lawrence).",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:54",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Josh Rosa."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by SBU Josh Rosa (caused by WESTBROOKS, James)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "Ground ball pickup by HPU WEITZMAN, Josh.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "Shot by HPU MEEHAN, Tommy BLOCKED",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Cameron Viavada."
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Connor Ballou."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Drew Kenney WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:45",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Chris Lawrence HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Drew Kenney WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Turnover by SBU."
+  },
+  {
+    "quarter": "2",
+    "time": "04:18",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by HPU WIXTED, Justin.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:31",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Drew Kenney, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Chase Perryman."
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Chase Perryman WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:30",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Shot by SBU Kyle Pepper, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Shot by HPU WEITZMAN, Josh BLOCKED",
+    "score": "6-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "",
+    "score": "6-1",
+    "away_event": "Ground ball pickup by SBU Conor Murphy."
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "GOAL by SBU Drew Kenney, Assist by Conor Murphy, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "Faceoff ACCARDO, Luca vs Jeremy Askin won by HPU, [01:05] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "GOAL by HPU ROBINS, Carson, Assist by CANN, Ian, goal number 13 for season.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [00:14] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "Shot by HPU BUNTEN, Owen HIGH",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Shot by HPU BUNTEN, Owen, SAVE Isaac Farmer",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [15:00] Ground ball pickup by SBU Henry Coke."
+  },
+  {
+    "quarter": "3",
+    "time": "14:37",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Clear attempt by SBU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Turnover by SBU."
+  },
+  {
+    "quarter": "3",
+    "time": "13:44",
+    "home_event": "Shot by HPU ROBINS, Carson WIDE",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Ground ball pickup by HPU WIXTED, Justin.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "GOAL by HPU ROVERE, Collin, Assist by BUNTEN, Owen, goal number 14 for season.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [13:30] Ground ball pickup by SBU Lad Harper."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "GOAL by SBU Kellen Pulera, Assist by Drew Kenney, goal number 14 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:46",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [12:46] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HPU HYNES, Ryan.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by SBU Kellen Pulera."
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "GOAL by SBU Kellen Pulera, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [11:35] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "Shot by HPU BUNTEN, Owen BLOCKED",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by SBU Henry Coke."
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by SBU Owen Tasse."
+  },
+  {
+    "quarter": "3",
+    "time": "10:50",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Shot by SBU Kyle Pepper WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "GOAL by SBU Conor Murphy, goal number 17 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [09:44] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "Shot by HPU WIXTED, Justin WIDE",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:24",
+    "home_event": "Ground ball pickup by HPU CANN, Ian.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Shot by HPU HYNES, Ryan WIDE",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:53",
+    "home_event": "Shot by HPU MEEHAN, Tommy, SAVE Isaac Farmer",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:49",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by SBU Ryan Olan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:33",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by SBU Jake Kucinski WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Turnover by SBU."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "GOAL by HPU ROVERE, Collin, goal number 15 for season.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [05:58] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HPU ROVERE, Collin.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Shot by SBU Kellen Pulera HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "Ground ball pickup by HPU BRENFLECK, Zack.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HPU MEEHAN, Tommy (caused by Blayze Becker).",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by SBU Aaron Eberhard."
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by SBU Jake Kucinski."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "GOAL by SBU Jake Kucinski, goal number 14 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Faceoff ACCARDO, Luca vs Lad Harper won by SBU, [02:03] Ground ball pickup by SBU Lad Harper."
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by SBU Owen Tasse."
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by SBU Benny Carter, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HPU ROVERE, Collin (caused by Connor Ballou).",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by SBU Connor Ballou."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Turnover by SBU Jake Kucinski (caused by BRENFLECK, Zack)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by HPU OVEREND, Zack.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [15:00] Ground ball pickup by HPU BRENFLECK, Zack.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:21",
+    "home_event": "Shot by HPU BRENFLECK, Jeb, SAVE Isaac Farmer",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "GOAL by SBU Kellen Pulera, Assist by Kyle Pepper, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [13:21] Ground ball pickup by HPU STEPHENS, Caio.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:51",
+    "home_event": "Clear attempt by HPU failed.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HPU.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:48",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Turnover by SBU Kyle Pepper (caused by BRENFLECK, Zack)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "Ground ball pickup by HPU CANN, Ian.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:09",
+    "home_event": "Shot by HPU BUNTEN, Owen, SAVE Isaac Farmer",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "Shot by HPU ROVERE, Collin WIDE",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HPU ROVERE, Collin (caused by Ryan Olan).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:18",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by SBU Cameron Viavada."
+  },
+  {
+    "quarter": "4",
+    "time": "11:15",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by SBU O. Maracle, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by HPU WESTBROOKS, James.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HPU BUNTEN, Owen (caused by Aaron Eberhard).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by SBU Kyle Pepper."
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "GOAL by SBU Jake Kucinski, Assist by Drew Kenney, goal number 15 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [08:27] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "Shot by HPU COOKE, Colin HIGH",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:25",
+    "home_event": "Shot by HPU CANN, Ian WIDE",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "Ground ball pickup by HPU COOKE, Colin.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:15",
+    "home_event": "Shot by HPU ROVERE, Collin WIDE",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Shot by HPU COOKE, Colin, SAVE Isaac Farmer",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:04",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by SBU Owen Tasse."
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by SBU Jake Kucinski, Assist by Patrick Shanahan, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU, [07:00] Ground ball pickup by HPU ACCARDO, Luca.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "Shot by HPU WIXTED, Justin, SAVE Isaac Farmer",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by SBU Conor Murphy WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "Penalty on HPU BRENFLECK, Zack (SLASHING/1:00) Extra-man opportunity.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by SBU Chris Lawrence."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by SBU Kellen Pulera (MAN-UP), Assist by Chris Lawrence, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "Faceoff ACCARDO, Luca vs Lad Harper won by HPU (on faceoff violation).",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "Timeout by HPU.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:48",
+    "home_event": "Shot by HPU ROVERE, Collin, SAVE Isaac Farmer",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by SBU Drew Kenney, SAVE OVEREND, Zack"
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "Ground ball pickup by HPU BRENFLECK, Zack.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "Clear attempt by HPU good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "Shot by HPU WIXTED, Justin WIDE",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by SBU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Timeout by SBU."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Turnover by SBU Patrick Shanahan."
+  }
+]

@@ -1,0 +1,2368 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Matt LaCombe at goalie for COLGATE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Kyle Morris at goalie for VA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [15:00] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "1",
+    "time": "14:58",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VA Ryan Colsey HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "14:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VA Ben Wayer (FIRST GOAL), goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by COLGATE.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:13",
+    "home_event": "GOAL by COLGATE Jack Turner, goal number 3 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Kyle Rummel vs Henry Metz won by VA, [14:12] Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Ryan Colsey, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "Ground ball pickup by COLGATE Matt LaCombe.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "Turnover by COLGATE Patty Eldredge (caused by McCabe Millon).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "Timeout by COLGATE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA Charles Balsamo."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Charles Balsamo BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by VA Charles Balsamo."
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by VA McCabe Millon (caused by Sam Erickson)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "Shot by COLGATE Jack Turner BLOCKED.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Shot by COLGATE Liam Connor, SAVE Kyle Morris.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "Ground ball pickup by COLGATE Rory Connor.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "Turnover by COLGATE Rory Connor.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Ben Wayer WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:34",
+    "home_event": "Shot by COLGATE Jack Turner WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "Turnover by COLGATE Rory Connor.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:40",
+    "home_event": "Shot by COLGATE Liam Connor BLOCKED.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "Shot by COLGATE Casey Quinson WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "Shot by COLGATE Liam Connor WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "Shot by COLGATE Jack Turner BLOCKED.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "Shot clock violation by COLGATE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "08:17",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Matt LaCombe)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "Ground ball pickup by COLGATE Thomas Lala.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Turnover by COLGATE Patty Eldredge.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Ben Wayer, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by COLGATE (on faceoff violation).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "Shot by COLGATE Ben Trumble WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "Shot by COLGATE Ben Trumble WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "Ground ball pickup by COLGATE Hunter Drouin.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "GOAL by COLGATE Hunter Drouin, goal number 3 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Penalty on VA Wills Burt (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "Faceoff Kyle Rummel vs Henry Metz won by COLGATE, [06:46] Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "Shot by COLGATE Jack Turner, SAVE Kyle Morris.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by VA Ryan Colsey (MAN-DOWN), Assist by Truitt Sunderland, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [05:51] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "1",
+    "time": "05:27",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by VA Griffin Schutz."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "Ground ball pickup by COLGATE Donnie Tedesco.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "Turnover by COLGATE Thomas Lala (caused by Ryan Colsey).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Hudson Hausmann, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by COLGATE, [05:14] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "Shot by COLGATE Hunter Drouin WIDE.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "Turnover by COLGATE Hunter Drouin.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by VA George Fulton WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "Penalty on COLGATE Sam Erickson (HOLDING/0:30) Extra-man opportunity.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "Penalty on COLGATE Jack Turner (UNSPORTSMANLIKE CONDUCT/1:00).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by VA Thomas Mencke HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "Ground ball pickup by COLGATE John Carrabine.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Penalty on VA Ryan Colsey (HOLDING/0:30)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "Turnover by COLGATE Hunter Drouin (caused by John Schroter).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by VA Jack Walshe WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by VA Jack Walshe, Assist by McCabe Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [02:39] Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by VA Tommy McNeal (caused by Max Yates)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "Ground ball pickup by COLGATE Max Yates.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "Shot by COLGATE Jack Turner, SAVE Kyle Morris.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "Ground ball pickup by COLGATE Casey Quinson.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "Shot by COLGATE Rory Connor, SAVE Kyle Morris.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:10",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by VA Kyle Morris."
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by VA Ryan Colsey, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "1",
+    "time": "01:02",
+    "home_event": "Ground ball pickup by COLGATE Thomas Lala.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:58",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "GOAL by COLGATE Jack Turner, goal number 4 for season.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [00:09] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by VA Ben Wayer, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [15:00] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Anthony Ghobriel, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by VA, [14:54] Ground ball pickup by VA Joey Terenzi."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by VA Kyle Morris."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "Turnover by COLGATE Quinn Fitzsimmons (caused by McCabe Millon).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by VA Joey Terenzi."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by VA Truitt Sunderland WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by VA Truitt Sunderland HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "Shot by COLGATE Matt LaCombe, SAVE Kyle Morris.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Penalty on VA Will Erdmann (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "Shot by COLGATE Hunter Drouin, SAVE Kyle Morris.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by VA Ryan Colsey, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Penalty on COLGATE Max Yates (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by VA Thomas Mencke HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "GOAL by VA Truitt Sunderland (MAN-UP), Assist by Ryan Colsey, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [11:42] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "2",
+    "time": "11:36",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "11:14",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Turnover by VA George Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "Turnover by COLGATE Jack Turner (caused by Ben Wayer).",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Ground ball pickup by VA Tommy Snyder."
+  },
+  {
+    "quarter": "2",
+    "time": "10:29",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Turnover by VA Tommy Snyder (caused by Ben Trumble)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Turnover by COLGATE Hunter Drouin.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by VA Ben Wayer, Assist by Mack Till, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Kyle Rummel vs Andrew Greenspan won by VA (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:22",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by VA Thomas Mencke."
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:12",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Turnover by VA McCabe Millon."
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "Ground ball pickup by COLGATE Quinn Spillett.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "Shot by COLGATE Rory Connor HIGH.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:37",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Shot by VA Noah Chizmar WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:58",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Turnover by VA Hudson Hausmann."
+  },
+  {
+    "quarter": "2",
+    "time": "07:35",
+    "home_event": "Ground ball pickup by COLGATE Thomas Lala.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "Shot by COLGATE Patty Eldredge, SAVE Kyle Morris.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:27",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by McCabe Millon, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by COLGATE.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "GOAL by COLGATE Sam Erickson, Assist by Johnny Hartzell, goal number 1 for season.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Kyle Rummel vs Andrew Greenspan won by VA, [07:04] Ground ball pickup by VA Andrew Greenspan."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Turnover by VA McCabe Millon."
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:26",
+    "home_event": "GOAL by COLGATE Hunter Drouin, Assist by Thomas Lala, goal number 4 for season.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:26",
+    "home_event": "Faceoff Johnny Hartzell vs Andrew Greenspan won by COLGATE (on faceoff violation).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:02",
+    "home_event": "Shot by COLGATE Hunter Drouin BLOCKED.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:56",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by VA Wills Burt."
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by VA McCabe Millon, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "2",
+    "time": "05:39",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:37",
+    "home_event": "Turnover by COLGATE Matt LaCombe.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by VA Truitt Sunderland, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [05:31] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by VA Ben Wayer (caused by Sam Erickson)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:13",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:10",
+    "home_event": "Turnover by COLGATE Sam Erickson.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:04",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "2",
+    "time": "05:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:11",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by VA Griffin Schutz, Assist by Truitt Sunderland, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [03:58] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by VA Ryan Colsey, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:13",
+    "home_event": "Turnover by COLGATE Jack Turner (caused by Ben Wayer).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:09",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by VA Wills Burt."
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by VA McCabe Millon HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by VA Wills Burt, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "2",
+    "time": "01:42",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "Shot by COLGATE Ryan Favaro, SAVE Kyle Morris.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:25",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by VA Mack Till."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Penalty on VA John Schroter (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "Timeout by COLGATE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:08",
+    "home_event": "Shot by COLGATE Casey Quinson WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Turnover by COLGATE Ryan Favaro.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:41",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:38",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by VA Ben Wayer HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by VA Ryan Colsey, Assist by Thomas Mencke, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by COLGATE.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Shot by COLGATE Sam Erickson BLOCKED.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Matthew Nunes at goalie for VA."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [15:00] Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:43",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by VA George Fulton WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:38",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by VA Truitt Sunderland, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "Faceoff Johnny Hartzell vs Henry Metz won by COLGATE, [14:42] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:34",
+    "home_event": "Shot by COLGATE John Carrabine WIDE.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Ground ball pickup by COLGATE Rory Connor.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "GOAL by COLGATE Ryan Favaro, goal number 1 for season.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by COLGATE, [13:21] Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:14",
+    "home_event": "Shot by COLGATE Kyle Rummel, SAVE Matthew Nunes.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Penalty on VA Griffin Kology (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Turnover by COLGATE Liam Connor (caused by Tommy McNeal).",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:32",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:42",
+    "home_event": "Turnover by COLGATE Hunter Drouin.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:39",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:20",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "GOAL by COLGATE Jack Turner, Assist by Rory Connor, goal number 5 for season.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by COLGATE (on faceoff violation).",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "Timeout by COLGATE.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:27",
+    "home_event": "Shot by COLGATE Jack Turner WIDE.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "Turnover by COLGATE Ben Trumble (caused by Wills Burt).",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Shot by VA Ben Wayer WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Shot by COLGATE Liam Connor WIDE.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "Turnover by COLGATE Liam Connor (caused by George Fulton).",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Shot by VA Wills Burt WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Shot by VA Hudson Hausmann, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "3",
+    "time": "06:50",
+    "home_event": "Ground ball pickup by COLGATE Max Yates.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Shot by COLGATE Liam Connor WIDE.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "Shot by COLGATE Liam Connor, SAVE Matthew Nunes.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:46",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Shot by VA McCabe Millon, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "3",
+    "time": "05:29",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "7-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:39",
+    "home_event": "GOAL by COLGATE Hunter Drouin, Assist by Liam Connor, goal number 5 for season.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:39",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Kyle Rummel vs Andrew Greenspan won by VA, [04:39] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Penalty on COLGATE Max Yates (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Sam Erickson)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "GOAL by COLGATE Sam Erickson (MAN-DOWN), Assist by Ryan Bilello, goal number 2 for season.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA, [04:05] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Ground ball pickup by VA Griffin Schutz."
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Ground ball pickup by VA Jack Walshe."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "GOAL by VA Jack Walshe, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by VA, [03:03] Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Tommy McNeal, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:47",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Faceoff Kyle Rummel vs Andrew Greenspan won by VA, [02:47] Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Shot by VA Truitt Sunderland HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "Ground ball pickup by COLGATE Matt LaCombe.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:28",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "Turnover by COLGATE Nick Moore (caused by Mack Till).",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Ground ball pickup by VA Tommy Snyder."
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Turnover by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "01:25",
+    "home_event": "Ground ball pickup by COLGATE Matt LaCombe.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "Shot by COLGATE Casey Quinson BLOCKED.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Ground ball pickup by COLGATE Quinn Spillett.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "Turnover by COLGATE Quinn Spillett (caused by John Schroter).",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Turnover by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "Shot by COLGATE Hunter Drouin WIDE.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "Shot by COLGATE Casey Quinson BLOCKED.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by COLGATE Casey Quinson.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Matthew Nunes.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Faceoff Kyle Rummel vs Anthony Ghobriel won by VA (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:32",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "14:27",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:26",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "Turnover by COLGATE Rory Connor (caused by George Fulton).",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:31",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Shot by VA Ben Wayer WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "4",
+    "time": "12:44",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Turnover by VA Griffin Schutz (caused by Matt LaCombe)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "Ground ball pickup by COLGATE Matt LaCombe.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:22",
+    "home_event": "Shot by COLGATE Ben Trumble, SAVE Matthew Nunes.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "",
+    "score": "9-15",
+    "away_event": "Turnover by VA Ryan Colsey (caused by Matt LaCombe)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:47",
+    "home_event": "Penalty on COLGATE Ben Trumble (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "9-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "GOAL by VA Thomas Mencke (MAN-UP), Assist by McCabe Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Faceoff Johnny Hartzell vs Anthony Ghobriel won by VA, [11:31] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "4",
+    "time": "11:23",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Ground ball pickup by VA Wills Burt."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot by VA Truitt Sunderland BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Shot by VA Johnny Hackett, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "09:59",
+    "home_event": "Ground ball pickup by COLGATE Matt LaCombe.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:27",
+    "home_event": "Shot by COLGATE Ryan Favaro WIDE.",
+    "score": "9-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "9-16",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:41",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "GOAL by VA Griffin Schutz, Assist by Truitt Sunderland, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:41",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Faceoff Kyle Rummel vs Andrew Greenspan won by VA, [08:41] Ground ball pickup by VA Andrew Greenspan."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:18",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VA George Fulton WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:02",
+    "home_event": "Turnover by COLGATE Quinn Fitzsimmons (caused by Hudson Hausmann).",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by VA Hudson Hausmann."
+  },
+  {
+    "quarter": "4",
+    "time": "07:49",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "07:06",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by VA Thomas Mencke."
+  },
+  {
+    "quarter": "4",
+    "time": "06:18",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by VA Jack Walshe."
+  },
+  {
+    "quarter": "4",
+    "time": "06:18",
+    "home_event": "Penalty on COLGATE Max Yates (SLASHING/1:00) Extra-man opportunity.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by VA Caulley Deringer BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "05:53",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by VA Griffin Schutz."
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "GOAL by VA Griffin Schutz (MAN-UP), goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "Faceoff Kyle Rummel vs Henry Metz won by COLGATE.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "Turnover by COLGATE Kyle Rummel (caused by Henry Metz).",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by VA Henry Metz, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by VA Jack Walshe, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "04:23",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by VA Mikie Harmeyer WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by VA Charles Balsamo WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by VA Johnny Hackett."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by VA Thomas Mencke."
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by VA Charles Balsamo, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "03:19",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by VA Jack Walshe."
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "GOAL by VA Jack Walshe, Assist by Chase Band, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Colin Hook at goalie for VA."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "Faceoff Kyle Rummel vs Christian Grosso won by COLGATE, [02:36] Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "Ground ball pickup by COLGATE Jack Turner.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "Shot by COLGATE Ben Trumble WIDE.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Ground ball pickup by VA Colin Hook."
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Turnover by VA Dawson Chitwood."
+  },
+  {
+    "quarter": "4",
+    "time": "01:22",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Turnover by VA Andrew Greenspan (caused by Thomas Lala)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:58",
+    "home_event": "",
+    "score": "9-19",
+    "away_event": "Shot by VA Tommy Snyder, SAVE Matt LaCombe."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "Shot by COLGATE Sam Erickson WIDE.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "Shot by COLGATE Rory Connor WIDE.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Ground ball pickup by COLGATE Liam Connor.",
+    "score": "9-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "Shot by COLGATE Rory Connor WIDE.",
+    "score": "9-19",
+    "away_event": ""
+  }
+]

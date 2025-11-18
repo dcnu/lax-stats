@@ -1,0 +1,1465 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Brady Smith at goalie for UALBANY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Winters, Connor at goalie for BING."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "Shot by UALBANY Daniel Kesselring, SAVE Winters, Connor.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by BING Garone, Dan (FIRST GOAL), Assist by Feldmann, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING, [13:26] Ground ball pickup by BING Wilson, Flynn."
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by BING Adams, Gage WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by BING Adams, Gage."
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Rocco Mareno vs Mangio, CJ won by BING, [12:31] Ground ball pickup by BING Sharkey, Nolan."
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by BING Adams, Gage WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by BING Adams, Gage, Assist by Ferris, Liam."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "Faceoff Rocco Mareno vs Mangio, CJ won by UALBANY, [11:24] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "Shot by UALBANY Jacob Moran, SAVE Winters, Connor.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by BING Girolamo, Andrew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by BING Ferris, Liam WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by BING Girolamo, Andrew."
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "Turnover by UALBANY Silas Richmond (caused by Ramos, Lorenzo).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by BING Jenkins, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by BING Ferris, Liam."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING, [06:51] Ground ball pickup by BING Sharkey, Nolan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by BING Rincon, Matthew HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by BING Adams, Gage, SAVE Brady Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by BING Garone, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by BING Kelly, Thomas, Assist by Adams, Gage."
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY, [05:43] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "Shot by UALBANY Ben Wimmer, SAVE Winters, Connor.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Timeout by BING."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Free position attempt for BING."
+  },
+  {
+    "quarter": "1",
+    "time": "03:58",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by BING Girolamo, Andrew HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by BING Girolamo, Andrew BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by BING Ferris, Liam, SAVE Brady Smith."
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "Shot by UALBANY Ryan Doherty WIDE.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "Shot by UALBANY Jacob Moran, SAVE Winters, Connor.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by BING Rincon, Matthew."
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Turnover by BING Rincon, Matthew (caused by Silas Richmond)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Ground ball pickup by UALBANY Silas Richmond.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by BING failed."
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "GOAL by UALBANY Ryan Doherty, Assist by Silas Richmond.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Faceoff Rocco Mareno vs Mangio, CJ won by UALBANY, [02:02] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "Shot by UALBANY Jackson Palumb WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "Shot by UALBANY Daniel Kesselring WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Winters, Connor.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "Ground ball pickup by UALBANY Silas Richmond.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Shot by UALBANY Ryan Doherty HIGH.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by UALBANY Jackson Palumb WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Penalty on BING Sharkey, Brady (MAJOR/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:37",
+    "home_event": "GOAL by UALBANY Amos Whitcomb (MAN-UP), Assist by Silas Richmond.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:37",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY (on faceoff violation).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "Turnover by UALBANY Alex Pfeiffer.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by BING Rincon, Matthew (caused by Caeden Lapietro)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:35",
+    "home_event": "Ground ball pickup by UALBANY Ryan Doherty.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "Shot by UALBANY Jacob Moran WIDE.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:30",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Penalty on BING Hanko, Christian (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "13:30",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by BING failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "Shot by UALBANY Ryan Doherty WIDE.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "GOAL by UALBANY Koleton Marquis (MAN-UP), Assist by Silas Richmond.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Faceoff Rocco Mareno vs Mangio, CJ won by UALBANY, [12:57] Ground ball pickup by UALBANY Conner Fingar.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "Shot by UALBANY Jacob Moran, SAVE Winters, Connor.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "Turnover by UALBANY Alex Pfeiffer.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BING Ferris, Liam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BING Ferris, Liam, SAVE Brady Smith."
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "Turnover by UALBANY Max Neeson.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by BING Hanko, Christian."
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BING Garone, Dan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by BING Ferris, Liam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "GOAL by UALBANY Ryan Doherty.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING, [08:26] Ground ball pickup by BING Rincon, Matthew."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by BING Mellen, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:46",
+    "home_event": "Shot by UALBANY Jackson Palumb, SAVE Winters, Connor.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by BING Hanko, Christian."
+  },
+  {
+    "quarter": "2",
+    "time": "06:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by BING Hanko, Christian (caused by Daniel Kesselring)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:34",
+    "home_event": "Ground ball pickup by UALBANY Silas Richmond.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:33",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by BING failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:11",
+    "home_event": "Turnover by UALBANY Parker Emmett.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:11",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by BING Girolamo, Andrew, Assist by Adams, Gage."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:45",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by BING Girolamo, Andrew."
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "GOAL by UALBANY Alex Pfeiffer.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING, [04:01] Ground ball pickup by BING Wilson, Flynn."
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot clock violation by BING."
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "Shot by UALBANY Jackson Palumb HIGH.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Winters, Connor.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Timeout by BING."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by BING DeLay, Colin (caused by Max Neeson)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "Ground ball pickup by UALBANY Brady Smith.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY, [15:00] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:42",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "GOAL by UALBANY Jackson Palumb.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY, [13:33] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "GOAL by UALBANY Alex Pfeiffer.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by BING Feldmann, Will WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by BING Adams, Gage."
+  },
+  {
+    "quarter": "3",
+    "time": "11:56",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by BING Adams, Gage (caused by Jacob Smith)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:51",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "Turnover by UALBANY Ryan Doherty (caused by Capucciati, Paolo).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by BING Ramos, Lorenzo."
+  },
+  {
+    "quarter": "3",
+    "time": "11:24",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:51",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by BING Jacobsen, Gavin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by BING Girolamo, Andrew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by BING Girolamo, Andrew HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot clock violation by BING."
+  },
+  {
+    "quarter": "3",
+    "time": "09:54",
+    "home_event": "Turnover by UALBANY Patrick Mai (caused by Sharkey, Nolan).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:51",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by BING MacKay, Eoin."
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by BING Ferris, Liam, Assist by Garone, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "Faceoff Jezayd Hall vs Wilson, Flynn won by UALBANY, [09:49] Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "Turnover by UALBANY Ryan Doherty (caused by Billelo, Anthony).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:47",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by BING Ramos, Lorenzo."
+  },
+  {
+    "quarter": "3",
+    "time": "08:35",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by BING Sharkey, Brady."
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by BING failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "Turnover by UALBANY James Reid (caused by Sharkey, Nolan).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:03",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by BING Winters, Connor."
+  },
+  {
+    "quarter": "3",
+    "time": "07:58",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by BING Billelo, Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "Ground ball pickup by UALBANY Alex Pfeiffer.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by BING failed."
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "Turnover by UALBANY Alex Pfeiffer (caused by Sharkey, Brady).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:50",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by BING Sharkey, Brady."
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by BING Ferris, Liam, SAVE Brady Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "06:35",
+    "home_event": "Turnover by UALBANY Brady Smith.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by BING Ramos, Lorenzo."
+  },
+  {
+    "quarter": "3",
+    "time": "06:29",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by BING Ferris, Liam, SAVE Brady Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "Shot by UALBANY Koleton Marquis WIDE.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "GOAL by UALBANY Parker Emmett, Assist by Ryan Doherty.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY, [04:33] Ground ball pickup by UALBANY Rocco Mareno.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:56",
+    "home_event": "Shot by UALBANY Koleton Marquis WIDE.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "GOAL by UALBANY Silas Richmond.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by UALBANY (on faceoff violation).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:52",
+    "home_event": "Shot by UALBANY Silas Richmond WIDE.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "Turnover by UALBANY Alex Pfeiffer.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by BING Ramos, Lorenzo."
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by BING DeLay, Colin, SAVE Brady Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "00:59",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Turnover by UALBANY Jackson Palumb (caused by Winters, Connor).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by BING Winters, Connor."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "GOAL by BING Capucciati, Paolo, Assist by Sharkey, Brady."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Faceoff Rocco Mareno vs Mangio, CJ won by BING, [00:03] Ground ball pickup by BING Mangio, CJ."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by BING Mangio, CJ BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Rocco Mareno vs Mangio, CJ won by UALBANY, [15:00] Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Turnover by UALBANY Ryan Doherty.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by BING Feldmann, Will (caused by Cade Galko)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "Shot by UALBANY Ryan Doherty HIGH.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:06",
+    "home_event": "Shot by UALBANY Ryan Doherty WIDE.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:47",
+    "home_event": "Shot clock violation by UALBANY.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:54",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by BING Jacobsen, Gavin (caused by Justin Lee)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "Ground ball pickup by UALBANY Justin Lee.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:45",
+    "home_event": "Turnover by UALBANY Brady Smith (caused by Garone, Dan).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "Clear attempt by UALBANY failed.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:05",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by BING Kelly, Thomas, SAVE Brady Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "Ground ball pickup by UALBANY Max Neeson.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:03",
+    "home_event": "Shot by UALBANY Koleton Marquis WIDE.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:47",
+    "home_event": "GOAL by UALBANY Alex Pfeiffer.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:47",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Girolamo, Andrew HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Feldmann, Will HIT CROSSBAR."
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Feldmann, Will HIT CROSSBAR."
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Girolamo, Andrew WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:40",
+    "home_event": "Shot by UALBANY Patrick Mai, SAVE Winters, Connor.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:17",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Ferris, Liam WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Jacobsen, Gavin, SAVE Brady Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "Shot by UALBANY Silas Richmond, SAVE Winters, Connor.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:02",
+    "home_event": "Turnover by UALBANY Jackson Palumb (caused by Hanko, Christian).",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Ground ball pickup by BING Jenkins, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by BING good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Jenkins, Riley, SAVE Brady Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "04:05",
+    "home_event": "Turnover by UALBANY.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Timeout by BING."
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Adams, Gage HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Adams, Gage WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:48",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Shot by BING Girolamo, Andrew BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "02:40",
+    "home_event": "Ground ball pickup by UALBANY Jacob Smith.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "GOAL by UALBANY Koleton Marquis.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:55",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "Faceoff Jezayd Hall vs Wilson, Flynn won by BING, [01:55] Ground ball pickup by BING Sharkey, Brady."
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "GOAL by BING Ferris, Liam."
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "Faceoff Rocco Mareno vs Wilson, Flynn won by BING (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:01",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "Shot by BING Ferris, Liam WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "",
+    "score": "11-9",
+    "away_event": "Shot by BING Ferris, Liam, SAVE Brady Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "Ground ball pickup by UALBANY Cade Galko.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "Timeout by UALBANY.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "Clear attempt by UALBANY good.",
+    "score": "11-9",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1675 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "EARL, Logan at goalie for UMBC51.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Miller, Sean at goalie for HC."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by UMBC51, [15:00] Ground ball pickup by UMBC51 WEBBER, Justin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "GOAL by UMBC51 DUNLEAVY, Mike (FIRST GOAL), Assist by HOCKENBERRY, Allen.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by HC, [14:17] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by HC Rincon, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by HC Sheehan, Henry, Assist by Tunney, Owen, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by HC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by HC Lynch, Jude, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by HC, [13:15] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by HC Messineo, Will, Assist by Tunney, Owen, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff WEBBER, Justin vs Golden, Timothy won by HC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by HC Mitchell, John, Assist by Tunney, Owen, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Timeout by UMBC51.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [12:07] Ground ball pickup by UMBC51 WEHBERG, Andrew.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "Turnover by UMBC51 HOCKENBERRY, Allen (caused by Carbonell, Matthew).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by HC Jenkins, Julian."
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by HC Bonomo, Michael, Assist by Ottomanelli, Andrew, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [09:58] Ground ball pickup by HC McPherson, Calahan."
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by HC McPherson, Calahan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by HC Lynch, Jude, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [09:41] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "Turnover by UMBC51 CYREK, Jack.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Bonomo, Michael HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Botek, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by HC."
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot clock violation by HC."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "Turnover by UMBC51 STOCKENBERG, Cam (caused by Carbonell, Matthew).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by HC Carbonell, Matthew."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Carbonell, Matthew, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Lynch, Jude WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Lynch, Jude, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Clear attempt by UMBC51 failed.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "Turnover by UMBC51 EARL, Logan.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by HC Rincon, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by HC Shoemaker, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by HC."
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden HIGH.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "Turnover by UMBC51 LAYDEN, Conner.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by HC Ottomanelli, Andrew."
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by HC Ottomanelli, Andrew, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "GOAL by UMBC51 DOUGHTY, Kevin, Assist by O'MARA, Payton.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by UMBC51, [02:15] Ground ball pickup by UMBC51 WEBBER, Justin.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Turnover by UMBC51 WEBBER, Justin (caused by Jenkins, Julian).",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Ground ball pickup by HC Messineo, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Shot by HC Messineo, Will WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander, SAVE Miller, Sean.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Clear attempt by HC failed."
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Turnover by HC Larson, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "Ground ball pickup by UMBC51 HOCKENBERRY, Allen.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden WIDE.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by UMBC51 (on faceoff violation).",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "Shot by UMBC51 DUNLEAVY, Mike WIDE.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "GOAL by UMBC51 DAVIS, Ayden, Assist by MAXWELL, Xander.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Faceoff WEBBER, Justin vs Golden, Timothy won by UMBC51 (on faceoff violation).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden WIDE.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "Shot by UMBC51 COYLE, Zach, SAVE Miller, Sean.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Penalty on HC Larson, Owen (CROSS-CHECK/1:00) Extra-man opportunity(2)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "GOAL by UMBC51 COYLE, Zach (MAN-UP), Assist by HOCKENBERRY, Allen.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff WEBBER, Justin vs Ouhrabka, Gavin won by HC (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:12",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by HC Botek, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by HC Mitchell, John, Assist by Botek, Ryan, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [11:42] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:47",
+    "home_event": "Turnover by UMBC51 DUNLEAVY, Mike (caused by Jenkins, Julian).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by HC Messineo, Will, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Penalty on UMBC51 O'MARA, Payton (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by HC Lynch, Jude HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by HC McDonald, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by HC McDonald, Sam, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by HC Lynch, Jude."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "Penalty on UMBC51 SULLIVAN, Rory (PUSHING/0:30) Extra-man opportunity.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by HC Lynch, Jude BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by HC Mitchell, John."
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by HC Ottomanelli, Andrew, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "Ground ball pickup by UMBC51 EARL, Logan.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "Shot by UMBC51 CYREK, Jack, SAVE Miller, Sean.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by HC Mitchell, John, Assist by Carbonell, Matthew, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [07:31] Ground ball pickup by UMBC51 DUFFY, Logan.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Shot by UMBC51 STOCKENBERG, Cam, SAVE Miller, Sean.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by HC Messineo, Will WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "Turnover by UMBC51 DAVIS, Ayden (caused by Miller, Sean).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "05:26",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by HC failed."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by HC Miller, Sean (caused by HOCKENBERRY, Allen)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Turnover by UMBC51 HOCKENBERRY, Allen.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by HC Tunney, Owen, SAVE EARL, Logan."
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "Ground ball pickup by UMBC51 EARL, Logan.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:18",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "Shot by UMBC51 CYREK, Jack WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:26",
+    "home_event": "Shot by UMBC51 HOCKENBERRY, Allen WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:08",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Penalty on HC Rincon, Michael (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "02:51",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander WIDE.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "GOAL by UMBC51 DUNLEAVY, Mike, Assist by HOCKENBERRY, Allen.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [02:42] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "Ground ball pickup by UMBC51 MAXWELL, Xander.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander WIDE.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by HC Bonomo, Michael, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Faceoff HORTON, Houston vs Golden, Timothy won by HC, [00:27] Ground ball pickup by HC Carbonell, Matthew."
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by HC."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander WIDE.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "STEPHENS, Billy at goalie for UMBC51.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [15:00] Ground ball pickup by UMBC51 WEHBERG, Andrew.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:43",
+    "home_event": "Turnover by UMBC51 WEHBERG, Andrew (caused by Jenkins, Julian).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by HC Jenkins, Julian."
+  },
+  {
+    "quarter": "3",
+    "time": "14:34",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by HC Mitchell, John."
+  },
+  {
+    "quarter": "3",
+    "time": "14:31",
+    "home_event": "Ground ball pickup by UMBC51 WEHBERG, Andrew.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:20",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:57",
+    "home_event": "Turnover by UMBC51 DAVIS, Ayden (caused by Jenkins, Julian).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by HC Jenkins, Julian."
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by HC Messineo, Will."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "Turnover by UMBC51 WEBBER, Justin (caused by Botek, Ryan).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:11",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by HC Deo, Will HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Timeout by HC."
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by HC Lynch, Jude (caused by WEHBERG, Andrew)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "Ground ball pickup by UMBC51 LAYDEN, Conner.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:43",
+    "home_event": "Shot by UMBC51 CYREK, Jack, SAVE Miller, Sean.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:41",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by HC Mitchell, John, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Penalty on UMBC51 McNEIR, Griffen (SLAS/1:00) Extra-man opportunity(2).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by HC Lynch, Jude (MAN-UP), Assist by Bonomo, Michael, goal number 18 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [09:46] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by HC Sheehan, Henry, Assist by Tunney, Owen, goal number 7 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [08:53] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "Turnover by UMBC51.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "Shot clock violation by UMBC51.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:18",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by HC Lynch, Jude (caused by SULLIVAN, Rory)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "Turnover by UMBC51 STOCKENBERG, Cam (caused by Rincon, Michael).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by HC Ottomanelli, Andrew."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HC McDonald, Sam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:56",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HC Webster, Bo WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:42",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by HC Sheehan, Henry."
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "Ground ball pickup by UMBC51 BREDECK, Kevin.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "Shot by UMBC51 CYREK, Jack WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:44",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander HIT POST.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:09",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HC Lynch, Jude, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "Shot by UMBC51 STOCKENBERG, Cam HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "Shot by UMBC51 HOCKENBERRY, Allen WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "Ground ball pickup by UMBC51 COYLE, Zach.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "GOAL by UMBC51 MAXWELL, Xander, Assist by STOCKENBERG, Cam.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [01:45] Ground ball pickup by HC Ouhrabka, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by HC Bonomo, Michael, Assist by Botek, Ryan, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "Faceoff HORTON, Houston vs Golden, Timothy won by UMBC51, [00:42] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:12",
+    "home_event": "Shot by UMBC51 HOCKENBERRY, Allen, SAVE Miller, Sean.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff HORTON, Houston vs Golden, Timothy won by UMBC51, [15:00] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:27",
+    "home_event": "Shot by UMBC51 DAVIS, Ayden HIGH.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:16",
+    "home_event": "Turnover by UMBC51 MAXWELL, Xander (caused by Rincon, Michael).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:28",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by HC Tunney, Owen, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "4",
+    "time": "13:08",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by HC Lynch, Jude, Assist by McDonald, Sam, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:08",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [13:08] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "Shot by UMBC51 HOCKENBERRY, Allen, SAVE Miller, Sean.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:54",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by HC Sheehan, Henry WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Turnover by HC."
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot clock violation by HC."
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:45",
+    "home_event": "Shot by UMBC51 COYLE, Zach, SAVE Miller, Sean.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by HC Rincon, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "10:37",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by HC McPherson, Calahan, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "Ground ball pickup by UMBC51 SULLIVAN, Rory.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:25",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:18",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Penalty on HC Tunney, Owen (SLAS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "Shot by UMBC51 O'MARA, Payton WIDE.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "Shot by UMBC51 CYREK, Jack, SAVE Miller, Sean.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:24",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Shot by HC Ottomanelli, Andrew, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "4",
+    "time": "08:21",
+    "home_event": "Ground ball pickup by UMBC51 McNEIR, Griffen.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:11",
+    "home_event": "Shot by UMBC51 WEHBERG, Andrew, SAVE Miller, Sean.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:07",
+    "home_event": "Ground ball pickup by UMBC51 HOCKENBERRY, Allen.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "Shot by UMBC51 CYREK, Jack BLOCKED.",
+    "score": "6-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Ground ball pickup by HC Marchetta, Matthew."
+  },
+  {
+    "quarter": "4",
+    "time": "07:12",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by HC Botek, Ryan, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by HC, [06:30] Ground ball pickup by HC Shoemaker, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "GOAL by HC Bonomo, Michael, Assist by Webster, Bo, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Faceoff HORTON, Houston vs Ouhrabka, Gavin won by UMBC51, [05:48] Ground ball pickup by UMBC51 HORTON, Houston.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "Shot by UMBC51 DUNLEAVY, Mike, SAVE Miller, Sean.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Ground ball pickup by HC Miller, Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:26",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by HC Sheehan, Henry, SAVE STEPHENS, Billy."
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "Ground ball pickup by UMBC51 STEPHENS, Billy.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Penalty on HC Botek, Ryan (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "Turnover by UMBC51 HOCKENBERRY, Allen.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by HC good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Turnover by HC Mitchell, John (caused by FRAIJI, Elie)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "Ground ball pickup by UMBC51 FRAIJI, Elie.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "Clear attempt by UMBC51 good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "GOAL by UMBC51 CYREK, Jack.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Stanton, Riley at goalie for HC."
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "Faceoff HORTON, Houston vs Golden, Timothy won by UMBC51 (on faceoff violation).",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "Shot by UMBC51 COYLE, Zach, SAVE Stanton, Riley.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "Ground ball pickup by UMBC51 STOCKENBERG, Cam.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "Shot by UMBC51 STOCKENBERG, Cam BLOCKED.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Penalty on HC McPherson, Calahan (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander HIT POST.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "Shot by UMBC51 MAXWELL, Xander, SAVE Stanton, Riley.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Ground ball pickup by HC Stanton, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Clear attempt by HC failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Turnover by HC Stanton, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "00:15",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Timeout by HC."
+  }
+]

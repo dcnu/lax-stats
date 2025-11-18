@@ -1,0 +1,1710 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Joe Doherty at goalie for LAF.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Max Watkinson at goalie for LOYOLA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Evan Prince vs Carson Hall won by LAF, [15:00] Ground ball pickup by LAF Lukas Digiovanni.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "GOAL by LAF Jack Massotto (FIRST GOAL), Assist by Riley Sullivan, goal number 4 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "Faceoff Evan Prince vs Carson Hall won by LAF.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "Ground ball pickup by LAF Jack Massotto.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "Shot by LAF Joseph Duggan WIDE RIGHT.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by LOYOLA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by LOYOLA Remi Reynolds."
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "Shot by LAF Riley Sullivan, SAVE Max Watkinson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "Penalty on LAF P.J. Hodge (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "Penalty on LAF Aidan Kopen (PUSHING/0:30).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LOYOLA Luke Murphy, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "Clear attempt by LAF failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "Turnover by LAF Andrew Matarese.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LOYOLA Matthew Minicus, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "Shot by LAF Riley Sullivan WIDE RIGHT.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "Shot by LAF Mason Hill HIGH.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Max Watkinson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "Ground ball pickup by LAF Mason Hill.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "Shot by LAF Mason Hill WIDE LEFT.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "Ground ball pickup by LAF Joseph Duggan.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "GOAL by LAF Liam Sargent, Assist by Joseph Duggan, goal number 4 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "Faceoff Evan Prince vs Carson Hall won by LAF, [09:30] Ground ball pickup by LAF Evan Prince.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Penalty on LOYOLA Tyler Olsen (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "Shot by LAF Benjamin DiBattista WIDE RIGHT.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Shot by LAF Joshua Heaney, SAVE Max Watkinson.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by LOYOLA."
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "Turnover by LAF.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Kyle McCarthy, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Brady West, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "Turnover by LAF Benjamin DiBattista (caused by Joe Houlihan).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Matthew Minicus, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "Turnover by LAF Aidan Kopen (caused by Jacob Sullivan).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Diego Roman."
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Max Watkinson."
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Jacob Sullivan WIDE RIGHT."
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Kyle McCarthy WIDE RIGHT."
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Kenan Everhart, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Shot by LAF John Galbraith, SAVE Max Watkinson.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "Ground ball pickup by LAF Mason Hill.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "Shot by LAF Benjamin DiBattista, SAVE Max Watkinson.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "Shot by LAF Riley Sullivan, SAVE Max Watkinson.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Luke Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "Penalty on LAF Jack Massotto (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by LOYOLA Brady West, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "Ground ball pickup by LAF Matt Skibniewski.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Turnover by LAF Liam Sargent (caused by Joe Houlihan).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA, [15:00] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by LOYOLA Luke Murphy, Assist by Matthew Minicus, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA, [14:17] Ground ball pickup by LOYOLA Brady Rogoff."
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by LOYOLA Remi Reynolds, Assist by Brady West, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA, [13:51] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by LOYOLA Marek Seaman, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "Shot by LAF Mason Hill, SAVE Max Watkinson.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:06",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:38",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by LOYOLA Brady West, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "12:15",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by LOYOLA Will McCulloch WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by LOYOLA Ryan McGorry, Assist by Matthew Minicus, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by LOYOLA Brady Quinn, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "Timeout by LAF.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [11:17] Ground ball pickup by LOYOLA Bruno Chapman."
+  },
+  {
+    "quarter": "2",
+    "time": "10:00",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LOYOLA Mason Cook, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Timeout by LOYOLA."
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LOYOLA Will McCulloch, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "Shot by LAF Riley Sullivan, SAVE Max Watkinson.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "Turnover by LAF Benjamin DiBattista (caused by Joe Houlihan).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by LOYOLA Chase Brody."
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by LOYOLA Vinnie Trujillo WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "GOAL by LAF Mason Hill, Assist by Joshua Heaney, goal number 8 for season.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF, [06:38] Ground ball pickup by LAF Nick Faccone.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:55",
+    "home_event": "Turnover by LAF Aidan Kopen.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:45",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by LOYOLA Mason Cook."
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by LOYOLA Ryan McGorry HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "04:36",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by LOYOLA Brady West WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot clock violation by LOYOLA."
+  },
+  {
+    "quarter": "2",
+    "time": "04:31",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "GOAL by LAF Benjamin DiBattista, Assist by Riley Sullivan, goal number 10 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF, [03:53] Ground ball pickup by LAF Brendan Burke.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "Turnover by LAF Mason Hill (caused by Marek Seaman).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:53",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by LOYOLA Bruno Chapman (caused by Cade Kilbride)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "Ground ball pickup by LAF Cade Kilbride.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "GOAL by LAF Joseph Duggan, Assist by Mason Hill, goal number 7 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [02:32] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "2",
+    "time": "02:04",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by LOYOLA Will McCulloch WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:04",
+    "home_event": "Penalty on LAF Andrew Matarese (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by LOYOLA Luke Murphy, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by LOYOLA Matthew Minicus."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "GOAL by LOYOLA Brady West (MAN-UP), Assist by Henry Haberman, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [01:28] Ground ball pickup by LOYOLA Brady Rogoff."
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by LOYOLA Brady Rogoff (caused by Nick Faccone)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:19",
+    "home_event": "Ground ball pickup by LAF Nick Faccone.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:16",
+    "home_event": "Timeout by LAF.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "Turnover by LAF Joseph Duggan.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by LOYOLA Max Watkinson."
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by LOYOLA Chase Brody WIDE RIGHT."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA, [15:00] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by LOYOLA Matthew Minicus."
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by LOYOLA Will McCulloch, Assist by Henry Haberman, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "Faceoff Evan Prince vs Carson Hall won by LAF.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "Turnover by LAF Liam Sargent.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:09",
+    "home_event": "Shot by LAF Liam Sargent, SAVE Max Watkinson.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:09",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:09",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by LOYOLA Matthew Minicus WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "12:35",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by LOYOLA Kyle McCarthy."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "GOAL by LAF Joshua Heaney, Assist by Riley Sullivan, goal number 13 for season.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "Faceoff Evan Prince vs Carson Hall won by LAF, [11:42] Ground ball pickup by LAF Evan Prince.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:36",
+    "home_event": "Turnover by LAF Evan Prince (caused by Marek Seaman).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by LOYOLA Remi Reynolds."
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by LOYOLA Matthew Minicus BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:24",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by LOYOLA Marek Seaman."
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by LOYOLA Henry Haberman BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by LOYOLA Luke Murphy."
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by LAF Cade Kilbride.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:13",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Penalty on LOYOLA Brady Quinn (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "09:36",
+    "home_event": "Shot by LAF Clifford Chapman, SAVE Max Watkinson.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by LOYOLA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by LOYOLA Max Watkinson."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "Ground ball pickup by LAF Brendan Burke.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "GOAL by LAF P.J. Hodge, goal number 1 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:35",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Evan Prince vs Carson Hall won by LOYOLA (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:53",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by LOYOLA Will McCulloch BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "07:51",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by LOYOLA Brady West."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by LOYOLA Matthew Minicus, Assist by Will McCulloch, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF, [07:42] Ground ball pickup by LAF Nick Faccone.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:51",
+    "home_event": "Turnover by LAF Nick Muller (caused by Joe Houlihan).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by LOYOLA Joe Houlihan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by LOYOLA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "06:36",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by LOYOLA Marek Seaman."
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "Ground ball pickup by LAF Aidan Kopen.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Shot by LAF Riley Sullivan WIDE LEFT.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:13",
+    "home_event": "Shot clock violation by LAF.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:52",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by LOYOLA Brady Rogoff, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Turnover by LAF Riley Sullivan.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by LOYOLA Brady Rogoff."
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by LOYOLA Brady Rogoff."
+  },
+  {
+    "quarter": "3",
+    "time": "03:12",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by LOYOLA Luke Murphy WIDE RIGHT."
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by LOYOLA Brady Quinn, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "3",
+    "time": "02:56",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "GOAL by LAF John Galbraith, goal number 1 for season.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Shot by LAF Liam Sargent HIGH.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "Ground ball pickup by LAF Mason Hill.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Penalty on LAF Riley Sullivan (SLASHING/1:00) Extra-man opportunity.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Turnover by LAF Joshua Heaney (caused by Joe Houlihan).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by LOYOLA Mason Cook (MAN-UP), Assist by Henry Haberman, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:32",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF (on faceoff violation).",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "GOAL by LAF Benjamin DiBattista, Assist by Riley Sullivan, goal number 11 for season.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Faceoff Nick Faccone vs Sawyer Allen won by LAF, [00:31] Ground ball pickup by LAF Jack Massotto.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "Turnover by LAF Jack Massotto (caused by Diego Roman).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by LOYOLA Brady Quinn, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by LOYOLA Will McCulloch, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [15:00] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "4",
+    "time": "14:51",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by LOYOLA Carson Hall (caused by Nick Faccone)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:46",
+    "home_event": "Ground ball pickup by LAF Riley Sullivan.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "GOAL by LAF Benjamin DiBattista, Assist by Liam Sargent, goal number 12 for season.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:23",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [14:23] Ground ball pickup by LOYOLA Will McCulloch."
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "Penalty on LAF Matt Skibniewski (HOLDING/0:30) Extra-man opportunity.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by LOYOLA Mason Cook (MAN-UP), Assist by Matthew Minicus, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "Faceoff Nick Faccone vs Carson Hall won by LAF, [12:34] Ground ball pickup by LAF Brendan Poirier.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by LAF Cade Kilbride.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "Shot by LAF Liam Sargent WIDE LEFT.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "Shot by LAF Joseph Duggan WIDE RIGHT.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "Shot by LAF Riley Sullivan, SAVE Max Watkinson.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:43",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by LOYOLA Remi Reynolds."
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by LOYOLA failed."
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by LOYOLA Remi Reynolds."
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Timeout by LOYOLA."
+  },
+  {
+    "quarter": "4",
+    "time": "10:18",
+    "home_event": "Turnover by LAF Liam Sargent.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:15",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by LOYOLA Jake Wilson."
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:58",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by LOYOLA Matthew Minicus."
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by LOYOLA Will McCulloch (caused by Andrew Matarese)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:39",
+    "home_event": "Ground ball pickup by LAF Andrew Matarese.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "Turnover by LAF Mason Hill (caused by Remi Reynolds).",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by LOYOLA Remi Reynolds."
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by LOYOLA Ryan McGorry BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "08:06",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by LOYOLA Matthew Minicus."
+  },
+  {
+    "quarter": "4",
+    "time": "08:02",
+    "home_event": "Ground ball pickup by LAF Joe Doherty.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "Timeout by LAF.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "GOAL by LAF Riley Sullivan, goal number 22 for season.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Faceoff Nick Faccone vs Carson Hall won by LOYOLA, [06:49] Ground ball pickup by LOYOLA Carson Hall."
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Turnover by LOYOLA Brady Quinn (caused by Jack Massotto)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Ground ball pickup by LAF Jack Massotto.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "Ground ball pickup by LAF Riley Sullivan.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:33",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "Turnover by LAF Riley Sullivan.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by LOYOLA failed."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Turnover by LOYOLA Diego Roman (caused by Cade Kilbride)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:34",
+    "home_event": "Ground ball pickup by LAF Cade Kilbride.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "Turnover by LAF Riley Sullivan (caused by Diego Roman).",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Ground ball pickup by LOYOLA Marek Seaman."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:05",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by LOYOLA Mason Cook, SAVE Joe Doherty."
+  },
+  {
+    "quarter": "4",
+    "time": "03:01",
+    "home_event": "Clear attempt by LAF good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Shot by LAF Joseph Duggan, SAVE Max Watkinson.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:49",
+    "home_event": "Shot clock violation by LAF.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by LOYOLA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Timeout by LOYOLA."
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by LOYOLA Mason Cook WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "Timeout by LAF.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by LOYOLA Matthew Minicus WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by LOYOLA Will McCulloch HIGH."
+  }
+]

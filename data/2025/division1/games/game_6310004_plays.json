@@ -1,0 +1,1710 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nolan Hudnut at goalie for BU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ryan Della Rocco at goalie for JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Cole Messick vs Drew Rippeon won by JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by JAX Ethan LaMond."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "Turnover by BU Ian Kohut (caused by Nicky Brown).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by JAX Daylin John-Hill."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by JAX Daylin John-Hill (FIRST GOAL), goal number 11 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Cole Messick vs Drew Rippeon won by JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by JAX Henry Fleckner WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:25",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by JAX Jack Taylor WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "Clear attempt by BU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "Turnover by BU Justin Wescoat (caused by Aaron Toguri).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by JAX Ethan LaMond, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "Turnover by BU (caused by Aaron Toguri).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Penalty on JAX Daylin John-Hill (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by JAX Nicky Brown (MAN-UP), Assist by Dalton Hubbs, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Cole Messick vs Drew Rippeon won by JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by JAX Tucker Denault."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by JAX Ethan LaMond WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by JAX Ethan LaMond HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by JAX Henry Fleckner, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by JAX Ethan LaMond."
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by JAX Daylin John-Hill, Assist by Jackson Intrieri, goal number 12 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "Timeout by BU.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Aidan Fearn vs Drew Rippeon won by JAX, [08:49] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by JAX Drew Rippeon, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by JAX Jack Taylor, Assist by Jackson Intrieri, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Aidan Fearn vs Drew Rippeon won by JAX, [07:55] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by JAX Jack Taylor, Assist by Drew Rippeon, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "Faceoff Aidan Fearn vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "Turnover by BU Leo Prosser (caused by Cal Taulbee).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Cal Taulbee."
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Turnover by JAX."
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "Shot by BU Ezra Moore WIDE.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "Shot by BU John Alie, SAVE Ryan Della Rocco.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Cal Taulbee."
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by JAX Jack Taylor, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Dalton Hubbs."
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by JAX Dalton Hubbs WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "Ground ball pickup by BU Christopher Reynolds.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "Clear attempt by BU good.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "Shot by BU John Alie HIT POST.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Quinn Fuller."
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by JAX Ethan LaMond, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "Turnover by BU Ryan Curry (caused by Ryan Della Rocco).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Ryan Della Rocco."
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by JAX Ethan LaMond WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "Turnover by BU (caused by Michael Meredith).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by JAX Ryan Della Rocco."
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by JAX Marshall McGuire WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by JAX Jack Taylor, goal number 18 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "GOAL by BU Michael Blaymires, Assist by Justin Wescoat.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU, [00:33] Ground ball pickup by BU Cole Messick.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "Turnover by BU Ezra Moore.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by JAX Ryan Della Rocco."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU, [15:00] Ground ball pickup by BU Nick Ferge.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:35",
+    "home_event": "Shot by BU Brennan McDermott WIDE.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:17",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Penalty on JAX Tucker Denault (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "Turnover by BU John Alie (caused by Lucas Fraser).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by JAX Lucas Fraser."
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by JAX Lucas Fraser (caused by Sam Boylston)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Ground ball pickup by BU Sam Boylston.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:03",
+    "home_event": "Turnover by BU Ezra Moore.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:28",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by JAX Jack Taylor HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "Ground ball pickup by BU Nolan Hudnut.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:17",
+    "home_event": "Clear attempt by BU good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "Shot by BU Justin Wescoat, SAVE Ryan Della Rocco.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:56",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by JAX Daylin John-Hill, Assist by Jackson Intrieri, goal number 13 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:56",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:24",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by JAX Parker Yeargo WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:21",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Penalty on JAX Charlie DiGennaro (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "GOAL by BU Justin Wescoat (MAN-UP).",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Faceoff Cole Messick vs Colin Baez won by JAX, [12:02] Ground ball pickup by JAX Tucker Denault."
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Turnover by JAX Jackson Intrieri (caused by Nick Ferge)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:47",
+    "home_event": "Ground ball pickup by BU Brennan McDermott.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "Clear attempt by BU good.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "Shot by BU Ezra Moore, SAVE Ryan Della Rocco.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:45",
+    "home_event": "GOAL by BU John Alie.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:45",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Faceoff Cole Messick vs Drew Rippeon won by JAX, [09:45] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by JAX Andrew Cowan, Assist by Jackson Intrieri, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "Shot by BU Ty Washington, SAVE Ryan Della Rocco.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by JAX Charlie DiGennaro, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Cole Messick vs Colin Baez won by JAX, [08:16] Ground ball pickup by JAX Tucker Denault."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Turnover by JAX Daylin John-Hill."
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "Clear attempt by BU good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "Shot by BU Ezra Moore HIGH.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "Turnover by BU Justin Wescoat (caused by Breyden Harrison).",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by JAX Bryce Wojnovich."
+  },
+  {
+    "quarter": "2",
+    "time": "05:58",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "GOAL by JAX Nicky Brown, Assist by Breyden Harrison, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "Turnover by BU Luke Healy (caused by Quinn Fuller).",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by JAX Aaron Toguri."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Shot by JAX Nicky Brown WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:16",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:10",
+    "home_event": "Turnover by BU Nick Ferge (caused by Jack Taylor).",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by JAX Jack Taylor."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by JAX Maddox Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "04:18",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Shot by JAX Daylin John-Hill HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "03:29",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "GOAL by JAX Jackson Intrieri, Assist by Daylin John-Hill, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:29",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU, [03:29] Ground ball pickup by BU Cole Messick.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "Turnover by BU Cole Messick (caused by Drew Rippeon).",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by JAX."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "Turnover by BU Sam Boylston.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by JAX Michael Meredith."
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Timeout by JAX."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by JAX Nicky Brown, Assist by Jackson Intrieri, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "Faceoff Cole Messick vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:50",
+    "home_event": "Shot by BU John Alie WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by JAX failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by JAX Bryce Wojnovich."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "Clear attempt by BU good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "GOAL by BU Joe Alie, Assist by Luke Healy.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Faceoff Aidan Fearn vs Drew Rippeon won by BU (on faceoff violation).",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff Aidan Fearn vs Colin Baez won by JAX, [15:00] Ground ball pickup by JAX Colin Baez."
+  },
+  {
+    "quarter": "3",
+    "time": "13:56",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by JAX Ethan LaMond."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "Ground ball pickup by BU Christopher Reynolds.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Turnover by BU Christopher Reynolds.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "GOAL by JAX Jackson Intrieri, Assist by Jack Taylor, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Faceoff Aidan Fearn vs Drew Rippeon won by JAX, [13:04] Ground ball pickup by JAX Quinn Fuller."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by JAX Michael Clark, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "Clear attempt by BU good.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "Shot by BU Ian Kohut, SAVE Ryan Della Rocco.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:37",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by JAX Charlie DiGennaro, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "Clear attempt by BU good.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "GOAL by BU Ezra Moore.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff Aidan Fearn vs Drew Rippeon won by JAX, [10:57] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "3",
+    "time": "09:54",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Turnover by JAX Jack Taylor."
+  },
+  {
+    "quarter": "3",
+    "time": "09:40",
+    "home_event": "Ground ball pickup by BU Nolan Hudnut.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:39",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "Turnover by BU Christopher Reynolds.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by JAX Daylin John-Hill HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by JAX Ethan LaMond, Assist by Jackson Intrieri, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Aidan Fearn vs Drew Rippeon won by JAX (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:29",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Nicky Brown."
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Jackson Intrieri."
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by JAX Nicky Brown (caused by Brady Long)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "Ground ball pickup by BU Brady Long.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "Shot by BU Ezra Moore HIGH.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "Shot by BU Ty Washington BLOCKED.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Davis Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by JAX Lucas Fraser."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "Turnover by BU Nicholas Sheremetta.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:10",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Charlie DiGennaro WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "Shot by BU Michael Blaymires HIGH.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:19",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:04",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by JAX Dalton Hubbs."
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "Turnover by BU Ezra Moore (caused by Michael Meredith).",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:23",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Michael Meredith."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Nicky Brown, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "03:12",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Jackson Intrieri."
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by JAX Jackson Intrieri (caused by Nolan Hudnut)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "Ground ball pickup by BU Nolan Hudnut.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:21",
+    "home_event": "Timeout by BU.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "Turnover by BU Ezra Moore.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:51",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Breyden Harrison WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Daylin John-Hill HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "00:57",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Marshall McGuire WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by JAX Maddox Johnson (caused by Ryan Curry)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:41",
+    "home_event": "Ground ball pickup by BU Brady Long.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:32",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:25",
+    "home_event": "Shot by BU Ezra Moore, SAVE Ryan Della Rocco.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Ethan LaMond, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Niko Madden vs Drew Rippeon won by JAX, [15:00] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "4",
+    "time": "13:54",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Jackson Intrieri HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "Penalty on BU Nick Ferge (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by JAX Jack Taylor, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:25",
+    "home_event": "Shot by BU Justin Wescoat, SAVE Ryan Della Rocco.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by JAX Ryan Della Rocco."
+  },
+  {
+    "quarter": "4",
+    "time": "12:21",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by JAX Breyden Harrison, Assist by Nicky Brown, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff Niko Madden vs Drew Rippeon won by JAX, [12:08] Ground ball pickup by JAX Drew Rippeon."
+  },
+  {
+    "quarter": "4",
+    "time": "11:45",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by JAX Gavin Angell."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:11",
+    "home_event": "Shot by BU Sam Boylston, SAVE Ryan Della Rocco.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "Shot by BU John Alie, SAVE Ryan Della Rocco.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:13",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Marshall McGuire, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Drew Kessenich HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "09:10",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by JAX Michael Clark."
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "Penalty on BU Matt Kirton (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:37",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Nicky Brown, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "08:35",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by JAX Dalton Hubbs."
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Nicky Brown BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "07:58",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Jack Taylor, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "Ground ball pickup by BU Nolan Hudnut.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:47",
+    "home_event": "Turnover by BU Ezra Moore (caused by Michael Meredith).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by JAX Tucker Denault."
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by JAX good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:33",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by JAX Daylin John-Hill WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by JAX Gavin Angell (caused by Brennan McDermott)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:38",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "Turnover by BU Luke Healy (caused by Ryan Della Rocco).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by JAX Ryan Della Rocco."
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Paul Reidy at goalie for JAX."
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by JAX Daylin John-Hill."
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "Clear attempt by BU good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "Turnover by BU Jaden Wilkins (caused by Quinn Fuller).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:01",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by JAX Nicky Brown."
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "GOAL by JAX Nicky Brown, Assist by Andrew Cowan, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Faceoff Niko Madden vs Colin Baez won by JAX (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Shot by JAX Parker Yeargo WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:02",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "GOAL by JAX Ryan Vierbuchen, Assist by Andrew Cowan, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:02",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Faceoff Niko Madden vs Colin Baez won by JAX, [02:02] Ground ball pickup by JAX Gavin Osteen."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by JAX Alex Kershis HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "Clear attempt by BU failed.",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:21",
+    "home_event": "Turnover by BU Nicholas Sheremetta.",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:04",
+    "home_event": "",
+    "score": "5-18",
+    "away_event": "GOAL by JAX Jack Lovelace, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:04",
+    "home_event": "Faceoff Niko Madden vs Colin Baez won by BU, [00:04] Ground ball pickup by BU Jackson Campisano.",
+    "score": "5-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "5-18",
+    "away_event": "Ground ball pickup by JAX."
+  }
+]

@@ -1,0 +1,1528 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Renaud, Luke at goalie for BUCK.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Doherty, Joe at goalie for LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by LAF Prince, Evan (caused by McLoy, Colin)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:42",
+    "home_event": "Ground ball pickup by BUCK Young, John.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:39",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "Turnover by BUCK Hopkins, Will (caused by Kilbride, Cade).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LAF Sullivan, Riley HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "12:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LAF Sullivan, Riley WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by LAF Heaney, Joshua (FIRST GOAL), Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF, [12:23] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by LAF Irish, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [11:38] Ground ball pickup by BUCK McLoy, Colin.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "Turnover by BUCK Hopkins, Will (caused by Galbraith, John).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by LAF Sullivan, Riley BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "Ground ball pickup by BUCK Pickering, Will.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:38",
+    "home_event": "Shot by BUCK Panetti, Anthony, SAVE Doherty, Joe.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by LAF Sullivan, Riley, Assist by Heaney, Joshua."
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "Timeout by BUCK.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by LAF Sullivan, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by LAF Sullivan, Riley (caused by Pickering, Will)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "Ground ball pickup by BUCK Pickering, Will.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "Turnover by BUCK Grandolfo, Peter (caused by Andrew Matarese).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by LAF Sargent, Liam HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "07:41",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by LAF Sullivan, Riley HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "Turnover by BUCK Doolan, Cam (caused by Skibniewski, Matt).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by LAF Massotto, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by LAF Sullivan, Riley (caused by Germain, Louie)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "Ground ball pickup by BUCK Talarico, George.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "Shot by BUCK Kovacs, Owen, SAVE Doherty, Joe.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by LAF Heaney, Joshua, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "Faceoff Edwards, Brandon vs Prince, Evan won by BUCK, [06:15] Ground ball pickup by BUCK Young, John.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "Shot by BUCK Kovacs, Owen, SAVE Doherty, Joe.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "Timeout by BUCK.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Edwards, Brandon vs Prince, Evan won by LAF, [05:31] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by LAF Hill, Mason."
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by LAF Sullivan, Riley, SAVE Renaud, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Ground ball pickup by LAF Muller, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by LAF Muller, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Edwards, Brandon vs Prince, Evan won by LAF, [04:14] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by LAF Sargent, Liam BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Ground ball pickup by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by LAF Duggan, Joseph WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Day, Parker at goalie for BUCK.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Faceoff Pepe, Steven vs Prince, Evan won by BUCK, [02:56] Ground ball pickup by BUCK Pepe, Steven.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "Turnover by BUCK Doolan, Cam (caused by Doherty, Joe).",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by LAF Doherty, Joe."
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:48",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by LAF Hill, Mason, SAVE Day, Parker."
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Faceoff Pepe, Steven vs Prince, Evan won by LAF, [15:00] Ground ball pickup by LAF Skibniewski, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "14:53",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:43",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "2",
+    "time": "13:37",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "13:30",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by BUCK Grandolfo, Peter.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Penalty on LAF Galbraith, John (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Shot by BUCK Kovacs, Owen HIGH.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "Shot by BUCK Meyer, Michael, SAVE Doherty, Joe.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by LAF DiBattista, Benjamin WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "Penalty on BUCK Bonafede, Ben (HOLDING/0:30) Extra-man opportunity.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by LAF Sullivan, Riley WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by LAF Heaney, Joshua, SAVE Day, Parker."
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "Ground ball pickup by BUCK Day, Parker.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:00",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "Turnover by BUCK Tully, Jack (caused by DiBattista, Benjamin).",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:48",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by LAF DiBattista, Benjamin, Assist by Sargent, Liam."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [08:57] Ground ball pickup by BUCK McLoy, Colin.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "Turnover by BUCK Meyer, Michael (caused by Andrew Matarese).",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by LAF Hill, Mason WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:04",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by LAF Muller, Nick."
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:48",
+    "home_event": "Shot by BUCK Germain, Louie, SAVE Doherty, Joe.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:43",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:48",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "Shot by BUCK Davis, Connor, SAVE Doherty, Joe.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:22",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by LAF Galbraith, John (caused by Young, John)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:56",
+    "home_event": "Turnover by BUCK Talarico, George (caused by Galbraith, John).",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:51",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by LAF Galbraith, John."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by LAF Heaney, Joshua."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK (on faceoff violation).",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "Shot by BUCK Kerwick, Sean, SAVE Doherty, Joe.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "Ground ball pickup by BUCK Kerwick, Sean.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "Shot by BUCK Davis, Connor HIGH.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by LAF Sargent, Liam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "Penalty on BUCK Pickering, Will (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Timeout by LAF."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by LAF Chapman, Clifford, SAVE Day, Parker."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff McLoy, Colin vs Faccone, Nick won by BUCK, [15:00] Ground ball pickup by BUCK McLoy, Colin.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "Turnover by BUCK McLoy, Colin.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:38",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "3",
+    "time": "14:36",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:14",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by LAF Duggan, Joseph, Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "3",
+    "time": "14:14",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF, [14:14] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:23",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by LAF Irish, Jack (caused by Lane, Brennan)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:15",
+    "home_event": "Ground ball pickup by BUCK Day, Parker.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:05",
+    "home_event": "Ground ball pickup by BUCK Kovacs, Owen.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "Shot by BUCK Grandolfo, Peter WIDE.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "Turnover by BUCK Meyer, Michael (caused by Digiovanni, Lukas).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:20",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by LAF Sargent, Liam, SAVE Day, Parker."
+  },
+  {
+    "quarter": "3",
+    "time": "10:43",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:22",
+    "home_event": "Shot by BUCK Kovacs, Owen BLOCKED.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:18",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by LAF Finkeldie, John."
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:22",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "GOAL by LAF Sullivan, Riley, Assist by Heaney, Joshua."
+  },
+  {
+    "quarter": "3",
+    "time": "09:22",
+    "home_event": "Faceoff Edwards, Brandon vs Prince, Evan won by BUCK, [09:22] Ground ball pickup by BUCK Tully, Jack.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "GOAL by BUCK Hopkins, Will.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Faceoff Edwards, Brandon vs Prince, Evan won by LAF, [08:42] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF Hill, Mason HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Turnover by LAF Heaney, Joshua (caused by Pickering, Will)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:06",
+    "home_event": "Shot by BUCK Germain, Louie HIGH.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by BUCK Panetti, Anthony.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Turnover by BUCK Davis, Connor.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by LAF Massotto, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF Heaney, Joshua WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "Penalty on BUCK Pickering, Will (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF DiBattista, Benjamin, SAVE Day, Parker."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF Heaney, Joshua, SAVE Day, Parker."
+  },
+  {
+    "quarter": "3",
+    "time": "05:53",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:11",
+    "home_event": "Shot by BUCK Meyer, Michael HIGH.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "Ground ball pickup by BUCK Brunner, Luke.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "Turnover by BUCK Kerwick, Sean (caused by Finkeldie, John).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by LAF Digiovanni, Lukas."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF Hodge, P.J., SAVE Day, Parker."
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:39",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Penalty on LAF Hill, Mason (DELAY OF GAME/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "Shot by BUCK Davis, Connor, SAVE Doherty, Joe.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:20",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Turnover by LAF DiBattista, Benjamin."
+  },
+  {
+    "quarter": "3",
+    "time": "01:17",
+    "home_event": "Ground ball pickup by BUCK Malas, Grant.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "Clear attempt by BUCK failed.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "Turnover by BUCK Tully, Jack (caused by Sargent, Liam).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by LAF Sargent, Liam."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by LAF DiBattista, Benjamin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [15:00] Ground ball pickup by BUCK Young, John.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:18",
+    "home_event": "Shot by BUCK Grandolfo, Peter WIDE.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "Ground ball pickup by BUCK Meyer, Michael.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "GOAL by BUCK Brunner, Luke, Assist by Grandolfo, Peter.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [13:25] Ground ball pickup by BUCK Panetti, Anthony.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "Shot by BUCK Dudas, Jack, SAVE Doherty, Joe.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "GOAL by BUCK Berrigan, Sean.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF, [12:30] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by LAF Sargent, Liam."
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "GOAL by BUCK Hopkins, Will, Assist by Meyer, Michael.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [11:02] Ground ball pickup by BUCK McLoy, Colin.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:26",
+    "home_event": "Shot by BUCK Hopkins, Will, SAVE Doherty, Joe.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:26",
+    "home_event": "Shot by BUCK Kerwick, Sean HIGH.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Turnover by LAF Andrew Matarese (caused by Davis, Connor)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Clear attempt by LAF failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Shot by BUCK Davis, Connor BLOCKED.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:49",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Penalty on LAF Skibniewski, Matt (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:42",
+    "home_event": "Shot by BUCK Davis, Connor WIDE.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "Shot by BUCK Berrigan, Sean, SAVE Doherty, Joe.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:10",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Ground ball pickup by LAF Kilbride, Cade."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "GOAL by LAF Heaney, Joshua, Assist by Massotto, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff McLoy, Colin vs Prince, Evan won by LAF, [09:02] Ground ball pickup by LAF Prince, Evan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:51",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by LAF Sullivan, Riley, SAVE Day, Parker."
+  },
+  {
+    "quarter": "4",
+    "time": "07:37",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by LAF Hodge, P.J.."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "Penalty on BUCK Germain, Louie (SLASHING/1:00) Extra-man opportunity.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "GOAL by LAF Sargent, Liam (MAN-UP), Assist by Sullivan, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [06:51] Ground ball pickup by BUCK Young, John.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Shot by BUCK Dudas, Jack BLOCKED.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Shot by BUCK Panetti, Anthony BLOCKED.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "Ground ball pickup by BUCK Meyer, Michael.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "GOAL by BUCK Brunner, Luke, Assist by Meyer, Michael.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [05:37] Ground ball pickup by BUCK McLoy, Colin.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:26",
+    "home_event": "Shot by BUCK Meyer, Michael WIDE.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:22",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by LAF Sullivan, Riley, Assist by Sargent, Liam."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "Faceoff McLoy, Colin vs Prince, Evan won by BUCK, [04:10] Ground ball pickup by BUCK Young, John.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "Shot by BUCK Hopkins, Will, SAVE Doherty, Joe.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:20",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by LAF good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot clock violation by LAF."
+  },
+  {
+    "quarter": "4",
+    "time": "01:53",
+    "home_event": "Clear attempt by BUCK good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:24",
+    "home_event": "Shot by BUCK Boykin, Henry WIDE.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:05",
+    "home_event": "Shot by BUCK Kaye, Crispin, SAVE Doherty, Joe.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:49",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by LAF good."
+  }
+]

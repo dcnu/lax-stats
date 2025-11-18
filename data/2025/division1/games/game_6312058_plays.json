@@ -1,0 +1,1570 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Justin Dalum at goalie for CLEVELAN.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Tyler Moritzen at goalie for MERCYHUR."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [15:00] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "GOAL by CLEVELAN Brennen Hickey (FIRST GOAL), Assist by Jacob Lubrant.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Robbie Stewart vs Drew Pagano won by MERCYHUR, [14:17] Ground ball pickup by MERCYHUR Team."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MERCYHUR James Hyde."
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "Ground ball pickup by CLEVELAN Justin Dalum.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Shot by CLEVELAN Alex Van Voorhis, SAVE Tyler Moritzen",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MERCYHUR Tyler Moritzen."
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "Shot by CLEVELAN Creed McDonald WIDE",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [10:14] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:13",
+    "home_event": "Ground ball pickup by CLEVELAN Wyatt Robertson.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "Shot by CLEVELAN Brennen Hickey WIDE",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "07:42",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "GOAL by CLEVELAN Wyatt Robertson.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [07:07] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "Ground ball pickup by CLEVELAN Justin Dalum.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "Clear attempt by CLEVELAN failed.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Justin Dalum (caused by Jeremi Phoenix-Lefeb).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by MERCYHUR Antonio Rossetti (caused by Liam Moffatt)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by MERCYHUR (caused by Liam Moffatt)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Robbie Brazanskas (caused by Antonio Rossetti).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:48",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "1",
+    "time": "05:48",
+    "home_event": "Clear attempt by CLEVELAN failed.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Seth Alejandrino.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MERCYHUR Chase Petschke HIT CROSSBAR"
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by MERCYHUR Chase Petschke."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "Faceoff Robbie Stewart vs Brenton Paladino won by CLEVELAN, [05:14] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "Shot by CLEVELAN Brennen Hickey, SAVE Tyler Moritzen",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by MERCYHUR James Hyde, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "Shot by CLEVELAN Wyatt Robertson WIDE",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by MERCYHUR Tyler Moritzen."
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Robbie Stewart vs Brenton Paladino won by MERCYHUR, [02:46] Ground ball pickup by MERCYHUR Jackson Saulpaugh."
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [02:17] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Clear attempt by CLEVELAN failed.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Seth Alejandrino (caused by Brice Beetow).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore, Assist by Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "Faceoff Robbie Stewart vs Brenton Paladino won by CLEVELAN.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Penalty on MERCYHUR Brice Beetow (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "Shot by CLEVELAN Amiri Austin, SAVE Tyler Moritzen",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by CLEVELAN Alex Van Voorhis WIDE",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [15:00] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Robbie Stewart (caused by Drew Pagano).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by MERCYHUR Drew Pagano (caused by Liam Moffatt)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:31",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "GOAL by CLEVELAN Brennen Hickey.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Robbie Stewart vs Drew Pagano won by MERCYHUR, [14:05] Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "2",
+    "time": "13:17",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by MERCYHUR Chase Petschke, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Shot by CLEVELAN Jacob Lubrant HIGH",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "GOAL by CLEVELAN Wyatt Robertson.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [11:59] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on MERCYHUR Cooper Joyce (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Alex Van Voorhis (caused by Tyler Moritzen).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:28",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by MERCYHUR Tyler Moritzen."
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Timeout by MERCYHUR."
+  },
+  {
+    "quarter": "2",
+    "time": "09:56",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:38",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "Ground ball pickup by CLEVELAN Lane Miller.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "GOAL by CLEVELAN Dylan Tomarchio, Assist by Amiri Austin.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN (on faceoff violation).",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "Shot by CLEVELAN Brennen Hickey WIDE",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Wyatt Robertson (caused by Brenton Paladino).",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:27",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb, Assist by Adam Schembri."
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "Faceoff Robbie Stewart vs Brenton Paladino won by CLEVELAN (on faceoff violation).",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:34",
+    "home_event": "Shot by CLEVELAN Creed McDonald, SAVE Tyler Moritzen",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by MERCYHUR Chase Petschke, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "Shot by CLEVELAN Brennen Hickey HIGH",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "Shot by CLEVELAN Amiri Austin, SAVE Tyler Moritzen",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:40",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by MERCYHUR Cooper Joyce."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by MERCYHUR Cooper Joyce (caused by Wyatt Robertson)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "Shot by CLEVELAN Wyatt Robertson HIGH",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Alex Van Voorhis.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by MERCYHUR Rob Madden HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "30-second clock violation by MERCYHUR."
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "Timeout by CLEVELAN.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:38",
+    "home_event": "Shot by CLEVELAN Michael Care, SAVE Tyler Moritzen",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "Penalty on CLEVELAN Michael Care (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:37",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "2",
+    "time": "00:34",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Ground ball pickup by MERCYHUR Colin Tardif."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN (on faceoff violation).",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:29",
+    "home_event": "Shot by CLEVELAN Brennen Hickey WIDE",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "GOAL by CLEVELAN Amiri Austin, Assist by Jacob Lubrant.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [14:09] Ground ball pickup by CLEVELAN Reggie Regala.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "Ground ball pickup by CLEVELAN Reggie Regala.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "Shot by CLEVELAN Amiri Austin WIDE",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Alex Van Voorhis (caused by Brenton Paladino).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "Penalty on CLEVELAN Griffin Valli (PUSHING/0:30) Extra-man opportunity.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:32",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by MERCYHUR Jackson Saulpaugh, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by MERCYHUR Ethan Landymore (caused by Reggie Regala)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:54",
+    "home_event": "Ground ball pickup by CLEVELAN Seth Alejandrino.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:47",
+    "home_event": "Shot by CLEVELAN Shane Tesler WIDE",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Wyatt Robertson.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by MERCYHUR Ethan Landymore."
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "GOAL by CLEVELAN Wyatt Robertson, Assist by Alex Van Voorhis.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Robbie Stewart vs Drew Pagano won by MERCYHUR, [09:48] Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MERCYHUR Antonio Rossetti."
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Ground ball pickup by CLEVELAN Liam Moffatt.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Liam Moffatt (caused by Jeremi Phoenix-Lefeb).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "Clear attempt by CLEVELAN failed.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:09",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Chase Petschke, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:41",
+    "home_event": "Shot by CLEVELAN Robbie Brazanskas HIT CROSSBAR",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Griffin Burkey.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:35",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MERCYHUR Drew Pagano."
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:03",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MERCYHUR Dylan Neer."
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Elias Harless HIT CROSSBAR"
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Elias Harless WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "05:05",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Elias Harless WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MERCYHUR Rob Madden (caused by Drew Graves)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by CLEVELAN Drew Graves.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Wyatt Robertson.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:53",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Antonio Rossetti WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MERCYHUR Ryan Mahoney."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MERCYHUR Ryan Mahoney (caused by Joe Ginnetti)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "Ground ball pickup by CLEVELAN Joe Ginnetti.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:33",
+    "home_event": "Shot by CLEVELAN Alex Van Voorhis HIGH",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:16",
+    "home_event": "Shot by CLEVELAN Jacob Lubrant WIDE",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MERCYHUR Dylan Neer (caused by Griffin Valli)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "Ground ball pickup by CLEVELAN Amiri Austin.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:36",
+    "home_event": "Ground ball pickup by CLEVELAN Amiri Austin.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "Shot by CLEVELAN Jacob Lubrant WIDE",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Jacob Lubrant (caused by Jackson Saulpaugh).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MERCYHUR Jackson Saulpaugh."
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MERCYHUR Jonas Aquilla, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Shot by CLEVELAN Griffin Valli WIDE",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [15:00] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:34",
+    "home_event": "Shot by CLEVELAN Alex Van Voorhis, SAVE Tyler Moritzen",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "Ground ball pickup by CLEVELAN Dylan Tomarchio.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "GOAL by CLEVELAN Dylan Tomarchio, Assist by Amiri Austin.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [14:24] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Robbie Stewart (caused by Brenton Paladino).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by MERCYHUR Colin Tardif HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "12:48",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:00",
+    "home_event": "GOAL by CLEVELAN Alex Van Voorhis.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:00",
+    "home_event": "Faceoff Robbie Stewart vs Kevin Sprague won by CLEVELAN, [12:00] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Dylan Tomarchio (caused by Charlie Gleason).",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Ground ball pickup by MERCYHUR Charlie Gleason."
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by MERCYHUR failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Turnover by MERCYHUR Ben Schellinger."
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "GOAL by CLEVELAN Brennen Hickey, Assist by Jacob Lubrant.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [09:54] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:42",
+    "home_event": "Shot by CLEVELAN Robbie Stewart, SAVE Tyler Moritzen",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by MERCYHUR Tyler Moritzen."
+  },
+  {
+    "quarter": "4",
+    "time": "09:24",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore, Assist by Chase Petschke."
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [08:55] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Robbie Stewart (caused by Jackson Saulpaugh).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:35",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "Clear attempt by CLEVELAN failed.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Ethan Erker.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by MERCYHUR Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "4",
+    "time": "07:51",
+    "home_event": "Ground ball pickup by CLEVELAN Drew Graves.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:39",
+    "home_event": "GOAL by CLEVELAN Brennen Hickey, Assist by Amiri Austin.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:39",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Robbie Stewart vs Drew Pagano won by MERCYHUR, [07:39] Ground ball pickup by MERCYHUR Brice Beetow."
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "",
+    "score": "11-8",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore, Assist by Chase Petschke."
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [07:02] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "Timeout by CLEVELAN.",
+    "score": "11-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:49",
+    "home_event": "GOAL by CLEVELAN Alex Van Voorhis, Assist by Amiri Austin.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:49",
+    "home_event": "Faceoff Robbie Stewart vs Drew Pagano won by CLEVELAN, [05:49] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:37",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by MERCYHUR good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "GOAL by MERCYHUR Ethan Landymore, Assist by Jeremi Phoenix-Lefeb."
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Faceoff Robbie Stewart vs Drew Pagano won by MERCYHUR, [03:52] Ground ball pickup by MERCYHUR Brenton Paladino."
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Brenton Paladino HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "03:16",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Ground ball pickup by MERCYHUR Chase Petschke."
+  },
+  {
+    "quarter": "4",
+    "time": "03:06",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Chase Petschke WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Jeremi Phoenix-Lefeb WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:19",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Ryan Mahoney BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "02:14",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by MERCYHUR Ethan Landymore, SAVE Justin Dalum"
+  },
+  {
+    "quarter": "4",
+    "time": "02:06",
+    "home_event": "Clear attempt by CLEVELAN good.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "Timeout by CLEVELAN.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "GOAL by CLEVELAN Amiri Austin, Assist by Alex Van Voorhis.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "Faceoff Caden Wilson vs Kevin Sprague won by CLEVELAN, [01:03] Ground ball pickup by CLEVELAN Caden Wilson.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by CLEVELAN Amiri Austin (caused by Drew Pagano).",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Ground ball pickup by MERCYHUR Jonas Aquilla."
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "GOAL by MERCYHUR Jeremi Phoenix-Lefeb, Assist by Jonas Aquilla."
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "Faceoff Robbie Stewart vs Kevin Sprague won by CLEVELAN, [00:34] Ground ball pickup by CLEVELAN Robbie Stewart.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Penalty on MERCYHUR Kevin Sprague (TRIPPING/1:00) Extra-man opportunity."
+  }
+]

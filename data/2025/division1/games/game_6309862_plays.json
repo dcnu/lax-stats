@@ -1,0 +1,1815 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Patrick Jameison at goalie for DU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Matthew Nunes at goalie for VA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Luke Engelke vs Andrew Greenspan won by DU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "Shot by DU Benn Johnston, SAVE Matthew Nunes.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:05",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by VA George Fulton."
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "Ground ball pickup by DU Max Sloat.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "GOAL by DU Andrew McAdorey (FIRST GOAL), Assist by Max Sloat, goal number 17 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "Faceoff Luke Engelke vs Henry Metz won by DU (on faceoff violation).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:19",
+    "home_event": "GOAL by DU Tomas Delgado, goal number 1 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:19",
+    "home_event": "Faceoff Luke Engelke vs Andrew Greenspan won by DU (on faceoff violation).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "GOAL by DU Luke Engelke, Assist by Andrew McAdorey, goal number 2 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [13:10] Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VA Griffin Schutz."
+  },
+  {
+    "quarter": "1",
+    "time": "12:16",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by VA Will Inderlied."
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by VA Thomas Mencke, Assist by McCabe Millon, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [11:56] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VA Johnny Hackett."
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by VA Jack Walshe (caused by Henry Bard)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:37",
+    "home_event": "Ground ball pickup by DU Henry Bard.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:52",
+    "home_event": "Turnover by DU Eric Malever.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by VA Will Inderlied, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "Shot by DU Luke Warrington WIDE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "Shot by DU Liam Kershis, SAVE Matthew Nunes.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by VA Griffin Schutz, Assist by McCabe Millon, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "Faceoff Luke Engelke vs Henry Metz won by DU, [07:51] Ground ball pickup by DU Luke Engelke.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "Turnover by DU Eric Malever (caused by Will Erdmann).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "Turnover by DU Mac Christmas.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VA Johnny Hackett WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by VA Johnny Hackett WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "Ground ball pickup by DU Jack Gray.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "GOAL by DU Eric Malever, Assist by Max Sloat, goal number 30 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [05:06] Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by VA Thomas Mencke."
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "Shot by DU Patrick Jameison WIDE.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Clear attempt by DU good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by McCabe Millon, goal number 30 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "Faceoff Luke Engelke vs Henry Metz won by DU, [02:34] Ground ball pickup by DU Luke Engelke.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "Shot by DU Mac Christmas WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "GOAL by DU Liam Kershis, goal number 10 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "Faceoff Luke Engelke vs Andrew Greenspan won by DU, [02:20] Ground ball pickup by DU Luke Engelke.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:08",
+    "home_event": "Turnover by DU Luke Engelke (caused by Malachi Jones).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by VA Hudson Hausmann."
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by VA Hudson Hausmann (caused by Liam Kershis)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "Ground ball pickup by DU Liam Kershis.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "Shot by DU Benn Johnston, SAVE Matthew Nunes.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "Clear attempt by DU good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "Shot by DU Eric Malever WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Shot by DU Eric Malever HIT POST.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by VA Luke Hublitz."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Luke Engelke vs Andrew Greenspan won by DU, [15:00] Ground ball pickup by DU Patrick Jameison.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:47",
+    "home_event": "Clear attempt by DU good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:58",
+    "home_event": "GOAL by DU Liam Kershis, Assist by Eric Malever, goal number 11 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:58",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [13:58] Ground ball pickup by VA Luke Hublitz."
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:46",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by VA Griffin Schutz HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:40",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by VA Johnny Hackett, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:40",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [12:40] Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "2",
+    "time": "11:33",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "11:30",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:41",
+    "home_event": "Shot by DU Tomas Delgado, SAVE Matthew Nunes.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "Ground ball pickup by DU Eric Malever.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:34",
+    "home_event": "Shot by DU Tomas Delgado BLOCKED.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:33",
+    "home_event": "Ground ball pickup by DU Andrew McAdorey.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "Shot by DU Eric Malever HIT POST.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "Ground ball pickup by DU Graham Blake.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "GOAL by DU Graham Blake, goal number 13 for season.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [09:51] Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "2",
+    "time": "09:09",
+    "home_event": "Penalty on DU Keith Boyer (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "GOAL by VA Ryan Colsey (MAN-UP), Assist by Griffin Schutz, goal number 29 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Luke Engelke vs Henry Metz won by VA, [08:42] Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA Ben Wayer, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Turnover by DU Chris Cusolito (caused by George Fulton).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA Will Inderlied BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "Shot by DU Max Sloat WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:17",
+    "home_event": "Shot by DU Benn Johnston BLOCKED.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "04:38",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:02",
+    "home_event": "Shot by DU Andrew McAdorey WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:46",
+    "home_event": "Turnover by DU Eric Malever (caused by John Schroter).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "Timeout by DU.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:52",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by VA."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "Turnover by DU Max Sloat (caused by Griffin Schutz).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "Turnover by DU Max Sloat.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:47",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by VA."
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "Timeout by DU.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "Turnover by DU Andrew McAdorey (caused by John Schroter).",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by DU Benn Johnston.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Luke Engelke vs Henry Metz won by DU, [15:00] Ground ball pickup by DU Luke Engelke.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:47",
+    "home_event": "Ground ball pickup by DU Andrew McAdorey.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "Shot by DU Tomas Delgado, SAVE Matthew Nunes.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:02",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Hudson Hausmann."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:54",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "Ground ball pickup by DU Aiden Blake.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Shot by DU Aiden Blake, SAVE Matthew Nunes.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "12:39",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:35",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by VA Malachi Jones."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Griffin Schutz, goal number 23 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "Faceoff Luke Engelke vs Henry Metz won by DU, [09:50] Ground ball pickup by DU Luke Engelke.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "Ground ball pickup by DU Chris Cusolito.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by VA Luke Hublitz."
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "Ground ball pickup by DU Mac Christmas.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "Turnover by DU Benn Johnston (caused by John Schroter).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "3",
+    "time": "08:22",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:51",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by VA Charles Balsamo."
+  },
+  {
+    "quarter": "3",
+    "time": "06:41",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by VA McCabe Millon."
+  },
+  {
+    "quarter": "3",
+    "time": "06:35",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Turnover by DU Jack Gray (caused by John Schroter).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Griffin Schutz, goal number 31 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff Luke Engelke vs Andrew Greenspan won by VA, [06:27] Ground ball pickup by VA Andrew Greenspan."
+  },
+  {
+    "quarter": "3",
+    "time": "05:07",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by VA Thomas Mencke, goal number 14 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:07",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Penalty on VA TEAM (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "Shot by DU Max Sloat WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:58",
+    "home_event": "Shot by DU Luke Grayum HIGH.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:44",
+    "home_event": "Shot by DU Andrew McAdorey, SAVE Matthew Nunes.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Ground ball pickup by DU Luke Grayum.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:26",
+    "home_event": "Ground ball pickup by DU Benn Johnston.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "Shot by DU Mac Christmas WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Penalty on VA Ben Wayer (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "Shot by DU Benn Johnston BLOCKED.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:50",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VA Will Inderlied WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:36",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "Turnover by DU Keith Boyer.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "3",
+    "time": "01:28",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:26",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:57",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by VA Ryan Colsey."
+  },
+  {
+    "quarter": "3",
+    "time": "00:51",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Shot by DU Benn Johnston WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Penalty on DU Jack Pappendick (ILLEGAL CROSSE/1:00) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:24",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Patrick Jameison)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:20",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:18",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Shot clock violation by DU.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:42",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "GOAL by DU Keith Boyer, Assist by Andrew McAdorey, goal number 1 for season.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff Luke Engelke vs Andrew Greenspan won by VA, [11:16] Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "4",
+    "time": "10:04",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "Clear attempt by DU good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:03",
+    "home_event": "Shot by DU Graham Blake, SAVE Matthew Nunes.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "4",
+    "time": "08:56",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Jack Walshe, goal number 32 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "Faceoff Luke Engelke vs Andrew Greenspan won by DU, [08:09] Ground ball pickup by DU Luke Engelke.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:02",
+    "home_event": "Clear attempt by DU good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "Shot by DU Max Sloat, SAVE Matthew Nunes.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:18",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VA JP Lagunowich."
+  },
+  {
+    "quarter": "4",
+    "time": "07:16",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:12",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VA Ben Wayer, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "Ground ball pickup by DU Henry Bard.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:56",
+    "home_event": "Clear attempt by DU good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:31",
+    "home_event": "Ground ball pickup by DU Benn Johnston.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "Turnover by DU Jack Pappendick (caused by George Fulton).",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:08",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VA McCabe Millon, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "05:04",
+    "home_event": "Clear attempt by DU good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "Shot by DU Jake Wilson, SAVE Matthew Nunes.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "GOAL by DU Tomas Delgado, goal number 2 for season.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Luke Engelke vs Andrew Greenspan won by VA, [04:30] Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "4",
+    "time": "02:20",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by VA Johnny Hackett."
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "Shot by DU Eric Malever, SAVE Matthew Nunes.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Patrick Jameison)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "Clear attempt by DU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:02",
+    "home_event": "Timeout by DU.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "Turnover by DU Benn Johnston (caused by John Schroter).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA Griffin Kology."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Luke Engelke vs Andrew Greenspan won by VA, [04:00] Ground ball pickup by VA Andrew Greenspan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VA Andrew Greenspan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA Johnny Hackett."
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VA Johnny Hackett, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "Clear attempt by DU failed.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:32",
+    "home_event": "Turnover by DU Henry Bard (caused by Will Erdmann).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA Will Erdmann."
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VA Griffin Schutz BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA Thomas Mencke."
+  },
+  {
+    "quarter": "1",
+    "time": "01:40",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "Clear attempt by DU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "Timeout by DU.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:00",
+    "home_event": "Turnover by DU Andrew McAdorey (caused by Griffin Kology).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by VA Ben Wayer (caused by Mac Christmas)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "Ground ball pickup by DU Aidan Maguire.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "GOAL by DU Benn Johnston, Assist by Andrew McAdorey, goal number 23 for season.",
+    "score": "10-9",
+    "away_event": ""
+  }
+]

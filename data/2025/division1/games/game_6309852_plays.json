@@ -1,0 +1,1780 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nilan, Matt at goalie for TOWSON.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Daly, Dan at goalie for NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [15:00] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NAVY LaRocco, Roman, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "GOAL by TOWSON Gallagher, Chop (FIRST GOAL), Assist by Weisshaar, Mikey, goal number 2 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON (on faceoff violation).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "GOAL by TOWSON Maurer, Bode, Assist by Weisshaar, Mikey, goal number 4 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "Faceoff Constantinides, Matt vs Shadowens, Colin won by TOWSON (on faceoff violation).",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "Shot by TOWSON Matusek, Chuck HIGH.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "Shot by TOWSON Boswell, Evan HIGH.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "GOAL by TOWSON Weisshaar, Mikey, Assist by Schrier, Ryan, goal number 4 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Timeout by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by NAVY Marsh, AJ, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "Shot by TOWSON Vieni, Alex, SAVE Daly, Dan.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by NAVY Flaherty, Jack, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [08:38] Ground ball pickup by NAVY Gallagher, Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by NAVY Ash, Carter."
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by NAVY Ash, Carter, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "Turnover by TOWSON Meidling, Joe.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by NAVY McGullam, Ian."
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by NAVY LaRocco, Roman WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by NAVY Haley, Mac WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by NAVY Ponzio, Jack, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "Penalty on TOWSON Spagnolli, Conor (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [06:15] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by NAVY Ponzio, Jack, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by NAVY Gregorek, Alec BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by NAVY Ponzio, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by NAVY Tolker, Henry (MAN-UP), Assist by Flaherty, Jack, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:16",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [05:16] Ground ball pickup by NAVY Gallagher, Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by NAVY Goers, William."
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "Ground ball pickup by TOWSON Fitzpatrick, Ronan.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "GOAL by TOWSON Fitzpatrick, Ronan, goal number 8 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON (on faceoff violation).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "Turnover by TOWSON Vieni, Alex (caused by Darrow, Jacob).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by NAVY Darrow, Jacob."
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by NAVY Nagy, Josh."
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by NAVY Nichtern, Jack, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "Faceoff Constantinides, Matt vs Shadowens, Colin won by TOWSON, [03:16] Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey HIGH.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "Shot clock violation by TOWSON.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by NAVY Goers, William, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by NAVY Goers, William, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by NAVY Flaherty, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by NAVY LaRocco, Roman, Assist by Flaherty, Jack, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "Faceoff Lopez, Kai vs Hayashi, Zach won by TOWSON, [00:12] Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [15:00] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by NAVY Ripley, Race."
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:13",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "Turnover by TOWSON Glass, Ray.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by NAVY Ash, Carter, Assist by Haley, Mac, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [13:13] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by NAVY Marsh, AJ, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "Timeout by TOWSON.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [13:03] Ground ball pickup by TOWSON Glass, Ray.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:56",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "GOAL by TOWSON Weisshaar, Mikey, Assist by Gallagher, Chop, goal number 5 for season.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [11:48] Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Daly, Dan.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:33",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by NAVY Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by NAVY Nichtern, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by NAVY Ash, Carter BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:28",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "GOAL by TOWSON Fitzpatrick, Ronan, Assist by Petro, Joe, goal number 9 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [09:24] Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "GOAL by TOWSON Vieni, Alex, goal number 3 for season.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [08:41] Ground ball pickup by NAVY Parker, Graham."
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "Penalty on TOWSON Morin, Sam (PUSHING/0:30) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Tolker, Henry WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Ponzio, Jack HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:54",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Haley, Mac, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Turnover by TOWSON Nilan, Matt.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:37",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by NAVY Gallagher, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Tolker, Henry WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "Timeout by TOWSON.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Flaherty, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by NAVY Goers, William."
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:49",
+    "home_event": "Shot by TOWSON Vieni, Alex, SAVE Daly, Dan.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "Ground ball pickup by TOWSON Vieni, Alex.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "Turnover by TOWSON Fitzpatrick, Ronan.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Landolphi, Ryan BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "Ground ball pickup by TOWSON Law, Jake.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:37",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "Shot by TOWSON Morin, Sam, SAVE Daly, Dan.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:06",
+    "home_event": "Turnover by TOWSON Maurer, Bode (caused by Norton, Jack).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:02",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Ground ball pickup by NAVY Norton, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:15",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Timeout by NAVY."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by NAVY Goers, William BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:48",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "Turnover by TOWSON Morin, Sam (caused by Haley, Mac).",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:23",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by NAVY Ponzio, Jack (caused by Spagnolli, Conor)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:37",
+    "home_event": "Shot by TOWSON Roussel, Alex, SAVE Daly, Dan.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by NAVY Goers, William, Assist by Marsh, AJ, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [01:23] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by NAVY Hayashi, Zach (caused by Morin, Sam)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:32",
+    "home_event": "Turnover by TOWSON Boswell, Evan (caused by Gallagher, Sean).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:30",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by NAVY Gallagher, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "00:23",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:25",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by NAVY Gallagher, Sean, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:25",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [00:25] Ground ball pickup by NAVY Parker, Graham."
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Turnover by NAVY Parker, Graham."
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [15:00] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:14",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey, SAVE Daly, Dan.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:12",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by NAVY Norton, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by NAVY failed."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Turnover by NAVY."
+  },
+  {
+    "quarter": "3",
+    "time": "13:16",
+    "home_event": "Shot by TOWSON Webber, Josh, SAVE Daly, Dan.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:12",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by NAVY Darrow, Jacob."
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Turnover by NAVY Tolker, Henry."
+  },
+  {
+    "quarter": "3",
+    "time": "11:59",
+    "home_event": "Ground ball pickup by TOWSON Meidling, Joe.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "Shot by TOWSON Maurer, Bode HIT POST.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:14",
+    "home_event": "Ground ball pickup by TOWSON Matusek, Chuck.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:51",
+    "home_event": "Shot by TOWSON Matusek, Chuck WIDE.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:38",
+    "home_event": "Shot by TOWSON Boswell, Evan BLOCKED.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "Ground ball pickup by TOWSON Matusek, Chuck.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "GOAL by TOWSON Boswell, Evan, Assist by Roussel, Alex, goal number 1 for season.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [10:27] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Hayashi, Zach, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "Turnover by TOWSON Gallagher, Chop.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Ground ball pickup by NAVY Parker, Graham."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Parker, Graham, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Daly, Dan.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "Ground ball pickup by TOWSON Weisshaar, Mikey.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "Shot by TOWSON Matusek, Chuck HIGH.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "Shot by TOWSON Roussel, Alex WIDE.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:16",
+    "home_event": "Shot clock violation by TOWSON.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Tolker, Henry HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Haley, Mac WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "Penalty on TOWSON Maurer, Bode (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:46",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Ash, Carter WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by NAVY Flaherty, Jack HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Turnover by NAVY Flaherty, Jack (caused by Petro, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:00",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:56",
+    "home_event": "Turnover by TOWSON Webber, Josh.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:53",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "GOAL by NAVY Flaherty, Jack, Assist by Goers, William, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [03:19] Ground ball pickup by TOWSON Glass, Ray.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "Turnover by TOWSON Roussel, Alex (caused by Darrow, Jacob).",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:13",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Connolly, Chad."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:05",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Goers, William."
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Turnover by NAVY Landolphi, Ryan (caused by Meidling, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:30",
+    "home_event": "Shot by TOWSON Roussel, Alex, SAVE Daly, Dan.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:27",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Darrow, Jacob."
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY LaRocco, Roman."
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Turnover by NAVY Ponzio, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by TOWSON Law, Jake, SAVE Daly, Dan.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [15:00] Ground ball pickup by TOWSON Law, Jake.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "Turnover by TOWSON Weisshaar, Mikey.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Queen, Justin."
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Turnover by NAVY Tolker, Henry."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "Ground ball pickup by TOWSON Smith, Elijah.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:27",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:46",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Penalty on NAVY Gallagher, Sean (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "12:19",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Daly, Dan.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:05",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:08",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Goers, William."
+  },
+  {
+    "quarter": "4",
+    "time": "10:53",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by NAVY Ponzio, Jack WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by NAVY Marsh, AJ WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:07",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "Turnover by TOWSON Roussel, Alex.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by NAVY Goers, William."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by NAVY Ash, Carter, Assist by Goers, William, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [09:09] Ground ball pickup by NAVY King, Carter."
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:21",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by NAVY Flaherty, Jack, SAVE Nilan, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:40",
+    "home_event": "Ground ball pickup by TOWSON Weisshaar, Mikey.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:37",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey, SAVE Daly, Dan.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "Shot by TOWSON Gallagher, Chop WIDE.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:14",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan HIGH.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "Shot by TOWSON Vieni, Alex, SAVE Daly, Dan.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by NAVY Darrow, Jacob."
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Shot by NAVY Haley, Mac BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Ground ball pickup by NAVY Ash, Carter."
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by NAVY Goers, William, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [05:39] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Timeout by TOWSON.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "GOAL by TOWSON Weisshaar, Mikey, goal number 6 for season.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [03:39] Ground ball pickup by NAVY Nagy, Josh."
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:53",
+    "home_event": "GOAL by TOWSON Gallagher, Chop, goal number 3 for season.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:53",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by NAVY, [01:53] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Timeout by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "GOAL by NAVY Goers, William, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:39",
+    "home_event": "Faceoff Constantinides, Matt vs Hayashi, Zach won by TOWSON, [01:39] Ground ball pickup by TOWSON Weisshaar, Mikey.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:26",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "Timeout by TOWSON.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Shot by NAVY Marsh, AJ WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Timeout by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Turnover by NAVY Goers, William (caused by Morin, Sam)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:23",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:17",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Shot by TOWSON Maurer, Bode HIT POST.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Ground ball pickup by NAVY McGullam, Ian."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Penalty on TOWSON Fitzpatrick, Ronan (UNNECESSARY ROUGHNESS/3:00).",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "#29 ejected for throwing a punch as time expired"
+  }
+]

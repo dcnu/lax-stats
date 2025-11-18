@@ -1,0 +1,2018 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Sean Byrne at goalie for ARMY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Rand Paddack at goalie for MER."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:29",
+    "home_event": "Turnover by ARMY Jackson Eicher (caused by Rand Paddack).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Rand Paddack."
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Tyler Gilbert."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "Shot by ARMY Ryan Sellew WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on MER Will Zylstra (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on MER Luke Hand (OFFSIDE/0:30)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "Shot by ARMY Finn McCullough, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "Shot by ARMY Aiden Weisenborn HIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on MER Will Zylstra (ILLEGAL PROCEDURE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "Turnover by ARMY Aiden Weisenborn (caused by Thomas Venzie).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER."
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "Shot by ARMY AJ Pilate, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:29",
+    "home_event": "Shot by ARMY Finn McCullough BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "Shot by ARMY Finn McCullough BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "Ground ball pickup by ARMY Finn McCullough.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Dylan McKelvy BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Dillon Bush (caused by AJ Pilate)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "Ground ball pickup by ARMY John Manero.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "Shot by ARMY Brayden Fountain, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Kobe Handsor."
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Tyler Gilbert."
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Dillon Bush, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "Ground ball pickup by ARMY Sean Byrne.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "Shot by ARMY Finn McCullough, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Shot by ARMY Brayden Fountain, SAVE Rand Paddack {shot from close left wing}.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "Turnover by ARMY Jackson Eicher (caused by Kyle Pierce).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "Penalty on ARMY AJ Pilate (HOLDING/1:00) Extra-man opportunity.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Will Zylstra WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Jackson Hirschy, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "GOAL by ARMY Jackson Eicher (FIRST GOAL), goal number 8 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [00:23] Ground ball pickup by ARMY Will Coletti.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "Shot by ARMY Will Coletti HIGH.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "Shot by ARMY Brayden Fountain BLOCKED.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [15:00] Ground ball pickup by ARMY Christian Mazur.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Shot by ARMY Aiden Weisenborn WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "Ground ball pickup by ARMY Aiden Weisenborn.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:37",
+    "home_event": "Shot by ARMY Gunnar Fellows, SAVE Rand Paddack.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:08",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MER Dylan McKelvy (caused by CJ Monturio)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "Ground ball pickup by ARMY AJ Pilate.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "Shot by ARMY Hill Plunkett WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "Turnover by ARMY Jackson Eicher.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:51",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MER Jackson Phillips."
+  },
+  {
+    "quarter": "2",
+    "time": "11:44",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MER Luke Fox (caused by Ryan Nixon)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:41",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "Shot by ARMY Aiden Weisenborn WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:52",
+    "home_event": "Shot by ARMY Aiden Weisenborn WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:40",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MER Kobe Handsor WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MER Christian Laureano HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Penalty on ARMY Christian Mazur (HOLDING/1:00) Extra-man opportunity.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MER Will Zylstra, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "09:52",
+    "home_event": "Clear attempt by ARMY failed.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "Turnover by ARMY Sean Byrne.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MER Grafton Ely."
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by MER Will Zylstra, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:43",
+    "home_event": "Shot by ARMY Christian Mazur WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "08:24",
+    "home_event": "Turnover by ARMY Jackson Eicher.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MER Brady Corkill."
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MER Brady Corkill (caused by Gunnar Fellows)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "GOAL by ARMY Brayden Fountain, goal number 12 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [08:15] Ground ball pickup by ARMY Kyle Atherton.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "GOAL by ARMY Will Coletti, goal number 2 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [08:01] Ground ball pickup by ARMY Will Coletti.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Jackson Eicher, goal number 13 for season.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [07:28] Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "GOAL by ARMY Brayden Fountain, goal number 14 for season.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "Faceoff Will Coletti vs Quinn Kelley won by ARMY, [06:24] Ground ball pickup by ARMY Will Coletti.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:59",
+    "home_event": "Shot by ARMY Evan Plunkett, SAVE Rand Paddack.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Turnover by MER Christian Laureano (caused by Sean Byrne)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "Ground ball pickup by ARMY Sean Byrne.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:40",
+    "home_event": "Turnover by ARMY Billy Adams (caused by Rand Paddack).",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Ground ball pickup by MER Rand Paddack."
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by MER Michael Frederick, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "03:49",
+    "home_event": "Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:46",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:26",
+    "home_event": "Turnover by ARMY Jackson Eicher.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by MER Will Zylstra, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "02:25",
+    "home_event": "",
+    "score": "5-0",
+    "away_event": "Shot by MER Kade McNeil, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "Shot by ARMY Jackson Eicher HIT POST.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:42",
+    "home_event": "Ground ball pickup by ARMY Evan Plunkett.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "GOAL by ARMY Ryan Sellew, goal number 2 for season.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "Faceoff Will Coletti vs Owen Rhodes won by ARMY, [01:20] Ground ball pickup by ARMY CJ Monturio.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "Shot by ARMY Brayden Fountain, SAVE Rand Paddack.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Penalty on MER Owen Rhodes (ILLEGAL BODY CHECK/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "00:49",
+    "home_event": "Shot by ARMY Brayden Fountain, SAVE Rand Paddack.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by MER Brady Corkill."
+  },
+  {
+    "quarter": "2",
+    "time": "00:35",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by MER Kyle Pierce."
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "Ground ball pickup by ARMY Gunnar Fellows.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "GOAL by ARMY Jackson Eicher (MAN-UP), Assist by Gunnar Fellows, goal number 9 for season.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "Faceoff Will Coletti vs Quinn Kelley won by ARMY, [00:18] Ground ball pickup by ARMY Will Coletti.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "GOAL by ARMY Gunnar Fellows, Assist by Jackson Eicher, goal number 6 for season.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Faceoff Robert Simone vs Owen Rhodes won by MER, [00:07] Ground ball pickup by MER Owen Rhodes."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Robert Simone vs Owen Rhodes won by ARMY, [15:00] Ground ball pickup by ARMY Robert Simone.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "Shot by ARMY Jackson Eicher, SAVE Rand Paddack.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:36",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "14:28",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Turnover by MER Tyler Gilbert."
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "Ground ball pickup by ARMY Gunnar Fellows.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "GOAL by ARMY Jackson Eicher, Assist by Gunnar Fellows, goal number 10 for season.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "Faceoff Robert Simone vs Owen Rhodes won by ARMY, [14:13] Ground ball pickup by ARMY Robert Simone.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "Ground ball pickup by ARMY Andrew Miller.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "Shot by ARMY Gunnar Fellows WIDE.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "Turnover by ARMY Jackson Eicher.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:40",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Turnover by MER Luke Fox."
+  },
+  {
+    "quarter": "3",
+    "time": "13:21",
+    "home_event": "Turnover by ARMY Evan Plunkett.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "3",
+    "time": "13:15",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Shot by MER Luke Fox WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "",
+    "score": "9-1",
+    "away_event": "GOAL by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "Faceoff Robert Simone vs Owen Rhodes won by ARMY, [12:15] Ground ball pickup by ARMY Billy Adams.",
+    "score": "9-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "Shot by ARMY Billy Adams WIDE.",
+    "score": "9-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:25",
+    "home_event": "Shot by ARMY Gunnar Fellows, SAVE Rand Paddack.",
+    "score": "9-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:24",
+    "home_event": "",
+    "score": "9-1",
+    "away_event": "Ground ball pickup by MER Jackson Phillips."
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "9-1",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "",
+    "score": "9-1",
+    "away_event": "Turnover by MER Davis Peek."
+  },
+  {
+    "quarter": "3",
+    "time": "11:14",
+    "home_event": "GOAL by ARMY Gunnar Fellows, Assist by Jackson Eicher, goal number 7 for season.",
+    "score": "10-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:14",
+    "home_event": "",
+    "score": "10-1",
+    "away_event": "Faceoff Robert Simone vs Owen Rhodes won by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "11:06",
+    "home_event": "",
+    "score": "10-1",
+    "away_event": "Turnover by MER Rand Paddack (caused by Andrew Miller)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "Ground ball pickup by ARMY Andrew Miller.",
+    "score": "10-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Christian Mazur, goal number 15 for season.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Faceoff Robert Simone vs Graham Hartman won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:26",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "GOAL by MER Kade McNeil."
+  },
+  {
+    "quarter": "3",
+    "time": "10:26",
+    "home_event": "Faceoff Patrick Murphy vs Graham Hartman won by ARMY, [10:26] Ground ball pickup by ARMY Jackson Eicher.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:47",
+    "home_event": "Turnover by ARMY Gunnar Fellows.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "Ground ball pickup by MER Luke Hand."
+  },
+  {
+    "quarter": "3",
+    "time": "09:12",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "Turnover by MER Davis Peek (caused by AJ Pilate)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "Ground ball pickup by ARMY AJ Pilate.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Shot by ARMY Gunnar Fellows, SAVE Rand Paddack.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "Ground ball pickup by ARMY Gunnar Fellows.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "GOAL by ARMY Gunnar Fellows, goal number 8 for season.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Faceoff Robert Simone vs Graham Hartman won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Shot by MER Jack Sullivan, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "08:24",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Shot by ARMY Christian Mazur, SAVE Rand Paddack.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:29",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "GOAL by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "07:29",
+    "home_event": "Faceoff Robert Simone vs Graham Hartman won by ARMY, [07:29] Ground ball pickup by ARMY Ryan Nixon.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "Shot by ARMY Dylan D'Agostino, SAVE Rand Paddack.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "Shot by ARMY Finn McCullough WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "Turnover by ARMY Finn McCullough (caused by Kobe Handsor).",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by MER Grafton Ely."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by MER Rand Paddack."
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "Ground ball pickup by ARMY Brayden Fountain.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "Shot by ARMY Ryan Sellew, SAVE Rand Paddack.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by MER Brady Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by MER Ganon Cope."
+  },
+  {
+    "quarter": "3",
+    "time": "04:00",
+    "home_event": "Ground ball pickup by ARMY Evan Plunkett.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:57",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:05",
+    "home_event": "Shot by ARMY Jackson Eicher WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "Shot by ARMY Hill Plunkett, SAVE Rand Paddack.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:29",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by MER Peyton McNeill, SAVE Sean Byrne."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "Ground ball pickup by ARMY Christian Mazur.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "Shot by ARMY John Manero, SAVE Rand Paddack.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:00",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by MER Brady Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Turnover by MER Kade McNeil (caused by Casey Reynolds)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:19",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "GOAL by ARMY Gunnar Fellows, Assist by Dylan D'Agostino, goal number 9 for season.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "Faceoff Robert Simone vs Owen Rhodes won by ARMY, [00:22] Ground ball pickup by ARMY Andrew Miller.",
+    "score": "13-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "GOAL by ARMY Brayden Fountain, Assist by Jackson Eicher, goal number 16 for season.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Evan Richardson at goalie for ARMY.",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:59",
+    "home_event": "Faceoff Robert Simone vs Owen Rhodes won by ARMY (on faceoff violation).",
+    "score": "14-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:21",
+    "home_event": "GOAL by ARMY Dylan D'Agostino, Assist by Hill Plunkett, goal number 1 for season.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:21",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Faceoff Robert Simone vs Graham Hartman won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:56",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Turnover by MER Will Zylstra (caused by Casey Reynolds)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:54",
+    "home_event": "Ground ball pickup by ARMY Casey Reynolds.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "Shot by ARMY Hill Plunkett, SAVE Rand Paddack.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "Penalty on ARMY Patrick Ferguson (SLASHING/1:00) Extra-man opportunity.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Jack Guido at goalie for MER."
+  },
+  {
+    "quarter": "4",
+    "time": "12:33",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Shot by MER Dillon Bush, SAVE Evan Richardson."
+  },
+  {
+    "quarter": "4",
+    "time": "12:26",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "Shot by ARMY Alex Petrignani, SAVE Jack Guido.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Turnover by MER Jack Guido."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "Ground ball pickup by ARMY Alex Petrignani.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:15",
+    "home_event": "Clear attempt by ARMY failed.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:14",
+    "home_event": "Turnover by ARMY Alex Petrignani (caused by Max Schutt).",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Ground ball pickup by MER Max Schutt."
+  },
+  {
+    "quarter": "4",
+    "time": "10:54",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Turnover by MER Will Schepis (caused by Tyler Clark)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "Ground ball pickup by ARMY Luke Stratton.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:15",
+    "home_event": "Shot by ARMY Mike Harney WIDE.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "Turnover by ARMY John Manero.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Turnover by MER Jackson Hirschy."
+  },
+  {
+    "quarter": "4",
+    "time": "09:14",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "Turnover by ARMY Dylan D'Agostino.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:37",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Ground ball pickup by MER Matthew Burnside."
+  },
+  {
+    "quarter": "4",
+    "time": "08:37",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:18",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Turnover by MER Ryan Brooks."
+  },
+  {
+    "quarter": "4",
+    "time": "07:51",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "Shot by ARMY Mike Harney, SAVE Jack Guido.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:31",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Ground ball pickup by MER Davis Peek."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:45",
+    "home_event": "",
+    "score": "15-3",
+    "away_event": "Shot by MER Ryan Brooks, SAVE Evan Richardson."
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "15-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "GOAL by ARMY Alex Petrignani, Assist by Ronan Loughman.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:51",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Faceoff Patrick Murphy vs Graham Hartman won by MER, [05:51] Ground ball pickup by MER Graham Hartman."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Turnover by MER Graham Hartman (caused by Patrick Murphy)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:32",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Ground ball pickup by ARMY Thor Swanson.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "Turnover by ARMY Jack Manero.",
+    "score": "16-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "16-3",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "GOAL by MER Matthew Brian, Assist by Will Zylstra."
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "Bennett Ong at goalie for ARMY.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "Faceoff Patrick Murphy vs Graham Hartman won by ARMY, [04:12] Ground ball pickup by ARMY Patrick Murphy.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Shot by ARMY Ben Calabrese WIDE.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "Shot by ARMY Mike Harney, SAVE Jack Guido.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Turnover by MER Ryan Brooks."
+  },
+  {
+    "quarter": "4",
+    "time": "03:09",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "Turnover by ARMY Ronan Loughman.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Ground ball pickup by MER Kobe Handsor."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Shot by MER Tyler Gilbert, SAVE Bennett Ong."
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "GOAL by ARMY Alex Krusko, Assist by Ronan Loughman, goal number 1 for season.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "Brady White at goalie for ARMY.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "Faceoff Patrick Murphy vs Graham Hartman won by ARMY, [02:09] Ground ball pickup by ARMY Patrick Murphy.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "Turnover by ARMY Patrick Murphy (caused by Jack Guido).",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Ground ball pickup by MER Grafton Ely."
+  },
+  {
+    "quarter": "4",
+    "time": "01:48",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Turnover by MER Grafton Ely."
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "Shot by ARMY Mack Carter WIDE.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "Shot by ARMY Mack Carter WIDE.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "Turnover by ARMY Ben Calabrese.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Shot by MER Peyton McNeill WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:23",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Shot by MER Peyton McNeill HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "Clear attempt by ARMY good.",
+    "score": "17-4",
+    "away_event": ""
+  }
+]

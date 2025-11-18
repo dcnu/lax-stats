@@ -1,0 +1,1605 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nate Fechter at goalie for RMU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ryan Richters at goalie for DETMERCY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Bo Columbus vs Canton Lanham won by DETMERCY, [15:00] Ground ball pickup by DETMERCY Jackson Ewald."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Will Marshall, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "Shot by RMU Luke Prezioso, SAVE Ryan Richters.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Kyle Grant."
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Andrew Parker BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "Turnover by RMU Luke Prezioso (caused by Kyle Grant).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Kyle Grant."
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:08",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Chase Mahabir, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Andrew Parker."
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Andrew Parker, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "Shot by RMU Liam Keane WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "Shot by RMU Liam Keane BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "Shot by RMU David Burr WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DETMERCY Ian Greenwell (caused by David Burr)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "Shot by RMU Ryan Stiefel, SAVE Ryan Richters.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Ryan Richters."
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:23",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Harold Skinner BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "Ground ball pickup by RMU Nate Fechter.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "Shot by RMU David Burr HIGH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Timeout by DETMERCY."
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "Shot clock violation by RMU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Aidan Bishop WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "Penalty on RMU Gavin Pedone (ILLEGAL BODY CHECK/0:30) Extra-man opportunity.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Julian Greendeer WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:27",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Chase Mahabir WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DETMERCY Will Marshall, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "Ground ball pickup by RMU Casey Sodolski.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Turnover by RMU Gregory Thomas (caused by Kyle Grant).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Andrew Parker."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DETMERCY Andrew Parker."
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Ground ball pickup by RMU Gavin Pedone.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:58",
+    "home_event": "Shot by RMU Gavin Pedone WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "Turnover by RMU Kean Moon (caused by Eoghan Mullett).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DETMERCY Eoghan Mullett."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DETMERCY Ryan Richters."
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "Ground ball pickup by RMU Casey Sodolski.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "Timeout by RMU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Shot by RMU Graeme MacLennan, SAVE Ryan Richters.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on DETMERCY Jackson Ewald (ILLEGAL PROCEDURE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "02:32",
+    "home_event": "Shot by RMU David Burr, SAVE Ryan Richters.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "Ground ball pickup by RMU Liam Keane.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Shot by RMU David Burr, SAVE Ryan Richters.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "GOAL by RMU David Burr (FIRST GOAL), Assist by Will MacLeod, goal number 12 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [01:54] Ground ball pickup by RMU Brian Simmons.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "Shot by RMU Liam Keane, SAVE Ryan Richters.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by DETMERCY Andrew Parker, Assist by Chase Mahabir, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Bo Columbus vs Canton Lanham won by DETMERCY, [00:37] Ground ball pickup by DETMERCY Eoghan Mullett."
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DETMERCY Aidan Bishop, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [15:00] Ground ball pickup by RMU Gavin Pedone.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:31",
+    "home_event": "Shot by RMU Luke Prezioso, SAVE Ryan Richters.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:21",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Penalty on RMU Joel McCormick (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DETMERCY Will Marshall, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "Turnover by RMU Bobby Reaume.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DETMERCY A. Jean-Francois, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "Shot by RMU David Burr WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "GOAL by RMU David Burr, Assist by Ryan Stiefel, goal number 13 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [09:54] Ground ball pickup by RMU Bo Columbus.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:33",
+    "home_event": "Turnover by RMU Gavin Pedone.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:28",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DETMERCY Aidan Bishop WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:43",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "Turnover by RMU Liam Keane.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:01",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by DETMERCY Ryan Richters."
+  },
+  {
+    "quarter": "2",
+    "time": "07:58",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DETMERCY Chase Mahabir, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "Ground ball pickup by RMU Colin Davis.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:55",
+    "home_event": "GOAL by RMU David Burr, Assist by Ryan Stiefel, goal number 14 for season.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:55",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [06:55] Ground ball pickup by RMU Gavin Pedone.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Shot by RMU Gavin Pedone, SAVE Ryan Richters.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by DETMERCY Harold Skinner, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [06:15] Ground ball pickup by RMU Bo Columbus.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "GOAL by RMU David Burr, Assist by Nick Pelletier, goal number 15 for season.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "Faceoff Bo Columbus vs Billy Hart won by RMU, [05:36] Ground ball pickup by RMU Bo Columbus.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "Turnover by RMU David Burr (caused by Will Marshall).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by DETMERCY Ian Greenwell."
+  },
+  {
+    "quarter": "2",
+    "time": "05:12",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:16",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by DETMERCY Aidan Bishop."
+  },
+  {
+    "quarter": "2",
+    "time": "04:13",
+    "home_event": "Ground ball pickup by RMU Colin Davis.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:08",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "Shot by RMU Ben Eck, SAVE Ryan Richters.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:51",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Timeout by DETMERCY."
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by DETMERCY Aidan Bishop, Assist by Julian Greendeer, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [03:04] Ground ball pickup by RMU Bo Columbus.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "Clear attempt by RMU failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by DETMERCY Chase Mahabir, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "2",
+    "time": "01:58",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by DETMERCY Harold Skinner."
+  },
+  {
+    "quarter": "2",
+    "time": "01:43",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by DETMERCY Andrew Parker."
+  },
+  {
+    "quarter": "2",
+    "time": "01:41",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:34",
+    "home_event": "Shot by RMU Joel McCormick, SAVE Ryan Richters.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:31",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:18",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by DETMERCY Chase Mahabir (caused by Brendan Cina)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by Elijah Edwards, goal number 17 for season.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU (on faceoff violation).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:59",
+    "home_event": "Shot by RMU Kean Moon, SAVE Ryan Richters.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by DETMERCY Ian Greenwell."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by DETMERCY Aidan Bishop WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:05",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by DETMERCY Julian Greendeer."
+  },
+  {
+    "quarter": "3",
+    "time": "12:43",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by DETMERCY Chase Mahabir WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by DETMERCY Aidan Bishop, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "12:19",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "GOAL by RMU Bobby Reaume, goal number 3 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [11:53] Ground ball pickup by RMU Bo Columbus.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "GOAL by RMU Graeme MacLennan, Assist by Ryan Stiefel, goal number 5 for season.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Faceoff Cristian Davis vs Billy Hart won by DETMERCY, [11:15] Ground ball pickup by DETMERCY Billy Hart."
+  },
+  {
+    "quarter": "3",
+    "time": "10:53",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by DETMERCY Caden Loken, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "10:19",
+    "home_event": "",
+    "score": "7-3",
+    "away_event": "Shot by DETMERCY Aidan Bishop, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by RMU Nathan Ruff.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:13",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "GOAL by RMU Bobby Reaume, Assist by Graeme MacLennan, goal number 4 for season.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Faceoff Bo Columbus vs Billy Hart won by DETMERCY, [09:42] Ground ball pickup by DETMERCY Billy Hart."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by DETMERCY Caden Loken, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot clock violation by DETMERCY."
+  },
+  {
+    "quarter": "3",
+    "time": "08:10",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "Shot by RMU Ryan Stiefel, SAVE Ryan Richters.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:16",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by DETMERCY Julian Greendeer WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:10",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "GOAL by RMU Kean Moon, Assist by Colin Davis, goal number 6 for season.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "Faceoff Bo Columbus vs Billy Hart won by RMU (on faceoff violation).",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "GOAL by RMU Kean Moon, goal number 7 for season.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Faceoff Bo Columbus vs Canton Lanham won by DETMERCY, [06:06] Ground ball pickup by DETMERCY Ian Greenwell."
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by DETMERCY failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:37",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Turnover by DETMERCY Chase Mahabir (caused by Calum Brennan)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:32",
+    "home_event": "Ground ball pickup by RMU Elijah Edwards.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:26",
+    "home_event": "Shot by RMU Luke Prezioso HIT POST.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Turnover by DETMERCY Asher Moon-Sarudi (caused by Nathan Ruff)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "Ground ball pickup by RMU Brian Simmons.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Penalty on DETMERCY Andrew Parker (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "04:41",
+    "home_event": "GOAL by RMU Nick Pelletier (MAN-UP), Assist by Will MacLeod, goal number 4 for season.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:41",
+    "home_event": "Faceoff Bo Columbus vs Canton Lanham won by RMU, [04:41] Ground ball pickup by RMU Colin Davis.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "Timeout by RMU.",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:57",
+    "home_event": "Turnover by RMU David Burr (caused by Ian Greenwell).",
+    "score": "11-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Ground ball pickup by DETMERCY Kyle Grant."
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "",
+    "score": "11-3",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "GOAL by DETMERCY Chase Mahabir, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "Faceoff Bo Columbus vs Billy Hart won by RMU, [03:32] Ground ball pickup by RMU Bo Columbus.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Shot by RMU Luke Prezioso WIDE.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:26",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Turnover by DETMERCY Chase Mahabir (caused by Casey Sodolski)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:19",
+    "home_event": "Ground ball pickup by RMU Casey Sodolski.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "Shot by RMU Nick Pelletier, SAVE Ryan Richters.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:29",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:21",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Shot by DETMERCY Sean Henige WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Shot by DETMERCY Harold Skinner HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Bo Columbus vs Conner Kunce won by RMU, [15:00] Ground ball pickup by RMU Bo Columbus.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:17",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by Luke Prezioso, goal number 18 for season.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:17",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Faceoff Bo Columbus vs Conner Kunce won by DETMERCY, [14:17] Ground ball pickup by DETMERCY Conner Kunce."
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Turnover by DETMERCY Conner Kunce (caused by Nathan Ruff)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "Ground ball pickup by RMU Elijah Edwards.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:59",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "Turnover by RMU Bo Columbus (caused by Jackson Ewald).",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Ground ball pickup by DETMERCY Kyle Grant."
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "Penalty on RMU Brian Simmons (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by DETMERCY Chase Mahabir, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "4",
+    "time": "12:57",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "GOAL by RMU Luke Prezioso, Assist by David Burr, goal number 6 for season.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Faceoff Bo Columbus vs Conner Kunce won by DETMERCY (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:23",
+    "home_event": "",
+    "score": "13-4",
+    "away_event": "Shot by DETMERCY Asher Moon-Sarudi, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "4",
+    "time": "11:11",
+    "home_event": "Ground ball pickup by RMU Owen Tapper.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "GOAL by RMU Ryan Stiefel, goal number 2 for season.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:50",
+    "home_event": "Faceoff Zach Seppi vs Conner Kunce won by RMU, [10:50] Ground ball pickup by RMU Zach Seppi.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:43",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Penalty on DETMERCY Jackson Ewald (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "Shot by RMU David Burr WIDE.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Shot by DETMERCY Aidan Bishop, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:23",
+    "home_event": "Shot by RMU Ryan Stiefel HIGH.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:02",
+    "home_event": "Shot by RMU Luke Prezioso WIDE.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Christian Tucker at goalie for DETMERCY."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "GOAL by RMU Calum Brennan, Assist by Ben Eck, goal number 19 for season.",
+    "score": "15-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "15-4",
+    "away_event": "Faceoff Cristian Davis vs Canton Lanham won by DETMERCY (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "15-4",
+    "away_event": "Shot by DETMERCY Chase Mahabir, SAVE Nate Fechter."
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "15-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "Brady Carver at goalie for RMU.",
+    "score": "15-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "GOAL by RMU Tommy Mullikin, goal number 1 for season.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "",
+    "score": "16-4",
+    "away_event": "Penalty on DETMERCY Kyle Grant (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "05:43",
+    "home_event": "Faceoff Zach Seppi vs Canton Lanham won by RMU, [05:43] Ground ball pickup by RMU Zach Seppi.",
+    "score": "16-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:02",
+    "home_event": "GOAL by RMU Nolan Barker (MAN-UP), Assist by Calum Brennan, goal number 1 for season.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:02",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Faceoff Cristian Davis vs Canton Lanham won by DETMERCY, [05:02] Ground ball pickup by DETMERCY Eoghan Mullett."
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Turnover by DETMERCY Ethan Conover (caused by Brady Carver)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:09",
+    "home_event": "Ground ball pickup by RMU Brady Carver.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:38",
+    "home_event": "Shot by RMU Ben Eck, SAVE Christian Tucker.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Clear attempt by DETMERCY good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "",
+    "score": "17-4",
+    "away_event": "Turnover by DETMERCY Chase Mahabir."
+  },
+  {
+    "quarter": "4",
+    "time": "02:57",
+    "home_event": "Ground ball pickup by RMU Ben Eck.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:55",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "17-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:51",
+    "home_event": "GOAL by RMU Rowan Hynes, Assist by Callum Witter, goal number 1 for season.",
+    "score": "18-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:51",
+    "home_event": "",
+    "score": "18-4",
+    "away_event": "Penalty on DETMERCY Kyle Grant (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "Faceoff Cristian Davis vs Canton Lanham won by RMU (on faceoff violation).",
+    "score": "18-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "GOAL by RMU Luis Gonzalez (MAN-UP), Assist by Parker Piwinski, goal number 2 for season.",
+    "score": "19-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:10",
+    "home_event": "",
+    "score": "19-4",
+    "away_event": "Faceoff Cristian Davis vs Billy Hart won by DETMERCY, [02:10] Ground ball pickup by DETMERCY Billy Hart."
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "",
+    "score": "19-4",
+    "away_event": "Turnover by DETMERCY A. Jean-Francois (caused by Callum Witter)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "Ground ball pickup by RMU Callum Witter.",
+    "score": "19-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "Clear attempt by RMU good.",
+    "score": "19-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Shot by RMU Brian Simmons, SAVE Christian Tucker.",
+    "score": "19-4",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1549 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "KLEBAN, Malcolm at goalie for DEN.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Knust, Wyatt at goalie for COR."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:52",
+    "home_event": "Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "Turnover by DEN KELLY, Mic.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "Penalty on DEN BARNETT, Colm (CK/1:00) Extra-man opportunity.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by COR Firth, Willem (caused by FREEHILL, Jimmy)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "Ground ball pickup by DEN KLEBAN, Malcolm.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "Turnover by DEN KLEBAN, Malcolm.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "Shot by DEN CARLSON, Joshua WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "Shot by DEN MALAWSKY, Cody, SAVE Knust, Wyatt.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by COR Box, Charlie."
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by COR Kelleher, Hugh (FIRST GOAL), Assist by Kirst, CJ, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [09:51] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by COR Waldman, Ryan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by COR Long, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by COR Waldman, Ryan, Assist by Goldstein, Ryan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [08:50] Ground ball pickup by COR Bartolotto, Anthony."
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by COR Kirst, CJ, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "MANNING, Grayson at goalie for DEN.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [07:48] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "07:42",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by COR Cascadden, Jack HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by COR Kirst, CJ."
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by COR Goldstein, Ryan, SAVE MANNING, Grayson."
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "GOAL by DEN ATCHISON, Andrew, goal number 2 for season.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [05:36] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "Timeout by DEN.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "Shot by DEN MALAWSKY, Cody WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "Shot by DEN TZAGOURNIS, Marek HIT POST.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by COR Firth, Willem, goal number 5 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [04:00] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by COR Cascadden, Jack, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "Faceoff KRAUS, Michael vs Ricci, Sam won by DEN, [03:54] Ground ball pickup by DEN ALREAD, Luke.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "Turnover by DEN ALREAD, Luke.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by COR Kirst, CJ."
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by COR Schwartz, Walker HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "Shot by DEN CARLSON, Joshua WIDE.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "Turnover by DEN MANNING, Noah (caused by Singer, Jayson).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by COR Singer, Jayson."
+  },
+  {
+    "quarter": "1",
+    "time": "02:03",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by COR Kelleher, Hugh, Assist by Goldstein, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [01:06] Ground ball pickup by COR Lamb, TJ."
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COR Wallace, Walker HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COR Goldstein, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Penalty on DEN FREEHILL, Jimmy (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by COR Firth, Willem (MAN-UP), Assist by Goldstein, Ryan, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [14:34] Ground ball pickup by DEN CALDWELL, Chris.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "Shot by DEN TORTOLANI, Jack HIGH.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "GOAL by COR Kirst, CJ, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "KLEBAN, Malcolm at goalie for DEN.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [12:52] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:24",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Ground ball pickup by COR Gilmartin, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "Ground ball pickup by DEN MALAWSKY, Cody.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COR Goldstein, Ryan BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Turnover by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by DEN CALDWELL, Chris.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:27",
+    "home_event": "Shot by DEN CARLSON, Joshua BLOCKED.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:27",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Penalty on COR TEAM (TOO/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:35",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Knust, Wyatt.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:41",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "Shot by DEN KLOKIW, Lucas WIDE.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "Shot by DEN MURPHY, Judge BLOCKED.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:21",
+    "home_event": "Ground ball pickup by DEN ATCHISON, Andrew.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:15",
+    "home_event": "Shot clock violation by DEN.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:34",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COR Goldstein, Ryan, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "Ground ball pickup by DEN KIRSCHKE, Blake.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:26",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:56",
+    "home_event": "Shot by DEN MALAWSKY, Cody, SAVE Knust, Wyatt.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "Turnover by DEN MALAWSKY, Cody.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:47",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "GOAL by COR Kirst, CJ, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [04:27] Ground ball pickup by COR Wallace, Walker."
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Turnover by COR Dalton, Andrew."
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "Ground ball pickup by DEN TZAGOURNIS, Marek.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "Shot by DEN CLARK, Daniel, SAVE Knust, Wyatt.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "Shot by DEN KELLY, Mic WIDE.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:53",
+    "home_event": "Shot by DEN TORTOLANI, Jack, SAVE Knust, Wyatt.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Turnover by DEN CARLSON, Joshua (caused by Singer, Jayson).",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:08",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:45",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Ground ball pickup by COR Kelleher, Hugh."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by COR Dalton, Andrew, Assist by Kirst, CJ, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN (on faceoff violation).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:26",
+    "home_event": "Shot by DEN KELLY, Mic, SAVE Knust, Wyatt.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:22",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by COR Bozzi, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:37",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by COR Long, Michael, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:56",
+    "home_event": "GOAL by DEN KELLY, Mic, Assist by MANNING, Noah, goal number 7 for season.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:56",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Faceoff KRAUS, Michael vs Ricci, Sam won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:47",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "GOAL by COR Long, Michael, Assist by Goldstein, Ryan, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:32",
+    "home_event": "Faceoff TESTA, Christopher vs Ricci, Sam won by DEN.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "GOAL by DEN TARABOLETTI, Joe, Assist by ATCHISON, Andrew, goal number 2 for season.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [11:04] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "Ground ball pickup by DEN WILSON, Casey.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:41",
+    "home_event": "Turnover by DEN WILSON, Casey (caused by Cascadden, Jack).",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by COR Bartolotto, Anthony."
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by COR Kelleher, Hugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:23",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by COR Sheehan, Ryan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot clock violation by COR."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "Turnover by DEN OVERLY, Russell.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by COR Holmes, Alex (caused by DAVIS, Brody)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:26",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "Shot by DEN KELLY, Mic HIGH.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "Shot by DEN KELLY, Mic, SAVE Knust, Wyatt.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:04",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by COR Kelleher, Hugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:54",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "06:50",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Turnover by DEN.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by COR Kelleher, Hugh, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "06:19",
+    "home_event": "Ground ball pickup by DEN OVERLY, Russell.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "Shot by DEN MERAGEAS, Chris HIT POST.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "Ground ball pickup by DEN MALAWSKY, Cody.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "GOAL by DEN CARLSON, Joshua, Assist by ATCHISON, Andrew, goal number 3 for season.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN (on faceoff violation).",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "Shot by DEN ATCHISON, Andrew, SAVE Knust, Wyatt.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "Shot by DEN MALAWSKY, Cody WIDE.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "Shot by DEN ATCHISON, Andrew, SAVE Knust, Wyatt.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Ground ball pickup by COR Dooley, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "04:25",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Ground ball pickup by COR Sheehan, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Turnover by COR Long, Michael (caused by CALDWELL, Chris)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "Ground ball pickup by DEN CALDWELL, Chris.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:56",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "GOAL by DEN TORTOLANI, Jack, Assist by KLOKIW, Lucas, goal number 4 for season.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [02:12] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by COR Dalton, Andrew, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "Ground ball pickup by DEN OVERLY, Russell.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:00",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Turnover by DEN MURPHY, Judge.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [15:00] Ground ball pickup by DEN CALDWELL, Chris.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Turnover by DEN CALDWELL, Chris (caused by Lamb, TJ).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by COR Knust, Wyatt."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Ground ball pickup by DEN KLEBAN, Malcolm.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:42",
+    "home_event": "Shot by DEN MURPHY, Judge WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:34",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:01",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by COR Staub, Brendan HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by COR Sheehan, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "Shot by DEN CARLSON, Joshua, SAVE Knust, Wyatt.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:43",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:02",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by COR Kirst, CJ, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "Turnover by DEN ALREAD, Luke (caused by Cascadden, Jack).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [10:39] Ground ball pickup by DEN ALREAD, Luke.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:18",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by COR Firth, Willem."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by COR Goldstein, Ryan, Assist by Firth, Willem, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:23",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR, [10:23] Ground ball pickup by COR Cascadden, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:16",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Turnover by COR Goldstein, Ryan (caused by OVERLY, Russell)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:09",
+    "home_event": "Ground ball pickup by DEN OVERLY, Russell.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:04",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "Shot by DEN TZAGOURNIS, Marek, SAVE Knust, Wyatt.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:25",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:17",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Ground ball pickup by COR Long, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Long, Michael, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by DEN, [08:14] Ground ball pickup by DEN KRAUS, Michael.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Turnover by DEN KRAUS, Michael (caused by Cascadden, Jack).",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by COR Long, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by COR Lamb, TJ, SAVE KLEBAN, Malcolm."
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Clear attempt by DEN failed.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Turnover by DEN CALDWELL, Chris (caused by Schwartz, Walker).",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by COR Kirst, CJ, Assist by Goldstein, Ryan, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "MANNING, Grayson at goalie for DEN.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff KRAUS, Michael vs Cascadden, Jack won by COR (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by COR Goldstein, Ryan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:09",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by COR Goldstein, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "Ground ball pickup by DEN MANNING, Noah.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "Shot by DEN MANNING, Noah, SAVE Knust, Wyatt.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "04:44",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by COR failed."
+  },
+  {
+    "quarter": "4",
+    "time": "04:27",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "4",
+    "time": "03:50",
+    "home_event": "Turnover by DEN CARLSON, Joshua (caused by Bozzi, Michael).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by COR Staub, Brendan."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by COR Staub, Brendan (caused by CALDWELL, Chris)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Timeout by COR."
+  },
+  {
+    "quarter": "4",
+    "time": "03:30",
+    "home_event": "Clear attempt by DEN good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "Shot by DEN CLARK, Daniel, SAVE Knust, Wyatt.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by COR good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by COR."
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "Shot by DEN KELLY, Mic HIGH.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:25",
+    "home_event": "Shot by DEN KELLY, Mic BLOCKED.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "Shot by DEN MALAWSKY, Cody BLOCKED.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Penalty on COR Staub, Brendan (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Ground ball pickup by DEN MANNING, Noah.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "Shot by DEN MANNING, Noah WIDE.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "Ground ball pickup by DEN MANNING, Noah.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Shot by DEN REYNOLDS, Gordon WIDE.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Shot by DEN TORTOLANI, Jack WIDE.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Shot by DEN REYNOLDS, Gordon WIDE.",
+    "score": "5-15",
+    "away_event": ""
+  }
+]

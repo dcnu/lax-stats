@@ -1,0 +1,1598 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Michael Gianforcaro at goalie for NC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Sean Byrne at goalie for ARMY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "Ground ball pickup by NC Ty English.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "Turnover by NC Andrew Preis.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by ARMY Gunnar Fellows."
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "Penalty on NC Kai Prohaszka (PUSHING/0:30) Extra-man opportunity.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by ARMY Avi Mehl WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by ARMY Evan Plunkett HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by ARMY Jackson Eicher (FIRST GOAL) (MAN-UP), Assist by Evan Plunkett, goal number 25 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Brady Wambach vs Alec Vaccaro won by ARMY, [13:06] Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by ARMY Gunnar Fellows, Assist by Jackson Eicher, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [12:07] Ground ball pickup by NC Brady Wambach.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "Turnover by NC James Matan (caused by AJ Pilate).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:24",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by ARMY Ryan Sellew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by ARMY John Manero, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Clear attempt by NC good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "Ground ball pickup by NC Dominic Pietramala.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "GOAL by NC Dominic Pietramala, goal number 28 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Brady Wambach vs Robert Simone won by ARMY, [08:46] Ground ball pickup by ARMY Kyle Atherton."
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ARMY Ryan Nixon WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by ARMY Hill Plunkett (caused by Leif Hagerup)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "Ground ball pickup by NC Leif Hagerup.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "Clear attempt by NC good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "Shot by NC James Matan, SAVE Sean Byrne.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "1",
+    "time": "06:33",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by ARMY Ryan Nixon (caused by Cooper Frankenheimer)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "Ground ball pickup by NC Brett Koopman.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Shot by NC Andrew Preis WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "GOAL by NC Owen Duffy, goal number 24 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Brady Wambach vs Robert Simone won by ARMY, [05:38] Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by ARMY Jackson Eicher."
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "Ground ball pickup by NC Brett Koopman.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "Clear attempt by NC good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "GOAL by NC Dominic Pietramala, goal number 29 for season.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC (on faceoff violation).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "Shot by NC Dominic Pietramala, SAVE Sean Byrne.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "Shot by NC Ty English WIDE.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Turnover by NC James Matan.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:10",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by ARMY Christian Mazur."
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by ARMY Aiden Weisenborn, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [02:23] Ground ball pickup by NC Brady Wambach.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:38",
+    "home_event": "Turnover by NC Brevin Wilson.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:34",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by ARMY Hill Plunkett, Assist by Evan Plunkett, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [00:57] Ground ball pickup by NC Brady Wambach.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Penalty on ARMY Christian Mazur (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:49",
+    "home_event": "Shot by NC Dominic Pietramala, SAVE Sean Byrne.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:35",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by ARMY Hill Plunkett, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "Clear attempt by NC good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "Ground ball pickup by NC Chase Cellucci.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "GOAL by NC Ty English, Assist by Owen Duffy, goal number 15 for season.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC (on faceoff violation).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "GOAL by NC Owen Duffy, goal number 25 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Brady Wambach vs Alec Vaccaro won by ARMY, [12:34] Ground ball pickup by ARMY Alec Vaccaro."
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by ARMY Alec Vaccaro, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "Ground ball pickup by NC Cole Aasheim.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:10",
+    "home_event": "Clear attempt by NC good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:48",
+    "home_event": "Shot by NC Spencer Wirtheim WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:36",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:13",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by ARMY Christian Mazur WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by ARMY Brayden Fountain (caused by Paul Barton)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:55",
+    "home_event": "Ground ball pickup by NC Paul Barton.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "Clear attempt by NC good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "Shot by NC Paul Barton WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:46",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Timeout by ARMY."
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "GOAL by NC Ryan Levy, Assist by Owen Duffy, goal number 7 for season.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:19",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [10:19] Ground ball pickup by NC Brady Wambach.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Turnover by NC Ty English.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by ARMY Andrew Miller."
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by ARMY Evan Plunkett WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:49",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by ARMY Gunnar Fellows."
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by ARMY Hill Plunkett."
+  },
+  {
+    "quarter": "2",
+    "time": "08:28",
+    "home_event": "Ground ball pickup by NC Michael Gianforcaro.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:26",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by ARMY Christian Fournier (caused by Caden Harshbarger)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by ARMY Jackson Eicher BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "08:07",
+    "home_event": "Timeout by NC.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Gunnar Fellows, goal number 26 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [07:46] Ground ball pickup by NC Brady Wambach.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "Shot by NC Mason Szewczyk WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:34",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Turnover by ARMY Christian Mazur."
+  },
+  {
+    "quarter": "2",
+    "time": "06:07",
+    "home_event": "Clear attempt by NC good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "Shot by NC Andrew Preis, SAVE Sean Byrne.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "Ground ball pickup by NC Spencer Wirtheim.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:11",
+    "home_event": "Turnover by NC Ty English.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:08",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "2",
+    "time": "05:04",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Turnover by ARMY John Manero (caused by Andrew O'Berry)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "Ground ball pickup by NC Andrew O'Berry.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Clear attempt by NC good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "Ground ball pickup by NC Leif Hagerup.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Shot by NC Dominic Pietramala BLOCKED.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by ARMY Sean Byrne."
+  },
+  {
+    "quarter": "2",
+    "time": "03:56",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Evan Plunkett, goal number 27 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [03:20] Ground ball pickup by NC Brady Wambach.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "Turnover by NC Brady Wambach.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:09",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by ARMY John Sullivan."
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Alec Vaccaro, goal number 28 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Faceoff Brady Wambach vs Alec Vaccaro won by ARMY, [03:04] Ground ball pickup by ARMY Alec Vaccaro."
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "Shot by ARMY Hill Plunkett, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "2",
+    "time": "02:06",
+    "home_event": "Clear attempt by NC good.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:25",
+    "home_event": "Shot by NC Owen Duffy WIDE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "GOAL by NC Brevin Wilson, goal number 4 for season.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff Brady Wambach vs Alec Vaccaro won by ARMY, [01:05] Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Timeout by ARMY."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by ARMY Brayden Fountain, Assist by Evan Plunkett, goal number 28 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [15:00] Ground ball pickup by NC Parker Hoffman.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:49",
+    "home_event": "Shot by NC Parker Hoffman WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "Shot by NC Dominic Pietramala WIDE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by ARMY Hill Plunkett, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [13:13] Ground ball pickup by NC Brady Wambach.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "GOAL by NC Dominic Pietramala, goal number 30 for season.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [12:34] Ground ball pickup by NC Brady Wambach.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "GOAL by NC James Matan, Assist by Mason Szewczyk, goal number 10 for season.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [11:15] Ground ball pickup by NC Brady Wambach.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Turnover by NC Brady Wambach.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "3",
+    "time": "10:12",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by ARMY Hill Plunkett, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "3",
+    "time": "09:55",
+    "home_event": "Clear attempt by NC good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Shot by NC Dewey Egan, SAVE Sean Byrne.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:06",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  },
+  {
+    "quarter": "3",
+    "time": "08:52",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by ARMY Grant Masterson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by ARMY Jackson Eicher (caused by Chase Cellucci)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "Ground ball pickup by NC Chase Cellucci.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "Clear attempt by NC good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:39",
+    "home_event": "Turnover by NC Ryan Levy (caused by AJ Pilate).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:15",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Evan Plunkett, goal number 29 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:15",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:15",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [06:15] Ground ball pickup by NC Brady Wambach.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "Shot by NC Parker Hoffman, SAVE Sean Byrne.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:02",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "3",
+    "time": "06:00",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:57",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by ARMY AJ Pilate WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:43",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by ARMY Evan Plunkett, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:43",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC (on faceoff violation).",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "Shot by NC Dominic Pietramala, SAVE Sean Byrne.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "GOAL by ARMY Jackson Eicher, Assist by Ryan Nixon, goal number 30 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "Faceoff Brady Wambach vs Alec Vaccaro won by NC, [04:47] Ground ball pickup by NC Brady Wambach.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:09",
+    "home_event": "Shot by NC Owen Duffy, SAVE Sean Byrne.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "3",
+    "time": "03:47",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Clear attempt by ARMY failed."
+  },
+  {
+    "quarter": "3",
+    "time": "03:41",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Turnover by ARMY Gunnar Fellows."
+  },
+  {
+    "quarter": "3",
+    "time": "03:32",
+    "home_event": "Clear attempt by NC good.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "GOAL by NC Ty English, goal number 16 for season.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [03:08] Ground ball pickup by NC Brett Koopman.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Penalty on ARMY Andrew Miller (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "02:39",
+    "home_event": "Turnover by NC Ryan Levy (caused by Christian Mazur).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:35",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Ground ball pickup by ARMY John Sullivan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:33",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:44",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by ARMY Gunnar Fellows, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "3",
+    "time": "01:30",
+    "home_event": "Clear attempt by NC good.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Penalty on ARMY Jackson Eicher (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "14:49",
+    "home_event": "Turnover by NC Matt Wrede (caused by John Sullivan).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:45",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Ground ball pickup by ARMY AJ Pilate."
+  },
+  {
+    "quarter": "4",
+    "time": "14:26",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by ARMY Evan Plunkett, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "Clear attempt by NC failed.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "Turnover by NC Andrew O'Berry.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:50",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by ARMY Aiden Weisenborn HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by ARMY Hill Plunkett HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "GOAL by ARMY Brayden Fountain, Assist by Hill Plunkett, goal number 29 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [12:24] Ground ball pickup by NC Parker Hoffman.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:08",
+    "home_event": "Shot by NC Dominic Pietramala BLOCKED.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Ground ball pickup by NC Ty English.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Turnover by NC Ty English.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:54",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by ARMY Christian Mazur."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Shot by ARMY Jackson Eicher HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "09:53",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by ARMY Dylan D'Agostino."
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Turnover by ARMY Dylan D'Agostino (caused by Chase Cellucci)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "Ground ball pickup by NC Chase Cellucci.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "Clear attempt by NC good.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:42",
+    "home_event": "Timeout by NC.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:17",
+    "home_event": "Shot by NC James Matan WIDE.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:15",
+    "home_event": "Ground ball pickup by NC Owen Duffy.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "GOAL by NC Owen Duffy, goal number 26 for season.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "Faceoff Brady Wambach vs Robert Simone won by NC, [08:12] Ground ball pickup by NC Brady Wambach.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "Ground ball pickup by NC Caden Harshbarger.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:28",
+    "home_event": "Shot by NC Caden Harshbarger, SAVE Sean Byrne.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:25",
+    "home_event": "Ground ball pickup by NC Caden Harshbarger.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "Shot by NC Caden Harshbarger HIGH.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:20",
+    "home_event": "Shot by NC Owen Duffy BLOCKED.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "Ground ball pickup by NC Brevin Wilson.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:09",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Penalty on ARMY Keagan Treacy (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "Turnover by NC Matt Wrede (caused by Christian Mazur).",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by ARMY John Sullivan."
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by ARMY Christian Mazur."
+  },
+  {
+    "quarter": "4",
+    "time": "06:39",
+    "home_event": "Ground ball pickup by NC Paul Barton.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "GOAL by NC Ryan Levy (MAN-UP), Assist by Owen Duffy, goal number 8 for season.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Faceoff Brady Wambach vs Robert Simone won by ARMY, [06:16] Ground ball pickup by ARMY Ryan Nixon."
+  },
+  {
+    "quarter": "4",
+    "time": "05:29",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by ARMY Jackson Eicher HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "05:09",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by ARMY Aiden Weisenborn, SAVE Michael Gianforcaro."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "Clear attempt by NC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:55",
+    "home_event": "Shot by NC Dominic Pietramala HIT POST.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "Shot by NC Ty English, SAVE Sean Byrne.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:02",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by ARMY Brayden Fountain."
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Turnover by ARMY."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "Clear attempt by NC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "Turnover by NC Owen Duffy (caused by AJ Pilate).",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by ARMY CJ Monturio."
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Clear attempt by ARMY good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by ARMY Christian Mazur WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by ARMY Jackson Eicher WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot clock violation by ARMY."
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "Clear attempt by NC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "Timeout by NC.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Turnover by NC Owen Duffy.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by ARMY John Sullivan."
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Turnover by ARMY John Sullivan (caused by Spencer Wirtheim)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "Ground ball pickup by NC Ty English.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:26",
+    "home_event": "Clear attempt by NC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "Turnover by NC Spencer Wirtheim (caused by Christian Fournier).",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by ARMY Christian Fournier."
+  }
+]

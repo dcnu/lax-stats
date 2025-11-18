@@ -1,0 +1,1654 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "McCool, Jimmy at goalie for SU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Jameison at goalie for DU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Mullen, John vs Luke Engelke won by DU."
+  },
+  {
+    "quarter": "1",
+    "time": "14:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DU Jack Pappendick."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Benn Johnston WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot clock violation by DU."
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "Clear attempt by SU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "Shot by SU Leo, Michael WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "Turnover by SU English, Sam (caused by Keith Boyer).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DU Cole Krauss."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Andrew McAdorey, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DU Liam Kershis HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by DU Eric Malever (FIRST GOAL), goal number 25 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Mullen, John vs Luke Engelke won by DU, [11:45] Ground ball pickup by DU Jack Gray."
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:43",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DU Benn Johnston HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by DU Max Sloat, goal number 21 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "Faceoff Mullen, John vs Luke Engelke won by SU, [10:23] Ground ball pickup by SU Mullen, John.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "Shot by SU Anderson, Payton WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "Shot by SU Hiltz, Owen, SAVE Patrick Jameison.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Liam Kershis, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Eric Malever WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot clock violation by DU."
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "Clear attempt by SU good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Shot by SU Rhoa, Luke HIGH.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Shot by SU Spallina, Joey WIDE RIGHT.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "Turnover by SU Leo, Michael (caused by Connor Nolen).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DU Connor Nolen."
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DU Cole Krauss."
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Connor Nolen HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:22",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "Penalty on SU Anderson, Payton (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Benn Johnston, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "Ground ball pickup by SU McCool, Jimmy.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "Turnover by SU Kol, Caden.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Graham Blake WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Graham Blake, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "Clear attempt by SU good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "Turnover by SU Anderson, Payton (caused by Cole Krauss).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DU Henry Bard."
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DU Aidan Maguire WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by DU Eric Malever, goal number 26 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "Faceoff Mullen, John vs Luke Engelke won by SU, [03:20] Ground ball pickup by SU Mullen, John.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "Turnover by SU Spallina, Joey (caused by Charlie Johnson).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DU Andrew McAdorey HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "01:40",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by DU Benn Johnston."
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Clear attempt by SU good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:02",
+    "home_event": "Shot by SU English, Sam WIDE.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:00",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Timeout by DU."
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "Shot by SU Anderson, Payton, SAVE Patrick Jameison.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DU Max Sloat WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Mullen, John vs Luke Engelke won by SU, [15:00] Ground ball pickup by SU Mullen, John.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:30",
+    "home_event": "Shot by SU Anderson, Payton, SAVE Patrick Jameison.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "Shot by SU Spallina, Joey WIDE LEFT.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DU Max Sloat, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by DU Benn Johnston."
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DU Max Sloat BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by DU Benn Johnston."
+  },
+  {
+    "quarter": "2",
+    "time": "12:43",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DU Eric Malever HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by DU Liam Kershis, goal number 9 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:34",
+    "home_event": "Faceoff Mullen, John vs Ben McCarthy won by SU, [12:34] Ground ball pickup by SU Caccamo, Nick.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "Shot by SU McCarthy, Tyler BLOCKED.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "Shot by SU Hottle, Wyatt, SAVE Patrick Jameison.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:11",
+    "home_event": "Shot by SU Hottle, Wyatt WIDE.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "GOAL by SU Spallina, Joey, goal number 28 for season.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Faceoff Mullen, John vs Ben McCarthy won by SU (on faceoff violation).",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "GOAL by SU Hiltz, Owen, Assist by Spallina, Joey, goal number 32 for season.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU, [10:36] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by DU Graham Blake WIDE RIGHT."
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot clock violation by DU."
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "Turnover by SU Hottle, Wyatt.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "Clear attempt by SU failed.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by DU Aidan Maguire, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU, [08:47] Ground ball pickup by SU Mullen, John.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "GOAL by SU Rhoa, Luke, Assist by Spallina, Joey, goal number 19 for season.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU, [08:00] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by DU Benn Johnston WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by DU Max Sloat, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Clear attempt by SU good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "Turnover by SU Anderson, Payton.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by DU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by DU Cole Krauss (caused by LeVine, Nate)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "Ground ball pickup by SU Figueiras, Riley.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "GOAL by SU Spallina, Joey, Assist by Leo, Michael, goal number 29 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU, [05:02] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:02",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by DU Graham Blake, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "2",
+    "time": "03:59",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:13",
+    "home_event": "Shot by SU English, Sam, SAVE Patrick Jameison.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by DU Eric Malever, Assist by Aidan Maguire, goal number 27 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:04",
+    "home_event": "Shot by SU McCarthy, Tyler HIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "Ground ball pickup by SU Anderson, Payton.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "Turnover by SU Cordes, Tyler.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:51",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by DU Eric Malever, Assist by Andrew McAdorey, goal number 28 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:51",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU, [00:51] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Timeout by DU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by DU Eric Malever, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "Ground ball pickup by SU Grace, Michael.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU."
+  },
+  {
+    "quarter": "3",
+    "time": "13:47",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by DU Andrew McAdorey, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "13:45",
+    "home_event": "Ground ball pickup by SU Grace, Michael.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "Shot by SU Leo, Michael WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "Turnover by SU Spallina, Joey (caused by Charlie Johnson).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:01",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by DU Jake Wilson."
+  },
+  {
+    "quarter": "3",
+    "time": "12:59",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by DU Aidan Maguire, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Faceoff Richiusa, Johnny vs Cal Girard won by DU, [12:47] Ground ball pickup by DU Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by DU Andrew McAdorey, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by DU Mac Christmas, Assist by Aidan Maguire, goal number 7 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Timeout by SU.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Mullen, John vs Cal Girard won by DU, [11:52] Ground ball pickup by DU Keith Boyer."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by DU Keith Boyer (caused by Kuczynski, Chuck)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:11",
+    "home_event": "Shot by SU Thomson, Finn WIDE RIGHT.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Turnover by SU Anderson, Payton (caused by Patrick Jameison).",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DU Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:05",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Max Sloat WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:05",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "3",
+    "time": "09:54",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Turnover by SU Anderson, Payton.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Liam Kershis, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:28",
+    "home_event": "Shot by SU Hottle, Wyatt WIDE RIGHT.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "Turnover by SU Hiltz, Owen.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:39",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DU Cole Krauss."
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Max Sloat, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "05:29",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DU Jack Pappendick."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Benn Johnston HIT CROSSBAR."
+  },
+  {
+    "quarter": "3",
+    "time": "04:55",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DU Benn Johnston."
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Jack Pappendick WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "Penalty on SU McCarthy, Tyler (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DU Graham Blake, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "Ground ball pickup by SU Dwan, Billy.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "Shot by SU English, Sam HIGH.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:23",
+    "home_event": "Shot by SU English, Sam, SAVE Patrick Jameison.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DU Charlie Johnson."
+  },
+  {
+    "quarter": "3",
+    "time": "03:16",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by DU Aiden Blake (caused by Grace, Michael)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Ground ball pickup by SU LeVine, Nate.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Clear attempt by SU failed.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Turnover by SU LeVine, Nate (caused by Eric Malever).",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:02",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "GOAL by DU Eric Malever, Assist by Andrew McAdorey, goal number 29 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:02",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU, [02:02] Ground ball pickup by SU Mullen, John.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:13",
+    "home_event": "Turnover by SU McCarthy, Tyler (caused by Jack Gray).",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:10",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Ground ball pickup by DU Jack Gray."
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Shot by DU Liam Kershis WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Shot by SU English, Sam, SAVE Patrick Jameison.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:49",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU, [14:49] Ground ball pickup by SU McCool, Jimmy.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:41",
+    "home_event": "Clear attempt by SU good.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "GOAL by SU English, Sam, goal number 16 for season.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "Faceoff Mullen, John vs Luke Engelke won by SU, [14:33] Ground ball pickup by SU Mullen, John.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "Ground ball pickup by SU Dwan, Billy.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:53",
+    "home_event": "Shot by SU Rhoa, Luke, SAVE Patrick Jameison.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by DU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "13:47",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by DU Mac Christmas (caused by Spallina, Joey)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "Ground ball pickup by SU Spallina, Joey.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Shot by SU English, Sam HIT POST.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "GOAL by SU Rhoa, Luke, Assist by Leo, Michael, goal number 20 for season.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU, [13:20] Ground ball pickup by SU Mullen, John.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:08",
+    "home_event": "Shot by SU Mullen, John, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:06",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by DU Andrew McAdorey, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "Clear attempt by SU good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:22",
+    "home_event": "Ground ball pickup by SU English, Sam.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:11",
+    "home_event": "Shot by SU English, Sam WIDE LEFT.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Shot by SU Rhoa, Luke HIGH.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Shot by SU Leo, Michael, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:47",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by DU Luke Warrington."
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "Ground ball pickup by SU Dwan, Billy.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "Clear attempt by SU good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:02",
+    "home_event": "Shot by SU Thomson, Finn, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by DU Charlie Johnson."
+  },
+  {
+    "quarter": "4",
+    "time": "09:59",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:45",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by DU Aiden Blake WIDE RIGHT."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "Clear attempt by SU good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:24",
+    "home_event": "Shot by SU Rhoa, Luke, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:01",
+    "home_event": "Shot by SU Hiltz, Owen, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "Ground ball pickup by SU Anderson, Payton.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "Turnover by SU Hiltz, Owen.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:33",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by DU Benn Johnston HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "06:50",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by DU Max Sloat, SAVE McCool, Jimmy."
+  },
+  {
+    "quarter": "4",
+    "time": "06:44",
+    "home_event": "Ground ball pickup by SU McCool, Jimmy.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "Clear attempt by SU failed.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "Turnover by SU Rice, Carter.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by DU Charlie Johnson."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "Penalty on SU Dwan, Billy (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by DU Benn Johnston."
+  },
+  {
+    "quarter": "4",
+    "time": "05:14",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot clock violation by DU."
+  },
+  {
+    "quarter": "4",
+    "time": "05:02",
+    "home_event": "Clear attempt by SU good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:38",
+    "home_event": "Shot by SU Anderson, Payton, SAVE Patrick Jameison.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by DU Aidan Maguire."
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by DU Tomas Delgado."
+  },
+  {
+    "quarter": "4",
+    "time": "03:30",
+    "home_event": "Clear attempt by SU good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Penalty on DU Mac Christmas (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:56",
+    "home_event": "Ground ball pickup by SU Spallina, Joey.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "GOAL by SU Deere, Trey (MAN-UP), Assist by Spallina, Joey, goal number 16 for season.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "Faceoff Mullen, John vs Cal Girard won by SU, [02:46] Ground ball pickup by SU Mullen, John.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:17",
+    "home_event": "Turnover by SU English, Sam.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:41",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Turnover by DU Aiden Blake (caused by Kuczynski, Chuck)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "Ground ball pickup by SU McCool, Jimmy.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "Clear attempt by SU good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:13",
+    "home_event": "Ground ball pickup by SU Spallina, Joey.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:02",
+    "home_event": "Turnover by SU Leo, Michael (caused by Jack Gray).",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:02",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Ground ball pickup by DU Mac Christmas."
+  },
+  {
+    "quarter": "4",
+    "time": "00:47",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Clear attempt by DU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Timeout by DU."
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Turnover by DU Andrew McAdorey."
+  },
+  {
+    "quarter": "4",
+    "time": "00:20",
+    "home_event": "Clear attempt by SU good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by SU Grace, Michael.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "Shot by SU Grace, Michael WIDE.",
+    "score": "7-11",
+    "away_event": ""
+  }
+]

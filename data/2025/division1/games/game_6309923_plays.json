@@ -1,0 +1,1878 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Ben Kieu at goalie for HAMPTON.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "ELLINGTON, Kevin at goalie for DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Braeden Lessane vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:05",
+    "home_event": "Turnover by HAMPTON Alex Lacey (caused by KOLAR, Jason).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:20",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "Turnover by HAMPTON Taylor Whitt.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by DEL PARMER, Bennett (FIRST GOAL)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Braeden Lessane vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "Ground ball pickup by HAMPTON CJ Hyacinth.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "Turnover by HAMPTON AJ Knox.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "10:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DEL POWERS, Brendan HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "Ground ball pickup by HAMPTON Mamadou Meite.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "Shot by HAMPTON Tre Childers, SAVE ELLINGTON, Kevin.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "Ground ball pickup by HAMPTON Jadon Meyers.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "Turnover by HAMPTON Jadon Meyers.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Penalty on HAMPTON AJ Knox (PUSHING/0:30) Extra-man opportunity.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by DEL KOLBE, Jack (MAN-UP), Assist by PARMER, Bennett."
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Mason Howard vs STRAUB, Michael won by DEL, [09:28] Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "08:17",
+    "home_event": "Turnover by HAMPTON Ben Kieu.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by DEL MCGEE, Owen, Assist by GILLIN, Patrick."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Mason Howard vs STRAUB, Michael won by DEL, [08:08] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by DEL KOLAR, Jason, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "07:31",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by DEL POWERS, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "Timeout by HAMPTON.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Matthew Hall vs STRAUB, Michael won by DEL, [07:21] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by DEL STRAUB, Michael HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by DEL CAPRI, Cory, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "Ground ball pickup by HAMPTON Amare Ford.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "Turnover by HAMPTON Jadon Meyers.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "Turnover by HAMPTON Logan McGill.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:55",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by DEL MCGEE, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Matthew Hall vs STRAUB, Michael won by DEL, [05:28] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by DEL MCGEE, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by DEL KOLAR, Jason, Assist by POWERS, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [04:39] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by DEL POWERS, Brendan, Assist by D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "Faceoff Braeden Lessane vs WARBURTON, Matthew won by HAMPTON, [03:56] Ground ball pickup by HAMPTON Braeden Lessane.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "Turnover by HAMPTON Braeden Lessane (caused by FURGESON, Nathan).",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by DEL FURGESON, Nathan."
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by DEL KOLBE, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by DEL D'AMBROGI, Hank, Assist by POWERS, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Quinlan Coryat vs STRAUB, Michael won by DEL, [02:41] Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "Turnover by HAMPTON.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by DEL KOLAR, Jason WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "Turnover by HAMPTON Zion Garcia.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [15:00] Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by DEL MORGAN, Finn, Assist by CAPRI, Cory."
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [14:06] Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:04",
+    "home_event": "Shot by HAMPTON Canyon Steverson HIGH.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:58",
+    "home_event": "Turnover by HAMPTON AJ Knox.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by DEL POWELL, Liam."
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by DEL SANELLI, Justin."
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [11:47] Ground ball pickup by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "Ground ball pickup by HAMPTON Logan McGill.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:25",
+    "home_event": "Shot by HAMPTON Tre Childers WIDE.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:22",
+    "home_event": "Ground ball pickup by HAMPTON AJ Knox.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Shot by HAMPTON Mamadou Meite WIDE.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Ground ball pickup by HAMPTON AJ Knox.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "Shot by HAMPTON AJ Knox WIDE.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:04",
+    "home_event": "Shot by HAMPTON Mamadou Meite, SAVE ELLINGTON, Kevin.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:35",
+    "home_event": "Turnover by HAMPTON Sebastian West.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DEL PARMER, Bennett HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "GOAL by DEL D'AMBROGI, Hank, Assist by CAPRI, Cory."
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Faceoff Mason Howard vs STRAUB, Michael won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:38",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Shot by DEL KOLAR, Jason, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "Ground ball pickup by HAMPTON AJ Knox.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "Shot by HAMPTON Canyon Steverson, SAVE ELLINGTON, Kevin.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:12",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:06",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Timeout by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "06:36",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "Shot by DEL MORGAN, Finn, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "Shot by HAMPTON David Jackson BLOCKED.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "Ground ball pickup by HAMPTON Canyon Steverson.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "GOAL by HAMPTON Jadon Meyers, Assist by Sebastian West, goal number 2 for season.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:54",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Faceoff Matthew Hall vs STRAUB, Michael won by DEL, [05:54] Ground ball pickup by DEL FURGESON, Nathan."
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Turnover by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "Turnover by HAMPTON Zion Garcia (caused by MCGEE, Owen).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:16",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DEL MCGEE, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL MCGEE, Owen, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "04:11",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Timeout by HAMPTON.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Shot by HAMPTON Mamadou Meite, SAVE ELLINGTON, Kevin.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:42",
+    "home_event": "Ground ball pickup by HAMPTON Jadon Meyers.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:39",
+    "home_event": "Shot by HAMPTON Jadon Meyers WIDE.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:30",
+    "home_event": "Shot by HAMPTON Mamadou Meite HIGH.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "Shot by HAMPTON Jadon Meyers, SAVE ELLINGTON, Kevin.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:52",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:01",
+    "home_event": "Penalty on HAMPTON Kimoni Greene (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL MCGEE, Owen, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "01:26",
+    "home_event": "Penalty on HAMPTON Taylor Whitt (SLASHING/1:00) Extra-man opportunity.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:19",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL KOLBE, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:58",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL D'AMBROGI, Hank WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:51",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "GOAL by HAMPTON Jadon Meyers, Assist by Reed Shaw, goal number 3 for season.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [00:07] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by DEL PARMER, Bennett BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "KOFF, Aiden at goalie for DEL."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Mason Howard vs STRAUB, Michael won by DEL, [15:00] Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by DEL MARSELL, Rowan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by DEL MCGEE, Owen WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:01",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by DEL OWINGS, Tyler WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "GOAL by DEL MCCURRY, John, Assist by KOLAR, Jason."
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Faceoff Mason Howard vs STRAUB, Michael won by DEL, [13:32] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "GOAL by DEL VILLANI, Ryder."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "Penalty on HAMPTON Mason Howard (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Faceoff Matthew Hall vs STRAUB, Michael won by DEL, [12:49] Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "12:24",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "GOAL by DEL KOLBE, Jack (MAN-UP)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:24",
+    "home_event": "Faceoff Matthew Hall vs STRAUB, Michael won by HAMPTON, [12:24] Ground ball pickup by HAMPTON Quinlan Coryat.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "Turnover by HAMPTON Quinlan Coryat.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Ground ball pickup by DEL BOND, Brooks."
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Turnover by DEL BERGSTROM, Wells (caused by Taylor Whitt)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "Ground ball pickup by HAMPTON Ben Kieu.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "Shot by HAMPTON Zion Garcia WIDE.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:08",
+    "home_event": "Shot by HAMPTON Mamadou Meite, SAVE KOFF, Aiden.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Shot by DEL KOLAR, Jason HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:53",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "GOAL by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "3",
+    "time": "09:53",
+    "home_event": "Faceoff Matthew Hall vs STRAUB, Michael won by HAMPTON, [09:53] Ground ball pickup by HAMPTON Zion Garcia.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:40",
+    "home_event": "Turnover by HAMPTON Zion Garcia (caused by STRAUB, Michael).",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:35",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "Shot by HAMPTON Jadon Meyers, SAVE KOFF, Aiden.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "Shot by HAMPTON Sebastian West HIGH.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:17",
+    "home_event": "Shot by HAMPTON Reed Shaw HIGH.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:10",
+    "home_event": "Shot clock violation by HAMPTON.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:06",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:33",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Turnover by HAMPTON Sebastian West.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Turnover by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "Ground ball pickup by HAMPTON Tre Childers.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "Turnover by HAMPTON Tre Childers.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Turnover by DEL CAPRI, Cory (caused by Logan McGill)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by HAMPTON Logan McGill.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:55",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "GOAL by HAMPTON Sebastian West, Assist by Elijah Jean-Jacques, goal number 5 for season.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Faceoff Matthew Hall vs STRAUB, Michael won by DEL, [04:17] Ground ball pickup by DEL BOND, Brooks."
+  },
+  {
+    "quarter": "3",
+    "time": "03:11",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL POWERS, Brendan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Turnover by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "Ground ball pickup by HAMPTON Amare Ford.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "Turnover by HAMPTON Amare Ford.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:36",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by DEL KOLAR, Jason."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by DEL KOLAR, Jason."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "Shot by HAMPTON Canyon Steverson WIDE.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "Turnover by HAMPTON Sebastian West.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:01",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Turnover by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "Shot by HAMPTON Canyon Steverson, SAVE KOFF, Aiden.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:34",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:25",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "3",
+    "time": "00:19",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by DEL BOND, Brooks."
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL MCGEE, Owen WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL PARMER, Bennett HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [15:00] Ground ball pickup by DEL BERGSTROM, Wells."
+  },
+  {
+    "quarter": "4",
+    "time": "14:16",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by DEL VILLANI, Ryder, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Turnover by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "Turnover by HAMPTON Sebastian West.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:48",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "GOAL by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Faceoff Braeden Lessane vs STRAUB, Michael won by DEL, [13:04] Ground ball pickup by DEL BERGSTROM, Wells."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by DEL MORGAN, Finn."
+  },
+  {
+    "quarter": "4",
+    "time": "12:28",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:15",
+    "home_event": "Shot by HAMPTON Sebastian West HIGH.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "Turnover by HAMPTON Tre Childers.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL SCHELL, Riar, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL FIX, Franky, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "4",
+    "time": "10:49",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL MCGEE, Owen WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Turnover by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "Ground ball pickup by HAMPTON Logan McGill.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:07",
+    "home_event": "Shot by HAMPTON Logan McGill, SAVE KOFF, Aiden.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:01",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL FIX, Franky WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "Penalty on HAMPTON Logan McGill (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL MORGAN, Finn WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:38",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Shot by DEL D'AMBROGI, Hank, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "",
+    "score": "3-16",
+    "away_event": "Ground ball pickup by DEL MORGAN, Finn."
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "GOAL by DEL D'AMBROGI, Hank."
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Faceoff Mason Howard vs WARBURTON, Matthew won by DEL, [08:12] Ground ball pickup by DEL BERGSTROM, Wells."
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "GOAL by DEL MORGAN, Finn."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Faceoff Mason Howard vs WARBURTON, Matthew won by DEL, [07:13] Ground ball pickup by DEL GRAVANTE, TJ."
+  },
+  {
+    "quarter": "4",
+    "time": "06:56",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Turnover by DEL GRAVANTE, TJ (caused by Alex Lacey)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:41",
+    "home_event": "Ground ball pickup by HAMPTON Karson Seth.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "Turnover by HAMPTON Karson Seth.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:36",
+    "home_event": "Clear attempt by HAMPTON failed.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Turnover by DEL GRAVANTE, TJ (caused by Taylor Whitt)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by HAMPTON Taylor Whitt.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:14",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Shot by HAMPTON AJ Knox HIGH.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Shot clock violation by HAMPTON.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:02",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Turnover by DEL MCGEE, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "04:05",
+    "home_event": "Ground ball pickup by HAMPTON Zion Garcia.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "Ground ball pickup by HAMPTON Sebastian West.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:29",
+    "home_event": "Timeout by HAMPTON.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "Shot by HAMPTON Mamadou Meite, SAVE KOFF, Aiden.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:16",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Ground ball pickup by DEL FISH, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Shot by DEL KRAUSS, Ethan HIT CROSSBAR."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Ground ball pickup by DEL SCHELL, Riar."
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Shot by DEL GALGANO, Luke, SAVE Ben Kieu."
+  },
+  {
+    "quarter": "4",
+    "time": "02:14",
+    "home_event": "Clear attempt by HAMPTON good.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:02",
+    "home_event": "Shot by HAMPTON AJ Knox WIDE.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "Ground ball pickup by HAMPTON Jonathan Angel.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:32",
+    "home_event": "Shot by HAMPTON Jonathan Angel WIDE.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:01",
+    "home_event": "Shot by HAMPTON Jadon Meyers, SAVE KOFF, Aiden.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Turnover by HAMPTON AJ Knox (caused by STRAUB, Michael).",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Ground ball pickup by DEL STRAUB, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Clear attempt by DEL good."
+  }
+]

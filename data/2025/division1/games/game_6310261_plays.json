@@ -1,0 +1,1836 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Tyler Gersh at goalie for LIU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Justin Dalum at goalie for CSU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [15:00] Ground ball pickup by CSU Robbie Stewart."
+  },
+  {
+    "quarter": "1",
+    "time": "14:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by CSU Robbie Stewart (caused by Shaun Hill)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "Ground ball pickup by LIU Owen Stefanko.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "Turnover by LIU Charlie Hunnewell (caused by Joe Ginnetti).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by CSU Drew Graves."
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by CSU Drew Graves (caused by Ryan Fountain)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "Shot by LIU Ben Schuster, SAVE Justin Dalum.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by LIU Ben McIsaac.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "GOAL by LIU Ben McIsaac (FIRST GOAL), goal number 21 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [13:16] Ground ball pickup by LIU Shaun Hill.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "Ground ball pickup by LIU Nicholas Kasica.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "GOAL by LIU Nicholas Kasica, goal number 1 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:57",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [12:57] Ground ball pickup by CSU Reggie Regala."
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by CSU Robbie Stewart (caused by AJ Volkmann)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:39",
+    "home_event": "Ground ball pickup by LIU Ryan Fountain.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "Shot by LIU Mark Regan WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "Shot clock violation by LIU.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by CSU Alex Van Voorhis, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "GOAL by LIU Mark Regan, Assist by Aiden Zuhoski, goal number 20 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [09:36] Ground ball pickup by CSU Robbie Brazanskas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:24",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by CSU Wyatt Robertson."
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "Ground ball pickup by LIU Ryan Fountain.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "Shot by LIU Cameron Connolly, SAVE Justin Dalum.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:20",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by CSU Drew Graves."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by CSU Will Adair (caused by Ryan Fountain)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "Ground ball pickup by LIU Ryan Fountain.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "Shot by LIU Cameron Connolly, SAVE Justin Dalum.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by CSU Liam Moffatt."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:36",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by CSU Amiri Austin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by CSU Brennen Hickey (caused by Nicholas Kasica)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "Ground ball pickup by LIU Nicholas Kasica.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "GOAL by LIU Aiden Zuhoski, goal number 15 for season.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [03:41] Ground ball pickup by CSU Shane Tesler."
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Shot by CSU Wyatt Robertson, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "Ground ball pickup by LIU Kyle Cochran.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "Shot by LIU Aiden Zuhoski WIDE.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "Ground ball pickup by LIU Mark Regan.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "Shot by LIU Aiden Zuhoski WIDE.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "Shot clock violation by LIU.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:52",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "GOAL by CSU Amiri Austin, goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:52",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [00:52] Ground ball pickup by LIU AJ Volkmann.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "Shot by LIU AJ Volkmann, SAVE Justin Dalum.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by CSU Alex Van Voorhis, SAVE Tyler Gersh {shot from close left wing}."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "Clear attempt by LIU failed.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Turnover by LIU Luke Harris.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:08",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Turnover by CSU Alex Van Voorhis."
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "Ground ball pickup by LIU Nicholas Kasica.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:56",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:26",
+    "home_event": "Shot by LIU Mark Regan, SAVE Justin Dalum.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:19",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Ground ball pickup by CSU Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by CSU Will Adair, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "2",
+    "time": "12:00",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:58",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "Shot by LIU Nick Colantonio BLOCKED.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "Ground ball pickup by LIU Ben McIsaac.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "Ground ball pickup by LIU Ben Schuster.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "GOAL by LIU Ben McIsaac, goal number 22 for season.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Faceoff Joseph Doyle vs Robbie Stewart won by CSU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by CSU Dylan Tomarchio, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "Turnover by LIU Josh Ricci.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:53",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Reggie Regala."
+  },
+  {
+    "quarter": "2",
+    "time": "08:51",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by CSU Ethan Erker WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "Timeout by LIU.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by CSU Jacob Lubrant WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by CSU Jacob Lubrant (caused by Nicholas Kasica)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:05",
+    "home_event": "Ground ball pickup by LIU Nicholas Kasica.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:03",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "Shot by LIU Tyler Davide, SAVE Justin Dalum.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:49",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:54",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Michael Care."
+  },
+  {
+    "quarter": "2",
+    "time": "06:48",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by CSU Amiri Austin, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "2",
+    "time": "06:43",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Ethan Brooks."
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by CSU Will Adair."
+  },
+  {
+    "quarter": "2",
+    "time": "06:21",
+    "home_event": "Clear attempt by LIU failed.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "Turnover by LIU Tyler Gersh (caused by Seth Alejandrino).",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Evan Knickle."
+  },
+  {
+    "quarter": "2",
+    "time": "05:55",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Turnover by CSU Evan Knickle (caused by Ryan Fountain)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "Ground ball pickup by LIU Charlie Hunnewell.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:47",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "Shot by LIU Ben Schuster, SAVE Justin Dalum.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Seth Alejandrino."
+  },
+  {
+    "quarter": "2",
+    "time": "05:13",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by CSU Ethan Brooks."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "GOAL by CSU Joe Ginnetti, Assist by Ethan Brooks, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [05:00] Ground ball pickup by LIU Shaun Hill.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:45",
+    "home_event": "GOAL by LIU Dan Cosentino, Assist by Shaun Hill, goal number 1 for season.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:45",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [04:45] Ground ball pickup by CSU Ethan Erker."
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "",
+    "score": "6-2",
+    "away_event": "Turnover by CSU Alex Van Voorhis (caused by Ryan Fountain)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "Ground ball pickup by LIU Ryan Fountain.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:31",
+    "home_event": "Ground ball pickup by LIU Mark Regan.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "Shot by LIU Josh Ricci, SAVE Justin Dalum.",
+    "score": "6-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "GOAL by LIU Mark Regan, Assist by Cameron Connolly, goal number 21 for season.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [02:43] Ground ball pickup by LIU Ryan Fountain.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:13",
+    "home_event": "Ground ball pickup by LIU Charlie Hunnewell.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Shot by LIU Ben Schuster WIDE.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "Shot by LIU Charlie Hunnewell, SAVE Justin Dalum.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:14",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Ground ball pickup by CSU Justin Dalum."
+  },
+  {
+    "quarter": "2",
+    "time": "01:12",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:56",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Timeout by CSU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Turnover by CSU Michael Care."
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Timeout by CSU."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [15:00] Ground ball pickup by CSU Robbie Stewart."
+  },
+  {
+    "quarter": "3",
+    "time": "14:48",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Turnover by CSU Robbie Stewart (caused by Tyler Davide)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:45",
+    "home_event": "Ground ball pickup by LIU Tyler Davide.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:41",
+    "home_event": "Shot by LIU Mark Regan, SAVE Justin Dalum.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:36",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Shot by CSU Alex Van Voorhis BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Shot by CSU Jacob Lubrant BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "7-2",
+    "away_event": "Turnover by CSU Wyatt Robertson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "Ground ball pickup by LIU Ryan Fountain.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "7-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "GOAL by LIU Luke Harris, Assist by Ryan Fountain, goal number 1 for season.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [13:31] Ground ball pickup by LIU Matthew Gilbert.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "Shot by LIU Owen Stefanko WIDE.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "Shot by LIU Aiden Zuhoski HIT POST.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "Shot by LIU Ben Schuster BLOCKED.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by CSU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Turnover by CSU Griffin Burkey (caused by Mark Regan)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "Ground ball pickup by LIU Mark Regan.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:25",
+    "home_event": "Shot by LIU Cameron Connolly, SAVE Justin Dalum.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Ground ball pickup by CSU Joe Ginnetti."
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Shot by CSU Will Adair, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "3",
+    "time": "10:40",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:06",
+    "home_event": "Shot by LIU Mark Regan HIT POST.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:01",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Ground ball pickup by CSU Shane Tesler."
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "",
+    "score": "8-2",
+    "away_event": "Shot clock violation by CSU."
+  },
+  {
+    "quarter": "3",
+    "time": "08:39",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "8-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "GOAL by LIU Cameron Connolly, Assist by Mark Regan, goal number 16 for season.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Penalty on CSU Brennen Hickey (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "",
+    "score": "9-2",
+    "away_event": "Penalty on CSU Liam Moffatt (SLASHING/1:00)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:34",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [08:34] Ground ball pickup by LIU Ryan Fountain.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:31",
+    "home_event": "Timeout by LIU.",
+    "score": "9-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "GOAL by LIU Drew Tongo (MAN-UP), Assist by Ben McIsaac, goal number 8 for season.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [07:52] Ground ball pickup by LIU Ryan Fountain.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:41",
+    "home_event": "Clear attempt by LIU failed.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "Turnover by LIU Shaun Hill.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Ground ball pickup by CSU Justin Dalum."
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by CSU Amiri Austin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by CSU Alex Van Voorhis, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "3",
+    "time": "05:52",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Shot by CSU Dylan Tomarchio WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "10-2",
+    "away_event": "Turnover by CSU Alex Van Voorhis (caused by AJ Volkmann)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "10-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "GOAL by LIU Nick Colantonio, Assist by Charlie Hunnewell, goal number 5 for season.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [04:34] Ground ball pickup by CSU Reggie Regala."
+  },
+  {
+    "quarter": "3",
+    "time": "04:24",
+    "home_event": "",
+    "score": "11-2",
+    "away_event": "Shot by CSU Reggie Regala, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "3",
+    "time": "04:22",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:20",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:09",
+    "home_event": "Shot by LIU Nicholas Kasica WIDE.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "Shot by LIU Aiden Zuhoski, SAVE Justin Dalum.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Ground ball pickup by LIU Ben McIsaac.",
+    "score": "11-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "GOAL by LIU Ben McIsaac, Assist by Aiden Zuhoski, goal number 23 for season.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [03:36] Ground ball pickup by LIU AJ Volkmann.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:24",
+    "home_event": "Shot by LIU Ben McIsaac BLOCKED.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Ground ball pickup by CSU Drew Graves."
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:21",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Shot by CSU Wyatt Robertson WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:07",
+    "home_event": "Penalty on LIU Ryan Baudo (SLASHING/1:00) Extra-man opportunity.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:53",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Shot by CSU Jacob Lubrant WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:44",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "GOAL by CSU Wyatt Robertson (MAN-UP), Assist by Alex Van Voorhis, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:44",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [01:44] Ground ball pickup by LIU Matthew Gilbert.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "Shot by LIU Ben Schuster WIDE.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:33",
+    "home_event": "Shot by LIU Ben Schuster HIGH.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "Shot by LIU Cameron Connolly BLOCKED.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by CSU Jack Dickson."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by CSU Ethan Erker, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [15:00] Ground ball pickup by CSU Reggie Regala."
+  },
+  {
+    "quarter": "4",
+    "time": "14:13",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "GOAL by CSU Alex Van Voorhis, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:13",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [14:13] Ground ball pickup by CSU Griffin Valli."
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "Penalty on LIU Nicholas Kasica (SLASHING/1:00) Extra-man opportunity.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:24",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Turnover by CSU Alex Van Voorhis (caused by Tyler Davide)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "Ground ball pickup by LIU Tyler Davide.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:32",
+    "home_event": "Shot by LIU Mark Regan, SAVE Justin Dalum.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Ground ball pickup by CSU Joe Ginnetti."
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Ground ball pickup by CSU Griffin Valli."
+  },
+  {
+    "quarter": "4",
+    "time": "12:21",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Shot by CSU Brennen Hickey, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:06",
+    "home_event": "Shot by LIU Charlie Hunnewell, SAVE Justin Dalum.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:59",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Ground ball pickup by CSU Griffin Valli."
+  },
+  {
+    "quarter": "4",
+    "time": "11:57",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:45",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "GOAL by CSU Griffin Valli, Assist by Joe Ginnetti, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:45",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [11:45] Ground ball pickup by LIU Shaun Hill.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "Ground ball pickup by LIU Matthew Gilbert.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:26",
+    "home_event": "Shot by LIU Matthew Gilbert WIDE.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "Shot by LIU Nick Colantonio, SAVE Justin Dalum.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Ground ball pickup by CSU Drew Graves."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Clear attempt by CSU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Turnover by CSU Justin Dalum."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "Ground ball pickup by LIU Kyle Cochran.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:03",
+    "home_event": "GOAL by LIU Aiden Zuhoski, goal number 16 for season.",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Timeout by CSU."
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Faceoff Shaun Hill vs Robbie Stewart won by CSU, [10:00] Ground ball pickup by CSU Robbie Stewart."
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Shot by CSU Amiri Austin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:37",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Shot by CSU Alex Van Voorhis WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Shot clock violation by CSU."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:17",
+    "home_event": "Shot by LIU Kyle Cochran HIGH.",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:58",
+    "home_event": "GOAL by LIU Ben McIsaac, Assist by Owen Stefanko, goal number 23 for season.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:58",
+    "home_event": "Faceoff Shaun Hill vs Robbie Stewart won by LIU, [07:58] Ground ball pickup by LIU Mark Regan.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "Shot by LIU Cameron Connolly, SAVE Justin Dalum.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Ground ball pickup by CSU Liam Moffatt."
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Shot by CSU Joe Ginnetti, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "4",
+    "time": "07:16",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:12",
+    "home_event": "Ground ball pickup by LIU John Viggiani.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:26",
+    "home_event": "Turnover by LIU Nick Colantonio (caused by Joe Ginnetti).",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:20",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Ground ball pickup by CSU Joe Ginnetti."
+  },
+  {
+    "quarter": "4",
+    "time": "06:04",
+    "home_event": "Penalty on LIU Nick Colantonio (SLASHING/1:00) Extra-man opportunity.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:04",
+    "home_event": "Penalty on LIU Nick Colantonio (PUSHING/0:30) Extra-man opportunity.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:36",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Shot by CSU Jacob Lubrant HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Turnover by CSU Ethan Brooks."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:22",
+    "home_event": "Clear attempt by LIU failed.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "Turnover by LIU Kyle Cochran.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "Shot by CSU Alex Van Voorhis, SAVE Tyler Gersh."
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "GOAL by LIU Cameron Connolly, Assist by Charlie Hunnewell, goal number 17 for season.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "Faceoff Shaun Hill vs Caden Wilson won by LIU, [03:58] Ground ball pickup by LIU Shaun Hill.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "Shot by LIU Shaun Hill WIDE.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "15-5",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "GOAL by CSU Ethan Erker, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:47",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Faceoff Joseph Doyle vs Robbie Stewart won by CSU, [03:47] Ground ball pickup by CSU Robbie Stewart."
+  },
+  {
+    "quarter": "4",
+    "time": "03:33",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Ground ball pickup by CSU Liam Moffatt."
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by CSU Alex Van Voorhis WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Turnover by CSU Amiri Austin."
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "Ground ball pickup by LIU Tyler Gersh.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:44",
+    "home_event": "Clear attempt by LIU good.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "Shot by LIU Morgan Mcentee, SAVE Justin Dalum.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by CSU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by CSU Griffin Burkey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Timeout by LIU.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "GOAL by CSU Griffin Burkey, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Faceoff Joseph Doyle vs Robbie Stewart won by CSU, [01:08] Ground ball pickup by CSU Robbie Stewart."
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Ground ball pickup by CSU Liam Moffatt."
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Ground ball pickup by CSU Lane Miller."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Shot by CSU Michael Care, SAVE Tyler Gersh."
+  }
+]

@@ -1,0 +1,1801 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Miller, Sean at goalie for HC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "LaCombe, Matt at goalie for COLGATE."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Attell, Harry vs Rummel, Kyle won by HC (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:23",
+    "home_event": "Turnover by HC Sheehan, Henry.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by COLGATE Drouin, Hunter (caused by Shoemaker, Luke)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "Turnover by HC McDonald, Sam (caused by Yates, Max).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by COLGATE Connor, Liam (caused by McDonald, Sam)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "Shot by HC Tunney, Owen WIDE LEFT.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "Turnover by HC Botek, Ryan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by COLGATE Turner, Jack (FIRST GOAL), Assist by Drouin, Hunter, goal number 36 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Attell, Harry vs Hartzell, Johnny won by COLGATE, [11:15] Ground ball pickup by COLGATE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by COLGATE Connor, Rory, Assist by Arata, Tommy, goal number 34 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "Faceoff Attell, Harry vs Rummel, Kyle won by HC, [10:22] Ground ball pickup by HC Attell, Harry.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "GOAL by HC Messineo, Will, Assist by Tunney, Owen.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Faceoff Golden, Timothy vs Hartzell, Johnny won by HC, [10:10] Ground ball pickup by HC Jenkins, Julian.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Turnover by HC Tunney, Owen (caused by LaCombe, Matt).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by COLGATE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by COLGATE Kiely, Michael, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Turnover by HC Shoemaker, Luke (caused by Connor, Rory).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by COLGATE Kiely, Michael, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "Turnover by HC Mitchell, John (caused by Lala, Thomas).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by COLGATE Lala, Thomas."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by COLGATE Eldredge, Patty, Assist by Turner, Jack, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "Faceoff Attell, Harry vs Rummel, Kyle won by HC (on faceoff violation).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Turnover by HC Lynch, Jude (caused by LaCombe, Matt).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by COLGATE LaCombe, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by COLGATE Trumble, Ben, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Attell, Harry vs Hartzell, Johnny won by COLGATE, [06:26] Ground ball pickup by COLGATE Carrabine, John."
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by COLGATE Turner, Jack, Assist by Connor, Rory, goal number 37 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Attell, Harry vs Rummel, Kyle won by COLGATE, [05:22] Ground ball pickup by COLGATE Carrabine, John."
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by COLGATE Connor, Liam, goal number 24 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "Faceoff Golden, Timothy vs Rummel, Kyle won by HC (on faceoff violation).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "Shot by HC Botek, Ryan WIDE LEFT.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "Turnover by HC Sheehan, Henry (caused by Fitzsimmons, Quinn).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Favaro, Ryan WIDE RIGHT."
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "Penalty on HC Bonomo, Michael (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Connor, Rory WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "Turnover by HC Webster, Bo (caused by Erickson, Sam).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by COLGATE Yates, Max."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE LEFT."
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Turnover by COLGATE Turner, Jack (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "Ground ball pickup by HC Miller, Sean.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "Turnover by HC Duley, Jon-Luke.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Faceoff Attell, Harry vs Burke, Fischer won by COLGATE."
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Drouin, Hunter WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:26",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by COLGATE Drouin, Hunter WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by COLGATE Trumble, Ben, Assist by Connor, Liam, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff Attell, Harry vs Hartzell, Johnny won by COLGATE, [13:33] Ground ball pickup by COLGATE Turner, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by COLGATE Quinson, Casey WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by COLGATE Arata, Tommy, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "12:07",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:27",
+    "home_event": "Shot by HC Messineo, Will, SAVE LaCombe, Matt.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:14",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by COLGATE Turner, Jack HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "Penalty on HC Hubler, Max (PUSHING/0:30) Extra-man opportunity.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Turnover by COLGATE Favaro, Ryan (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:55",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "Turnover by HC Messineo, Will (caused by Bilello, Ryan).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by COLGATE Lohman, Charlie."
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "GOAL by COLGATE Connor, Liam, Assist by Turner, Jack, goal number 25 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:51",
+    "home_event": "Faceoff Attell, Harry vs Rummel, Kyle won by HC.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "Shot by HC McDonald, Sam, SAVE LaCombe, Matt.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:23",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Turnover by COLGATE LaCombe, Matt (caused by Bonomo, Michael)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "Turnover by HC Webster, Bo (caused by Fitzsimmons, Quinn).",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn."
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COLGATE Drouin, Hunter HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:46",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COLGATE Connor, Rory, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "07:37",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Ground ball pickup by COLGATE Connor, Liam."
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by COLGATE Drouin, Hunter HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "GOAL by COLGATE Trumble, Ben, Assist by Connor, Rory, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Faceoff Attell, Harry vs Rummel, Kyle won by HC, [07:26] Ground ball pickup by HC McPherson, Calahan.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Shot by HC Bonomo, Michael, SAVE LaCombe, Matt.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Ground ball pickup by COLGATE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by COLGATE Turner, Jack, goal number 38 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Golden, Timothy vs Rummel, Kyle won by COLGATE, [06:44] Ground ball pickup by COLGATE Erickson, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by COLGATE Connor, Rory WIDE RIGHT."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by COLGATE Connor, Liam, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Turnover by HC Carbonell, Matthew.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by COLGATE failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by COLGATE LaCombe, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:57",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE LaCombe, Matt.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by COLGATE Yates, Max."
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "GOAL by COLGATE Connor, Liam, goal number 26 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Faceoff Attell, Harry vs Rummel, Kyle won by COLGATE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:13",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by COLGATE Favaro, Ryan WIDE LEFT."
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by COLGATE Quinson, Casey, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:52",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:48",
+    "home_event": "Ground ball pickup by HC Deo, Will.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "Turnover by HC Lynch, Jude (caused by Favaro, Ryan).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by COLGATE Carrabine, John."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:03",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Turnover by COLGATE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:48",
+    "home_event": "Ground ball pickup by HC Tunney, Owen.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "GOAL by HC Tunney, Owen.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "Turnover by HC Botek, Ryan (caused by Erickson, Sam).",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by COLGATE Fitzsimmons, Quinn."
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Turnover by COLGATE Fitzsimmons, Quinn (caused by Botek, Ryan)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "Ground ball pickup by HC Messineo, Will.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:07",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Attell, Harry vs Rummel, Kyle won by COLGATE, [01:07] Ground ball pickup by COLGATE Lohman, Charlie."
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by COLGATE Trumble, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Attell, Harry vs Rummel, Kyle won by COLGATE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Gerber, Jack WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Favaro, Ryan, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "Ground ball pickup by HC Shoemaker, Luke.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:03",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "Turnover by HC Carbonell, Matthew (caused by Yates, Max).",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:28",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Bilello, Ryan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "13:01",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Turner, Jack, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "Ground ball pickup by HC Rincon, Michael.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Shot by HC Messineo, Will, SAVE LaCombe, Matt.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by COLGATE Carrabine, John."
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "Penalty on HC Tunney, Owen (FF/0:30) Extra-man opportunity.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Turner, Jack HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by COLGATE Drouin, Hunter, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "Clear attempt by HC good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "Turnover by HC McDonald, Sam (caused by Erickson, Sam).",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:22",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by COLGATE Erickson, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "GOAL by COLGATE Connor, Rory, goal number 35 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Rummel, Kyle won by HC (on faceoff violation).",
+    "score": "2-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "GOAL by HC Mitchell, John, Assist by Tunney, Owen.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Faceoff Attell, Harry vs Burke, Fischer won by HC, [09:00] Ground ball pickup by HC McPherson, Calahan.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Shot by HC Russler, William, SAVE LaCombe, Matt.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by COLGATE Connor, Rory."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Ground ball pickup by HC Botek, Ryan.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Turnover by HC Sheehan, Henry.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:02",
+    "home_event": "Penalty on HC Sheehan, Henry (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Connor, Rory WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by COLGATE Quinson, Casey."
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Turner, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:58",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Drouin, Hunter, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "Turnover by HC McPherson, Calahan (caused by Quinson, Casey).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:38",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by COLGATE Yates, Max."
+  },
+  {
+    "quarter": "3",
+    "time": "05:18",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by COLGATE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:20",
+    "home_event": "Shot by HC Deo, Will HIGH.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Shot by HC Messineo, Will, SAVE LaCombe, Matt.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:47",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Connor, Rory, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "03:30",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by COLGATE Tedesco, Donnie."
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Connor, Rory, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "02:56",
+    "home_event": "Clear attempt by HC failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "Turnover by HC Miller, Sean.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:00",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Connor, Rory WIDE LEFT."
+  },
+  {
+    "quarter": "3",
+    "time": "01:30",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by COLGATE Connor, Rory, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "Ground ball pickup by HC Larson, Owen.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:19",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "Turnover by HC Messineo, Will.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "Timeout by HC.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by COLGATE failed."
+  },
+  {
+    "quarter": "3",
+    "time": "01:16",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by COLGATE Erickson, Sam (caused by Ottomanelli, Andrew)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:07",
+    "home_event": "Ground ball pickup by HC Ottomanelli, Andrew.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:04",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE LEFT.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "Shot by HC Ottomanelli, Andrew, SAVE LaCombe, Matt.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "GOAL by COLGATE Turner, Jack, Assist by Connor, Rory, goal number 39 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Rummel, Kyle won by HC, [00:08] Ground ball pickup by HC Ouhrabka, Gavin.",
+    "score": "3-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "Shot by HC Ottomanelli, Andrew, SAVE LaCombe, Matt.",
+    "score": "3-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "Faceoff Ouhrabka, Gavin vs Rummel, Kyle won by COLGATE, [15:00] Ground ball pickup by COLGATE Carrabine, John."
+  },
+  {
+    "quarter": "4",
+    "time": "14:42",
+    "home_event": "",
+    "score": "3-13",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:26",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "GOAL by COLGATE Connor, Rory, Assist by Connor, Liam, goal number 36 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:26",
+    "home_event": "Faceoff Attell, Harry vs Burke, Fischer won by HC (on faceoff violation).",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Shot by HC Lynch, Jude HIGH.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "Turnover by HC Chouinard, Beau (caused by Kiely, Michael).",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:41",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Connor, Rory."
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "Turnover by HC Webster, Bo (caused by Eldredge, Patty).",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Shot by HC Bonomo, Michael, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Connor, Liam (caused by Fallon, Cooper)."
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by HC Clary, Gavin.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Penalty on COLGATE Arata, Tommy (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Penalty on COLGATE Connor, Liam (UNNECESSARY ROUGHNESS/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "Ground ball pickup by HC Messineo, Will.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "Shot by HC Messineo, Will WIDE LEFT.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "Shot by HC Messineo, Will WIDE LEFT.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:46",
+    "home_event": "Shot by HC Lynch, Jude, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:40",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Walker, Griffin."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "Ground ball pickup by HC Lane, Brendan.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Trumble, Ben (caused by Clary, Gavin)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:58",
+    "home_event": "Ground ball pickup by HC Clary, Gavin.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "Shot by HC Messineo, Will, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Ground ball pickup by COLGATE Thomas, Ben."
+  },
+  {
+    "quarter": "4",
+    "time": "05:30",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Upchurch, William (caused by Duley, Jon-Luke)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "Shot by HC Tunney, Owen, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Ground ball pickup by COLGATE Harvey, Spencer."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Shot by COLGATE Arata, Tommy WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Upchurch, William."
+  },
+  {
+    "quarter": "4",
+    "time": "03:19",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "Shot by HC Lane, Brendan HIT POST.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:03",
+    "home_event": "Ground ball pickup by HC Mitchell, John.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:30",
+    "home_event": "Shot by HC Bouvier, Connor, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:28",
+    "home_event": "Ground ball pickup by HC Bevacqua, Giacomo.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "Shot by HC Russler, William, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:49",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Turnover by COLGATE Noteboom, Josh."
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "Ground ball pickup by HC Fallon, Cooper.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "Clear attempt by HC good.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "Shot by HC Tunney, Owen, SAVE LaCombe, Matt.",
+    "score": "3-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:17",
+    "home_event": "",
+    "score": "3-14",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "GOAL by COLGATE Hoyt, Will, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "Faceoff Ouhrabka, Gavin vs Burke, Fischer won by HC (on faceoff violation).",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "Shot by HC Pagnani, Kyle, SAVE LaCombe, Matt.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Clear attempt by COLGATE good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by COLGATE Rizzo, William HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by COLGATE Hoyt, Will."
+  },
+  {
+    "quarter": "4",
+    "time": "00:09",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Shot by COLGATE Walker, Griffin, SAVE Miller, Sean."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Ground ball pickup by COLGATE Walker, Griffin."
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "Penalty on HC Clary, Gavin (ILLEGAL BODY CHECK/0:30) Extra-man opportunity.",
+    "score": "3-15",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1549 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Salanger, Owen at goalie for UMASS.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Zach Vigue at goalie for RIC."
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "Faceoff Casey, TJ vs Jared Chenoy won by UMASS (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "Turnover by UMASS Casey, TJ (caused by Jared Chenoy).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by RIC Max Merklinger (FIRST GOAL), Assist by Jack Ricciardi, goal number 24 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Casey, TJ vs Anthony DiCenso won by RIC, [13:55] Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by RIC Gavin Creo, Assist by Aidan O'Neil, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "Faceoff Casey, TJ vs Jared Chenoy won by UMASS.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "Shot by UMASS Hogan, Trace WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "Turnover by UMASS Cargiulo, Matthew.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by TEAM)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by UMASS Salanger, Owen.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE Zach Vigue.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "Ground ball pickup by UMASS Drunsic, Aiden.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "Turnover by UMASS Finnerty, Michael (caused by Ethan Gyllenhaal).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by RIC Tommy Stull HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by RIC Gavin Creo, goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Casey, TJ vs Jared Chenoy won by RIC, [08:15] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by RIC Jack Ricciardi, Assist by Jared Chenoy, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Coyle, Brendan vs Anthony DiCenso won by RIC, [08:09] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Aidan O'Neil, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Ground ball pickup by UMASS Elliott, Jimmy.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Shot by UMASS Cargiulo, Matthew, SAVE Zach Vigue.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "Penalty on UMASS Granara, Robbie (ILLEGAL PROCEDURE/0:30) Extra-man opportunity.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by RIC Lukas Olsson (MAN-UP), Assist by Max Merklinger, goal number 19 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Coyle, Brendan vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by RIC Henry Alpaugh, Assist by Jack Ricciardi, goal number 11 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Casey, TJ vs Jared Chenoy won by RIC (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Turnover by RIC Jack Ricciardi (caused by Cook, Chance)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "Ground ball pickup by UMASS Salanger, Owen.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "Shot by UMASS Krisch, John BLOCKED.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "Shot clock violation by UMASS.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by RIC Joe Sheridan, goal number 25 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Timeout by UMASS.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Mazzariello, Ryan at goalie for UMASS.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Faceoff Hoff, Brady vs Jared Chenoy won by RIC, [02:59] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Turnover by RIC Jack Ricciardi (caused by New, Blaise)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "Ground ball pickup by UMASS New, Blaise.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "GOAL by UMASS Lewis, Caelin, goal number 8 for season.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff Auble, Zach vs Jared Chenoy won by RIC, [01:18] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "Penalty on UMASS Hoff, Brady (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by RIC Aidan O'Neil HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "Timeout by UMASS.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff Casey, TJ vs Jared Chenoy won by RIC, [15:00] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "2",
+    "time": "14:45",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by RIC Jack Ricciardi, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "GOAL by RIC Aidan O'Neil, Assist by Joe Sheridan, goal number 26 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Faceoff Coyle, Brendan vs Anthony DiCenso won by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "13:28",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "GOAL by RIC Daniel Picart, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:28",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Faceoff Casey, TJ vs Jared Chenoy won by RIC, [13:28] Ground ball pickup by RIC Charlie Packard."
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Turnover by RIC Jack Ricciardi (caused by Petitto, Matthew)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:02",
+    "home_event": "Ground ball pickup by UMASS Petitto, Matthew.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:58",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:24",
+    "home_event": "Shot by UMASS Cargiulo, Matthew WIDE.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:05",
+    "home_event": "Shot by UMASS Lewis, Caelin, SAVE Zach Vigue.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:00",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Ground ball pickup by RIC Charlie Packard."
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Shot by RIC Lukas Olsson, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:55",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:14",
+    "home_event": "Shot by UMASS Finnerty, Michael WIDE.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "Shot by UMASS Clayton, Tyler, SAVE Zach Vigue.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Penalty on RIC Ethan Gyllenhaal (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "GOAL by UMASS Lewis, Caelin (MAN-UP), Assist by Hogan, Trace, goal number 9 for season.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:36",
+    "home_event": "Faceoff Casey, TJ vs Jared Chenoy won by UMASS (on faceoff violation).",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Shot by UMASS Granara, Robbie WIDE.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:44",
+    "home_event": "Shot by UMASS Lewis, Caelin BLOCKED.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by RIC Zach Vigue."
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Turnover by RIC Charlie Packard (caused by Hogan, Trace)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:58",
+    "home_event": "Ground ball pickup by UMASS Petitto, Matthew.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "Shot by UMASS Krisch, John, SAVE Zach Vigue.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by RIC Tommy Stull."
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Turnover by RIC Daniel Picart."
+  },
+  {
+    "quarter": "2",
+    "time": "06:37",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Timeout by RIC."
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:56",
+    "home_event": "Shot by UMASS Drunsic, Aiden WIDE.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "Shot by UMASS Cargiulo, Matthew WIDE.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Turnover by UMASS Cargiulo, Matthew (caused by Hunter Smith).",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:15",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "2",
+    "time": "04:56",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by RIC Aidan O'Neil WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:22",
+    "home_event": "Penalty on UMASS Clayton, Tyler (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "GOAL by RIC Leo Caine (MAN-UP), Assist by Max Merklinger, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "Faceoff Casey, TJ vs Anthony DiCenso won by UMASS.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "Turnover by UMASS Jackman, Brian (caused by Tommy Stull).",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:43",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:09",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by RIC Daniel Picart, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "Shot by UMASS Lewis, Caelin, SAVE Zach Vigue.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by RIC Connor Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Turnover by RIC Lucas Littlejohn (caused by Petitto, Matthew)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by UMASS Mourad, Ryan.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Faceoff Casey, TJ vs Jared Chenoy won by RIC, [15:00] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Turnover by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "Ground ball pickup by UMASS Mazzariello, Ryan.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:00",
+    "home_event": "Clear attempt by UMASS failed.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:59",
+    "home_event": "Turnover by UMASS Mazzariello, Ryan.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:24",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Mourad, Ryan)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:07",
+    "home_event": "Ground ball pickup by UMASS Auble, Zach.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "Clear attempt by UMASS failed.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "Turnover by UMASS Auble, Zach.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:59",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by RIC Max Merklinger."
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:23",
+    "home_event": "Penalty on UMASS Mourad, Ryan (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by RIC Joe Sheridan."
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "GOAL by RIC Leo Caine (MAN-UP), Assist by Aidan O'Neil, goal number 11 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Coyle, Brendan vs Jared Chenoy won by RIC, [11:46] Ground ball pickup by RIC Charlie Packard."
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Turnover by RIC Aidan O'Neil (caused by Elliott, Jimmy)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:40",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "Shot by UMASS Granara, Robbie WIDE.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by RIC Lukas Olsson BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Ground ball pickup by UMASS Auble, Zach.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Turnover by UMASS Hogan, Trace (caused by Hunter Smith).",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:58",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by RIC Hunter Smith."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by RIC Jack Ricciardi, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by UMASS Hoff, Brady.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:26",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "GOAL by UMASS Lewis, Caelin, goal number 10 for season.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Penalty on RIC Jack Pilling (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Coyle, Brendan vs Jared Chenoy won by RIC, [05:51] Ground ball pickup by RIC Jared Chenoy."
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by RIC Lukas Olsson (caused by Mourad, Ryan)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:24",
+    "home_event": "Ground ball pickup by UMASS New, Blaise.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "Clear attempt by UMASS failed.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "Turnover by UMASS.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:02",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Jack Ricciardi, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:47",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Jack Ricciardi WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Gavin Creo WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:22",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Henry Alpaugh WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:13",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by RIC Gavin Creo (caused by Petitto, Matthew)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "Ground ball pickup by UMASS Auble, Zach.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "Turnover by UMASS Lewis, Caelin (caused by B. Pena-Stevenson).",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Aidan O'Neil HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "02:20",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by RIC Ryan Thompson."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Joe Sheridan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:36",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Lucas Littlejohn WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by RIC Max Merklinger (caused by Auble, Zach)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:27",
+    "home_event": "Ground ball pickup by UMASS Hoff, Brady.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "Timeout by UMASS.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "Shot by UMASS Drunsic, Aiden, SAVE Zach Vigue.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:48",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:44",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Shot by RIC Tommy Stull, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "3",
+    "time": "00:41",
+    "home_event": "Ground ball pickup by UMASS Cook, Chance.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:25",
+    "home_event": "Turnover by UMASS Krisch, John (caused by Mitchell Dunham).",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by RIC B. Pena-Stevenson."
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by RIC Lucas Littlejohn, Assist by Leo Caine, goal number 34 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Faceoff Coyle, Brendan vs Jared Chenoy won by UMASS.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Shot by UMASS Hogan, Trace, SAVE Zach Vigue.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Faceoff Coyle, Brendan vs Anthony DiCenso won by RIC, [15:00] Ground ball pickup by RIC Anthony DiCenso."
+  },
+  {
+    "quarter": "4",
+    "time": "13:37",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Henry Alpaugh, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "Penalty on UMASS Mourad, Ryan (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:58",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Leo Caine."
+  },
+  {
+    "quarter": "4",
+    "time": "12:39",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE Zach Vigue.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:51",
+    "home_event": "Shot by UMASS Krisch, John WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "Ground ball pickup by UMASS Hogan, Trace.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Turnover by UMASS Cargiulo, Matthew.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:19",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Lucas Slate, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by UMASS Crane, Max.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Shot by UMASS Hogan, Trace HIT POST.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Turnover by UMASS Hogan, Trace (caused by Zach Vigue).",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by RIC Chris Mazzaferri."
+  },
+  {
+    "quarter": "4",
+    "time": "08:47",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Porter Barnett."
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Shot by UMASS Hogan, Trace HIGH.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:55",
+    "home_event": "Shot by UMASS Krisch, John WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "Shot by UMASS Drunsic, Aiden WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "Shot clock violation by UMASS.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "Penalty on UMASS Turowsky, Jack (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:23",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Henry Alpaugh HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Daniel Picart WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:19",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Leo Caine, SAVE Mazzariello, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Shot by RIC Leo Caine WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:35",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by RIC Lucas Slate."
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "Ground ball pickup by UMASS Granara, Robbie.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE Zach Vigue {shot from close left wing}.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "Ground ball pickup by UMASS Drunsic, Aiden.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "GOAL by UMASS Waxman, Zack, Assist by Drunsic, Aiden, goal number 1 for season.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff Coyle, Brendan vs Jackson Strickland won by RIC, [03:28] Ground ball pickup by RIC Luke Spitzer."
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by RIC failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:58",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by RIC Michael Farrell."
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "Ground ball pickup by UMASS Mourad, Ryan.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "Turnover by UMASS Mourad, Ryan.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "GOAL by RIC Lucas Slate, Assist by Lukas Olsson, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Brody Murphy at goalie for RIC."
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "Faceoff Coyle, Brendan vs Jackson Strickland won by UMASS, [02:00] Ground ball pickup by UMASS Coyle, Brendan.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "Turnover by UMASS Coyle, Brendan (caused by Mitchell Dunham).",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:49",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Ground ball pickup by RIC Mitchell Dunham."
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Clear attempt by RIC good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "GOAL by RIC Evan O'Neil, Assist by Daniel Picart, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "Faceoff Coyle, Brendan vs Jackson Strickland won by RIC, [00:39] Ground ball pickup by RIC B. Pena-Stevenson."
+  }
+]

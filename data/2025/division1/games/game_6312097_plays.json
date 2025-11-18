@@ -1,0 +1,1591 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "LAWAS, Lucas at goalie for MU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Lenskold, Colin at goalie for UTAH."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by MU, [15:00] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:38",
+    "home_event": "Ground ball pickup by MU DETWILER, Peter.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "Shot by MU BRANDT, Carsen WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "Shot by MU CAPUTO, Matt, SAVE Lenskold, Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by UTAH Faulkner, Cade WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "Clear attempt by MU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "Shot by MU NICHOLAS, Brady, SAVE Lenskold, Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "Shot by MU O'GRADY, Bobby, SAVE Lenskold, Colin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UTAH DiPonio, Nikko."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by UTAH Stines, Ryan (FIRST GOAL), goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by MU, [12:32] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UTAH Likes, Jake."
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by UTAH Likes, Jake (caused by CASTILLO, Jadyn)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "Ground ball pickup by MU CASTILLO, Jadyn.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "Clear attempt by MU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "GOAL by MU CAPUTO, Matt, goal number 9 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by MU, [09:45] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "Turnover by MU HULME, Zach (caused by Crane, Mikey).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by UTAH Crane, Mikey."
+  },
+  {
+    "quarter": "1",
+    "time": "08:51",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by UTAH Faulkner, Cade BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by UTAH Overly, Will WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:31",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by UTAH Overly, Will, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "Turnover by MU NICHOLAS, Brady (caused by DiPonio, Nikko).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by UTAH Crane, Mikey."
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by UTAH Charbonnier, Luc, Assist by Haley, Luke, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by UTAH, [06:02] Ground ball pickup by UTAH Madden, Bryce."
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by UTAH Overly, Will WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by UTAH Faulkner, Cade, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "Ground ball pickup by MU SLAGER, Adam.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "Clear attempt by MU failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "Turnover by MU BOYLE, Brenden.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by UTAH Rold, Sky, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "Shot by MU JOHNSON, Brad, SAVE Lenskold, Colin.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by UTAH Tanner, Dallin."
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by UTAH Likes, Jake, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "Timeout by MU.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by UTAH, [03:51] Ground ball pickup by UTAH DiPonio, Nikko."
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by UTAH Stines, Ryan, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Ground ball pickup by MU NICHOLAS, Brady.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by MU O'GRADY, Bobby.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "Ground ball pickup by MU O'GRADY, Bobby.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "Timeout by MU.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "Shot by MU CAPUTO, Matt WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:05",
+    "home_event": "Shot by MU McCABE, Conor, SAVE Lenskold, Colin.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:58",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by UTAH Sparks, Karson."
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by UTAH failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by UTAH Lenskold, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "Ground ball pickup by MU CAPUTO, Matt.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by UTAH Lenskold, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by UTAH Overly, Will HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by UTAH Overly, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by UTAH Overly, Will, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by UTAH, [00:05] Ground ball pickup by UTAH Madden, Bryce."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by UTAH, [15:00] Ground ball pickup by UTAH Stines, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "14:46",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by UTAH Hart, Cody, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "14:33",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:07",
+    "home_event": "Shot by MU BOWMAN, Andrew, SAVE Lenskold, Colin.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "Shot by MU SNYDER, Noah BLOCKED.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "Shot by MU BOWMAN, Andrew, SAVE Lenskold, Colin.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by UTAH Tanner, Dallin."
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by UTAH Faulkner, Cade, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "Ground ball pickup by MU KILCOYNE, Ryan.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "Clear attempt by MU good.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "GOAL by MU RAPPIS, Nolan, Assist by HILTZ, Hayden, goal number 17 for season.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU, [11:34] Ground ball pickup by MU LAMARCA, David.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "Ground ball pickup by MU LAWAS, Lucas.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "Clear attempt by MU good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:37",
+    "home_event": "Turnover by MU BAIR, Jake.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:30",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Timeout by UTAH."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by UTAH Overly, Will HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "09:40",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by UTAH Faulkner, Cade, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "09:33",
+    "home_event": "Clear attempt by MU good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:09",
+    "home_event": "Shot by MU O'GRADY, Bobby WIDE.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "Turnover by MU WESTPHAL, Beau.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:44",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:17",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by UTAH Robertson, Chase WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by UTAH Robertson, Chase, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU (on faceoff violation).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "Shot by MU O'GRADY, Bobby HIGH.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "GOAL by MU BRANDT, Carsen, goal number 13 for season.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by MU (on faceoff violation).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "Turnover by MU BOWMAN, Andrew (caused by Tanner, Dallin).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:15",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by UTAH Tanner, Dallin."
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by UTAH failed."
+  },
+  {
+    "quarter": "2",
+    "time": "06:12",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by UTAH Tanner, Dallin."
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "GOAL by MU RAPPIS, Nolan, Assist by FOSTER, Will, goal number 18 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU (on faceoff violation).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:59",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by UTAH Haley, Luke, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "GOAL by MU McCABE, Conor, Assist by CAPUTO, Matt, goal number 4 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by UTAH (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:59",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by UTAH Rold, Sky, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "03:57",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by UTAH White,Zachary."
+  },
+  {
+    "quarter": "2",
+    "time": "03:33",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by UTAH White,Zachary WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:17",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by UTAH Faulkner, Cade HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by UTAH Stines, Ryan, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "Ground ball pickup by MU KILCOYNE, Ryan.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:53",
+    "home_event": "Clear attempt by MU good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "Shot by MU FOSTER, Will WIDE.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "GOAL by MU FOSTER, Will, goal number 6 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff AMBUSH, Ty vs Kloeckl, Tyler won by UTAH (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:56",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Timeout by UTAH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "Penalty on MU BOYLE, Brenden (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:35",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by UTAH Hart, Cody (MAN-UP), Assist by Stines, Ryan, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:35",
+    "home_event": "Faceoff SLAGER, Adam vs Kloeckl, Tyler won by MU (on faceoff violation).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:28",
+    "home_event": "GOAL by MU CAPUTO, Matt, goal number 10 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:28",
+    "home_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by MU, [14:28] Ground ball pickup by MU AMBUSH, Ty.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "Turnover by MU FOSTER, Will (caused by Pascarella, Marco).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "Turnover by MU CAPUTO, Matt.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:23",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by UTAH White,Zachary WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "Ground ball pickup by MU LAWAS, Lucas.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:47",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by UTAH Robertson, Chase WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:23",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by UTAH Faulkner, Cade, Assist by Robertson, Chase, goal number 13 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:23",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by UTAH (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UTAH Likes, Jake WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UTAH Stines, Ryan HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot clock violation by UTAH."
+  },
+  {
+    "quarter": "3",
+    "time": "09:55",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "Shot by MU BRANDT, Carsen WIDE.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:07",
+    "home_event": "Shot by MU FOSTER, Will, SAVE Lenskold, Colin.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:48",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Turnover by UTAH Hart, Cody."
+  },
+  {
+    "quarter": "3",
+    "time": "08:45",
+    "home_event": "Ground ball pickup by MU LAWAS, Lucas.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:40",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "Shot by MU SNYDER, Noah WIDE.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "Shot by MU O'GRADY, Bobby, SAVE Lenskold, Colin.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by UTAH Lenskold, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "07:28",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UTAH Charbonnier, Luc, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "Clear attempt by MU good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:45",
+    "home_event": "Shot by MU BRANDT, Carsen HIT POST.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "Ground ball pickup by MU McCABE, Conor.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:38",
+    "home_event": "Shot by MU O'GRADY, Bobby WIDE.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Shot by MU BRANDT, Carsen BLOCKED.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:19",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Penalty on UTAH Crane, Mikey (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "05:04",
+    "home_event": "GOAL by MU CAPUTO, Matt (MAN-UP), Assist by O'GRADY, Bobby, goal number 11 for season.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:04",
+    "home_event": "Faceoff AMBUSH, Ty vs Madden, Bryce won by MU, [05:04] Ground ball pickup by MU AMBUSH, Ty.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "Shot by MU BRANDT, Carsen, SAVE Lenskold, Colin.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "Shot by MU FOSTER, Will, SAVE Lenskold, Colin.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Shot by MU FOSTER, Will, SAVE Lenskold, Colin.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:47",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:57",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by UTAH White,Zachary."
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by UTAH White,Zachary, Assist by Stines, Ryan, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by UTAH, [02:43] Ground ball pickup by UTAH DiPonio, Nikko."
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by UTAH Stines, Ryan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by UTAH White,Zachary, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "3",
+    "time": "01:24",
+    "home_event": "Clear attempt by MU good.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "Shot by MU SNYDER, Noah, SAVE Lenskold, Colin.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "Shot clock violation by MU.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Shot by UTAH DiPonio, Nikko, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU, [15:00] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:37",
+    "home_event": "Shot by MU O'GRADY, Bobby, SAVE Lenskold, Colin.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:14",
+    "home_event": "Shot by MU BRANDT, Carsen, SAVE Lenskold, Colin.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:09",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:32",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "GOAL by UTAH Robertson, Chase, Assist by Overly, Will, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:32",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU, [13:32] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Shot by MU BRANDT, Carsen HIT POST.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "Shot by MU O'GRADY, Bobby, SAVE Lenskold, Colin.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:48",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by UTAH DiPonio, Nikko."
+  },
+  {
+    "quarter": "4",
+    "time": "12:45",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:35",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by UTAH Schifko, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "GOAL by UTAH Robertson, Chase, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff AMBUSH, Ty vs Kloeckl, Tyler won by UTAH, [11:38] Ground ball pickup by UTAH Pascarella, Marco."
+  },
+  {
+    "quarter": "4",
+    "time": "10:21",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Shot by UTAH Stines, Ryan, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "Clear attempt by MU good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:26",
+    "home_event": "Turnover by MU CAPUTO, Matt (caused by Pivetta, Luca).",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:12",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Turnover by UTAH Stines, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "Clear attempt by MU good.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "GOAL by MU FOSTER, Will, goal number 1 for season.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU (on faceoff violation).",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "Shot by MU BRANDT, Carsen HIT POST.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "Ground ball pickup by MU CAPUTO, Matt.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:50",
+    "home_event": "Shot by MU FOSTER, Will WIDE.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:39",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by UTAH Robertson, Chase."
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Turnover by UTAH Haley, Luke (caused by DETWILER, Peter)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:11",
+    "home_event": "Ground ball pickup by MU DETWILER, Peter.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "Clear attempt by MU good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "GOAL by MU BRANDT, Carsen, goal number 14 for season.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:25",
+    "home_event": "Faceoff SLAGER, Adam vs Pascarella, Marco won by MU (on faceoff violation).",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "Shot by MU O'GRADY, Bobby WIDE.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "GOAL by MU CAPUTO, Matt, Assist by FOSTER, Will, goal number 12 for season.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Timeout by UTAH."
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU, [04:41] Ground ball pickup by MU DETWILER, Peter.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:06",
+    "home_event": "Shot by MU CAPUTO, Matt WIDE.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "Shot by MU FOSTER, Will WIDE.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:41",
+    "home_event": "Shot by MU BRANDT, Carsen, SAVE Lenskold, Colin.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "Shot by MU BRANDT, Carsen HIGH.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:21",
+    "home_event": "Turnover by MU O'GRADY, Bobby.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:16",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Ground ball pickup by UTAH Sparks, Karson."
+  },
+  {
+    "quarter": "4",
+    "time": "03:11",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:04",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by UTAH Stines, Ryan, SAVE LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "Clear attempt by MU good.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:05",
+    "home_event": "Turnover by MU RAPPIS, Nolan.",
+    "score": "11-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:58",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Timeout by UTAH."
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "",
+    "score": "11-10",
+    "away_event": "Shot by UTAH Robertson, Chase WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "GOAL by UTAH Stines, Ryan, Assist by Faulkner, Cade, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "Faceoff SLAGER, Adam vs Pascarella, Marco won by MU, [00:25] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "Turnover by MU SLAGER, Adam (caused by Pascarella, Marco).",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Ground ball pickup by UTAH Pascarella, Marco."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Clear attempt by UTAH good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "",
+    "score": "11-11",
+    "away_event": "Shot by UTAH Hart, Cody, SAVE LAWAS, Lucas {shot from close left wing}."
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "Ground ball pickup by MU DETWILER, Peter.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Faceoff SLAGER, Adam vs Madden, Bryce won by MU, [04:00] Ground ball pickup by MU SLAGER, Adam.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "Timeout by MU.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "Shot by MU BRANDT, Carsen WIDE.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "GOAL by MU O'GRADY, Bobby, Assist by FOSTER, Will, goal number 16 for season.",
+    "score": "12-11",
+    "away_event": ""
+  }
+]

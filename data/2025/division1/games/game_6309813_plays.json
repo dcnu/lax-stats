@@ -1,0 +1,1878 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Piekutowski, Denny at goalie for ION.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Daly, Dan at goalie for NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NAVY Norton, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "14:20",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by NAVY Flaherty, Jack, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "Clear attempt by ION good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "Shot by ION Lawry, Cullen, SAVE Daly, Dan.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by NAVY Tolker, Henry."
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by NAVY Haley, Mac (FIRST GOAL), Assist by Tolker, Henry, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY, [13:06] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by NAVY Marsh, AJ, Assist by Nagy, Josh, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by ION, [12:53] Ground ball pickup by ION Gramaglia, Vincenzo.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "GOAL by ION Lawry, Cullen, Assist by Gramaglia, Vincenzo, goal number 3 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by NAVY LaRocco, Roman (caused by Piekutowski, Denny)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "Ground ball pickup by ION Piekutowski, Denny.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "Clear attempt by ION good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:35",
+    "home_event": "GOAL by ION Riglietti, Jake, goal number 1 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:35",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by NAVY Ash, Carter, Assist by Conway, Evan, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by ION (on faceoff violation).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "Ground ball pickup by ION Raso, Francesco.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "Shot by ION Raso, Francesco WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by NAVY Daly, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by NAVY."
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:38",
+    "home_event": "Turnover by ION Hardie, Kyle (caused by Ash, Carter).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by NAVY Ash, Carter HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by NAVY Ash, Carter HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by NAVY Haley, Mac, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by NAVY, [08:53] Ground ball pickup by NAVY Shadowens, Colin."
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by NAVY Ash, Carter WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by NAVY Haley, Mac, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY, [08:43] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by NAVY Gallagher, Sean HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by NAVY Garza, Paul WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "Timeout by ION.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by NAVY Conway, Evan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by NAVY Nichtern, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by NAVY Ash, Carter HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by NAVY Tolker, Henry, Assist by Haley, Mac, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Faceoff Metz, Cooper vs Hayashi, Zach won by NAVY, [07:12] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "GOAL by NAVY Tolker, Henry, Assist by Ash, Carter, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Hayashi, Zach won by NAVY (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by NAVY King, Carter, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Ground ball pickup by NAVY Haley, Mac."
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by NAVY LaRocco, Roman HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "GOAL by NAVY Goers, William, Assist by Ponzio, Jack, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Faceoff Metz, Cooper vs Hayashi, Zach won by ION (on faceoff violation).",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "Shot by ION Martinez, Jack WIDE.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "Shot clock violation by ION.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by NAVY Goers, William BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by NAVY Landolphi, Ryan, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by NAVY Tolker, Henry."
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by NAVY Tolker, Henry (caused by Windesheim, Bobby)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "Ground ball pickup by ION Kern, Caleb.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:00",
+    "home_event": "Ground ball pickup by ION Dyszkiewicz, Matthew.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "Clear attempt by ION good.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "Turnover by ION Dyszkiewicz, Matthew.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by NAVY Norton, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "GOAL by NAVY Gallagher, Sean, Assist by Goers, William, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by NAVY (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by NAVY Marsh, AJ, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "Ground ball pickup by ION Piekutowski, Denny.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "Turnover by ION.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Shot by NAVY Goers, William HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by NAVY Marsh, AJ."
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Ground ball pickup by NAVY LaRocco, Roman."
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "Penalty on ION Lewis, Kaiden (SLASHING/1:00) Extra-man opportunity.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "GOAL by NAVY Ripley, Race (MAN-UP), Assist by Flaherty, Jack, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Faceoff Metz, Cooper vs Hayashi, Zach won by NAVY, [00:57] Ground ball pickup by NAVY Hayashi, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by NAVY Tolker, Henry WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by NAVY Haley, Mac WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by NAVY Landolphi, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Vlahos, George at goalie for NAVY."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by ION, [15:00] Ground ball pickup by ION Lewis, Kaiden.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "Shot by ION Dyszkiewicz, Matthew WIDE.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "Turnover by ION Raso, Francesco.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:58",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by NAVY Muir, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "13:51",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Turnover by NAVY Muir, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "13:47",
+    "home_event": "Shot by ION Lawry, Cullen BLOCKED.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "Shot by ION Lawry, Cullen BLOCKED.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:29",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by NAVY Hurdle, Aidan."
+  },
+  {
+    "quarter": "2",
+    "time": "12:53",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Turnover by NAVY Gregorek, Gavin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:48",
+    "home_event": "Clear attempt by ION good.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "Shot by ION Shivell, Gary HIGH.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "Shot by ION Hardie, Kyle, SAVE Vlahos, George.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:13",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by NAVY Vlahos, George."
+  },
+  {
+    "quarter": "2",
+    "time": "12:09",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by NAVY Ponzio, Jack, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "Ground ball pickup by ION Agwamba, Tochi.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "Turnover by ION Karstien, Richard (caused by LaRocco, Roman).",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by NAVY Ash, Carter."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by NAVY Gregorek, Alec, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "Clear attempt by ION good.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "GOAL by ION Lawry, Cullen, Assist by Riglietti, Jake, goal number 4 for season.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by ION, [10:43] Ground ball pickup by ION Metz, Cooper.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Turnover by ION Benn, Whyett.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:05",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by NAVY Mullahey, Tristan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Shot by NAVY Ross, Andrew HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Shot by NAVY Ash, Carter, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "Clear attempt by ION good.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "Shot by ION Piekutowski, Denny WIDE.",
+    "score": "3-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Ground ball pickup by NAVY Vlahos, George."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "3-10",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "GOAL by NAVY Garza, Paul, Assist by Conway, Evan, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by NAVY, [08:02] Ground ball pickup by NAVY Shadowens, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Ground ball pickup by NAVY Gregorek, Gavin."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by NAVY Ripley, Race, Assist by Goers, William, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:58",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by ION.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Penalty on NAVY Green, Chase (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "Shot by ION Riglietti, Jake, SAVE Vlahos, George.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:10",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:18",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by NAVY Gregorek, Gavin."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "Turnover by ION Piekutowski, Denny.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:01",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Ground ball pickup by NAVY King, Carter."
+  },
+  {
+    "quarter": "2",
+    "time": "04:34",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by NAVY."
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "Clear attempt by ION good.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "Shot by ION Pititto, Vincent HIGH.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:47",
+    "home_event": "Shot by ION Dyszkiewicz, Matthew HIGH.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:19",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Penalty on NAVY Trafford, Ryan (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "Shot by ION Lawry, Cullen WIDE.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "Shot by ION Kennedy, Jimmy, SAVE Vlahos, George.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "Ground ball pickup by ION Riglietti, Jake.",
+    "score": "3-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Penalty on NAVY Brady, Charlie (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "GOAL by ION Curtin, Kolbe (MAN-UP), Assist by Raso, Francesco.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by NAVY, [01:46] Ground ball pickup by NAVY Muir, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "01:25",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by NAVY Muir, Sam."
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "Ground ball pickup by ION Agwamba, Tochi.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:11",
+    "home_event": "Clear attempt by ION good.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Timeout by ION.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "GOAL by ION Riglietti, Jake, goal number 2 for season.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:53",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by ION, [00:53] Ground ball pickup by ION Gramaglia, Vincenzo.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:41",
+    "home_event": "Turnover by ION Gramaglia, Vincenzo (caused by Bucci, Joey).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by NAVY Trafford, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "00:30",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Timeout by NAVY."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by NAVY Hurley, Liam, SAVE Piekutowski, Denny."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Perea, Noah at goalie for ION.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by NAVY, [15:00] Ground ball pickup by NAVY Shadowens, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "14:24",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by NAVY Gregorek, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "14:18",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by NAVY Gregorek, Alec WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by NAVY Ripley, Race, Assist by Byrnes, Matt, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by ION.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:48",
+    "home_event": "Shot by ION Martinez, Jack, SAVE Vlahos, George.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:37",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by NAVY Hurley, Liam."
+  },
+  {
+    "quarter": "3",
+    "time": "12:42",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by NAVY, [12:42] Ground ball pickup by NAVY Brady, Charlie."
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Ground ball pickup by NAVY Flaherty, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "11:35",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by NAVY Gregorek, Gavin, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "3",
+    "time": "11:33",
+    "home_event": "Penalty on ION Curtin, Kolbe (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by NAVY Golini, Nick WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:32",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Turnover by NAVY Goers, William."
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "Clear attempt by ION good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "GOAL by ION Lawry, Cullen, goal number 5 for season.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by NAVY, [10:04] Ground ball pickup by NAVY King, Carter."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:15",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by NAVY Ross, Andrew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by NAVY Hurley, Liam, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Ground ball pickup by ION Perea, Noah.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:52",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "Shot by ION Pititto, Vincent, SAVE Vlahos, George.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:10",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by NAVY failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by NAVY Ruiz, Ben."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "Ground ball pickup by ION Lawry, Cullen.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "Turnover by ION Kennedy, Jimmy.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:13",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "GOAL by NAVY Gregorek, Gavin."
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Faceoff Metz, Cooper vs Shadowens, Colin won by NAVY, [06:37] Ground ball pickup by NAVY Shadowens, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Turnover by NAVY Shadowens, Colin."
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:46",
+    "home_event": "Turnover by ION Riglietti, Jake.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Golini, Nick HIT CROSSBAR."
+  },
+  {
+    "quarter": "3",
+    "time": "04:47",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Ground ball pickup by NAVY Ross, Andrew."
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Ross, Andrew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Golini, Nick WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "Ground ball pickup by ION Perea, Noah.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "Clear attempt by ION failed.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "Turnover by ION Kern, Caleb.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:12",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Ground ball pickup by NAVY Mullahey, Tristan."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY LaFar, Taylor HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "3",
+    "time": "02:29",
+    "home_event": "Ground ball pickup by ION Dyszkiewicz, Matthew.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "Turnover by ION Monzo, Max.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:04",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Ross, Andrew BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "01:40",
+    "home_event": "Ground ball pickup by ION Agwamba, Tochi.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:30",
+    "home_event": "Timeout by ION.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:28",
+    "home_event": "Shot by ION Martinez, Jack, SAVE Vlahos, George.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:19",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Ripley, Race, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Ripley, Race, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Shadowens, Colin won by ION.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:16",
+    "home_event": "Ground ball pickup by ION Lawry, Cullen.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "Shot by ION Lawry, Cullen BLOCKED.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:21",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY DiRocco, Aydan, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Ground ball pickup by NAVY Flaherty, Patrick."
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by NAVY Flaherty, Patrick BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "Penalty on ION Kern, Caleb (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Schwarz, Gunnar at goalie for NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "12:55",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Turnover by NAVY Golini, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "Ground ball pickup by ION Shivell, Gary.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "Turnover by ION Perea, Noah (caused by Goers, William).",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:33",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "GOAL by NAVY Goers, William (MAN-UP), goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:33",
+    "home_event": "",
+    "score": "6-16",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Bucci, Joey won by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "GOAL by NAVY Gregorek, Alec, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Faceoff Metz, Cooper vs Bucci, Joey won by NAVY, [11:56] Ground ball pickup by NAVY Bucci, Joey."
+  },
+  {
+    "quarter": "4",
+    "time": "11:51",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "GOAL by NAVY Bucci, Joey, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:51",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Graham, David won by NAVY, [11:51] Ground ball pickup by NAVY Graham, David."
+  },
+  {
+    "quarter": "4",
+    "time": "11:18",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "GOAL by NAVY DiRocco, Aydan, Assist by Ripley, Race."
+  },
+  {
+    "quarter": "4",
+    "time": "11:18",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Blanchard, Rory won by ION, [11:18] Ground ball pickup by ION Gramaglia, Vincenzo.",
+    "score": "6-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:09",
+    "home_event": "Shot by ION Riglietti, Jake BLOCKED.",
+    "score": "6-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "Ground ball pickup by NAVY Norton, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "10:53",
+    "home_event": "",
+    "score": "6-19",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "GOAL by NAVY Ripley, Race, Assist by Gregorek, Alec."
+  },
+  {
+    "quarter": "4",
+    "time": "10:29",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Thomas, Max won by ION, [10:29] Ground ball pickup by ION Hickey, Owen.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "Shot by ION Dyszkiewicz, Matthew, SAVE Schwarz, Gunnar.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Ground ball pickup by NAVY Bach, Tristan."
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:33",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Shot by NAVY Underwood, J.P. WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:13",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Ground ball pickup by NAVY Gregorek, Alec."
+  },
+  {
+    "quarter": "4",
+    "time": "08:56",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Shot by NAVY Flaherty, Patrick, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "",
+    "score": "6-20",
+    "away_event": "Shot by NAVY DiRocco, Aydan, SAVE Perea, Noah."
+  },
+  {
+    "quarter": "4",
+    "time": "08:38",
+    "home_event": "Clear attempt by ION good.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "Shot by ION Karstien, Richard, SAVE Schwarz, Gunnar.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "Ground ball pickup by ION Foley, Beckett.",
+    "score": "6-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "GOAL by ION Foley, Beckett.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Graham, David won by NAVY, [08:33] Ground ball pickup by NAVY Graham, David."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Shot by NAVY Golini, Nick HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Ground ball pickup by NAVY DiRocco, Aydan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:49",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Shot by NAVY Hurley, Liam WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Shot by NAVY Golini, Nick WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:16",
+    "home_event": "",
+    "score": "7-20",
+    "away_event": "Shot by NAVY Ross, Andrew WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:59",
+    "home_event": "Clear attempt by ION good.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:36",
+    "home_event": "Shot by ION Pititto, Vincent WIDE.",
+    "score": "7-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "GOAL by ION Foley, Beckett, Assist by Curtin, Kolbe, goal number 2 for season.",
+    "score": "8-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "",
+    "score": "8-20",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "",
+    "score": "8-20",
+    "away_event": "Perez, William at goalie for NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Graham, David won by ION.",
+    "score": "8-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:48",
+    "home_event": "Shot by ION Martinez, Jack, SAVE Perez, William.",
+    "score": "8-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "",
+    "score": "8-20",
+    "away_event": "Clear attempt by NAVY good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "",
+    "score": "8-21",
+    "away_event": "GOAL by NAVY Byrnes, Matt, Assist by DiRocco, Aydan, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Faceoff Gramaglia, Vincenzo vs Blanchard, Rory won by ION, [05:11] Ground ball pickup by ION Summers, Slade.",
+    "score": "8-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "Ground ball pickup by ION Summers, Slade.",
+    "score": "8-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "Turnover by ION Summers, Slade (caused by Blanchard, Rory).",
+    "score": "8-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:34",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "GOAL by NAVY Ross, Andrew, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:34",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Blanchard, Rory won by NAVY, [04:34] Ground ball pickup by NAVY Underwood, J.P.."
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "Penalty on ION Lewis, Kaiden (HOLDING/0:30) Extra-man opportunity.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Walsh, Will at goalie for NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "",
+    "score": "8-22",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "Clear attempt by ION good.",
+    "score": "8-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "GOAL by ION Lawry, Cullen, goal number 6 for season.",
+    "score": "9-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "",
+    "score": "9-22",
+    "away_event": "Faceoff Gramaglia, Vincenzo vs Thomas, Max won by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "00:21",
+    "home_event": "",
+    "score": "9-22",
+    "away_event": "Shot clock violation by NAVY."
+  },
+  {
+    "quarter": "4",
+    "time": "00:10",
+    "home_event": "Clear attempt by ION good.",
+    "score": "9-22",
+    "away_event": ""
+  }
+]

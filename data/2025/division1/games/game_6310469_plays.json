@@ -1,0 +1,1899 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Damian Levin at goalie for VMI.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Rand Paddack at goalie for MER."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Carter Kryszak (caused by Austin English)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "GOAL by VMI Ty Yonas (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MER Christian Laureano."
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "Turnover by VMI Damian Levin.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "1",
+    "time": "13:08",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by MER Thomas Venzie (caused by Austin English)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "GOAL by VMI Simon Moore.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by MER Michael Frederick, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "Turnover by VMI Matt Nichols.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by MER Dillon Bush, Assist by Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by VMI.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "Ground ball pickup by VMI Joseph Weinburgh.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "Shot by VMI Dayton Bagwell BLOCKED.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MER Kobe Handsor WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by MER Dillon Bush (caused by Jack Myhre)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "Ground ball pickup by VMI RJ Wyrick.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "Shot by VMI Dayton Bagwell, SAVE Rand Paddack.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by MER Tyler Gilbert."
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MER Michael Frederick, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "Ground ball pickup by VMI Ty Yonas.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "Turnover by VMI Ty Yonas (caused by Quinn Kelley).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by MER Michael Frederick."
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by MER Will Zylstra (caused by James Boynewicz)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Ground ball pickup by VMI James Boynewicz.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "GOAL by VMI Austin English, Assist by Simon Moore.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by MER Michael Frederick (caused by Zac Creel)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:54",
+    "home_event": "Ground ball pickup by VMI RJ Wyrick.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "Shot by VMI Zac Creel, SAVE Rand Paddack.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Turnover by VMI Austin English.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MER Christian Laureano, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Turnover by VMI Luke Rusterucci (caused by Davis Peek).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "Ground ball pickup by VMI Dayton Bagwell.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "Turnover by VMI Dayton Bagwell (caused by Tyler Gilbert).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MER Jackson Hirschy, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MER Jackson Hirschy."
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MER Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by MER Dillon Bush, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "GOAL by VMI RJ Wyrick.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by MER Christian Laureano, SAVE Damian Levin."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by MER Will Zylstra WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Shot by VMI Austin English, SAVE Rand Paddack.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Ground ball pickup by VMI Matt Nichols.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Shot by VMI Ty Yonas, SAVE Rand Paddack.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "14:58",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "2",
+    "time": "14:30",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Turnover by MER Christian Laureano (caused by Alex Baber)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "Ground ball pickup by VMI Nate Golding.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:21",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:15",
+    "home_event": "Shot by VMI Nate Golding WIDE.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "GOAL by VMI Luke Rusterucci, Assist by Wil Duffy.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Shot by MER Kade McNeil, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "Shot by VMI Mason Gustafson, SAVE Rand Paddack.",
+    "score": "5-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "5-1",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "GOAL by MER Michael Frederick, Assist by Jack Sullivan."
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Faceoff AJ Riley vs Carter Kryszak won by VMI.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Ground ball pickup by VMI Nate Golding.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Turnover by VMI Nate Golding.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by MER Ganon Cope."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MER Dillon Bush HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "11:50",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MER Michael Frederick WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by MER Jack Sullivan, Assist by Ganon Cope."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by MER Dylan McKelvy WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "GOAL by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MER Ganon Cope, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Turnover by VMI Ty Yonas (caused by Kobe Handsor).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MER Kobe Handsor."
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:49",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MER Dylan McKelvy, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "09:42",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "Shot by VMI Austin English, SAVE Rand Paddack.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:04",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by MER Peyton McNeill HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "06:16",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by MER Jackson Crocker."
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "Shot by VMI Wil Duffy WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "GOAL by VMI Dayton Bagwell, Assist by Wil Duffy.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "Faceoff AJ Riley vs Carter Kryszak won by VMI (on faceoff violation).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "Shot by VMI Jack Duncan-Bloom HIT POST.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Ground ball pickup by VMI Ty Yonas.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:36",
+    "home_event": "GOAL by VMI Luke Rusterucci.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:36",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Jack Sullivan HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Ganon Cope, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "03:43",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "Turnover by VMI.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "Penalty on VMI Matt Nichols (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:41",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Dillon Bush HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Will Zylstra HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by MER Jack Sullivan (caused by Alex Baber)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "Turnover by VMI Alex Baber (caused by Will Zylstra).",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:34",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Kade McNeil, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "01:24",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Kade McNeil, SAVE Damian Levin."
+  },
+  {
+    "quarter": "2",
+    "time": "01:13",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:56",
+    "home_event": "Timeout by VMI.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:33",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Penalty on MER Jack Sullivan (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "Shot by VMI Luke Mryncza WIDE.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Shot by VMI Dayton Bagwell, SAVE Rand Paddack.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by MER Kyle Pierce WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by VMI (on faceoff violation).",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "GOAL by VMI Ty Yonas, Assist by Wil Duffy.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Faceoff Joseph Weinburgh vs Owen Rhodes won by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by MER Christian Laureano."
+  },
+  {
+    "quarter": "3",
+    "time": "14:04",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Shot by MER Michael Frederick, SAVE Damian Levin."
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "Turnover by VMI Dayton Bagwell.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Shot by MER Kade McNeil WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:11",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Shot by MER Dylan McKelvy, SAVE Damian Levin."
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "",
+    "score": "8-4",
+    "away_event": "Ground ball pickup by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "GOAL by MER Jackson Hirschy, Assist by Michael Frederick."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by MER Christian Laureano, SAVE Damian Levin."
+  },
+  {
+    "quarter": "3",
+    "time": "10:43",
+    "home_event": "Shot by VMI Austin English, SAVE Rand Paddack.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "Shot by VMI Luke Rusterucci, SAVE Rand Paddack.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:38",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:12",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by MER Michael Frederick, SAVE Damian Levin."
+  },
+  {
+    "quarter": "3",
+    "time": "08:54",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot clock violation by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "08:50",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "Shot by VMI Jack Duncan-Bloom WIDE.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "GOAL by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Faceoff AJ Riley vs Carter Kryszak won by VMI.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by VMI AJ Riley.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Turnover by VMI AJ Riley.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by MER Will Zylstra (caused by Zac Creel)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "GOAL by VMI Simon Moore.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by VMI.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "Ground ball pickup by VMI Joseph Weinburgh.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "GOAL by VMI Luke Rusterucci, Assist by Ty Yonas.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by MER Ganon Cope (caused by Nate Golding)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "Turnover by VMI James Boynewicz (caused by Luke Hand).",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:18",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by MER Quinn Kelley (caused by Mason Gustafson)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:17",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:16",
+    "home_event": "Ground ball pickup by VMI Mason Gustafson.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Shot by VMI Dayton Bagwell HIGH.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by MER Quinn Kelley."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "Ground ball pickup by VMI Mason Gustafson.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:45",
+    "home_event": "Shot by VMI Dayton Bagwell HIGH.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Turnover by MER Tyler Gilbert."
+  },
+  {
+    "quarter": "3",
+    "time": "04:28",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "GOAL by VMI Dayton Bagwell, Assist by Simon Moore.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Ground ball pickup by MER Dillon Bush."
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Turnover by MER Dillon Bush (caused by Jack Myhre)."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Ground ball pickup by VMI Jack Myhre.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "GOAL by VMI Jack Duncan-Bloom.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Ground ball pickup by MER Jack Sullivan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Shot by MER Jack Sullivan HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "01:00",
+    "home_event": "Penalty on VMI Jack Myhre (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "GOAL by MER Ben Jose (MAN-UP), Assist by Michael Frederick."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Turnover by MER Carter Kryszak."
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "Turnover by VMI Ty Yonas (caused by Kyle Pierce).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by MER Luke Hand."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "4",
+    "time": "14:26",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Will Zylstra, SAVE Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "13:53",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dylan McKelvy, SAVE Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "13:45",
+    "home_event": "Ground ball pickup by VMI James Boynewicz.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "Turnover by VMI Jack Myhre (caused by Tyler Gilbert).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dillon Bush, SAVE Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "12:29",
+    "home_event": "Ground ball pickup by VMI Damian Levin.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Turnover by VMI Damian Levin (caused by Michael Frederick).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:17",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:03",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dillon Bush HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dillon Bush WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by MER Dillon Bush BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by VMI Chris Golini.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Shot by VMI Austin English, SAVE Rand Paddack.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:25",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Turnover by MER Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "10:05",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:12",
+    "home_event": "Shot by VMI Dayton Bagwell BLOCKED.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by MER Rand Paddack."
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "Penalty on VMI Dayton Bagwell (PUSHING/0:30) Extra-man opportunity.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Ben Jose."
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by VMI.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "Ground ball pickup by VMI Zac Creel.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "GOAL by VMI Luke Rusterucci.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Faceoff Joseph Weinburgh vs Carter Kryszak won by MER (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "GOAL by MER Christian Laureano."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:30",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by MER Michael Frederick, SAVE Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:40",
+    "home_event": "Ground ball pickup by VMI Chris Golini.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Turnover by VMI.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:13",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "GOAL by MER Will Zylstra."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "4",
+    "time": "05:32",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Ground ball pickup by MER Luke Fox."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "GOAL by MER Dillon Bush."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Turnover by MER Quinn Kelley."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "Ground ball pickup by VMI James Boynewicz.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "Shot by VMI Luke Rusterucci HIT POST.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "Shot by VMI Luke Rusterucci, SAVE Rand Paddack.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Ground ball pickup by MER Kobe Handsor."
+  },
+  {
+    "quarter": "4",
+    "time": "03:36",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:00",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Shot by MER Dylan McKelvy WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:44",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Ground ball pickup by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "4",
+    "time": "02:31",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Shot by MER Will Zylstra, SAVE Damian Levin."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "Timeout by VMI.",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "Turnover by VMI Ty Yonas (caused by Brady Corkill).",
+    "score": "13-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Clear attempt by MER failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "GOAL by VMI Luke Rusterucci.",
+    "score": "14-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "",
+    "score": "14-11",
+    "away_event": "Faceoff AJ Riley vs Carter Kryszak won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "00:07",
+    "home_event": "",
+    "score": "14-11",
+    "away_event": "Ground ball pickup by MER Carter Kryszak."
+  },
+  {
+    "quarter": "4",
+    "time": "00:03",
+    "home_event": "",
+    "score": "14-11",
+    "away_event": "Shot by MER Dillon Bush, SAVE Damian Levin."
+  }
+]

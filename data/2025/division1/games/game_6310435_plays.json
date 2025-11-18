@@ -1,0 +1,1437 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "MACLACHLAN,JAMISON at goalie for STONYBR.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Connor Hapward at goalie for MANHATTA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff SMITH,ROBBIE vs Keith Fraser won by MANHATTA (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MANHATTA Kelly DuPree, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "GOAL by STONYBR YEUNG,CALEB (FIRST GOAL), Assist by BONACCI,JUSTIN, goal number 1 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by STONYBR, [] Ground ball pickup by STONYBR ESPOSITO,CHRIS.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "Shot by STONYBR WILLIAMSON,COLLIN WIDE",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "GOAL by STONYBR MARINO,BRENDAN, Assist by BONACCI,JUSTIN, goal number 1 for season.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by STONYBR.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:08",
+    "home_event": "Shot by STONYBR ESPOSITO,CHRIS, SAVE Connor Hapward",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by MANHATTA Matthew Pantorno."
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by MANHATTA Scott O'Connor (caused by DODGE,RYAN)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "Ground ball pickup by STONYBR DODGE,RYAN.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "GOAL by STONYBR MARINO,BRENDAN, Assist by BONACCI,JUSTIN, goal number 1 for season.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by MANHATTA."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Shot by MANHATTA Drew Hiner, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "GOAL by MANHATTA Sean Shelko, goal number  for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by STONYBR, [08:41] Ground ball pickup by STONYBR KRAEMER,RONNIE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "Shot by STONYBR WILLIAMSON,COLLIN, SAVE Connor Hapward",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by STONYBR YEUNG,CALEB (caused by Robert Pousak).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:41",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by MANHATTA Hunter Newman."
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by STONYBR, [07:04] Ground ball pickup by STONYBR ESPOSITO,CHRIS.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "Shot by STONYBR BOYLE,CARSON WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "GOAL by STONYBR DECHIARO,RICHIE, Assist by BOYLE,CARSON.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Keith Fraser won by STONYBR, [05:51] Ground ball pickup by STONYBR CROSBY,JACK.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "Shot by STONYBR MCCOY,KIAN, SAVE Connor Hapward",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by MANHATTA Drew Hiner (caused by FORNEY,CARSON)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "Ground ball pickup by STONYBR MACLACHLAN,JAMISON.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "GOAL by STONYBR MARINO,BRENDAN, Assist by BONACCI,JUSTIN.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR, [03:36] Ground ball pickup by STONYBR CROSBY,JACK.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by STONYBR MCCOY,KIAN (caused by Matthew Pantorno).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by MANHATTA Tyler Mosca WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by MANHATTA, [01:35] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by MANHATTA Casey Klossner (caused by HEGARTY,RILEY)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "Shot by STONYBR BONACCI,JUSTIN, SAVE Connor Hapward",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:59",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR, [] Ground ball pickup by STONYBR ESPOSITO,CHRIS.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR (caused by Hunter Newman).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:54",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by MANHATTA Gavin Wolf."
+  },
+  {
+    "quarter": "2",
+    "time": "14:53",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:51",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by MANHATTA Connor Engel, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "2",
+    "time": "14:39",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:19",
+    "home_event": "Shot by STONYBR WILLIAMS,TANNER WIDE",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "Shot by STONYBR YEUNG,CALEB WIDE",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "GOAL by STONYBR MARINO,BRENDAN, Assist by WILLIAMS,TANNER.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR, [12:06] Ground ball pickup by STONYBR Team.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:02",
+    "home_event": "Shot by STONYBR DECHIARO,RICHIE, SAVE Connor Hapward",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:01",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by MANHATTA Kelly DuPree (caused by HEGARTY,RILEY)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "Ground ball pickup by STONYBR BONACCI,JUSTIN.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:40",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR BONACCI,JUSTIN (caused by Matthew Pantorno).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:49",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by MANHATTA Kelly DuPree, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "2",
+    "time": "08:43",
+    "home_event": "Clear attempt by STONYBR failed.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR DECHIARO,RICHIE (caused by Sean Shelko).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "Penalty on STONYBR DECHIARO,RICHIE (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "Shot by STONYBR DELLI-PIZZI,JACK, SAVE Connor Hapward",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by MANHATTA Connor White, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by MANHATTA Kelly DuPree (caused by DODGE,RYAN)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR BALDWIN,JADEN (caused by Connor Engel).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:29",
+    "home_event": "Timeout by STONYBR.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:27",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by MANHATTA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by MANHATTA Thomas Shoniker (caused by KRAEMER,RONNIE)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:01",
+    "home_event": "Shot by STONYBR MARINO,BRENDAN WIDE",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "Ground ball pickup by STONYBR MARINO,BRENDAN.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR MARINO,BRENDAN (caused by Matthew Pantorno).",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:49",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by MANHATTA Drew Hiner."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by MANHATTA, [05:51] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "2",
+    "time": "05:49",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by MANHATTA Scott O'Connor (caused by CIELESKI, THOMAS)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "Shot by STONYBR WILLIAMS,TANNER, SAVE Connor Hapward",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by MANHATTA Drew Hiner (caused by BIRNEY,WILL)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "Timeout by STONYBR.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:09",
+    "home_event": "Ground ball pickup by STONYBR WILLIAMSON,COLLIN.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "Shot by STONYBR BARKER,RYAN, SAVE Connor Hapward",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by MANHATTA Matthew Pantorno."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:43",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "2",
+    "time": "01:36",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:16",
+    "home_event": "Shot by STONYBR YEUNG,CALEB, SAVE Connor Hapward",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by STONYBR YEUNG,CALEB.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by MANHATTA Connor Engel, Assist by Tyler Mosca."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR, [00:06] Ground ball pickup by STONYBR CROSBY,JACK.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Shot by STONYBR CROSBY,JACK, SAVE Connor Hapward",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR, [15:00] Ground ball pickup by STONYBR BIRNEY,WILL.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by STONYBR YEUNG,CALEB (caused by Casey Klossner).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:23",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by MANHATTA (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:36",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by MANHATTA Sean Shelko, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by MANHATTA Alex Bales (caused by FORNEY,CARSON)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "Ground ball pickup by STONYBR FORNEY,CARSON.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by STONYBR BARKER,RYAN (caused by JP Jones).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by MANHATTA Gavin Wolf."
+  },
+  {
+    "quarter": "3",
+    "time": "11:20",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by MANHATTA Kelly DuPree, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "Ground ball pickup by STONYBR HEGARTY,RILEY.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:07",
+    "home_event": "Shot by STONYBR YEUNG,CALEB, SAVE Connor Hapward",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "GOAL by STONYBR WILLIAMS,TANNER.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by MANHATTA, [09:14] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by MANHATTA Kelly DuPree WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by MANHATTA Thomas White (caused by DODGE,RYAN)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by STONYBR BOYLE,CARSON (caused by JP Jones).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by MANHATTA Connor Hapward."
+  },
+  {
+    "quarter": "3",
+    "time": "06:31",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Penalty on MANHATTA Gavin Wolf (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "GOAL by STONYBR BOYLE,CARSON (MAN-UP), Assist by MCCOY,KIAN.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by STONYBR, [06:25] Ground ball pickup by STONYBR SMITH,ROBBIE.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by STONYBR YEUNG,CALEB (caused by JP Jones).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:58",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by MANHATTA JP Jones."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by MANHATTA JP Jones (caused by Team)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:56",
+    "home_event": "Ground ball pickup by STONYBR Team.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:52",
+    "home_event": "Shot by STONYBR MARINO,BRENDAN, SAVE Connor Hapward",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by MANHATTA Robert Pousak."
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "GOAL by STONYBR YEUNG,CALEB, Assist by MCCOY,KIAN.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:45",
+    "home_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by STONYBR, [03:45] Ground ball pickup by STONYBR SMITH,ROBBIE.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "Shot by STONYBR BARKER,RYAN, SAVE Connor Hapward",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:54",
+    "home_event": "Shot by STONYBR BONACCI,JUSTIN, SAVE Connor Hapward",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "Shot by STONYBR BOYLE,CARSON WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by MANHATTA Drew Hiner, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Turnover by MANHATTA Drew Hiner (caused by MACLACHLAN,JAMISON)."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by STONYBR BIRNEY,WILL (caused by Tyler Mosca).",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by MANHATTA Connor Engel HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by MANHATTA Drew Hiner WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by STONYBR MACLACHLAN,JAMISON.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by STONYBR MARINO,BRENDAN WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by STONYBR WILLIAMSON,COLLIN WIDE",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by STONYBR, [15:00] Ground ball pickup by STONYBR SMITH,ROBBIE.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "GOAL by STONYBR BONACCI,JUSTIN, Assist by YEUNG,CALEB.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by MANHATTA, [14:22] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "4",
+    "time": "13:39",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Shot by MANHATTA Aiden Kane, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "4",
+    "time": "13:34",
+    "home_event": "Ground ball pickup by STONYBR HEGARTY,RILEY.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:29",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "10-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:16",
+    "home_event": "",
+    "score": "10-6",
+    "away_event": "Penalty on MANHATTA Sean Shelko (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "GOAL by STONYBR BONACCI,JUSTIN (MAN-UP), Assist by MARINO,BRENDAN.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by STONYBR, [11:41] Ground ball pickup by STONYBR SMITH,ROBBIE.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by STONYBR WILLIAMS,TANNER (caused by Louden Sheehan).",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:14",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "GOAL by MANHATTA Kelly DuPree."
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff SMITH,ROBBIE vs Casey Klossner won by MANHATTA, [09:35] Ground ball pickup by MANHATTA Casey Klossner."
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Sean Shelko, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Ground ball pickup by MANHATTA Connor Engel."
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Tyler Mosca WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "Penalty on STONYBR KRAEMER,RONNIE (PUSHING/0:30) Extra-man opportunity.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:07",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Connor White WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Scott O'Connor, SAVE MACLACHLAN,JAMISON"
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Ground ball pickup by STONYBR HEGARTY,RILEY.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:39",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "Shot by STONYBR BOYLE,CARSON, SAVE Connor Hapward",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Aiden Kane WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Ground ball pickup by MANHATTA Aiden Kane."
+  },
+  {
+    "quarter": "4",
+    "time": "05:23",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Aiden Kane WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:15",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by STONYBR BALDWIN,JADEN.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:09",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Tyler Mosca WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:07",
+    "home_event": "Timeout by STONYBR.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Drew Hiner WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Shot by MANHATTA Connor Engel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "Ground ball pickup by STONYBR DODGE,RYAN.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:05",
+    "home_event": "Clear attempt by STONYBR good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "Shot by STONYBR WILLIAMS,TANNER WIDE",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by STONYBR MARINO,BRENDAN (caused by Louden Sheehan).",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Ground ball pickup by MANHATTA Damien Blando."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Turnover by MANHATTA Gavin Wolf (caused by MCCOY,KIAN)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "Ground ball pickup by STONYBR MCCOY,KIAN.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "Penalty on STONYBR DELLI-PIZZI,JACK (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Penalty on MANHATTA Hunter Newman (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:36",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Timeout by MANHATTA."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by STONYBR DECHIARO,RICHIE (caused by Robert Pousak).",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:26",
+    "home_event": "Timeout by STONYBR.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:20",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Clear attempt by MANHATTA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "Ground ball pickup by STONYBR BIRNEY,WILL.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "GOAL by STONYBR BONACCI,JUSTIN.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Faceoff ESPOSITO,CHRIS vs Casey Klossner won by STONYBR.",
+    "score": "12-7",
+    "away_event": ""
+  }
+]

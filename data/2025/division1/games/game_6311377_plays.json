@@ -1,0 +1,1780 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Patrick Scarborough at goalie for SJU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "LAWAS, Lucas at goalie for MU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [15:00] Ground ball pickup by MU SLAGER, Adam."
+  },
+  {
+    "quarter": "1",
+    "time": "14:23",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU BRANDT, Carsen, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "Ground ball pickup by SJU Harry Noel.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "Turnover by SJU Harry Noel (caused by BRANDT, Carsen).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MU O'GRADY, Bobby BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MU BRANDT, Carsen (FIRST GOAL), goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [13:27] Ground ball pickup by MU SLAGER, Adam."
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MU BRANDT, Carsen, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:34",
+    "home_event": "Turnover by SJU Braeden Pratt (caused by DETWILER, Peter).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by MU RAPPIS, Nolan."
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "Ground ball pickup by SJU Patrick Scarborough.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "Turnover by SJU Brian Kelly (caused by KILCOYNE, Ryan).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MU PIRAINO, Mike."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by MU FOSTER, Will."
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "Ground ball pickup by SJU Patrick Scarborough.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "Shot by SJU Zander Hauck HIT POST.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "Shot by SJU Danny Koch BLOCKED.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by MU DETWILER, Peter, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU (on faceoff violation).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "Turnover by SJU Bobby Seel.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MU WESTPHAL, Beau, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "GOAL by SJU Adrian Nowak, Assist by Bobby Seel, goal number 26 for season.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by SJU.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "Shot by SJU Dan Koban, SAVE LAWAS, Lucas.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by MU KILCOYNE, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by MU NICHOLAS, Brady WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by MU BRANDT, Carsen."
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on MU CASTILLO, Jadyn (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "GOAL by SJU Jayson Cardenas (MAN-UP), Assist by Bobby Seel, goal number 14 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by MU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by MU RAPPIS, Nolan, Assist by CAPUTO, Matt, goal number 22 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff John Mavlios vs AMBUSH, Ty won by MU, [03:41] Ground ball pickup by MU AMBUSH, Ty."
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MU AMBUSH, Ty HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MU O'GRADY, Bobby HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "Ground ball pickup by SJU Cam Konradi.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Turnover by SJU Cam Konradi (caused by O'GRADY, Bobby).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by MU RAPPIS, Nolan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MU FOSTER, Will BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by MU O'GRADY, Bobby."
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by MU O'GRADY, Bobby HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by MU WESTPHAL, Beau."
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by MU SNYDER, Noah, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU, [01:15] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [15:00] Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "14:47",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by MU DETWILER, Peter, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "14:43",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:40",
+    "home_event": "Turnover by SJU Brady Rauner (caused by BRANDT, Carsen).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:31",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "13:46",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by MU RAPPIS, Nolan (caused by Quinn Falasca)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:33",
+    "home_event": "Ground ball pickup by SJU Quinn Falasca.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:17",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "Turnover by SJU.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:38",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by MU BRANDT, Carsen (caused by Braeden Pratt)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "Ground ball pickup by SJU Harry Noel.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "GOAL by SJU Nick Turrini, goal number 1 for season.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [12:30] Ground ball pickup by MU LAMARCA, David."
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by MU LAMARCA, David HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "12:12",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:11",
+    "home_event": "Turnover by SJU Patrick Scarborough.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by MU NICHOLAS, Brady."
+  },
+  {
+    "quarter": "2",
+    "time": "11:41",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by MU SNYDER, Noah."
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by MU BRANDT, Carsen, goal number 16 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "Timeout by SJU.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:19",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by MU, [11:19] Ground ball pickup by MU AMBUSH, Ty."
+  },
+  {
+    "quarter": "2",
+    "time": "10:48",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by MU CAPUTO, Matt, goal number 14 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:42",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "10:02",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:50",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by MU SNYDER, Noah."
+  },
+  {
+    "quarter": "2",
+    "time": "08:51",
+    "home_event": "Ground ball pickup by SJU Luke Lulley.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "Turnover by SJU Mitch Campbell.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:59",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:47",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:23",
+    "home_event": "Shot by SJU Mitch Campbell BLOCKED.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "GOAL by SJU Bobby Seel, goal number 14 for season.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "Faceoff John Mavlios vs AMBUSH, Ty won by SJU, [07:17] Ground ball pickup by SJU John Mavlios.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:05",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on MU AMBUSH, Ty (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:40",
+    "home_event": "Turnover by SJU Jayson Cardenas.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:44",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU RAPPIS, Nolan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:34",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "Turnover by SJU.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by MU O'GRADY, Bobby HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "04:29",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by FOSTER, Will, goal number 17 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:29",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "GOAL by SJU Dan Koban, goal number 8 for season.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [03:41] Ground ball pickup by MU HILTZ, Hayden."
+  },
+  {
+    "quarter": "2",
+    "time": "02:58",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by MU WESTPHAL, Beau HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by MU SNYDER, Noah WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:37",
+    "home_event": "Timeout by SJU.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by BRANDT, Carsen, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [02:29] Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "2",
+    "time": "01:53",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by MU FOSTER, Will BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Ground ball pickup by SJU Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:45",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:33",
+    "home_event": "Shot by SJU Ryan Ormond HIGH.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:54",
+    "home_event": "Shot by SJU Bobby Seel HIGH.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:27",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by MU KILCOYNE, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by MU BRANDT, Carsen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by MU FOSTER, Will."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Shot by SJU Dylan Lee WIDE.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by SJU, [15:00] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:54",
+    "home_event": "GOAL by SJU Adam Dembicki, goal number 1 for season.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:54",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by MU, [14:54] Ground ball pickup by MU AMBUSH, Ty."
+  },
+  {
+    "quarter": "3",
+    "time": "14:46",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by MU AMBUSH, Ty (caused by Ryan Ormond)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:18",
+    "home_event": "Ground ball pickup by SJU Adrian Nowak.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "Turnover by SJU Jayson Cardenas (caused by DETWILER, Peter).",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:08",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by MU PIRAINO, Mike."
+  },
+  {
+    "quarter": "3",
+    "time": "14:04",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:00",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by MU CASTILLO, Jadyn, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "3",
+    "time": "13:55",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by MU O'GRADY, Bobby."
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Turnover by MU CAPUTO, Matt."
+  },
+  {
+    "quarter": "3",
+    "time": "13:10",
+    "home_event": "Ground ball pickup by SJU Quinn Falasca.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:07",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "Shot by SJU Brian Kelly HIT POST.",
+    "score": "6-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Ground ball pickup by MU CASTILLO, Jadyn."
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "6-8",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:27",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by BAIR, Jake, goal number 19 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:27",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU (on faceoff violation).",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:59",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:17",
+    "home_event": "Shot by SJU Ryan Ormond, SAVE LAWAS, Lucas.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by MU WESTPHAL, Beau BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "09:10",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by MU BOWMAN, Andrew WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by MU BAIR, Jake WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot clock violation by MU."
+  },
+  {
+    "quarter": "3",
+    "time": "09:01",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "Shot by SJU Brian Kelly, SAVE LAWAS, Lucas.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:31",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Shot by MU FOSTER, Will, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "3",
+    "time": "07:07",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "Shot by SJU Danny Koch, SAVE LAWAS, Lucas.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Ground ball pickup by MU NICHOLAS, Brady."
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "06:14",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Turnover by MU."
+  },
+  {
+    "quarter": "3",
+    "time": "06:09",
+    "home_event": "GOAL by SJU Ryan Ormond, Assist by Adrian Nowak, goal number 22 for season.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:09",
+    "home_event": "Faceoff Adam Dembicki vs AMBUSH, Ty won by SJU, [06:09] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:53",
+    "home_event": "Ground ball pickup by SJU Adrian Nowak.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "Shot by SJU Ryan Ormond WIDE.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "Shot by SJU Mitch Campbell, SAVE LAWAS, Lucas.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:21",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by MU HILTZ, Hayden."
+  },
+  {
+    "quarter": "3",
+    "time": "05:18",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:14",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by MU LAMARCA, David, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "3",
+    "time": "05:11",
+    "home_event": "Ground ball pickup by SJU Brian Kelly.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:07",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:04",
+    "home_event": "Shot by SJU Zander Hauck HIT POST.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "Ground ball pickup by SJU Zander Hauck.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Turnover by SJU.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:40",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by MU BOYLE, Brenden (caused by Dylan Lee)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "Shot by SJU Dylan Lee WIDE.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:04",
+    "home_event": "Ground ball pickup by SJU Dylan Lee.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:49",
+    "home_event": "Turnover by SJU Drew Wasserman.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:37",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:12",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:21",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:06",
+    "home_event": "Shot by SJU Adrian Nowak, SAVE LAWAS, Lucas.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by MU."
+  },
+  {
+    "quarter": "3",
+    "time": "00:57",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Turnover by SJU Danny Koch.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by MU BOWMAN, Andrew."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:23",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:03",
+    "home_event": "Shot by SJU Bobby Seel HIT CROSSBAR.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "Shot by SJU Jayson Cardenas, SAVE LAWAS, Lucas.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:38",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by MU CAPUTO, Matt."
+  },
+  {
+    "quarter": "4",
+    "time": "12:24",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "Shot by SJU Bobby Seel, SAVE LAWAS, Lucas.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:52",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by MU NICHOLAS, Brady."
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by MU BRANDT, Carsen."
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "Ground ball pickup by SJU Zander Hauck.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Turnover by SJU Zander Hauck (caused by WESTPHAL, Beau).",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:27",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by MU BRANDT, Carsen BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by MU O'GRADY, Bobby WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "GOAL by MU BAIR, Jake, Assist by O'GRADY, Bobby, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by MU, [09:41] Ground ball pickup by MU LAMARCA, David."
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by MU O'GRADY, Bobby, SAVE Patrick Scarborough."
+  },
+  {
+    "quarter": "4",
+    "time": "08:40",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:56",
+    "home_event": "Ground ball pickup by SJU Braeden Pratt.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "Turnover by SJU Brian Kelly.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by MU NICHOLAS, Brady."
+  },
+  {
+    "quarter": "4",
+    "time": "07:28",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by MU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:27",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Turnover by MU LAWAS, Lucas."
+  },
+  {
+    "quarter": "4",
+    "time": "07:23",
+    "home_event": "Ground ball pickup by SJU Tyson Meade.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "Shot by SJU Dan Koban WIDE.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:01",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Timeout by MU."
+  },
+  {
+    "quarter": "4",
+    "time": "06:45",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:42",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by MU KILCOYNE, Ryan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:06",
+    "home_event": "Turnover by SJU Bobby Seel (caused by DETWILER, Peter).",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by MU DETWILER, Peter."
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Ground ball pickup by MU NICHOLAS, Brady."
+  },
+  {
+    "quarter": "4",
+    "time": "05:03",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot by MU CAPUTO, Matt HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "05:00",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Shot clock violation by MU."
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:25",
+    "home_event": "Shot by SJU Bobby Seel, SAVE LAWAS, Lucas.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "",
+    "score": "7-10",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "GOAL by MU O'GRADY, Bobby, Assist by BRANDT, Carsen, goal number 20 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU, [03:27] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:08",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "7-11",
+    "away_event": "Penalty on MU BRANDT, Carsen (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "GOAL by SJU Bobby Seel (MAN-UP), Assist by Brian Kelly, goal number 15 for season.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU, [02:38] Ground ball pickup by SJU Danny Koch.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "Timeout by SJU.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:13",
+    "home_event": "Turnover by SJU Ryan Ormond (caused by NICHOLAS, Brady).",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Ground ball pickup by MU CASTILLO, Jadyn."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by MU BRANDT, Carsen, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "Penalty on SJU Dylan Lee (TARGETING HEAD/NECK/1:00) Extra-man opportunity.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:30",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:03",
+    "home_event": "Shot by SJU Dan Koban HIT POST.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Clear attempt by MU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "GOAL by MU BRANDT, Carsen, goal number 18 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "Faceoff Adam Dembicki vs SLAGER, Adam won by SJU, [00:19] Ground ball pickup by SJU Wade Bryan.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Penalty on MU DETWILER, Peter (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "Shot by SJU Adrian Nowak WIDE.",
+    "score": "8-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:00",
+    "home_event": "",
+    "score": "8-13",
+    "away_event": "Ground ball pickup by MU LAWAS, Lucas."
+  }
+]

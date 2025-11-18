@@ -1,0 +1,1647 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Long, John at goalie for HC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "AXMAN, Dylan at goalie for QUMLAX25."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by QUMLAX25, [15:00] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by QUMLAX25 ISIKA, Grant HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by QUMLAX25 JONES, Lawson WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by QUMLAX25 MCDANIEL, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by QUMLAX25."
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "Turnover by HC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:04",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by QUMLAX25 ROYER, Jack (FIRST GOAL), Assist by MCDANIEL, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:04",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [13:04] Ground ball pickup by QUMLAX25 ADAMS, Deacon."
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by QUMLAX25 failed."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by QUMLAX25 AXMAN, Dylan (caused by Franklin, Jaydon)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "Ground ball pickup by HC Franklin, Jaydon.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "Clear attempt by HC good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:41",
+    "home_event": "GOAL by HC Lynch, Jude, goal number 2 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:41",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by QUMLAX25, [11:41] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by QUMLAX25 JONES, Lawson."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by QUMLAX25 ROYER, Jack (caused by Larson, Owen)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "Ground ball pickup by HC Dowling, Jack.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "Clear attempt by HC good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by HC Tunney, Owen.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "GOAL by HC Tunney, Owen, goal number 1 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC (on faceoff violation).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "Shot by HC McDonald, Sam HIT POST.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "Ground ball pickup by HC Lynch, Jude.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "Shot by HC McDonald, Sam, SAVE AXMAN, Dylan.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by QUMLAX25 PETERSEN, Carter WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Foul on HC.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by QUMLAX25 MEYER, Hunter (caused by Rincon, Michael)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "GOAL by HC Duley, Jon-Luke, goal number 2 for season.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Timeout by QUMLAX25."
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Faceoff Ouhrabka, Gavin vs HOEWE, Carson won by HC, [06:48] Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "Shot by HC Lynch, Jude, SAVE AXMAN, Dylan.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by QUMLAX25 failed."
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by QUMLAX25 AXMAN, Dylan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "Ground ball pickup by HC Lynch, Jude.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "GOAL by HC Botek, Ryan, goal number 1 for season.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [04:39] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Shot by QUMLAX25 MILLER, Zach WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "GOAL by QUMLAX25 MILLER, Zach, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by HC, [03:32] Ground ball pickup by HC Ouhrabka, Gavin.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Shot by HC McDonald, Sam WIDE.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "Shot by HC Tunney, Owen WIDE.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Shot by HC Lynch, Jude, SAVE AXMAN, Dylan.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Ground ball pickup by QUMLAX25 BEHNKE, Dylan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by QUMLAX25 JONES, Lawson BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "GOAL by QUMLAX25 MCNAMARA, Braden, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [00:50] Ground ball pickup by HC Jenkins, Julian.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Turnover by HC Messineo, Will (caused by WHITE, Michael).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by QUMLAX25 WHITE, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by QUMLAX25 MCDANIEL, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by QUMLAX25, [15:00] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "2",
+    "time": "13:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by QUMLAX25 MCDANIEL, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by QUMLAX25 MILLER, Zach (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:32",
+    "home_event": "Ground ball pickup by HC Clary, Gavin.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "Clear attempt by HC good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:20",
+    "home_event": "Shot by HC Duley, Jon-Luke, SAVE AXMAN, Dylan.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:17",
+    "home_event": "Ground ball pickup by HC Mitchell, John.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:15",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Shot by HC Sheehan, Henry, SAVE AXMAN, Dylan.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:28",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by QUMLAX25."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "Clear attempt by HC good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:38",
+    "home_event": "Shot by HC McDonald, Sam WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "Turnover by HC Messineo, Will (caused by SCHRECK, Jacob).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:08",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by QUMLAX25 ROYER, Jack WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by QUMLAX25 JONES, Lawson."
+  },
+  {
+    "quarter": "2",
+    "time": "09:38",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by QUMLAX25 PETERSEN, Carter, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:38",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [09:38] Ground ball pickup by HC Attell, Harry.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "GOAL by HC Duley, Jon-Luke, goal number 3 for season.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by QUMLAX25, [08:58] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by QUMLAX25 SCAFFIDI, Ethan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by QUMLAX25 ROYER, Jack HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by QUMLAX25 ROYER, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "07:45",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:38",
+    "home_event": "Shot by HC Bonomo, Michael, SAVE AXMAN, Dylan.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "Shot by HC McDonald, Sam WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:13",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Penalty on QUMLAX25 SCHRECK, Jacob (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "Shot by HC Lynch, Jude, SAVE AXMAN, Dylan.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:34",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by QUMLAX25 MCDANIEL, Ryan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:28",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by QUMLAX25."
+  },
+  {
+    "quarter": "2",
+    "time": "05:27",
+    "home_event": "Clear attempt by HC good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Shot by HC Botek, Ryan WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "Shot by HC Ottomanelli, Andrew, SAVE AXMAN, Dylan.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by QUMLAX25 SCHRECK, Jacob."
+  },
+  {
+    "quarter": "2",
+    "time": "04:15",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "GOAL by QUMLAX25 PETERSEN, Carter, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [04:00] Ground ball pickup by HC Fallon, Cooper.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "GOAL by HC Lynch, Jude, Assist by Mitchell, John, goal number 3 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by HC, [03:10] Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Shot by HC Botek, Ryan, SAVE AXMAN, Dylan.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Turnover by QUMLAX25."
+  },
+  {
+    "quarter": "2",
+    "time": "02:22",
+    "home_event": "Clear attempt by HC good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:28",
+    "home_event": "Timeout by HC.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Turnover by HC Duley, Jon-Luke (caused by ADAMS, Deacon).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by QUMLAX25 ADAMS, Deacon."
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:46",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Timeout by QUMLAX25."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "Penalty on HC Jenkins, Julian (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by QUMLAX25 ALMY, Jack (MAN-UP), Assist by ROYER, Jack, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:40",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [14:40] Ground ball pickup by HC Reding, Baker.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:26",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "Turnover by HC Lynch, Jude (caused by SCHRECK, Jacob).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:03",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Ground ball pickup by QUMLAX25 SCHRECK, Jacob."
+  },
+  {
+    "quarter": "3",
+    "time": "13:01",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by QUMLAX25 MILLER, Zach (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:26",
+    "home_event": "Ground ball pickup by HC Shoemaker, Luke.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:25",
+    "home_event": "Clear attempt by HC good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "Shot by HC Duley, Jon-Luke WIDE.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:26",
+    "home_event": "GOAL by HC Ottomanelli, Andrew, goal number 3 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:26",
+    "home_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by HC (on faceoff violation).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:01",
+    "home_event": "Turnover by HC Webster, Bo (caused by SCHRECK, Jacob).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by QUMLAX25 STANKAVAGE, Brooks."
+  },
+  {
+    "quarter": "3",
+    "time": "10:54",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by QUMLAX25 ROYER, Jack, SAVE Long, John."
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Clear attempt by HC good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "Shot by HC Duley, Jon-Luke WIDE.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "GOAL by HC Bonomo, Michael, Assist by Webster, Bo, goal number 1 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Timeout by QUMLAX25."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "Faceoff Attell, Harry vs HOEWE, Carson won by HC, [09:46] Ground ball pickup by HC Attell, Harry.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "Turnover by HC Attell, Harry.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by QUMLAX25 ROYER, Jack WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:09",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by QUMLAX25 PETERSEN, Carter."
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by QUMLAX25 ROYER, Jack, Assist by BEHNKE, Dylan, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by HC, [08:17] Ground ball pickup by HC Fallon, Cooper.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:05",
+    "home_event": "Turnover by HC Fallon, Cooper (caused by SCHRECK, Jacob).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:59",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Turnover by QUMLAX25 PETERSEN, Carter (caused by Shoemaker, Luke)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "Ground ball pickup by HC Shoemaker, Luke.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "Clear attempt by HC good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "GOAL by HC McDonald, Sam, Assist by Mitchell, John, goal number 1 for season.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:21",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [07:21] Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "Shot by HC Carbonell, Matthew BLOCKED.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by HC Carbonell, Matthew.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:01",
+    "home_event": "Shot by HC Jenkins, Julian BLOCKED.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "GOAL by HC Duley, Jon-Luke, goal number 4 for season.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Penalty on QUMLAX25 LEMIEUX, Alex (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "Faceoff Ouhrabka, Gavin vs ISIKA, Grant won by HC, [06:16] Ground ball pickup by HC Fallon, Cooper.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Foul on QUMLAX25."
+  },
+  {
+    "quarter": "3",
+    "time": "05:43",
+    "home_event": "Turnover by HC Mitchell, John (caused by SCHRECK, Jacob).",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:39",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by QUMLAX25 THOMPSON, Hayden."
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:05",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "GOAL by QUMLAX25 PETERSEN, Carter, Assist by MCDANIEL, Ryan, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:05",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [05:05] Ground ball pickup by HC Attell, Harry.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:55",
+    "home_event": "Clear attempt by HC good.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "Shot by HC Tunney, Owen, SAVE AXMAN, Dylan.",
+    "score": "10-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Ground ball pickup by QUMLAX25 AXMAN, Dylan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:06",
+    "home_event": "",
+    "score": "10-8",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:31",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "GOAL by QUMLAX25 BEHNKE, Dylan, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:31",
+    "home_event": "Penalty on HC Shoemaker, Luke (SLASHING/1:00) Extra-man opportunity.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:31",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [03:31] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "3",
+    "time": "03:21",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Turnover by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "Clear attempt by HC good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "Shot by HC Botek, Ryan, SAVE AXMAN, Dylan.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Ground ball pickup by QUMLAX25 ADAMS, Deacon."
+  },
+  {
+    "quarter": "3",
+    "time": "01:59",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Penalty on QUMLAX25 STROTHER, Sam (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "GOAL by HC Lynch, Jude (MAN-UP), Assist by Ottomanelli, Andrew, goal number 4 for season.",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC (on faceoff violation).",
+    "score": "11-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:22",
+    "home_event": "GOAL by HC Lynch, Jude, goal number 5 for season.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:22",
+    "home_event": "Faceoff Attell, Harry vs HOEWE, Carson won by HC.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Foul on QUMLAX25."
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "Clear attempt by HC good.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:17",
+    "home_event": "Turnover by HC Sheehan, Henry (caused by HOEWE, Carson).",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Ground ball pickup by QUMLAX25 WHITE, Michael."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [15:00] Ground ball pickup by HC Attell, Harry.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:27",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "12-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "GOAL by HC McDonald, Sam, goal number 2 for season.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [14:05] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "4",
+    "time": "13:56",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by QUMLAX25 ISIKA, Grant WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:23",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Turnover by QUMLAX25 JONES, Lawson (caused by Jenkins, Julian)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:19",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:30",
+    "home_event": "Shot by HC Ottomanelli, Andrew WIDE.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Turnover by HC Botek, Ryan (caused by THOMPSON, Hayden).",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:07",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Shot by QUMLAX25 MCNAMARA, Braden WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Turnover by QUMLAX25."
+  },
+  {
+    "quarter": "4",
+    "time": "10:58",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "Shot by HC Messineo, Will HIGH.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:46",
+    "home_event": "Shot by HC Russler, William WIDE.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Turnover by HC.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:36",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Turnover by QUMLAX25 MCDANIEL, Ryan (caused by Carbonell, Matthew)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "Ground ball pickup by HC Jenkins, Julian.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Shot by HC Botek, Ryan, SAVE AXMAN, Dylan.",
+    "score": "13-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "",
+    "score": "13-9",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "GOAL by QUMLAX25 ROYER, Jack, Assist by SCAFFIDI, Ethan, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [07:43] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by QUMLAX25 ROYER, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:13",
+    "home_event": "Shot by HC Messineo, Will WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:01",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "Shot by HC Mitchell, John WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by QUMLAX25 failed."
+  },
+  {
+    "quarter": "4",
+    "time": "05:42",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by QUMLAX25 MCDANIEL, Ryan (caused by Messineo, Will)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "Shot by HC Messineo, Will WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Shot by HC Botek, Ryan WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Shot by QUMLAX25 BACHELOR, Tanner WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by QUMLAX25 MCNAMARA, Braden (caused by Carbonell, Matthew)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "Shot by HC Lynch, Jude WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:52",
+    "home_event": "Turnover by HC Mitchell, John.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Ground ball pickup by QUMLAX25 SCHRECK, Jacob."
+  },
+  {
+    "quarter": "4",
+    "time": "02:47",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:31",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "GOAL by QUMLAX25 STANKAVAGE, Brooks, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:31",
+    "home_event": "",
+    "score": "13-11",
+    "away_event": "Faceoff Attell, Harry vs ISIKA, Grant won by QUMLAX25, [02:31] Ground ball pickup by QUMLAX25 ISIKA, Grant."
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "GOAL by QUMLAX25 BEHNKE, Dylan, Assist by SCAFFIDI, Ethan, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "Faceoff Attell, Harry vs ISIKA, Grant won by HC, [01:46] Ground ball pickup by HC Attell, Harry.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "Clear attempt by HC good.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:22",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Penalty on QUMLAX25 BACHELOR, Tanner (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Turnover by HC Carbonell, Matthew (caused by ADAMS, Deacon).",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "Timeout by HC.",
+    "score": "13-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Clear attempt by QUMLAX25 good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "13-12",
+    "away_event": "Turnover by QUMLAX25."
+  }
+]

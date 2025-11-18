@@ -1,0 +1,46 @@
+{
+	"max_workers": 2,
+	"date_ranges": {
+		"start_date": "02/01/2025",
+		"end_date": "05/26/2025"
+	},
+	"rate_limiting": {
+		"base_delay": 0.625,
+		"random_jitter": [0.125, 0.375],
+		"burst_protection": true,
+		"business_hours_slowdown": false,
+		"business_hours": {
+			"start": 9,
+			"end": 17,
+			"timezone": "US/Eastern",
+			"slowdown_multiplier": 1.5
+		},
+		"daily_limit": 4000,
+		"requests_per_minute": 60
+	},
+	"retry_strategy": {
+		"max_attempts": 3,
+		"base_delay": 5.0,
+		"429_backoff_start": 30,
+		"429_backoff_multiplier": 2,
+		"5xx_backoff_start": 10,
+		"connection_error_delay": 15,
+		"max_backoff": 300
+	},
+	"scraping": {
+		"timeout_seconds": 60,
+		"user_agents": [
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+			"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+			"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+			"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+			"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0"
+		]
+	},
+	"logging": {
+		"level": "INFO",
+		"log_file": "lacrosse_scraper.log"
+	},
+	"supabase_url": "https://your-project.supabase.co",
+	"supabase_key": "your-anon-key-here"
+}

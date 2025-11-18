@@ -1,0 +1,1556 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "OVEREND, Zack at goalie for HPUM25.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "MOORE, Anderson at goalie for GU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [15:00] Ground ball pickup by GU VAN BUREN, Wilson."
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by GU MILLER, Kevin, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "GOAL by HPUM25 WIXTED, Justin (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [12:50] Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "Shot by HPUM25 WIXTED, Justin, SAVE MOORE, Anderson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen, Assist by COOKE, Colin.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:28",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by GU CROGAN, Patrick BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by GU CROGAN, Patrick, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by GU BAYMAN, Fulton, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE MOORE, Anderson.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "GOAL by GU CARROLL, Aidan, Assist by BAYMAN, Fulton, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff MOORE, Scott vs VAN BUREN, Wilson won by GU, [09:31] Ground ball pickup by GU ERB, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by GU BAYMAN, Fulton, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "Shot by HPUM25 WIXTED, Justin HIT POST.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by GU PLATH, Robert."
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by GU MILLER, Kevin, Assist by WRAY, Jordan, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [07:25] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "Ground ball pickup by HPUM25 STULL, Asher.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin (caused by PLATH, Robert).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by GU CARROLL, Aidan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by GU BAYMAN, Fulton."
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by GU MARSHALL, Pax HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "Penalty on HPUM25 ADAMS, John (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by GU CAGGIANO, Cade."
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "Ground ball pickup by HPUM25 MEEHAN, Tommy.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:58",
+    "home_event": "Turnover by HPUM25 MEEHAN, Tommy (caused by PLATH, Robert).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:58",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by GU LELAND, Jack, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Ground ball pickup by HPUM25 ADAMS, John.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "Turnover by HPUM25 CANN, Ian (caused by PLATH, Robert).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by GU PLATH, Robert."
+  },
+  {
+    "quarter": "1",
+    "time": "02:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by GU ERB, Jack WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by GU WRAY, Jordan BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "Ground ball pickup by HPUM25 MOORE, Scott.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "Ground ball pickup by HPUM25 COOKE, Colin.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "Shot by HPUM25 MEEHAN, Tommy WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "Shot clock violation by HPUM25.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by GU MOORE, Anderson (caused by ROBINS, Carson)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "Ground ball pickup by HPUM25 ROBINS, Carson.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "GOAL by HPUM25 ROBINS, Carson.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [00:11] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "Shot by HPUM25 WEITZMAN, Josh, SAVE MOORE, Anderson.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [15:00] Ground ball pickup by GU VAN BUREN, Wilson."
+  },
+  {
+    "quarter": "2",
+    "time": "14:26",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by GU BAYMAN, Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "13:45",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by GU WRAY, Jordan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by GU CARROLL, Aidan, Assist by WRAY, Jordan, goal number 17 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [13:39] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:16",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE MOORE, Anderson.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:16",
+    "home_event": "Turnover by HPUM25 BUNTEN, Owen.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:16",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by GU CARROLL, Aidan."
+  },
+  {
+    "quarter": "2",
+    "time": "11:50",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by GU MARSHALL, Pax, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "11:46",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by GU LELAND, Jack."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by GU CARROLL, Aidan, Assist by GOLDBERG, Kade, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [11:16] Ground ball pickup by GU ACTON, George."
+  },
+  {
+    "quarter": "2",
+    "time": "11:00",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by GU ACTON, George (caused by OVEREND, Zack)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Shot by HPUM25 HYNES, Ryan WIDE.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [09:44] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:37",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE MOORE, Anderson.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "Turnover by HPUM25 BUNTEN, Owen.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:27",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by GU WRAY, Jordan (caused by BRENFLECK, Zack)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Zack.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "Turnover by HPUM25 LUTZEL, Matt (caused by HAUS, Michael).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:22",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by GU MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by GU ERB, Jack (caused by STEPHENS, Caio)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:07",
+    "home_event": "Ground ball pickup by HPUM25 STEPHENS, Caio.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "Turnover by HPUM25 CANN, Ian (caused by HAUS, Michael).",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by GU MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:06",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by GU MILLER, Kevin."
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Timeout by GU."
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by GU MARSHALL, Pax, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "04:47",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Zack.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:46",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by GU BAYMAN, Fulton WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by GU CARROLL, Aidan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:14",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by GU FIRLIE, Ben HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "03:01",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by GU MARSHALL, Pax."
+  },
+  {
+    "quarter": "2",
+    "time": "02:53",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot clock violation by GU."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "GOAL by HPUM25 COOKE, Colin, Assist by ROVERE, Collin.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [01:56] Ground ball pickup by HPUM25 CANN, Ian.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:41",
+    "home_event": "Shot by HPUM25 HYNES, Ryan, SAVE MOORE, Anderson.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen, Assist by WIXTED, Justin.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [00:13] Ground ball pickup by HPUM25 STEPHENS, Caio.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU."
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by GU BAYMAN, Fulton, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25 (on faceoff violation).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "Turnover by HPUM25 COOKE, Colin (caused by FOLEY, Seamus).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by GU BANKS, Ty."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by GU BANKS, Ty, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:31",
+    "home_event": "Faceoff ACCARDO, Luca vs RILEY, Matthew won by HPUM25, [13:31] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:24",
+    "home_event": "GOAL by HPUM25 ACCARDO, Luca.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:24",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [13:24] Ground ball pickup by GU VAN BUREN, Wilson."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by GU CESARE, Joe, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Ground ball pickup by HPUM25 BRENFLECK, Zack.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Turnover by HPUM25 ADAMS, John (caused by BAYMAN, Fulton).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by GU MILLER, Kevin."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:46",
+    "home_event": "Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin (caused by CESARE, Joe).",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:01",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by GU BANKS, Ty."
+  },
+  {
+    "quarter": "3",
+    "time": "10:57",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by GU BANKS, Ty, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Ground ball pickup by HPUM25 HYNES, Ryan.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "GOAL by HPUM25 HYNES, Ryan.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU."
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by GU MILLER, Kevin, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25 (on faceoff violation).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:33",
+    "home_event": "Ground ball pickup by HPUM25 COOKE, Colin.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:55",
+    "home_event": "Turnover by HPUM25 MEEHAN, Tommy (caused by VRANIZAN, Joe).",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by GU VRANIZAN, Joe."
+  },
+  {
+    "quarter": "3",
+    "time": "08:47",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by GU CESARE, Joe, Assist by CAGGIANO, Cade, goal number 10 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Faceoff ACCARDO, Luca vs RILEY, Matthew won by HPUM25, [08:02] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:12",
+    "home_event": "Ground ball pickup by HPUM25 BUNTEN, Owen.",
+    "score": "8-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "GOAL by HPUM25 BUNTEN, Owen, Assist by WIXTED, Justin.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [06:38] Ground ball pickup by HPUM25 ROBINS, Carson.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:17",
+    "home_event": "Turnover by HPUM25 ROBINS, Carson (caused by MOORE, Anderson).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:14",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by GU MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by GU RANSOM, Jack, Assist by CARROLL, Aidan, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [05:40] Ground ball pickup by HPUM25 BUNTEN, Owen.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:15",
+    "home_event": "Turnover by HPUM25 BUNTEN, Owen (caused by FOLEY, Seamus).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:08",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by GU PLATH, Robert."
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by GU BAYMAN, Fulton, Assist by MARSHALL, Pax, goal number 13 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff ACCARDO, Luca vs RILEY, Matthew won by GU."
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by GU RANSOM, Jack, Assist by BANKS, Ty, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "Timeout by HPUM25.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:26",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [04:26] Ground ball pickup by GU VAN BUREN, Wilson."
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Shot by GU MARSHALL, Pax, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:38",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "GOAL by HPUM25 ROVERE, Collin, Assist by COOKE, Colin.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:44",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [02:44] Ground ball pickup by HPUM25 ACCARDO, Luca.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:28",
+    "home_event": "Turnover by HPUM25 ACCARDO, Luca.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:13",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by GU WRAY, Jordan, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "02:11",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:19",
+    "home_event": "Turnover by HPUM25 HYNES, Ryan (caused by PLATH, Robert).",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:08",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Ground ball pickup by GU VRANIZAN, Joe."
+  },
+  {
+    "quarter": "3",
+    "time": "01:05",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by GU CAGGIANO, Cade WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by GU MILLER, Kevin, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by HPUM25 OVEREND, Zack.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:39",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Turnover by GU MARSHALL, Pax (caused by STEPHENS, Caio)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:35",
+    "home_event": "Ground ball pickup by HPUM25 ADAMS, John.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "Turnover by HPUM25 WIXTED, Justin.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "GOAL by GU VRANIZAN, Joe, Assist by CESARE, Joe, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:33",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Faceoff MOORE, Scott vs VAN BUREN, Wilson won by GU, [13:33] Ground ball pickup by GU VAN BUREN, Wilson."
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by GU LELAND, Jack, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Clear attempt by HPUM25 good.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "Shot clock violation by HPUM25.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:38",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by GU CARROLL, Aidan, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "GOAL by GU BAYMAN, Fulton, Assist by MILLER, Kevin, goal number 14 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen WIDE.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "Shot by HPUM25 ROVERE, Collin WIDE.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by GU MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "08:46",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:28",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "GOAL by GU CESARE, Joe, Assist by GOLDBERG, Kade, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:28",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU, [07:28] Ground ball pickup by GU MCGURRIN, Charlie."
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "GOAL by GU MARSHALL, Pax, Assist by MILLER, Kevin, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "Timeout by HPUM25.",
+    "score": "10-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:46",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by GU."
+  },
+  {
+    "quarter": "4",
+    "time": "06:16",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Ground ball pickup by GU BANKS, Ty."
+  },
+  {
+    "quarter": "4",
+    "time": "06:09",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Shot by GU RANSOM, Jack, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "GOAL by GU RANSOM, Jack, Assist by BAYMAN, Fulton, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25, [05:34] Ground ball pickup by HPUM25 WEITZMAN, Josh.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:42",
+    "home_event": "Shot by HPUM25 MEEHAN, Tommy HIGH.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:26",
+    "home_event": "Shot by HPUM25 MEEHAN, Tommy WIDE.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:24",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Ground ball pickup by GU MOORE, Anderson."
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Turnover by GU HAUS, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:54",
+    "home_event": "Turnover by HPUM25 ADAMS, John (caused by HAUS, Michael).",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Ground ball pickup by GU HAUS, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "03:24",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Shot by GU RANSOM, Jack, SAVE OVEREND, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "03:23",
+    "home_event": "Clear attempt by HPUM25 failed.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "Turnover by HPUM25 BRENFLECK, Zack (caused by MARSHALL, Pax).",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:07",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Ground ball pickup by GU MARSHALL, Pax."
+  },
+  {
+    "quarter": "4",
+    "time": "02:15",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Ground ball pickup by GU CARROLL, Aidan."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "10-17",
+    "away_event": "GOAL by GU MILLER, Kevin, Assist by CARROLL, Aidan, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "10-17",
+    "away_event": "SCHARFENBERGER, M. at goalie for GU."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "Faceoff ACCARDO, Luca vs VAN BUREN, Wilson won by HPUM25.",
+    "score": "10-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:09",
+    "home_event": "Shot by HPUM25 ROVERE, Collin, SAVE SCHARFENBERGER, M..",
+    "score": "10-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE SCHARFENBERGER, M..",
+    "score": "10-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Ground ball pickup by HPUM25 WIXTED, Justin.",
+    "score": "10-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "Shot by HPUM25 BUNTEN, Owen, SAVE SCHARFENBERGER, M..",
+    "score": "10-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "",
+    "score": "10-17",
+    "away_event": "Clear attempt by GU good."
+  }
+]

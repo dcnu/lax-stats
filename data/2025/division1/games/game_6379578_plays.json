@@ -1,0 +1,1745 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Mason Oak at goalie for QUINNIPI.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Alex Pazienza at goalie for SHU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Frank Mousa vs Luke Romanek won by QUINNIPI, [15:00] Ground ball pickup by QUINNIPI Frank Mousa.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:49",
+    "home_event": "Shot by QUINNIPI Frank Mousa HIGH",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "Shot by QUINNIPI Ryan Downing WIDE",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:33",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SHU Michael Amoruso."
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by SHU John Murray WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by SHU Jake Ward."
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "Ground ball pickup by QUINNIPI Nick Meoni.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "Timeout by QUINNIPI.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "Shot by QUINNIPI Justin Robbert, SAVE Alex Pazienza",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SHU Luke Catolico."
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by SHU Will Moulton (FIRST GOAL), Assist by Garrett Mangels."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [12:49] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by SHU Cayden Brodnax, Assist by Jake Ward."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [12:32] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by SHU Cayden Brodnax WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by SHU James Moran WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "GOAL by QUINNIPI Nate Watson, Assist by Glenn Platania.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [11:25] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by SHU John Murray (caused by Ryan Downing)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by SHU Luke Romanek, SAVE Mason Oak"
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Ground ball pickup by QUINNIPI Ryan Downing.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "Shot by QUINNIPI Owen Murray WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "Shot by QUINNIPI Luke Hendricks, SAVE Alex Pazienza",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by SHU Mason Mac."
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by SHU Tim Kiely WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by SHU Michael Moreschi (caused by Nick Meoni)."
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "Ground ball pickup by QUINNIPI Nick Meoni.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "Shot by QUINNIPI Trevor Douglas WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "Shot by QUINNIPI Ryan Goodman WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "Shot by QUINNIPI Nate Watson WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "30-second clock violation by QUINNIPI.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by SHU Cayden Brodnax, Assist by Will Moulton."
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [07:30] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by SHU John Murray WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by SHU Ryan Rooney, Assist by Tim Kiely."
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [06:23] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by SHU Cayden Brodnax WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "Penalty on QUINNIPI Nick Meoni (HOLDING/0:30) Extra-man opportunity.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by SHU Ryan Rooney (MAN-UP), Assist by Jake Ward."
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [05:09] Ground ball pickup by SHU Luke Catolico."
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU John Murray WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "Penalty on QUINNIPI Luca Cutolo (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by SHU Jake Ward."
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "Ground ball pickup by QUINNIPI Mason Oak.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Nick Meoni (caused by Michael Amoruso).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by SHU Alex Pazienza."
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU Dom Basti WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU James Moran, SAVE Mason Oak"
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Ryan Downing.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by SHU Finn Hoey."
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU Ryan Rooney, SAVE Mason Oak"
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "Clear attempt by QUINNIPI failed.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Joe Konesco (caused by Finn Hoey).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by SHU Finn Hoey."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU Michael Moreschi WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by SHU Jake Ward, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI, [15:00] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Justin Robbert (caused by Jack Ramsay).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:02",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by SHU Jack Ramsay."
+  },
+  {
+    "quarter": "2",
+    "time": "14:00",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by SHU John Murray, Assist by Michael Moreschi."
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI (on faceoff violation).",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Nate Watson.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by SHU Will Moulton, Assist by Cayden Brodnax."
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [11:59] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Turnover by SHU Michael Moreschi (caused by Nick Meoni)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "Ground ball pickup by QUINNIPI Nate Watson.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "GOAL by QUINNIPI Glenn Platania, Assist by Justin Robbert.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI, [11:21] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "GOAL by QUINNIPI Nate Watson, Assist by Ethan McGerald.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:56",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI, [10:56] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Trevor Douglas.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:06",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by SHU Dom Basti, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "Ground ball pickup by QUINNIPI Mason Oak.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "GOAL by QUINNIPI Nate Watson, Assist by Aiden Whitehouse.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [08:46] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Timeout by SHU."
+  },
+  {
+    "quarter": "2",
+    "time": "07:48",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by SHU Will Moulton HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by SHU Michael Moreschi HIT POST"
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Ground ball pickup by QUINNIPI Tommy Andruzzi.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:24",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:44",
+    "home_event": "Shot by QUINNIPI Trevor Douglas, SAVE Alex Pazienza",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:41",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by SHU Alex Pazienza."
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by SHU Will Moulton, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "06:07",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "Shot by QUINNIPI Nate Watson WIDE",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Penalty on SHU Max Manware (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "Shot by QUINNIPI Ryan Goodman, SAVE Alex Pazienza",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:35",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by SHU Jake Ward, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by SHU John Murray."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by SHU Michael Moreschi, Assist by Matt Pepe."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI, [02:36] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Max Pauwels.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by SHU Cayden Brodnax."
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by SHU Cayden Brodnax, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "Timeout by QUINNIPI.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Trevor Douglas (caused by Garrett Mangels).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:06",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by SHU Michael Amoruso."
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by SHU Garrett Mangels, Assist by Matt Pepe."
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [01:01] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Timeout by SHU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:22",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by SHU Matt Pepe, Assist by Ryan Rooney."
+  },
+  {
+    "quarter": "2",
+    "time": "00:22",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [00:22] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by SHU Luke Romanek, SAVE Mason Oak"
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Ryan Goodman.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by SHU Jack Ramsay."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [15:00] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by SHU John Murray, SAVE Mason Oak"
+  },
+  {
+    "quarter": "3",
+    "time": "14:07",
+    "home_event": "Ground ball pickup by QUINNIPI Joe Konesco.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:05",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:57",
+    "home_event": "Shot by QUINNIPI Ryan Downing, SAVE Alex Pazienza",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "Ground ball pickup by QUINNIPI Nick Meoni.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:51",
+    "home_event": "Shot by QUINNIPI Nick Meoni WIDE",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Cole Marsala.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:10",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by SHU Garrett Mangels."
+  },
+  {
+    "quarter": "3",
+    "time": "13:06",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by SHU Jake Ward, SAVE Mason Oak"
+  },
+  {
+    "quarter": "3",
+    "time": "13:01",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:20",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by SHU Jake Ward, SAVE Mason Oak"
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "Ground ball pickup by QUINNIPI Tommy Andruzzi.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:07",
+    "home_event": "Shot by QUINNIPI Luca Cutolo WIDE",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "Shot by QUINNIPI Owen Murray, SAVE Alex Pazienza",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "GOAL by SHU Ryan Rooney, Assist by Dom Basti."
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "Penalty on QUINNIPI Joe Konesco (SLASHING/1:00) Extra-man opportunity.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [11:19] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Turnover by SHU Ryan Rooney (caused by Nick Meoni)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "Ground ball pickup by QUINNIPI Nick Meoni.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:24",
+    "home_event": "Shot by QUINNIPI Nik Butler, SAVE Alex Pazienza",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Shot by SHU Tim Kiely WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Shot by SHU Tim Kiely, SAVE Mason Oak"
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Ground ball pickup by SHU Tim Kiely."
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "GOAL by SHU Tim Kiely."
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [09:31] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by SHU Cayden Brodnax WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "08:46",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by SHU James Moran, SAVE Mason Oak"
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Aiden Whitehouse.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by SHU Jack Ramsay."
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by SHU John Murray (caused by Glenn Platania)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:27",
+    "home_event": "Ground ball pickup by QUINNIPI Joe Konesco.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:38",
+    "home_event": "Shot by QUINNIPI Trevor Douglas, SAVE Alex Pazienza",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:37",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Penalty on SHU Michael Moreschi (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "Shot by QUINNIPI Owen Murray, SAVE Alex Pazienza",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:59",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "30-second clock violation by SHU."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Justin Robbert.",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:20",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by SHU Garrett Mangels."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:11",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by SHU Michael Amoruso WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by SHU James Moran."
+  },
+  {
+    "quarter": "3",
+    "time": "03:10",
+    "home_event": "Shot by QUINNIPI Nate Watson WIDE",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:57",
+    "home_event": "Shot by QUINNIPI Johnny Karafa WIDE",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "GOAL by QUINNIPI Johnny Karafa, Assist by Nate Watson.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [02:42] Ground ball pickup by SHU Team."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by SHU Jake Ward, Assist by Michael Moreschi."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [02:03] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by SHU Cayden Brodnax, Assist by Will Moulton."
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [01:21] Ground ball pickup by SHU Brody Reedy."
+  },
+  {
+    "quarter": "3",
+    "time": "01:01",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by SHU James Moran, Assist by Michael Moreschi."
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "Faceoff Max Pauwels vs MP Thomas won by QUINNIPI, [00:16] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "GOAL by QUINNIPI Nick Meoni, Assist by Max Pauwels.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "Faceoff Max Pauwels vs MP Thomas won by QUINNIPI, [00:07] Ground ball pickup by QUINNIPI Max Pauwels.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Max Pauwels vs Luke Romanek won by QUINNIPI (on faceoff violation).",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:22",
+    "home_event": "Shot by QUINNIPI Aiden Whitehouse HIGH",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:12",
+    "home_event": "Shot by QUINNIPI Aiden Whitehouse, SAVE Alex Pazienza",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "",
+    "score": "6-15",
+    "away_event": "Shot by SHU Max Manware, SAVE Mason Oak"
+  },
+  {
+    "quarter": "4",
+    "time": "13:56",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "Shot by QUINNIPI Trevor Douglas WIDE",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:25",
+    "home_event": "Shot by QUINNIPI Nate Watson BLOCKED",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:47",
+    "home_event": "Shot by QUINNIPI Trevor Douglas BLOCKED",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:33",
+    "home_event": "Shot by QUINNIPI Ethan McGerald WIDE",
+    "score": "6-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "GOAL by QUINNIPI Drew Bradley, Assist by Nate Watson.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:07",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Faceoff Max Pauwels vs MP Thomas won by SHU, [12:07] Ground ball pickup by SHU MP Thomas."
+  },
+  {
+    "quarter": "4",
+    "time": "10:43",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "30-second clock violation by SHU."
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by QUINNIPI Owen Murray (caused by Finn Hoey).",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Ground ball pickup by SHU Michael Amoruso."
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Shot by SHU Dom Basti WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "09:01",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "Shot by SHU John Murray WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "",
+    "score": "7-16",
+    "away_event": "GOAL by SHU John Murray, Assist by Michael Moreschi."
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "",
+    "score": "7-16",
+    "away_event": "Faceoff Max Pauwels vs Luke Romanek won by SHU, [08:52] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "7-16",
+    "away_event": "Turnover by SHU James Moran."
+  },
+  {
+    "quarter": "4",
+    "time": "08:00",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "7-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "GOAL by QUINNIPI Trevor Douglas, Assist by Justin Robbert.",
+    "score": "8-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "Faceoff Frank Mousa vs Luke Romanek won by SHU, [07:44] Ground ball pickup by SHU Luke Romanek."
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:08",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "GOAL by SHU Michael Moreschi."
+  },
+  {
+    "quarter": "4",
+    "time": "07:08",
+    "home_event": "Faceoff Frank Mousa vs Luke Romanek won by QUINNIPI, [07:08] Ground ball pickup by QUINNIPI Ryan Downing.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:38",
+    "home_event": "Shot by QUINNIPI Trevor Douglas WIDE",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:11",
+    "home_event": "GOAL by QUINNIPI Johnny Karafa, Assist by Trevor Douglas.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:11",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Faceoff Frank Mousa vs MP Thomas won by SHU, [06:11] Ground ball pickup by SHU Connor Garrison."
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Ground ball pickup by SHU MP Thomas."
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Timeout by SHU."
+  },
+  {
+    "quarter": "4",
+    "time": "05:54",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Craig Daria at goalie for SHU."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by SHU Jake Ward WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Shot by SHU Carson Reeder WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-17",
+    "away_event": "Turnover by SHU Jake Ward."
+  },
+  {
+    "quarter": "4",
+    "time": "04:32",
+    "home_event": "Clear attempt by QUINNIPI failed.",
+    "score": "9-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "GOAL by SHU Declan Wilkie."
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "Penalty on QUINNIPI Ryan Downing (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:22",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by SHU Cayden Brodnax, SAVE Mason Oak"
+  },
+  {
+    "quarter": "4",
+    "time": "03:18",
+    "home_event": "Ground ball pickup by QUINNIPI Tommy Andruzzi.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "Shot by QUINNIPI Tj Coffey BLOCKED",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:57",
+    "home_event": "Ground ball pickup by QUINNIPI Justin Robbert.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "GOAL by QUINNIPI Nick Meoni (MAN-DOWN).",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "Faceoff Frank Mousa vs MP Thomas won by QUINNIPI, [02:50] Ground ball pickup by QUINNIPI Frank Mousa.",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "Shot by QUINNIPI Frank Mousa HIGH",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:06",
+    "home_event": "Shot by QUINNIPI Nate Watson, SAVE Craig Daria",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:01",
+    "home_event": "",
+    "score": "10-18",
+    "away_event": "Clear attempt by SHU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:52",
+    "home_event": "",
+    "score": "10-18",
+    "away_event": "Ground ball pickup by SHU Carson Reeder."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "",
+    "score": "10-18",
+    "away_event": "Shot by SHU Carson Reeder BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "00:45",
+    "home_event": "Ground ball pickup by QUINNIPI Kevin Fiola.",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Clear attempt by QUINNIPI good.",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "GOAL by QUINNIPI Justin Robbert, Assist by Nate Watson.",
+    "score": "11-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:43",
+    "home_event": "",
+    "score": "11-18",
+    "away_event": "Faceoff Frank Mousa vs MP Thomas won by SHU, [00:43] Ground ball pickup by SHU MP Thomas."
+  }
+]

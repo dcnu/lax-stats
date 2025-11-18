@@ -1,0 +1,1773 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Matt Nelson at goalie for SJU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "ELLINGTON, Kevin at goalie for DEL."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Adam Dembicki vs PREMTAJ, Logan won by SJU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "Shot by SJU Ryan Ormond WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Penalty on DEL SHIELDS, Jackson (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "GOAL by SJU Dan Koban (FIRST GOAL) (MAN-UP), Assist by Brian Kelly, goal number 2 for season.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by DEL KOLBE, Jack, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "Faceoff Ethan Wiegand vs PREMTAJ, Logan won by SJU.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "Shot by SJU Brian Kelly HIGH.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:43",
+    "home_event": "Turnover by SJU.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "Penalty on SJU Adrian Nowak (ILLEGAL PROCEDURE/0:30) Extra-man opportunity.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by DEL POWERS, Brendan (caused by Edgar Ford)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "Ground ball pickup by SJU Edgar Ford.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "GOAL by SJU Ryan Ormond, Assist by Adrian Nowak, goal number 7 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [10:59] Ground ball pickup by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DEL KOLAR, Jason WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "10:05",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DEL CAPRI, Cory WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by DEL PARMER, Bennett BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "Ground ball pickup by SJU Zander Hauck.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "GOAL by SJU Ryan Ormond, Assist by Adrian Nowak, goal number 8 for season.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by SJU (on faceoff violation).",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "Shot by SJU Adrian Nowak, SAVE ELLINGTON, Kevin.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by DEL COWEN, Nick (caused by Dylan Lee)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "Ground ball pickup by SJU Dylan Lee.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "Turnover by SJU Dylan Lee.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by DEL POWERS, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:31",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Turnover by DEL OWINGS, Tyler (caused by Dylan Lee)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "Ground ball pickup by SJU Quinn Falasca.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "Shot by SJU Danny Koch HIT POST.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "Ground ball pickup by SJU Ryan Ormond.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "Shot by SJU Ryan Ormond WIDE.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "GOAL by SJU Bobby Seel, goal number 2 for season.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "Faceoff Adam Dembicki vs PREMTAJ, Logan won by SJU, [05:43] Ground ball pickup by SJU Dylan Lee.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "Turnover by SJU Dylan Lee.",
+    "score": "4-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "4-1",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "Faceoff Adam Dembicki vs PREMTAJ, Logan won by SJU (on faceoff violation).",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "Shot by SJU James Easton HIGH.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "GOAL by SJU Brian Kelly, goal number 2 for season.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by DEL KOLBE, Jack, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "Ground ball pickup by SJU Braeden Pratt.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Penalty on DEL POWELL, Liam (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Turnover by SJU Brian Kelly (caused by BODONYI, Aiden).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by DEL BODONYI, Aiden."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by DEL PARMER, Bennett."
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by DEL PARMER, Bennett, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "Ground ball pickup by SJU Cam Konradi.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "Shot by SJU Bobby Seel HIGH.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "Turnover by SJU Brian Kelly (caused by MARSELL, Rowan).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "14:50",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Turnover by DEL SHIELDS, Jackson."
+  },
+  {
+    "quarter": "2",
+    "time": "14:30",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:03",
+    "home_event": "Turnover by SJU Bobby Seel (caused by SHIELDS, Jackson).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "2",
+    "time": "13:43",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Turnover by DEL GILLIN, Patrick."
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "Turnover by SJU Bobby Seel (caused by GILLIN, Patrick).",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:07",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Ground ball pickup by DEL FURGESON, Nathan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:04",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:02",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Turnover by DEL FURGESON, Nathan (caused by Harry Noel)."
+  },
+  {
+    "quarter": "2",
+    "time": "12:58",
+    "home_event": "Ground ball pickup by SJU Harry Noel.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "Shot by SJU Adrian Nowak WIDE.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:17",
+    "home_event": "Ground ball pickup by SJU Brian Kelly.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:50",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "Shot clock violation by SJU.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "Timeout by SJU.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:18",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by DEL KOLAR, Jason, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:18",
+    "home_event": "Faceoff Adam Dembicki vs PREMTAJ, Logan won by SJU (on faceoff violation).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on DEL BUELL, Ryder (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on DEL MARSELL, Rowan (SLASHING/1:00)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on DEL ATKINSON, Louie (PUSHING/0:30)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "Turnover by SJU Adrian Nowak.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:14",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "2",
+    "time": "09:10",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by DEL BODONYI, Aiden."
+  },
+  {
+    "quarter": "2",
+    "time": "09:07",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "Shot by SJU Dan Koban, SAVE ELLINGTON, Kevin.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:58",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Penalty on DEL PISANO, Gino (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "08:46",
+    "home_event": "Shot by SJU Dan Koban, SAVE ELLINGTON, Kevin.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by SJU Dan Koban.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:39",
+    "home_event": "Shot by SJU Jayson Cardenas WIDE.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "GOAL by SJU Ryan Ormond (MAN-UP), Assist by Jayson Cardenas, goal number 9 for season.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:29",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:36",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL, [07:36] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by DEL MORRIS, OJ (caused by Jayson Cardenas)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "Ground ball pickup by SJU Adrian Nowak.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:03",
+    "home_event": "GOAL by SJU James Easton, goal number 1 for season.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:03",
+    "home_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by SJU, [07:03] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:46",
+    "home_event": "Ground ball pickup by SJU Brian Kelly.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "Shot by SJU Bobby Seel HIT POST.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Ground ball pickup by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:20",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by DEL PARMER, Bennett HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "05:13",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "GOAL by DEL CAPRI, Cory, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:13",
+    "home_event": "Faceoff Adam Dembicki vs PREMTAJ, Logan won by SJU, [05:13] Ground ball pickup by SJU Adam Dembicki.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:59",
+    "home_event": "Ground ball pickup by SJU Ryan Ormond.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:55",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Penalty on DEL GILLIN, Patrick (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "04:21",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:13",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "GOAL by SJU Brian Kelly (MAN-UP), Assist by Adrian Nowak, goal number 3 for season.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [04:03] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by DEL POWERS, Brendan."
+  },
+  {
+    "quarter": "2",
+    "time": "03:10",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "03:08",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by DEL PARMER, Bennett."
+  },
+  {
+    "quarter": "2",
+    "time": "02:57",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:40",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "02:37",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "Turnover by SJU Quinn Falasca (caused by MCCURRY, John).",
+    "score": "8-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:27",
+    "home_event": "",
+    "score": "8-5",
+    "away_event": "Ground ball pickup by DEL MCCURRY, John."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "GOAL by DEL POWERS, Brendan, Assist by KOLBE, Jack, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by DEL KOLBE, Jack, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "2",
+    "time": "01:04",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "Timeout by SJU.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "GOAL by SJU Ryan Ormond, Assist by Brian Kelly, goal number 10 for season.",
+    "score": "9-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [00:17] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Shot by DEL MORRIS, OJ HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:10",
+    "home_event": "",
+    "score": "9-6",
+    "away_event": "Timeout by DEL."
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "GOAL by DEL CAPRI, Cory, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "3",
+    "time": "14:00",
+    "home_event": "Penalty on SJU Nick Turrini (PUSHING/0:30) Extra-man opportunity.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:38",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "3",
+    "time": "13:24",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "Turnover by SJU.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Turnover by DEL ATKINSON, Louie."
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Ground ball pickup by SJU Adrian Nowak.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:31",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Penalty on DEL COWEN, Nick (CROSS-CHECK/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Shot by SJU Dan Koban, SAVE ELLINGTON, Kevin.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:56",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:24",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by SJU Nick Turrini.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:14",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "Turnover by SJU Harry Noel.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "GOAL by DEL MCCURRY, John, Assist by PARMER, Bennett, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [09:42] Ground ball pickup by DEL BLACK, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by DEL CAPRI, Cory (caused by Dylan Lee)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Ground ball pickup by SJU Dylan Lee.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:37",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Turnover by SJU Matt Nelson.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:05",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by DEL OWINGS, Tyler, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:56",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:56",
+    "home_event": "Penalty on SJU Harry Noel (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by DEL MCGEE, Owen, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:45",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by DEL MCGEE, Owen BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "Ground ball pickup by SJU Matt Nelson.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:58",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "Ground ball pickup by SJU Ryan Farron.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "Shot by SJU Bobby Seel WIDE.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:07",
+    "home_event": "Ground ball pickup by SJU Bobby Seel.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:55",
+    "home_event": "Shot clock violation by SJU.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:48",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by DEL FURGESON, Nathan."
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:27",
+    "home_event": "Shot by SJU Brian Kelly WIDE.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:08",
+    "home_event": "Shot by SJU Danny Koch, SAVE ELLINGTON, Kevin.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:59",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by DEL SHIELDS, Jackson (caused by Tyson Meade)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "Ground ball pickup by SJU Tyson Meade.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Shot by SJU Adrian Nowak, SAVE ELLINGTON, Kevin.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "Turnover by SJU Brian Kelly.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:01",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by DEL MCCURRY, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by DEL CAPRI, Cory, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by SJU, [02:10] Ground ball pickup by SJU Matt Nelson.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:54",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:47",
+    "home_event": "Shot by SJU Bobby Seel HIGH.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:45",
+    "home_event": "Shot clock violation by SJU.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:30",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL MCCURRY, John, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL KOLAR, Jason BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by DEL KOLAR, Jason."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL, [15:00] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "14:51",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL CAPRI, Cory BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Turnover by DEL CAPRI, Cory."
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "Turnover by SJU Quinn Falasca (caused by ELLINGTON, Kevin).",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:04",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL KOLBE, Jack WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL POWERS, Brendan, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by SJU Matt Nelson.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:07",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "Shot by SJU Brian Kelly, SAVE ELLINGTON, Kevin.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:02",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL SHIELDS, Jackson WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL POWERS, Brendan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot clock violation by DEL."
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "Turnover by SJU Matt Nelson (caused by ELLINGTON, Kevin).",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:32",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Ground ball pickup by DEL ELLINGTON, Kevin."
+  },
+  {
+    "quarter": "4",
+    "time": "10:30",
+    "home_event": "Clear attempt by SJU failed.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:27",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Shot by DEL OWINGS, Tyler WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "Penalty on SJU Tyson Meade (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [09:20] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Shot by DEL KOLAR, Jason, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Shot by DEL MORGAN, Finn, SAVE Matt Nelson."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Ground ball pickup by DEL KOLBE, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "GOAL by DEL POWERS, Brendan, goal number 7 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [07:54] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "07:22",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by DEL KOLAR, Jason WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "GOAL by DEL MCCURRY, John, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "Kyle Munson at goalie for SJU.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:35",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by DEL, [06:35] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot by DEL SHIELDS, Jackson WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Penalty on SJU Tyson Meade (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "score": "9-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:10",
+    "home_event": "",
+    "score": "9-13",
+    "away_event": "Shot by DEL KOLBE, Jack, SAVE Kyle Munson."
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "GOAL by DEL POWERS, Brendan (MAN-UP), Assist by MORGAN, Finn, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:37",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [05:37] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "05:26",
+    "home_event": "",
+    "score": "9-14",
+    "away_event": "Turnover by DEL MORRIS, OJ (caused by Quinn Falasca)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:21",
+    "home_event": "Ground ball pickup by SJU Quinn Falasca.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:19",
+    "home_event": "Clear attempt by SJU good.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:17",
+    "home_event": "Timeout by SJU.",
+    "score": "9-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "GOAL by SJU Ryan Ormond, Assist by Brian Kelly, goal number 11 for season.",
+    "score": "10-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Faceoff Adam Dembicki vs MORRIS, OJ won by DEL, [05:01] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "",
+    "score": "10-14",
+    "away_event": "Ground ball pickup by DEL COWEN, Nick."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "GOAL by DEL OWINGS, Tyler, Assist by PARMER, Bennett, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "",
+    "score": "10-15",
+    "away_event": "Faceoff Dylan Lee vs MORRIS, OJ won by DEL, [04:10] Ground ball pickup by DEL MORRIS, OJ."
+  },
+  {
+    "quarter": "4",
+    "time": "03:23",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "GOAL by DEL MCCURRY, John, goal number 5 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "03:23",
+    "home_event": "Faceoff Ethan Wiegand vs MORRIS, OJ won by SJU, [03:23] Ground ball pickup by SJU Ryan Farron.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "Shot by SJU Adrian Nowak HIGH.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:53",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Turnover by DEL POWELL, Liam (caused by Quinn Falasca)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by SJU Quinn Falasca.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:48",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Clear attempt by DEL failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "Shot by SJU Mitch Campbell, SAVE ELLINGTON, Kevin.",
+    "score": "10-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "10-16",
+    "away_event": "Clear attempt by DEL good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:13",
+    "home_event": "",
+    "score": "10-17",
+    "away_event": "GOAL by DEL OWINGS, Tyler, Assist by SCHELL, Riar, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:13",
+    "home_event": "",
+    "score": "10-17",
+    "away_event": "Faceoff Ethan Wiegand vs STRAUB, Michael won by DEL, [01:13] Ground ball pickup by DEL STRAUB, Michael."
+  }
+]

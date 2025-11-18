@@ -1,0 +1,1794 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Nolan Hudnut at goalie for BELL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Kunz, Tommy at goalie for CAN."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by CAN Wolford, Mason (FIRST GOAL), Assist by Reed, Jordan, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "Faceoff Cole Messick vs Hanson, Micah won by BELL, [14:15] Ground ball pickup by BELL Cole Messick.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "Shot by BELL Joe Alie, SAVE Kunz, Tommy.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "GOAL by BELL Michael Blaymires, Assist by Ezra Moore.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Cole Messick vs Hanson, Micah won by CAN, [13:23] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by CAN Reed, Jordan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by CAN Christy, Carson."
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by CAN Wolford, Mason."
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by CAN Wolford, Mason."
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by CAN Mitchell, Patrick (caused by Luke Healy)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "Ground ball pickup by BELL Luke Healy.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "Turnover by BELL Luke Healy.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:28",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by CAN Collins, Devin, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "Shot by BELL Michael Blaymires, SAVE Kunz, Tommy.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Ground ball pickup by BELL Michael Blaymires.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "GOAL by BELL John Alie, Assist by Michael Blaymires.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "Faceoff Grant Guthrie vs Hanson, Micah won by BELL, [10:31] Ground ball pickup by BELL Brady Long.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "Shot by BELL Ethan Tunucci, SAVE Kunz, Tommy.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "Ground ball pickup by BELL Michael Blaymires.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "Turnover by BELL Michael Blaymires.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by CAN Kunz, Tommy."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by CAN McGrath, Ben, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Grant Guthrie vs Hanson, Micah won by CAN (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by CAN Reed, Jordan, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "Ground ball pickup by BELL Brennan McDermott.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "Shot by BELL Ryan Wyrick BLOCKED.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "Shot by BELL Ty Washington, SAVE Kunz, Tommy.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "GOAL by BELL Ty Washington, Assist by Ezra Moore.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [07:45] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by CAN Conrey, Reed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by CAN Seneca, Keelan."
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by CAN Williams, Lance (caused by Nicholas Sheremetta)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by BELL Nicholas Sheremetta.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Shot by BELL Ezra Moore, SAVE Kunz, Tommy.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Kunz, Tommy).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by CAN Mitchell, Patrick WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "Ground ball pickup by BELL John Alie.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "Turnover by BELL Michael Blaymires.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by CAN Douglas, Jeff."
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by CAN Mitchell, Patrick, Assist by Christy, Carson."
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Cole Messick vs Hanson, Micah won by CAN, [04:13] Ground ball pickup by CAN Thomson, Ethan."
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by CAN Reed, Jordan."
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "Ground ball pickup by BELL Matt Kirton.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "Ground ball pickup by BELL Robert Pope.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "Turnover by BELL John Alie.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by CAN Williams, Lance, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "Turnover by BELL Justin Wescoat (caused by Douglas, Jeff).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by CAN Douglas, Jeff."
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by CAN Buono, TJ HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Grant Guthrie vs Hanson, Micah won by CAN, [15:00] Ground ball pickup by CAN Allen, Erik."
+  },
+  {
+    "quarter": "2",
+    "time": "14:45",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by CAN Wolford, Mason, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Grant Guthrie vs Hanson, Micah won by CAN, [13:57] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by CAN Libby, Kaiden HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by CAN Collins, Devin, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "13:10",
+    "home_event": "Ground ball pickup by BELL Nolan Hudnut.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:00",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Turnover by BELL Ty Washington (caused by Owens, Ian).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by CAN Wolford, Mason, Assist by Reed, Jordan, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Faceoff Cole Messick vs Hanson, Micah won by CAN, [11:53] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Timeout by CAN."
+  },
+  {
+    "quarter": "2",
+    "time": "11:16",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by CAN Wolford, Mason, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:37",
+    "home_event": "Ground ball pickup by BELL Robert Pope.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "Ground ball pickup by BELL John Alie.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "GOAL by BELL Michael Blaymires.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:03",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [10:03] Ground ball pickup by BELL Aidan Fearn.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "Turnover by BELL Matt Kirton (caused by Wolford, Mason).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by CAN Mitchell, Patrick WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "Penalty on BELL Christopher Reynolds (TARGETING HEAD/NECK/2:00) Extra-man opportunity.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "Penalty on BELL Nicholas Sheremetta (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity(2).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by CAN Easter, Kayden WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by CAN Easter, Kayden WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by CAN Mitchell, Patrick BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by CAN Christy, Carson WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by CAN Easter, Kayden (MAN-UP), Assist by Seneca, Keelan."
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Grant Guthrie vs Hanson, Micah won by CAN, [08:13] Ground ball pickup by CAN Allen, Erik."
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Timeout by CAN."
+  },
+  {
+    "quarter": "2",
+    "time": "07:47",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by CAN Easter, Kayden WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by CAN Easter, Kayden, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "Shot by BELL Robert Pope HIT POST.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:31",
+    "home_event": "Turnover by BELL Ezra Moore (caused by McGrath, Ben).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by CAN Collins, Dylan."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:14",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by CAN Christy, Carson."
+  },
+  {
+    "quarter": "2",
+    "time": "04:57",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot clock violation by CAN."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by CAN."
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Timeout by BELL.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "Shot by BELL Ty Washington, SAVE Kunz, Tommy.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:22",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "04:10",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by CAN Libby, Kaiden (caused by Ty Washington)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "Ground ball pickup by BELL Ty Washington.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:01",
+    "home_event": "Shot by BELL Ezra Moore, SAVE Kunz, Tommy.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by CAN Seneca, Keelan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Ground ball pickup by BELL Ty Washington.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "Shot by BELL Ty Washington, SAVE Kunz, Tommy.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "Turnover by BELL.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by CAN Williams, Lance."
+  },
+  {
+    "quarter": "2",
+    "time": "01:54",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:13",
+    "home_event": "GOAL by BELL Justin Wescoat.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:13",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [01:13] Ground ball pickup by BELL Matt Kirton.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "Timeout by BELL.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:42",
+    "home_event": "Shot by BELL Ezra Moore, SAVE Kunz, Tommy.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:23",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Turnover by CAN McGrath, Ben."
+  },
+  {
+    "quarter": "2",
+    "time": "00:14",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "Shot by BELL Michael Blaymires, SAVE Kunz, Tommy.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [15:00] Ground ball pickup by CAN Mitchell, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "14:13",
+    "home_event": "",
+    "score": "5-6",
+    "away_event": "Shot by CAN Fridge, Jaxon, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "GOAL by BELL Justin Wescoat.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [13:39] Ground ball pickup by CAN Seneca, Keelan."
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by CAN Libby, Kaiden."
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "Ground ball pickup by BELL Brady Long.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:52",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:35",
+    "home_event": "Shot by BELL Michael Blaymires HIT POST.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "Shot by BELL Ty Washington BLOCKED.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:23",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Shot by CAN Wolford, Mason WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:11",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by CAN Mitchell, Patrick."
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:58",
+    "home_event": "Turnover by BELL Joe Alie.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:48",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by CAN Fridge, Jaxon (caused by Matt Kirton)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:08",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by BELL Ezra Moore.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "GOAL by BELL John Alie.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:27",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [09:27] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "3",
+    "time": "09:17",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by CAN Seneca, Keelan."
+  },
+  {
+    "quarter": "3",
+    "time": "08:44",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by CAN Mitchell, Patrick WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:24",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by CAN Seneca, Keelan, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "Turnover by BELL Ty Washington.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by CAN Conrey, Reed."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by CAN Mitchell, Patrick, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "3",
+    "time": "07:08",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by CAN Mitchell, Patrick BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "Shot by BELL Ezra Moore, SAVE Kunz, Tommy.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "GOAL by BELL Justin Wescoat.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "06:16",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [06:16] Ground ball pickup by BELL Aidan Fearn.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Turnover by BELL Aidan Fearn.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by CAN Buono, TJ."
+  },
+  {
+    "quarter": "3",
+    "time": "04:43",
+    "home_event": "Ground ball pickup by BELL Christopher Reynolds.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:39",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "Shot by BELL Michael Blaymires WIDE.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "Turnover by BELL Michael Blaymires.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:23",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by CAN Douglas, Jeff."
+  },
+  {
+    "quarter": "3",
+    "time": "03:54",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by CAN Wolford, Mason."
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "Clear attempt by BELL failed.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:41",
+    "home_event": "Turnover by BELL Christopher Reynolds (caused by Williams, Lance).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:01",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by CAN Christy, Carson, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:01",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [03:01] Ground ball pickup by BELL Matt Kirton.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "Timeout by BELL.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:55",
+    "home_event": "Shot by BELL Joe Alie, SAVE Kunz, Tommy.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "Ground ball pickup by BELL John Alie.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:50",
+    "home_event": "GOAL by BELL John Alie.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:50",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [01:50] Ground ball pickup by BELL Brennan McDermott.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:34",
+    "home_event": "Ground ball pickup by BELL Brady Long.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "GOAL by BELL Ian Kohut.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:11",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [01:11] Ground ball pickup by BELL Brady Long.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:56",
+    "home_event": "Ground ball pickup by BELL Brennan McDermott.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "GOAL by BELL Joe Alie, Assist by Justin Wescoat.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "11-7",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [00:08] Ground ball pickup by CAN Hanson, Micah."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [15:00] Ground ball pickup by BELL Aidan Fearn.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "Shot by BELL Robert Pope WIDE.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "GOAL by BELL Joe Alie, Assist by Ezra Moore.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Aidan Fearn vs Hanson, Micah won by CAN, [13:46] Ground ball pickup by CAN Roy, Hunter."
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:46",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by CAN Seneca, Keelan."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by CAN Fridge, Jaxon, Assist by Christy, Carson, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL, [12:34] Ground ball pickup by BELL Brady Long.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:20",
+    "home_event": "Ground ball pickup by BELL Robert MacMichael.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "Turnover by BELL Michael Blaymires (caused by Kunz, Tommy).",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:35",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Ground ball pickup by CAN Kunz, Tommy."
+  },
+  {
+    "quarter": "4",
+    "time": "11:31",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by CAN Mitchell, Patrick WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by CAN Mitchell, Patrick HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot clock violation by CAN."
+  },
+  {
+    "quarter": "4",
+    "time": "10:22",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Turnover by CAN."
+  },
+  {
+    "quarter": "4",
+    "time": "10:08",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "Shot by BELL Robert Pope, SAVE Kunz, Tommy.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "09:11",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Turnover by CAN Kunz, Tommy."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "Ground ball pickup by BELL Nicholas Sheremetta.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "Shot by BELL Michael Blaymires, SAVE Kunz, Tommy.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:31",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "08:25",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Turnover by CAN Allen, Erik (caused by Robert Pope)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:21",
+    "home_event": "Ground ball pickup by BELL Robert Pope.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "GOAL by BELL John Alie.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "Faceoff Aidan Fearn vs Hanson, Micah won by BELL (on faceoff violation).",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:46",
+    "home_event": "Shot by BELL Ty Washington WIDE.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "07:38",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by CAN Owens, Ian (caused by John Alie)."
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "Shot by BELL John Alie, SAVE Kunz, Tommy.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:14",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Shot by CAN McGrath, Ben WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by CAN Fridge, Jaxon."
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:15",
+    "home_event": "Ground ball pickup by BELL Joe Alie.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:27",
+    "home_event": "Turnover by BELL Ezra Moore (caused by Kunz, Tommy).",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:24",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Ground ball pickup by CAN Kunz, Tommy."
+  },
+  {
+    "quarter": "4",
+    "time": "04:19",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by CAN Douglas, Jeff (caused by Robert Pope)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:13",
+    "home_event": "Ground ball pickup by BELL John Alie.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:09",
+    "home_event": "Turnover by BELL.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:00",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Ground ball pickup by CAN Collins, Dylan."
+  },
+  {
+    "quarter": "4",
+    "time": "02:49",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN failed."
+  },
+  {
+    "quarter": "4",
+    "time": "02:47",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by CAN Williams, Lance (caused by Matt Kirton)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:42",
+    "home_event": "Clear attempt by BELL failed.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:37",
+    "home_event": "Turnover by BELL Brady Long.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Ground ball pickup by CAN Mitchell, Patrick."
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Shot by CAN Buono, TJ WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Shot by BELL John Alie, SAVE Kunz, Tommy.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Ground ball pickup by CAN Douglas, Jeff."
+  },
+  {
+    "quarter": "4",
+    "time": "01:43",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Turnover by CAN McGrath, Ben."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "Timeout by BELL.",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "Turnover by BELL (caused by Thomson, Ethan).",
+    "score": "13-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:40",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Clear attempt by CAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "",
+    "score": "13-8",
+    "away_event": "Shot by CAN Mitchell, Patrick, SAVE Nolan Hudnut."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "Clear attempt by BELL good.",
+    "score": "13-8",
+    "away_event": ""
+  }
+]

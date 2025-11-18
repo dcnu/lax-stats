@@ -1,0 +1,1675 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Daly, Dan at goalie for NAVY.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "SMITH, Jude at goalie for HPUM."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "Shot by NAVY Tolker, Henry, SAVE SMITH, Jude.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by HPUM failed."
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by HPUM BRENFLECK, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "Shot by NAVY Flaherty, Jack BLOCKED.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by HPUM CANN, Ian (caused by McGullam, Ian)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "Ground ball pickup by NAVY Darrow, Jacob.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "Clear attempt by NAVY failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "Turnover by NAVY Norton, Jack (caused by LUTZEL, Matt).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:07",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by HPUM LUTZEL, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by HPUM ROVERE, Collin (FIRST GOAL), goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [11:42] Ground ball pickup by NAVY Hayashi, Zach.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Penalty on HPUM BUNTEN, Owen (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "GOAL by NAVY Ponzio, Jack (MAN-UP), Assist by Tolker, Henry, goal number 1 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [11:02] Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:28",
+    "home_event": "Shot by NAVY Ash, Carter, SAVE SMITH, Jude.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by HPUM HYNES, Ryan."
+  },
+  {
+    "quarter": "1",
+    "time": "10:08",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by HPUM HYNES, Ryan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "Faceoff Hayashi, Zach vs MOORE, Scott won by NAVY, [09:46] Ground ball pickup by NAVY Hayashi, Zach.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:13",
+    "home_event": "Shot by NAVY Conway, Evan WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "Shot by NAVY Landolphi, Ryan, SAVE SMITH, Jude.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "Ground ball pickup by NAVY Tolker, Henry.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "Shot by NAVY Tolker, Henry HIT POST.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "Ground ball pickup by NAVY Garza, Paul.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:17",
+    "home_event": "Shot by NAVY Tolker, Henry, SAVE SMITH, Jude.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by HPUM LUTZEL, Matt."
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by HPUM BUNTEN, Owen, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by HPUM CANN, Ian."
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by HPUM BUNTEN, Owen HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by HPUM BRENFLECK, Jeb."
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by HPUM CANN, Ian, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "Ground ball pickup by NAVY Daly, Dan.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "GOAL by NAVY Ponzio, Jack, goal number 2 for season.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Faceoff Hayashi, Zach vs MOORE, Scott won by HPUM, [05:22] Ground ball pickup by HPUM MOORE, Scott."
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by HPUM HYNES, Ryan WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:19",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by HPUM WIXTED, Justin (caused by McGullam, Ian)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "Ground ball pickup by NAVY Daly, Dan.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "Shot by NAVY Ash, Carter WIDE.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "Turnover by NAVY Haley, Mac (caused by LANG, Robby).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by HPUM LANG, Robby."
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by HPUM BUNTEN, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by HPUM BRENFLECK, Jeb, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "Faceoff Hayashi, Zach vs MOORE, Scott won by NAVY (on faceoff violation).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "Ground ball pickup by NAVY Marsh, AJ.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "GOAL by NAVY Tolker, Henry, Assist by Ponzio, Jack, goal number 1 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [01:19] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Turnover by HPUM HYNES, Ryan (caused by Marsh, AJ)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Ground ball pickup by NAVY Darrow, Jacob.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Clear attempt by NAVY failed.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Turnover by NAVY Darrow, Jacob (caused by BUNTEN, Owen).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by HPUM ADAMS, John."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [15:00] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "14:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by HPUM WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:45",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by HPUM BUNTEN, Owen, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:37",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:26",
+    "home_event": "Turnover by NAVY Parker, Graham.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:09",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by HPUM LUTZEL, Matt, Assist by CANN, Ian, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:22",
+    "home_event": "Faceoff Shadowens, Colin vs ACCARDO, Luca won by NAVY, [12:22] Ground ball pickup by NAVY Shadowens, Colin.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "Timeout by NAVY.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "GOAL by NAVY Ash, Carter, Assist by Flaherty, Jack, goal number 1 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [11:29] Ground ball pickup by NAVY Hayashi, Zach.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:52",
+    "home_event": "Shot by NAVY Landolphi, Ryan WIDE.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "GOAL by NAVY Nichtern, Jack, goal number 1 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [10:08] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "09:57",
+    "home_event": "Penalty on NAVY Ash, Carter (PUSHING/0:30) Extra-man opportunity.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:24",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by HPUM MORAN-WEEKES, Isiah, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "Clear attempt by NAVY failed.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "Turnover by NAVY Norton, Jack (caused by WIXTED, Justin).",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by HPUM WIXTED, Justin."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by HPUM ROVERE, Collin, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by HPUM LUTZEL, Matt."
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "Penalty on NAVY Darrow, Jacob (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:33",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by HPUM LUTZEL, Matt (caused by McGullam, Ian)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by NAVY Daly, Dan.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:27",
+    "home_event": "Ground ball pickup by NAVY Tolker, Henry.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "Shot by NAVY LaRocco, Roman, SAVE SMITH, Jude.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "Ground ball pickup by NAVY Flaherty, Jack.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "Shot by NAVY Flaherty, Jack WIDE.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by HPUM COOKE, Colin."
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:27",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "Ground ball pickup by NAVY Ash, Carter.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "GOAL by NAVY Ash, Carter, goal number 2 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "Faceoff Shadowens, Colin vs ACCARDO, Luca won by NAVY, [04:23] Ground ball pickup by NAVY Shadowens, Colin.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "Turnover by NAVY Shadowens, Colin (caused by ACCARDO, Luca).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:15",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by HPUM ROVERE, Collin, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "GOAL by NAVY Marsh, AJ, Assist by Daly, Dan, goal number 1 for season.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:31",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by HPUM HYNES, Ryan, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Ground ball pickup by NAVY Nagy, Josh.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Clear attempt by NAVY failed.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Turnover by NAVY.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:49",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Shot by HPUM BUNTEN, Owen, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "2",
+    "time": "00:43",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by HPUM ROVERE, Collin."
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by HPUM CANN, Ian (caused by Darrow, Jacob)."
+  },
+  {
+    "quarter": "2",
+    "time": "00:13",
+    "home_event": "Ground ball pickup by NAVY Darrow, Jacob.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:11",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "Shot by NAVY Ash, Carter WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:08",
+    "home_event": "Timeout by NAVY.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Shot by NAVY Haley, Mac HIGH.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "OVEREND, Zack at goalie for HPUM."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [15:00] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "14:34",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Turnover by HPUM WIXTED, Justin (caused by Darrow, Jacob)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:31",
+    "home_event": "Ground ball pickup by NAVY Darrow, Jacob.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "Shot by NAVY Flaherty, Jack HIGH.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:36",
+    "home_event": "Shot by NAVY Flaherty, Jack WIDE.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "Shot by NAVY Flaherty, Jack, SAVE OVEREND, Zack.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:14",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Ground ball pickup by HPUM BRENFLECK, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "13:07",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by HPUM BUNTEN, Owen, Assist by CANN, Ian, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [12:29] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "12:19",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by HPUM ACCARDO, Luca (caused by Tolker, Henry)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:15",
+    "home_event": "Ground ball pickup by NAVY Haley, Mac.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "GOAL by NAVY Conway, Evan, goal number 1 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Faceoff Shadowens, Colin vs MOORE, Scott won by NAVY, [11:52] Ground ball pickup by NAVY Shadowens, Colin.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:49",
+    "home_event": "Turnover by NAVY Shadowens, Colin (caused by MOORE, Scott).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by HPUM BENSON, Weston."
+  },
+  {
+    "quarter": "3",
+    "time": "11:28",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:35",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by HPUM COOKE, Colin (caused by Gallagher, Sean)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:32",
+    "home_event": "Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:26",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "Turnover by NAVY Tolker, Henry.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:41",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:48",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by HPUM CANN, Ian, Assist by WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:48",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [08:48] Ground ball pickup by NAVY Parker, Graham.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "Shot by NAVY Tolker, Henry WIDE.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "GOAL by NAVY Garza, Paul, goal number 1 for season.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [07:42] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:34",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by HPUM BUNTEN, Owen BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:27",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by HPUM WIXTED, Justin BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Ground ball pickup by HPUM BUNTEN, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "06:18",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot clock violation by HPUM."
+  },
+  {
+    "quarter": "3",
+    "time": "06:10",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "GOAL by NAVY Tolker, Henry, Assist by Ponzio, Jack, goal number 2 for season.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [05:22] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "05:15",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by HPUM LUTZEL, Matt BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by HPUM HYNES, Ryan, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "04:32",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "Shot by NAVY Conway, Evan, SAVE OVEREND, Zack.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:28",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:48",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Shot by HPUM ROVERE, Collin, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Ground ball pickup by HPUM BRENFLECK, Jeb."
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "",
+    "score": "10-7",
+    "away_event": "Turnover by HPUM BRENFLECK, Jeb (caused by Nagy, Josh)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "Ground ball pickup by NAVY Nagy, Josh.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "10-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:51",
+    "home_event": "GOAL by NAVY LaRocco, Roman, goal number 1 for season.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:51",
+    "home_event": "Faceoff Shadowens, Colin vs ACCARDO, Luca won by NAVY, [01:51] Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:28",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:27",
+    "home_event": "Shot by NAVY Ash, Carter WIDE.",
+    "score": "11-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "GOAL by NAVY Ash, Carter, Assist by Goers, William, goal number 3 for season.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:16",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [00:16] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "00:12",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Turnover by HPUM ACCARDO, Luca (caused by Kittelberger, Bobby)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "Ground ball pickup by NAVY Kittelberger, Bobby.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "Turnover by NAVY Kittelberger, Bobby.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [15:00] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "4",
+    "time": "13:41",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Turnover by HPUM WIXTED, Justin (caused by Norton, Jack)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:38",
+    "home_event": "Ground ball pickup by NAVY Norton, Jack.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "Ground ball pickup by NAVY Norton, Jack.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:28",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "Turnover by NAVY Norton, Jack (caused by BUNTEN, Owen).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:17",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by HPUM WESTBROOKS, James."
+  },
+  {
+    "quarter": "4",
+    "time": "13:15",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by HPUM LUTZEL, Matt, Assist by HYNES, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Faceoff Shadowens, Colin vs ACCARDO, Luca won by HPUM, [12:56] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by HPUM HYNES, Ryan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Penalty on NAVY Connolly, Chad (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:49",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by HPUM BUNTEN, Owen HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "GOAL by HPUM BUNTEN, Owen (MAN-UP), Assist by ROVERE, Collin, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:38",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [11:38] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "GOAL by HPUM HYNES, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "Timeout by NAVY.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [11:01] Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:46",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "GOAL by NAVY Haley, Mac, Assist by Ash, Carter, goal number 1 for season.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by HPUM, [10:11] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "4",
+    "time": "09:24",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Shot by HPUM BUNTEN, Owen BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "09:22",
+    "home_event": "Ground ball pickup by NAVY Kittelberger, Bobby.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:40",
+    "home_event": "Shot by NAVY Ash, Carter BLOCKED.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "Turnover by NAVY Haley, Mac.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "08:08",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:21",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Turnover by HPUM COOKE, Colin (caused by Gallagher, Sean)."
+  },
+  {
+    "quarter": "4",
+    "time": "07:10",
+    "home_event": "Ground ball pickup by NAVY Gallagher, Sean.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:06",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:00",
+    "home_event": "",
+    "score": "13-10",
+    "away_event": "Penalty on HPUM ROVERE, Collin (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "Shot by NAVY Ash, Carter WIDE.",
+    "score": "13-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "GOAL by NAVY Lough, Aidan (MAN-UP), Assist by Flaherty, Jack, goal number 1 for season.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:34",
+    "home_event": "Faceoff Hayashi, Zach vs ACCARDO, Luca won by NAVY, [06:34] Ground ball pickup by NAVY Kittelberger, Bobby.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:15",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:11",
+    "home_event": "Turnover by NAVY Marsh, AJ (caused by CANN, Ian).",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM WESTBROOKS, James."
+  },
+  {
+    "quarter": "4",
+    "time": "06:06",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by HPUM CANN, Ian, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "Ground ball pickup by NAVY LaRocco, Roman.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "Turnover by NAVY Flaherty, Jack (caused by MCADAMS, Jack).",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM BENSON, Weston."
+  },
+  {
+    "quarter": "4",
+    "time": "04:43",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM BRENFLECK, Jeb."
+  },
+  {
+    "quarter": "4",
+    "time": "04:11",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Timeout by HPUM."
+  },
+  {
+    "quarter": "4",
+    "time": "03:35",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by HPUM LUTZEL, Matt, SAVE Daly, Dan."
+  },
+  {
+    "quarter": "4",
+    "time": "03:27",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:38",
+    "home_event": "Ground ball pickup by NAVY Flaherty, Jack.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "Turnover by NAVY Haley, Mac.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Shot by HPUM WIXTED, Justin BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "02:06",
+    "home_event": "Ground ball pickup by NAVY Marsh, AJ.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "Clear attempt by NAVY good.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Shot by NAVY Marsh, AJ WIDE.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:19",
+    "home_event": "Turnover by NAVY Haley, Mac (caused by WESTBROOKS, James).",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:15",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM ROVERE, Collin."
+  },
+  {
+    "quarter": "4",
+    "time": "00:58",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Turnover by HPUM HYNES, Ryan."
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "Ground ball pickup by NAVY LaRocco, Roman.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:48",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Penalty on HPUM HYNES, Ryan (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:38",
+    "home_event": "Turnover by NAVY Goers, William (caused by WESTBROOKS, James).",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM LANG, Robby."
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Clear attempt by HPUM failed."
+  },
+  {
+    "quarter": "4",
+    "time": "00:26",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Turnover by HPUM OVEREND, Zack (caused by Goers, William)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:23",
+    "home_event": "Ground ball pickup by NAVY Ash, Carter.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "Turnover by NAVY Ash, Carter.",
+    "score": "14-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "",
+    "score": "14-10",
+    "away_event": "Ground ball pickup by HPUM OVEREND, Zack."
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Jackson Faiola at goalie for HOBART.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Scarborough at goalie for SJU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [15:00] Ground ball pickup by HOBART Mike Valent.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "Shot by HOBART Will Delano, SAVE Patrick Scarborough.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:31",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "Ground ball pickup by HOBART Jackson Faiola.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:25",
+    "home_event": "Clear attempt by HOBART failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "Turnover by HOBART Jackson Faiola (caused by Brian Kelly).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by SJU Brian Kelly (FIRST GOAL), goal number 22 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Mike Valent vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:34",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by SJU Bobby Seel."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by SJU Brian Kelly, goal number 23 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by SJU Drew Wasserman."
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Adrian Nowak, goal number 18 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "Timeout by HOBART.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [11:49] Ground ball pickup by HOBART Mike Valent.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "Shot by HOBART John Jude Considine, SAVE Patrick Scarborough.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:08",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by SJU Brian Kelly WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "Turnover by HOBART Nolan Firth (caused by Harry Noel).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "Ground ball pickup by HOBART Daniel Cano.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:21",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "GOAL by HOBART Will Delano, Assist by Alex Rosa.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by HOBART (on faceoff violation).",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "Shot by HOBART Johnny Harding, SAVE Patrick Scarborough.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "Ground ball pickup by HOBART Brady Comella.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "GOAL by HOBART Connor DiTomasso, Assist by David Peterkin.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Cole Emmanuel vs John Mavlios won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by SJU Ryan Ormond, goal number 19 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [06:00] Ground ball pickup by HOBART Mike Valent.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "Turnover by HOBART Mike Valent (caused by Dylan Lee).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Shot by SJU Brian Kelly WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "GOAL by HOBART Will Delano, Assist by Johnny Harding.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [03:31] Ground ball pickup by HOBART Seamus Schofield.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "Turnover by HOBART Alex Rosa (caused by Drew Lindsay).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Dan Koban."
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Danny Koch, SAVE Jackson Faiola {shot from close left wing}."
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "Shot clock violation by HOBART.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "Ground ball pickup by HOBART JT Anderson.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "Turnover by HOBART.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Drew Wasserman HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Dan Koban, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Brian Kelly, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "Shot by HOBART Will Delano, SAVE Patrick Scarborough.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:30",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Adrian Nowak WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Ground ball pickup by HOBART Jackson Faiola.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART (on faceoff violation).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:22",
+    "home_event": "Shot by HOBART Cade Dino, SAVE Patrick Scarborough.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:55",
+    "home_event": "Shot by HOBART Connor DiTomasso HIT POST.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:47",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Brian Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "13:02",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Ryan Ormond HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Penalty on HOBART Connor DiTomasso (SLASHING/1:00) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Drew Wasserman WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "12:18",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Jayson Cardenas, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "2",
+    "time": "12:14",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:06",
+    "home_event": "Shot by HOBART Connor DiTomasso WIDE.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "Shot by HOBART Alex Rosa, SAVE Patrick Scarborough.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Drew Wasserman."
+  },
+  {
+    "quarter": "2",
+    "time": "11:05",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Mitch Campbell."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "Penalty on HOBART Will Delano (SLASHING/1:00) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "Penalty on HOBART Will Delano (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Turnover by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "Turnover by HOBART Rees Chandler (caused by Dylan Lee).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "2",
+    "time": "09:06",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "2",
+    "time": "08:57",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Shot by SJU Bobby Seel HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by SJU Drew Wasserman (MAN-UP), Assist by Brian Kelly, goal number 8 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:48",
+    "home_event": "Faceoff Mike Valent vs John Mavlios won by HOBART (on faceoff violation).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:12",
+    "home_event": "Turnover by HOBART Will Delano (caused by Quinn Falasca).",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:07",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "08:03",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Brian Kelly, goal number 20 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [07:44] Ground ball pickup by HOBART Seamus Schofield.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:55",
+    "home_event": "Turnover by HOBART Alex Rosa (caused by Dylan Lee).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:47",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by SJU Harry Noel."
+  },
+  {
+    "quarter": "2",
+    "time": "06:42",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:51",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by SJU Brian Kelly HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "05:30",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by SJU Mitch Campbell."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "Ground ball pickup by HOBART Nolan Firth.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Turnover by HOBART Alex Rosa (caused by Zander Hauck).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:50",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by SJU Zander Hauck."
+  },
+  {
+    "quarter": "2",
+    "time": "04:43",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by SJU Cam Konradi, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by SJU Adrian Nowak."
+  },
+  {
+    "quarter": "2",
+    "time": "03:54",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by SJU Adrian Nowak (caused by Ryan Miele)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:51",
+    "home_event": "Ground ball pickup by HOBART Ryan Miele.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:41",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:13",
+    "home_event": "Turnover by HOBART Daniel Cano.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by SJU Nick Turrini."
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:24",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by SJU Jayson Cardenas WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:11",
+    "home_event": "Ground ball pickup by HOBART Nick Sotiropoulos.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:03",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "Turnover by HOBART Will Delano (caused by Tyson Meade).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "2",
+    "time": "01:40",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Shot by SJU Brian Kelly, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "GOAL by SJU Brian Kelly, Assist by Tyson Meade, goal number 24 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [02:05] Ground ball pickup by HOBART Seamus Schofield.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "GOAL by HOBART John Jude Considine.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [01:32] Ground ball pickup by HOBART Mike Valent.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:21",
+    "home_event": "Shot by HOBART Mike Valent WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:05",
+    "home_event": "Shot by HOBART Daniel Cano WIDE.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "Ground ball pickup by HOBART Connor DiTomasso.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "Shot by HOBART David Peterkin HIGH.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:29",
+    "home_event": "GOAL by HOBART David Peterkin.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:29",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [00:29] Ground ball pickup by HOBART Seamus Schofield.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:17",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "Shot by HOBART Cade Dino WIDE.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SJU Brian Kelly HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [15:00] Ground ball pickup by HOBART Mike Valent.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Shot by HOBART Mike Valent, SAVE Patrick Scarborough.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:55",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SJU Adrian Nowak WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:14",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Shot by SJU Mitch Campbell, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "3",
+    "time": "14:08",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Shot by HOBART John Jude Considine, SAVE Patrick Scarborough.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "Ground ball pickup by HOBART David Peterkin.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:17",
+    "home_event": "Shot by HOBART David Peterkin WIDE.",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "Turnover by HOBART Daniel Cano (caused by Quinn Falasca).",
+    "score": "5-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:48",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Ground ball pickup by SJU Harry Noel."
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "5-7",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "GOAL by SJU Brian Kelly, goal number 25 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [11:52] Ground ball pickup by HOBART Mike Valent.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Shot by HOBART Alex Rosa, SAVE Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "Ground ball pickup by HOBART Alex Rosa.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:05",
+    "home_event": "Shot by HOBART Johnny Harding, SAVE Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "Ground ball pickup by HOBART Johnny Harding.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "Shot by HOBART Alex Rosa, SAVE Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "Ground ball pickup by HOBART Johnny Harding.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "Shot by HOBART Alex Rosa BLOCKED.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:02",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by SJU Maclin Keyser."
+  },
+  {
+    "quarter": "3",
+    "time": "08:52",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SJU Ryan Ormond WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:02",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SJU Dan Koban WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "07:46",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by SJU Dan Koban."
+  },
+  {
+    "quarter": "3",
+    "time": "07:39",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by SJU."
+  },
+  {
+    "quarter": "3",
+    "time": "07:34",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "Ground ball pickup by HOBART Connor DiTomasso.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:59",
+    "home_event": "Shot by HOBART Connor DiTomasso, SAVE Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:47",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SJU Zander Hauck WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:41",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "3",
+    "time": "06:06",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:05",
+    "home_event": "Shot by HOBART Will Delano, SAVE Patrick Scarborough.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:31",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by SJU Bobby Seel, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "Penalty on HOBART Brady Comella (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by SJU Drew Wasserman (MAN-UP), Assist by Bobby Seel, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART (on faceoff violation).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:57",
+    "home_event": "Shot by HOBART Will Delano, SAVE Patrick Scarborough.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:51",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by SJU Brian Kelly, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "Penalty on HOBART John Jude Considine (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by SJU Adrian Nowak WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:54",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Turnover by SJU."
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "GOAL by HOBART Cade Dino.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:49",
+    "home_event": "Faceoff Cole Emmanuel vs John Mavlios won by HOBART, [01:49] Ground ball pickup by HOBART Cole Emmanuel.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "Shot by HOBART Daniel Cano WIDE.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:41",
+    "home_event": "",
+    "score": "6-9",
+    "away_event": "Penalty on SJU Drew Lindsay (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "01:15",
+    "home_event": "Shot by HOBART Alex Rosa WIDE.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:26",
+    "home_event": "Shot by HOBART John Jude Considine HIGH.",
+    "score": "6-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "GOAL by HOBART John Jude Considine.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by SJU, [00:01] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [15:00] Ground ball pickup by HOBART Mike Valent.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:56",
+    "home_event": "Shot by HOBART Will Delano HIGH.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:10",
+    "home_event": "Shot by HOBART Will Delano BLOCKED.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Ground ball pickup by SJU Braeden Pratt."
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Shot by SJU Brian Kelly, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "4",
+    "time": "13:51",
+    "home_event": "Ground ball pickup by HOBART John Jude Considine.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:44",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Shot by HOBART Alex Rosa BLOCKED.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:54",
+    "home_event": "Ground ball pickup by HOBART Colden Swisher.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "GOAL by HOBART Colden Swisher.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [13:02] Ground ball pickup by HOBART Mike Valent.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "Ground ball pickup by HOBART Brady Comella.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Penalty on SJU Ryan Ormond (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Penalty on SJU Adrian Nowak (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "12:18",
+    "home_event": "Shot by HOBART David Peterkin WIDE.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "GOAL by HOBART David Peterkin (MAN-UP), Assist by Alex Rosa.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Mike Valent vs Adam Dembicki won by SJU, [12:08] Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by SJU Ryan Ormond, Assist by Mitch Campbell, goal number 21 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by SJU, [11:24] Ground ball pickup by SJU Nick Turrini."
+  },
+  {
+    "quarter": "4",
+    "time": "11:07",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "GOAL by SJU Jayson Cardenas, Assist by Mitch Campbell, goal number 12 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by SJU, [10:20] Ground ball pickup by SJU Adam Dembicki."
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Shot by SJU Jayson Cardenas, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "GOAL by HOBART Alex Rosa, Assist by Connor DiTomasso.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "Faceoff Cole Emmanuel vs Adam Dembicki won by HOBART, [09:40] Ground ball pickup by HOBART Cole Emmanuel.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "Timeout by HOBART.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "Shot by HOBART Will Delano, SAVE Patrick Scarborough.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:55",
+    "home_event": "Ground ball pickup by HOBART Cade Dino.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:44",
+    "home_event": "Turnover by HOBART Alex Rosa (caused by Drew Lindsay).",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:41",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "4",
+    "time": "08:39",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:10",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Shot by SJU Mitch Campbell WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "08:03",
+    "home_event": "Penalty on HOBART Brady Comella (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "GOAL by SJU Jayson Cardenas (MAN-UP), Assist by Brian Kelly, goal number 13 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART, [07:26] Ground ball pickup by HOBART Mike Valent.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:00",
+    "home_event": "Shot by HOBART Cade Dino WIDE.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "Turnover by HOBART.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:42",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "GOAL by SJU Mitch Campbell, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "Faceoff Mike Valent vs Adam Dembicki won by HOBART (on faceoff violation).",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:44",
+    "home_event": "GOAL by HOBART David Peterkin, Assist by Will Delano.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:44",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Penalty on SJU Harry Noel (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "04:44",
+    "home_event": "Faceoff Cole Emmanuel vs John Mavlios won by HOBART (on faceoff violation).",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:15",
+    "home_event": "Shot by HOBART Connor DiTomasso, SAVE Patrick Scarborough {shot from close left wing}.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:59",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by SJU Cam Konradi."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:02",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE Jackson Faiola."
+  },
+  {
+    "quarter": "4",
+    "time": "02:56",
+    "home_event": "Clear attempt by HOBART good.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "Ground ball pickup by HOBART Connor DiTomasso.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "Shot by HOBART Cade Dino HIGH.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "Ground ball pickup by HOBART Connor DiTomasso.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "Shot by HOBART John Jude Considine WIDE.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Penalty on SJU Harry Noel (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "Shot by HOBART Alex Rosa HIT POST.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:21",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by SJU Drew Lindsay."
+  },
+  {
+    "quarter": "4",
+    "time": "01:08",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by SJU Cam Konradi."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by SJU."
+  }
+]

@@ -1,0 +1,1563 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Luke Staudt at goalie for JHU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "McCool, Jimmy at goalie for SU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "Shot by JHU Hunter Chauvette, SAVE McCool, Jimmy.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SU Rice, Carter."
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by SU Spallina, Joey (FIRST GOAL), Assist by Dwan, Billy, goal number 14 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "Faceoff Logan Callahan vs Angelo, Drew won by JHU, [13:49] Ground ball pickup by JHU Jack Monfort.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "Turnover by JHU Jack Monfort (caused by Angelo, Drew).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by SU Kuczynski, Chuck."
+  },
+  {
+    "quarter": "1",
+    "time": "13:08",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by SU Leo, Michael, goal number 11 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:08",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU, [13:08] Ground ball pickup by JHU Logan Callahan.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "Shot by JHU Hunter Chauvette WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "Shot by JHU Stuart Phillips BLOCKED.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on SU Dwan, Billy (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "11:20",
+    "home_event": "Shot by JHU Chuck Rawson, SAVE McCool, Jimmy.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by SU Grace, Michael."
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by SU Deere, Trey."
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by SU Hiltz, Owen, Assist by Cordes, Tyler, goal number 16 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU (on faceoff violation).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "Shot by JHU Stuart Phillips, SAVE McCool, Jimmy.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "Shot by JHU Dylan Bauer, SAVE McCool, Jimmy.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "GOAL by JHU Charlie Iler, goal number 2 for season.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "Faceoff Logan Callahan vs Angelo, Drew won by JHU, [07:44] Ground ball pickup by JHU Logan Callahan.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "Ground ball pickup by JHU Chuck Rawson.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "GOAL by JHU Chuck Rawson, goal number 6 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Penalty on SU Spallina, Joey (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU, [06:49] Ground ball pickup by JHU Logan Callahan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "GOAL by JHU Matt Collison (MAN-UP), Assist by Brooks English, goal number 11 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "GOAL by JHU Hunter Chauvette, goal number 14 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by SU Deere, Trey."
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by SU Spallina, Joey (caused by Patrick Hackler)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "Ground ball pickup by JHU Patrick Deans.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "Clear attempt by JHU failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "Turnover by JHU Stuart Phillips.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by SU Hiltz, Owen, Assist by Cordes, Tyler, goal number 17 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Joe Hobot vs Mullen, John won by SU, [03:15] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by SU Mullen, John HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by SU Rhoa, Luke, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "Penalty on JHU Luke Martin (ILLEGAL BODY CHECK/2:00) Extra-man opportunity.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by SU Rhoa, Luke WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by SU Deere, Trey."
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by SU Deere, Trey (caused by Patrick Hackler)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "Ground ball pickup by JHU Reece DiCicco.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Penalty on SU Leo, Michael (SLASHING/1:00)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "Shot by JHU Stuart Phillips WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by SU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by SU."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU, [15:00] Ground ball pickup by JHU Patrick Hackler.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:18",
+    "home_event": "Shot by JHU Matt Collison WIDE.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:45",
+    "home_event": "Turnover by JHU Hunter Chauvette.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:22",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by SU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "13:19",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by SU Rhoa, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:52",
+    "home_event": "Shot by JHU Charlie Iler, SAVE McCool, Jimmy.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "Shot by JHU Sean Crogan, SAVE McCool, Jimmy.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:24",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Ground ball pickup by SU Kuczynski, Chuck."
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "11:14",
+    "home_event": "Ground ball pickup by JHU Jack Monfort.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:12",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:04",
+    "home_event": "Turnover by JHU.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:21",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by SU Spallina, Joey, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "2",
+    "time": "10:00",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "Ground ball pickup by JHU Hunter Chauvette.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:56",
+    "home_event": "Shot by JHU Hunter Chauvette BLOCKED.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "Shot clock violation by JHU.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by SU Cordes, Tyler, Assist by Hottle, Wyatt, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by SU Leo, Michael HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by SU Rhoa, Luke HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by SU Rhoa, Luke HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by SU Spallina, Joey (caused by Scott V. Smith)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "Ground ball pickup by JHU Patrick Hackler.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:51",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "GOAL by JHU Stuart Phillips, Assist by Erik Chick, goal number 7 for season.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "Faceoff Joe Hobot vs Mullen, John won by JHU, [06:03] Ground ball pickup by JHU Quintan Kilrain.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Penalty on SU Kuczynski, Chuck (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "Shot by JHU Matt Collison WIDE.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:12",
+    "home_event": "Shot by JHU Matt Collison, SAVE McCool, Jimmy.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:22",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Turnover by SU English, Sam (caused by Scott V. Smith)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "Ground ball pickup by JHU Scott V. Smith.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "Timeout by JHU.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:38",
+    "home_event": "Turnover by JHU Hunter Chauvette.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:34",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Ground ball pickup by SU McCool, Jimmy."
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Timeout by SU."
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "5-5",
+    "away_event": "Timeout by SU."
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "5-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "GOAL by JHU Charlie Iler, Assist by Quintan Kilrain, goal number 3 for season.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [00:59] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Anderson, Payton BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "00:20",
+    "home_event": "Ground ball pickup by JHU Quintan Kilrain.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [15:00] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "14:50",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Hiltz, Owen HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Rhoa, Luke WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Rhoa, Luke BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "13:44",
+    "home_event": "Ground ball pickup by JHU Patrick Hackler.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "Shot by JHU Dylan Bauer, SAVE McCool, Jimmy.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "Ground ball pickup by JHU Charlie Iler.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "Turnover by JHU Charlie Iler (caused by Figueiras, Riley).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by SU Figueiras, Riley."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Penalty on JHU Dylan Bauer (PUSHING/0:30) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by SU Rhoa, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "11:57",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Leo, Michael HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:37",
+    "home_event": "Shot by JHU Hunter Chauvette WIDE.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:12",
+    "home_event": "Turnover by JHU Hunter Chauvette (caused by Figueiras, Riley).",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:07",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by SU McCool, Jimmy."
+  },
+  {
+    "quarter": "3",
+    "time": "11:02",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Penalty on JHU Warry Colhoun (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:53",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Shot by SU Leo, Michael, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "3",
+    "time": "09:49",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "Ground ball pickup by SU Deere, Trey."
+  },
+  {
+    "quarter": "3",
+    "time": "08:57",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "GOAL by SU Rhoa, Luke, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:57",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [08:57] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "08:47",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by SU Deere, Trey."
+  },
+  {
+    "quarter": "3",
+    "time": "08:30",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "GOAL by JHU Dylan Bauer, Assist by Charlie Iler, goal number 7 for season.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [07:32] Ground ball pickup by SU English, Sam."
+  },
+  {
+    "quarter": "3",
+    "time": "07:03",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Turnover by SU English, Sam (caused by Reece DiCicco)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:54",
+    "home_event": "Ground ball pickup by JHU Reece DiCicco.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "Timeout by JHU.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "Turnover by JHU Brooks English.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:18",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Ground ball pickup by SU Caccamo, Nick."
+  },
+  {
+    "quarter": "3",
+    "time": "06:07",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:43",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:24",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by SU McCarthy, Tyler, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:19",
+    "home_event": "GOAL by JHU Erik Chick, goal number 2 for season.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:19",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [04:19] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "04:08",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by SU Deere, Trey."
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by SU Leo, Michael WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:24",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "3",
+    "time": "03:20",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by SU Deere, Trey WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Turnover by SU."
+  },
+  {
+    "quarter": "3",
+    "time": "02:42",
+    "home_event": "Shot by JHU Hunter Chauvette BLOCKED.",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "Turnover by JHU Dylan Bauer (caused by Spallina, Jake).",
+    "score": "8-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:25",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Ground ball pickup by SU Spallina, Jake."
+  },
+  {
+    "quarter": "3",
+    "time": "01:54",
+    "home_event": "",
+    "score": "8-6",
+    "away_event": "Shot by SU Hiltz, Owen WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "GOAL by SU Cordes, Tyler, Assist by Spallina, Joey, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:48",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Joe Hobot vs Mullen, John won by SU, [01:48] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "GOAL by SU Leo, Michael, goal number 12 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:12",
+    "home_event": "",
+    "score": "8-8",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [01:12] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "3",
+    "time": "00:57",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "GOAL by SU Spallina, Joey, goal number 15 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:57",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU, [00:57] Ground ball pickup by JHU Logan Callahan.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:50",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Penalty on SU Mullen, John (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "00:35",
+    "home_event": "Turnover by JHU Brooks English.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by SU Dwan, Billy."
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by SU Figueiras, Riley."
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Shot by JHU Stuart Phillips WIDE.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [15:00] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "14:53",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by SU Deere, Trey, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "4",
+    "time": "14:32",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "GOAL by JHU Matt Collison, Assist by Dylan Bauer, goal number 12 for season.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU (on faceoff violation).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:17",
+    "home_event": "Shot by JHU Stuart Phillips WIDE.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:56",
+    "home_event": "Turnover by JHU Charlie Iler (caused by Figueiras, Riley).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by SU McCool, Jimmy."
+  },
+  {
+    "quarter": "4",
+    "time": "12:47",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:57",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by SU Rhoa, Luke, SAVE Luke Staudt."
+  },
+  {
+    "quarter": "4",
+    "time": "11:26",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by SU Leo, Michael WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:10",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Shot by JHU Jimmy Ayers BLOCKED.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:21",
+    "home_event": "Turnover by JHU Stuart Phillips.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:50",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by SU Hiltz, Owen HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by SU Spallina, Joey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Turnover by SU Hottle, Wyatt."
+  },
+  {
+    "quarter": "4",
+    "time": "09:03",
+    "home_event": "Ground ball pickup by JHU Quintan Kilrain.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:58",
+    "home_event": "Clear attempt by JHU failed.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "Turnover by JHU Jack Monfort (caused by Deere, Trey).",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:47",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Ground ball pickup by SU Figueiras, Riley."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "",
+    "score": "9-10",
+    "away_event": "GOAL by SU Hiltz, Owen, Assist by Spallina, Joey, goal number 18 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "Faceoff Logan Callahan vs Angelo, Drew won by JHU (on faceoff violation).",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:31",
+    "home_event": "Ground ball pickup by JHU Charlie Iler.",
+    "score": "9-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "GOAL by JHU Charlie Iler, goal number 4 for season.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "4",
+    "time": "07:29",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [07:29] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "GOAL by SU Rhoa, Luke, Assist by Hiltz, Owen, goal number 13 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:49",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "Faceoff Logan Callahan vs Mullen, John won by SU, [06:49] Ground ball pickup by SU Mullen, John."
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "GOAL by SU Hiltz, Owen, Assist by Spallina, Joey, goal number 19 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "Penalty on JHU Colby Weishaar (UNNECESSARY ROUGHNESS/1:00).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:19",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Penalty on SU Deere, Trey (UNNECESSARY ROUGHNESS/1:00)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:42",
+    "home_event": "Turnover by JHU Brooks English (caused by Rice, Carter).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:54",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "04:52",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Ground ball pickup by SU Spallina, Joey."
+  },
+  {
+    "quarter": "4",
+    "time": "04:35",
+    "home_event": "Penalty on JHU Patrick Hackler (HOLDING/0:30) Extra-man opportunity.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:46",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by SU Deere, Trey HIT CROSSBAR."
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "GOAL by SU Leo, Michael, Assist by English, Sam, goal number 13 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "Faceoff Logan Callahan vs Mullen, John won by JHU.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "Shot by JHU Matt Collison, SAVE McCool, Jimmy.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:18",
+    "home_event": "Shot by JHU Matt Collison WIDE.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "Shot by JHU Dylan Bauer, SAVE McCool, Jimmy.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Penalty on SU Kuczynski, Chuck (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "01:43",
+    "home_event": "Shot by JHU Hunter Chauvette HIT CROSSBAR.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:34",
+    "home_event": "Shot by JHU Matt Collison, SAVE McCool, Jimmy.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by SU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Shot by SU English, Sam WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:01",
+    "home_event": "Clear attempt by JHU good.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:59",
+    "home_event": "Timeout by JHU.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "Shot by JHU Hunter Chauvette, SAVE McCool, Jimmy.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by SU good."
+  }
+]

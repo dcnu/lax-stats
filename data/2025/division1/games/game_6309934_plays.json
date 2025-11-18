@@ -1,0 +1,1857 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "MOORE, Anderson at goalie for GU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Scarborough at goalie for SJU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by SJU, [15:00] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "1",
+    "time": "14:45",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by SJU Dylan Lee (caused by CARROLL, Aidan)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "Ground ball pickup by GU FOLEY, Seamus.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:37",
+    "home_event": "Turnover by GU FOLEY, Seamus.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:33",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by SJU Brian Kelly (caused by PLATH, Robert)."
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "Ground ball pickup by GU PLATH, Robert.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "Clear attempt by GU good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "Shot by GU CARROLL, Aidan, SAVE Patrick Scarborough.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "Turnover by GU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "GOAL by GU RANSOM, Jack (FIRST GOAL).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [13:10] Ground ball pickup by GU HAUS, Michael.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Shot by GU CARROLL, Aidan HIT POST.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by SJU Mitch Campbell."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by SJU Mitch Campbell, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Clear attempt by GU good.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "Shot by GU BAYMAN, Fulton HIGH.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:33",
+    "home_event": "GOAL by GU RANSOM, Jack, Assist by DUDEMAINE, Lucas.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:33",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by SJU, [11:33] Ground ball pickup by SJU Danny Koch."
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Turnover by SJU Danny Koch (caused by MCGURRIN, Charlie)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "Ground ball pickup by GU BAYMAN, Fulton.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "Shot by GU MILLER, Kevin WIDE.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SJU Ryan Ormond HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SJU Jayson Cardenas, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "2-0",
+    "away_event": "Shot by SJU Ryan Ormond HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "Clear attempt by GU good.",
+    "score": "2-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "GOAL by GU CESARE, Joe, Assist by CARROLL, Aidan.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU (on faceoff violation).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "Ground ball pickup by GU MILLER, Kevin.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "Shot by GU RANSOM, Jack, SAVE Patrick Scarborough.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "Turnover by GU LELAND, Jack (caused by Bobby Seel).",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "Shot by GU CROGAN, Patrick, SAVE Patrick Scarborough.",
+    "score": "3-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "3-0",
+    "away_event": "Turnover by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "GOAL by GU CROGAN, Patrick.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "Faceoff PRINCE, Ross vs John Mavlios won by GU, [07:10] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:45",
+    "home_event": "Shot by GU CARROLL, Aidan HIT POST.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Ground ball pickup by SJU Quinn Falasca."
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "06:33",
+    "home_event": "",
+    "score": "4-0",
+    "away_event": "Turnover by SJU Quinn Falasca (caused by BANKS, Ty)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "4-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "GOAL by GU RANSOM, Jack, Assist by GOLDBERG, Kade.",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU (on faceoff violation).",
+    "score": "5-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "GOAL by GU RANSOM, Jack, Assist by CROGAN, Patrick.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [05:53] Ground ball pickup by GU HAUS, Michael.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "Shot by GU WRAY, Jordan HIT POST.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "Shot by GU MILLER, Kevin WIDE.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "Turnover by GU WRAY, Jordan (caused by Quinn Falasca).",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "6-0",
+    "away_event": "Turnover by SJU Dylan Lee."
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "Shot by GU CARROLL, Aidan WIDE.",
+    "score": "6-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "GOAL by GU DUDEMAINE, Lucas, Assist by BAYMAN, Fulton.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [03:50] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "7-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "GOAL by GU WRAY, Jordan, Assist by GOLDBERG, Kade.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by GU, [03:20] Ground ball pickup by GU VAN BUREN, Wilson.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "Turnover by GU MCGURRIN, Charlie (caused by Patrick Scarborough).",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "",
+    "score": "8-0",
+    "away_event": "Shot by SJU Bobby Seel, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "Clear attempt by GU good.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "Shot by GU ERB, Jack, SAVE Patrick Scarborough.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "Shot by GU CARROLL, Aidan WIDE.",
+    "score": "8-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by DUDEMAINE, Lucas.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by GU, [01:43] Ground ball pickup by GU HAUS, Michael.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:48",
+    "home_event": "Shot by GU CAPONITI, Henry, SAVE Patrick Scarborough.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "Shot by GU RANSOM, Jack HIT POST.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "Shot by GU WRAY, Jordan HIT POST.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "Ground ball pickup by GU MILLER, Kevin.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by GU CAPONITI, Henry, SAVE Patrick Scarborough.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:12",
+    "home_event": "",
+    "score": "9-0",
+    "away_event": "Turnover by SJU Danny Koch."
+  },
+  {
+    "quarter": "2",
+    "time": "14:12",
+    "home_event": "Clear attempt by GU good.",
+    "score": "9-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by MILLER, Kevin.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:39",
+    "home_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by GU, [13:39] Ground ball pickup by GU VAN BUREN, Wilson.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:31",
+    "home_event": "Turnover by GU ACTON, George.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:48",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Ground ball pickup by SJU Brian Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Shot by SJU Bobby Seel WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:19",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Shot by SJU Drew Wasserman, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "Clear attempt by GU good.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "Turnover by GU CARROLL, James.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:40",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "",
+    "score": "10-0",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "Clear attempt by GU good.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:01",
+    "home_event": "Ground ball pickup by GU CESARE, Joe.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "Ground ball pickup by GU BAYMAN, Fulton.",
+    "score": "10-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "GOAL by GU CROGAN, Patrick.",
+    "score": "11-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:36",
+    "home_event": "",
+    "score": "11-0",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by SJU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "GOAL by SJU Adrian Nowak, Assist by Ryan Ormond, goal number 21 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "09:58",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by SJU, [09:58] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Turnover by SJU Brady Rauner (caused by ACTON, George)."
+  },
+  {
+    "quarter": "2",
+    "time": "09:34",
+    "home_event": "Ground ball pickup by GU RANSOM, Jack.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "Shot by GU RANSOM, Jack HIT POST.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:01",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Ground ball pickup by SJU Bobby Seel."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Shot by SJU Jayson Cardenas WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:25",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Turnover by SJU Bobby Seel (caused by MCGURRIN, Charlie)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:21",
+    "home_event": "Ground ball pickup by GU MCGURRIN, Charlie.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:19",
+    "home_event": "Clear attempt by GU good.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:53",
+    "home_event": "Shot by GU BAYMAN, Fulton WIDE.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:40",
+    "home_event": "Penalty on GU ACTON, George (HOLDING/0:30) Extra-man opportunity.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Turnover by SJU Jayson Cardenas."
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Shot by GU RANSOM, Jack HIGH.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "Shot by GU CESARE, Joe, SAVE Patrick Scarborough.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "Timeout by GU.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:41",
+    "home_event": "Shot by GU WRAY, Jordan, SAVE Patrick Scarborough.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:35",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "05:29",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "05:26",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Turnover by SJU Marcel Vernon Jr. (caused by MILLER, Kevin)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:19",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "Shot by GU CARROLL, Aidan, SAVE Patrick Scarborough.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:59",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:36",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Turnover by SJU Mitch Campbell (caused by BANKS, Ty)."
+  },
+  {
+    "quarter": "2",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by GU BANKS, Ty.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "Clear attempt by GU good.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:28",
+    "home_event": "Shot by GU BAYMAN, Fulton, SAVE Patrick Scarborough.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Ground ball pickup by SJU Patrick Scarborough."
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:14",
+    "home_event": "",
+    "score": "11-1",
+    "away_event": "Shot by SJU Ryan Ormond, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "2",
+    "time": "03:08",
+    "home_event": "Ground ball pickup by GU MOORE, Anderson.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "Clear attempt by GU good.",
+    "score": "11-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by MILLER, Kevin.",
+    "score": "12-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:20",
+    "home_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by GU, [02:20] Ground ball pickup by GU ACTON, George.",
+    "score": "12-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:14",
+    "home_event": "Shot by GU ACTON, George HIGH.",
+    "score": "12-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:43",
+    "home_event": "Shot by GU CESARE, Joe, SAVE Patrick Scarborough.",
+    "score": "12-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:41",
+    "home_event": "",
+    "score": "12-1",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "",
+    "score": "12-1",
+    "away_event": "Ground ball pickup by SJU Drew Wasserman."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "12-1",
+    "away_event": "Shot by SJU Brian Kelly BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "GOAL by SJU Dan Koban, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Faceoff RILEY, Matthew vs Ethan Wiegand won by SJU, [00:42] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "12-2",
+    "away_event": "Shot by SJU Danny Koch HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Penalty on GU RILEY, Matthew (HOLDING/0:30) Extra-man opportunity.",
+    "score": "12-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "GOAL by SJU Bobby Seel (MAN-UP), Assist by Drew Wasserman, goal number 17 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [14:44] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:10",
+    "home_event": "Shot by GU RANSOM, Jack, SAVE Patrick Scarborough.",
+    "score": "12-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Ground ball pickup by SJU Harry Noel."
+  },
+  {
+    "quarter": "3",
+    "time": "14:00",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:27",
+    "home_event": "",
+    "score": "12-3",
+    "away_event": "Shot by SJU Jayson Cardenas WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "GOAL by SJU Jayson Cardenas, Assist by Adrian Nowak, goal number 16 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU (on faceoff violation).",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:37",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by CESARE, Joe.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:37",
+    "home_event": "Faceoff PRINCE, Ross vs John Mavlios won by GU, [12:37] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "Shot by GU WRAY, Jordan HIGH.",
+    "score": "13-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "GOAL by GU BAYMAN, Fulton.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [11:52] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "Shot by GU CROGAN, Patrick WIDE.",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:44",
+    "home_event": "Turnover by GU CESARE, Joe (caused by Tyson Meade).",
+    "score": "14-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Ground ball pickup by SJU Harry Noel."
+  },
+  {
+    "quarter": "3",
+    "time": "10:33",
+    "home_event": "",
+    "score": "14-4",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "",
+    "score": "14-5",
+    "away_event": "GOAL by SJU Brian Kelly, Assist by Mitch Campbell, goal number 34 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [10:20] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by GU CARROLL, Aidan.",
+    "score": "14-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "GOAL by GU GOLDBERG, Kade.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:24",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU (on faceoff violation).",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:51",
+    "home_event": "Shot by GU RANSOM, Jack HIGH.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:49",
+    "home_event": "Penalty on GU RANSOM, Jack (PSUH/0:30) Extra-man opportunity.",
+    "score": "15-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "",
+    "score": "15-5",
+    "away_event": "Shot by SJU Adrian Nowak, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "GOAL by GU CARROLL, Aidan, Assist by RANSOM, Jack.",
+    "score": "16-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "16-5",
+    "away_event": "Faceoff PRINCE, Ross vs John Mavlios won by SJU, [07:48] Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "3",
+    "time": "07:48",
+    "home_event": "",
+    "score": "16-5",
+    "away_event": "Ground ball pickup by SJU Tyson Meade."
+  },
+  {
+    "quarter": "3",
+    "time": "07:30",
+    "home_event": "Penalty on GU VRANIZAN, Joe (TRIPPING/1:00) Extra-man opportunity.",
+    "score": "16-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:19",
+    "home_event": "",
+    "score": "16-5",
+    "away_event": "Shot by SJU Adrian Nowak HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "07:06",
+    "home_event": "",
+    "score": "16-5",
+    "away_event": "Shot by SJU Jayson Cardenas, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "GOAL by GU RANSOM, Jack (MAN-DOWN), Assist by ERB, Jack.",
+    "score": "17-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "Faceoff PRINCE, Ross vs Ethan Wiegand won by GU, [06:56] Ground ball pickup by GU PRINCE, Ross.",
+    "score": "17-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:11",
+    "home_event": "GOAL by GU RANSOM, Jack, Assist by CROGAN, Patrick.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:11",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by SJU, [06:11] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "3",
+    "time": "05:38",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Shot by SJU Adrian Nowak HIT POST."
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:21",
+    "home_event": "Turnover by GU DUDEMAINE, Lucas.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:21",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Clear attempt by SJU failed."
+  },
+  {
+    "quarter": "3",
+    "time": "04:21",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Turnover by SJU Braeden Pratt."
+  },
+  {
+    "quarter": "3",
+    "time": "03:55",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "Shot by GU GOLDBERG, Kade, SAVE Patrick Scarborough.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Turnover by SJU Adrian Nowak (caused by PLATH, Robert)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Ground ball pickup by GU MOORE, Anderson.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:40",
+    "home_event": "Turnover by GU MILLER, Kevin (caused by Quinn Falasca).",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:31",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Shot by SJU Mitch Campbell, SAVE MOORE, Anderson."
+  },
+  {
+    "quarter": "3",
+    "time": "01:06",
+    "home_event": "Ground ball pickup by GU HAUS, Michael.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:03",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Shot by GU HORNING, Owen BLOCKED.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by GU FIRLIE, Ben.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by GU CAPONITI, Henry HIGH.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "Shot by GU CAGGIANO, Cade, SAVE Patrick Scarborough.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "SCHARFENBERGER, M. at goalie for GU.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:57",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by SJU, [14:57] Ground ball pickup by SJU Marcel Vernon Jr.."
+  },
+  {
+    "quarter": "4",
+    "time": "14:19",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Turnover by SJU Bobby Seel (caused by ACTON, George)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:14",
+    "home_event": "Ground ball pickup by GU ACTON, George.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:07",
+    "home_event": "Turnover by GU.",
+    "score": "18-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "",
+    "score": "18-5",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "GOAL by SJU Adrian Nowak, goal number 22 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:30",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Faceoff VAN BUREN, Wilson vs Ethan Wiegand won by SJU, [13:30] Ground ball pickup by SJU Ethan Wiegand."
+  },
+  {
+    "quarter": "4",
+    "time": "13:06",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Shot by SJU Ryan Ormond WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:26",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Shot by SJU Ryan Ormond WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:58",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Ground ball pickup by SJU Ryan Ormond."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Shot by SJU Ryan Ormond HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "11:53",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:01",
+    "home_event": "Shot by GU HORNING, Owen, SAVE Patrick Scarborough.",
+    "score": "18-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:56",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:47",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Ground ball pickup by SJU Brian Kelly."
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Turnover by SJU Brian Kelly (caused by CARRELLO, Aidan)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "Clear attempt by GU good.",
+    "score": "18-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:00",
+    "home_event": "Turnover by GU CHARI, Zach (caused by Quinn Falasca).",
+    "score": "18-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:40",
+    "home_event": "",
+    "score": "18-6",
+    "away_event": "Turnover by SJU Wade Bryan (caused by CARRETTA, James)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "Ground ball pickup by GU CARRETTA, James.",
+    "score": "18-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "GOAL by GU CHARI, Zach, Assist by REEVES, Pierre.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Faceoff RILEY, Matthew vs John Mavlios won by GU, [09:38] Ground ball pickup by GU RILEY, Matthew.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Clear attempt by GU good.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "2-point Shot by GU HOFFMAN, Charlie, SAVE Patrick Scarborough.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:47",
+    "home_event": "",
+    "score": "19-6",
+    "away_event": "Penalty on SJU Thomas Flavin (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "Shot by GU CHARI, Zach HIT POST.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:14",
+    "home_event": "Ground ball pickup by GU HOFFMAN, Charlie.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "Shot by GU CAPONITI, Henry, SAVE Patrick Scarborough.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:04",
+    "home_event": "Ground ball pickup by GU HOFFMAN, Charlie.",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:59",
+    "home_event": "Turnover by GU HOFFMAN, Charlie (caused by Dylan Lee).",
+    "score": "19-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "",
+    "score": "19-6",
+    "away_event": "Ground ball pickup by SJU Dylan Lee."
+  },
+  {
+    "quarter": "4",
+    "time": "07:48",
+    "home_event": "",
+    "score": "19-6",
+    "away_event": "Ground ball pickup by SJU Sean Rice."
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "",
+    "score": "19-6",
+    "away_event": "Timeout by SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "",
+    "score": "19-6",
+    "away_event": "Matt Nelson at goalie for SJU."
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "",
+    "score": "19-7",
+    "away_event": "GOAL by SJU Sean Rice, Assist by Brian Kelly, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "Faceoff RILEY, Matthew vs John Mavlios won by GU, [07:07] Ground ball pickup by GU PICARD, Chase.",
+    "score": "19-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "Shot by GU COALE, Will HIGH.",
+    "score": "19-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "GOAL by GU KELLY, Shuey, Assist by HORNING, Owen.",
+    "score": "20-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "Faceoff RILEY, Matthew vs John Mavlios won by GU, [05:59] Ground ball pickup by GU RILEY, Matthew.",
+    "score": "20-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "Clear attempt by GU good.",
+    "score": "20-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:11",
+    "home_event": "Shot by GU CHARI, Zach WIDE.",
+    "score": "20-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "GOAL by GU KELLY, Shuey.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "Faceoff RILEY, Matthew vs John Mavlios won by GU, [04:46] Ground ball pickup by GU RILEY, Matthew.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "Shot by GU WILLIAMS, Cavanagh HIGH.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Shot by GU COALE, Will WIDE.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "Shot by GU FIRLIE, Ben, SAVE Matt Nelson.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:11",
+    "home_event": "Ground ball pickup by GU CAGGIANO, Cade.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Penalty on SJU Luke Lulley (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "03:34",
+    "home_event": "Turnover by GU COALE, Will.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Shot by SJU Dan Koban HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "02:43",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Ground ball pickup by SJU Dan Koban."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Shot by SJU Luke Mangan WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "01:59",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Turnover by SJU Dan Koban."
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "Ground ball pickup by GU CARRETTA, James.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:57",
+    "home_event": "Turnover by GU CHARI, Zach.",
+    "score": "21-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:50",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Ground ball pickup by SJU Jack Skarren."
+  },
+  {
+    "quarter": "4",
+    "time": "00:48",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Clear attempt by SJU good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "",
+    "score": "21-7",
+    "away_event": "Shot by SJU Sawyer Van Antwerp HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "21-8",
+    "away_event": "GOAL by SJU Drew Wasserman, Assist by Sean Rice, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "21-8",
+    "away_event": "Faceoff RILEY, Matthew vs Thomas Flavin won by SJU (on faceoff violation)."
+  }
+]

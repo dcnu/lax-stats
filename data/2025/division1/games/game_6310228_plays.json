@@ -1,0 +1,1472 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Salanger, Owen at goalie for UMASS.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "O'BRIEN, Carter at goalie for UMLM."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Coyle, Brendan vs ALEXANDER, Justin won by UMLM, [15:00] Ground ball pickup by UMLM KEMPSKI, Miles."
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by UMLM ADEY, Josh (caused by Auble, Zach)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "Ground ball pickup by UMASS Swanson, Kyle.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Turnover by UMASS Hogan, Trace.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by UMLM LAWHORN, Riley, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UMLM MURPHY, Garrett."
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by UMLM MURPHY, Garrett (FIRST GOAL), goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Coyle, Brendan vs ALEXANDER, Justin won by UMLM, [12:19] Ground ball pickup by UMLM CASSAR, Tommy."
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMLM FRIGON, Colby HIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMLM DONNELLY, James WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by UMLM SOI, Johnny, goal number 10 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Coyle, Brendan vs ALEXANDER, Justin won by UMLM (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by UMLM FRIGON, Colby, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "Ground ball pickup by UMASS Petitto, Matthew.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Turnover by UMASS Clayton, Tyler.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by UMLM JIMENEZ, Jack."
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by UMLM failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by UMLM MURPHY, Garrett."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "Shot by UMASS Drunsic, Aiden HIGH.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "Shot by UMASS Finnerty, Michael HIGH.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "Shot by UMASS Hogan, Trace HIT POST.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:27",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by UMLM ADEY, Josh."
+  },
+  {
+    "quarter": "1",
+    "time": "08:24",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by UMLM MURPHY, Garrett, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "GOAL by UMASS Hogan, Trace.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [06:02] Ground ball pickup by UMASS Drunsic, Aiden.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "Shot by UMASS Finnerty, Michael HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "Shot by UMASS Granara, Robbie HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "Shot by UMASS Finnerty, Michael, SAVE O'BRIEN, Carter.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE O'BRIEN, Carter.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by UMLM LAWHORN, Riley, goal number 13 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by UMLM LAFRENIERE, Alex."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Shot by UMASS Cargiulo, Matthew WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "Shot by UMASS Kurtz, Charles HIGH.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "Shot by UMASS Kurtz, Charles WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "Shot by UMASS Drunsic, Aiden WIDE.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "Shot clock violation by UMASS.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by UMLM failed."
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Turnover by UMLM ADEY, Josh."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Ground ball pickup by UMASS Hogan, Trace.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "GOAL by UMASS Hogan, Trace.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Coyle, Brendan vs ALEXANDER, Justin won by UMLM, [01:11] Ground ball pickup by UMLM ALEXANDER, Justin."
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by UMLM SOI, Johnny, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Ground ball pickup by UMASS Petitto, Matthew.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Clear attempt by UMASS failed.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "Turnover by UMASS Petitto, Matthew (caused by DONNELLY, James).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by UMLM DONNELLY, James WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by UMLM BURKE, Danny."
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:11",
+    "home_event": "Ground ball pickup by UMASS Auble, Zach.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE O'BRIEN, Carter.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by UMLM FERRARO, Brenden."
+  },
+  {
+    "quarter": "2",
+    "time": "12:59",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by UMLM SUMWALT, Griffin HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by UMLM FRIGON, Colby, Assist by LAWHORN, Riley, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:45",
+    "home_event": "Faceoff Coyle, Brendan vs ALEXANDER, Justin won by UMASS, [11:45] Ground ball pickup by UMASS Coyle, Brendan.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Penalty on UMLM KEMPSKI, Miles (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "GOAL by UMASS Cargiulo, Matthew (MAN-UP), Assist by Turowsky, Jack.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:10",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [11:10] Ground ball pickup by UMASS Elliott, Jimmy.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "GOAL by UMASS Finnerty, Michael.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Casey, TJ vs MCINTEE, Owen won by UMLM, [10:23] Ground ball pickup by UMLM MCINTEE, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Turnover by UMLM MCINTEE, Owen (caused by Drunsic, Aiden)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:10",
+    "home_event": "Ground ball pickup by UMASS Drunsic, Aiden.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "GOAL by UMASS Drunsic, Aiden.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Timeout by UMLM."
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS (on faceoff violation).",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:21",
+    "home_event": "Shot by UMASS Kurtz, Charles, SAVE O'BRIEN, Carter.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Penalty on UMASS Petitto, Matthew (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:38",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by UMLM DONNELLY, James (caused by Conley, Joe)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:32",
+    "home_event": "Ground ball pickup by UMASS Hutchinson, Russ.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:43",
+    "home_event": "Shot by UMASS Cargiulo, Matthew WIDE.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by UMLM ALMEIDA, Hayden."
+  },
+  {
+    "quarter": "2",
+    "time": "06:33",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:16",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by UMLM FRIGON, Colby (caused by Morse, Will)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:07",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:30",
+    "home_event": "Shot by UMASS Turowsky, Jack, SAVE O'BRIEN, Carter.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:26",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by UMLM CASSAR, Tommy."
+  },
+  {
+    "quarter": "2",
+    "time": "05:24",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:44",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Shot by UMLM MURPHY, Garrett WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Ground ball pickup by UMLM SUMWALT, Griffin."
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by UMLM SUMWALT, Griffin."
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "Shot by UMASS Hogan, Trace, SAVE O'BRIEN, Carter.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:34",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Turnover by UMLM DONNELLY, James."
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Ground ball pickup by UMASS Elliott, Jimmy.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:54",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "Shot by UMASS Petitto, Matthew HIGH.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "",
+    "score": "5-4",
+    "away_event": "Timeout by UMLM."
+  },
+  {
+    "quarter": "2",
+    "time": "02:29",
+    "home_event": "Shot by UMASS Drunsic, Aiden, SAVE O'BRIEN, Carter.",
+    "score": "5-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "GOAL by UMASS Finnerty, Michael, Assist by Krisch, John.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Faceoff Casey, TJ vs MCINTEE, Owen won by UMLM, [02:07] Ground ball pickup by UMLM FERRARO, Brenden."
+  },
+  {
+    "quarter": "2",
+    "time": "01:37",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by UMLM."
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Shot by UMASS Kurtz, Charles, SAVE O'BRIEN, Carter.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:39",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by UMLM TISMO, Trevor."
+  },
+  {
+    "quarter": "2",
+    "time": "00:37",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Shot by UMLM LAWHORN, Riley WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [15:00] Ground ball pickup by UMASS Casey, TJ.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:46",
+    "home_event": "Turnover by UMASS Drunsic, Aiden (caused by ADEY, Josh).",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:39",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Ground ball pickup by UMLM ADEY, Josh."
+  },
+  {
+    "quarter": "3",
+    "time": "14:33",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Turnover by UMLM MURPHY, Garrett (caused by Petitto, Matthew)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:49",
+    "home_event": "Ground ball pickup by UMASS Petitto, Matthew.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:54",
+    "home_event": "Shot by UMASS Clayton, Tyler, SAVE O'BRIEN, Carter.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "",
+    "score": "6-5",
+    "away_event": "GOAL by UMLM SUMWALT, Griffin, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:04",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [12:04] Ground ball pickup by UMASS Casey, TJ.",
+    "score": "6-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "GOAL by UMASS Jackman, Brian.",
+    "score": "7-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "",
+    "score": "7-5",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM, [11:16] Ground ball pickup by UMLM ALEXANDER, Justin."
+  },
+  {
+    "quarter": "3",
+    "time": "11:10",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "GOAL by UMLM ALEXANDER, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "11:10",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM, [11:10] Ground ball pickup by UMLM GIRARDI, Joe."
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by UMLM SOI, Johnny, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:38",
+    "home_event": "Shot by UMASS Granara, Robbie, SAVE O'BRIEN, Carter.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:31",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot by UMLM SUMWALT, Griffin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Shot clock violation by UMLM."
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:53",
+    "home_event": "Shot by UMASS Salanger, Owen, SAVE O'BRIEN, Carter.",
+    "score": "7-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:42",
+    "home_event": "",
+    "score": "7-6",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:13",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "GOAL by UMLM MURPHY, Garrett, Assist by DONNELLY, James, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:13",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "07:13",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [07:13] Ground ball pickup by UMASS New, Blaise.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "Turnover by UMASS Cargiulo, Matthew (caused by FRIGON, Colby).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:49",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by UMLM ALMEIDA, Hayden."
+  },
+  {
+    "quarter": "3",
+    "time": "06:12",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UMLM FRIGON, Colby WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UMLM DONNELLY, James, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "05:35",
+    "home_event": "Clear attempt by UMASS failed.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "Turnover by UMASS Conley, Joe (caused by SCHLICKER, Jackson).",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:28",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Ground ball pickup by UMLM SCHLICKER, Jackson."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UMLM DONNELLY, James WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:54",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:15",
+    "home_event": "Turnover by UMASS Kurtz, Charles.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:11",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:56",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by UMLM SOI, Johnny HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot clock violation by UMLM."
+  },
+  {
+    "quarter": "3",
+    "time": "02:49",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "Shot by UMASS Jackman, Brian, SAVE O'BRIEN, Carter.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:36",
+    "home_event": "Ground ball pickup by UMASS Granara, Robbie.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "GOAL by UMASS Granara, Robbie.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [01:43] Ground ball pickup by UMASS Casey, TJ.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:53",
+    "home_event": "Shot by UMASS Hogan, Trace WIDE.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:44",
+    "home_event": "Shot by UMASS Drunsic, Aiden HIGH.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:40",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by UMLM SUMWALT, Griffin WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM, [15:00] Ground ball pickup by UMLM ALEXANDER, Justin."
+  },
+  {
+    "quarter": "4",
+    "time": "14:14",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by UMLM SOI, Johnny HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "14:05",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by UMLM LAWHORN, Riley WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Ground ball pickup by UMLM MURPHY, Garrett."
+  },
+  {
+    "quarter": "4",
+    "time": "13:27",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by UMLM LAWHORN, Riley WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "13:23",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot clock violation by UMLM."
+  },
+  {
+    "quarter": "4",
+    "time": "13:20",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "Shot by UMASS Drunsic, Aiden HIT POST.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:22",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:50",
+    "home_event": "",
+    "score": "8-7",
+    "away_event": "Shot by UMLM SUMWALT, Griffin, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "8-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "GOAL by UMASS Hogan, Trace.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM, [10:57] Ground ball pickup by UMLM ALMEIDA, Hayden."
+  },
+  {
+    "quarter": "4",
+    "time": "09:54",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by UMLM SOI, Johnny WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:28",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Shot by UMLM BURKE, Danny, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:06",
+    "home_event": "Turnover by UMASS Hogan, Trace (caused by GALGANO, Trevor).",
+    "score": "9-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:59",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:18",
+    "home_event": "",
+    "score": "9-7",
+    "away_event": "Timeout by UMLM."
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "GOAL by UMLM SOI, Johnny, goal number 11 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:09",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [08:09] Ground ball pickup by UMASS Casey, TJ.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:02",
+    "home_event": "Turnover by UMASS Jackman, Brian.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "4",
+    "time": "06:07",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by UMLM LAWHORN, Riley HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "05:50",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by UMLM MURPHY, Garrett (caused by Cook, Chanse)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:46",
+    "home_event": "Ground ball pickup by UMASS Cook, Chanse.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:17",
+    "home_event": "Shot by UMASS Clayton, Tyler WIDE.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Shot by UMASS Cargiulo, Matthew, SAVE O'BRIEN, Carter.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "Turnover by UMASS Cargiulo, Matthew (caused by JIMENEZ, Jack).",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Ground ball pickup by UMLM JIMENEZ, Jack."
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by UMLM failed."
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Turnover by UMLM O'BRIEN, Carter (caused by Elliott, Jimmy)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:56",
+    "home_event": "Ground ball pickup by UMASS Elliott, Jimmy.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:52",
+    "home_event": "Shot by UMASS Morse, Will HIGH.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:51",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Timeout by UMLM."
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "Shot by UMASS Finnerty, Michael WIDE.",
+    "score": "9-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:10",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Clear attempt by UMLM good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:54",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by UMLM DONNELLY, James WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:35",
+    "home_event": "",
+    "score": "9-8",
+    "away_event": "Shot by UMLM SOI, Johnny WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "GOAL by UMLM MURPHY, Garrett, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:16",
+    "home_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMASS, [02:16] Ground ball pickup by UMASS Clayton, Tyler.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "GOAL by UMASS Granara, Robbie, Assist by Hogan, Trace.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Casey, TJ vs ALEXANDER, Justin won by UMLM, [01:42] Ground ball pickup by UMLM ALEXANDER, Justin."
+  },
+  {
+    "quarter": "4",
+    "time": "01:12",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by UMLM DONNELLY, James WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "00:54",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by UMLM LAWHORN, Riley, SAVE Salanger, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "00:52",
+    "home_event": "Ground ball pickup by UMASS Salanger, Owen.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Clear attempt by UMASS good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "Timeout by UMASS.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:27",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "EMPTY NET at goalie for UMLM."
+  },
+  {
+    "quarter": "4",
+    "time": "00:08",
+    "home_event": "Timeout by UMASS.",
+    "score": "10-9",
+    "away_event": ""
+  }
+]

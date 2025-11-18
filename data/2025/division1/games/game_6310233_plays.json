@@ -1,0 +1,1542 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Isaac Farmer at goalie for SBU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Salanger, Owen at goalie for UMASS."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Coyle, Brendan won by SBU (on faceoff violation).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "Shot by SBU Patrick Shanahan WIDE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "Shot by SBU Drew Kenney, SAVE Salanger, Owen.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by UMASS Granara, Robbie (FIRST GOAL), Assist by Clayton, Tyler, goal number 28 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "Faceoff Lad Harper vs Casey, TJ won by SBU, [12:48] Ground ball pickup by SBU Kaden Brennan.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:50",
+    "home_event": "Ground ball pickup by SBU John Boomer.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "Shot by SBU Patrick Shanahan, SAVE Salanger, Owen.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMASS New, Blaise."
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMASS failed."
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by UMASS Salanger, Owen (caused by Aaron Eberhard)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "Ground ball pickup by SBU Aaron Eberhard.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "Shot by SBU Cole Kucinski, SAVE Salanger, Owen.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMASS Auble, Zach."
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMASS Hogan, Trace, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "Ground ball pickup by SBU Aaron Eberhard.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "Shot by SBU Chase Perryman, SAVE Salanger, Owen.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMASS Drunsic, Aiden WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "Timeout by SBU.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by UMASS Clayton, Tyler WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "Ground ball pickup by SBU Owen Tasse.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "Turnover by SBU Drew Kenney.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by UMASS Clayton, Tyler."
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by UMASS Drunsic, Aiden, Assist by Clayton, Tyler, goal number 19 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:53",
+    "home_event": "Penalty on SBU Henry Coke (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:31",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by UMASS Cargiulo, Matthew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by UMASS Finnerty, Michael (MAN-UP), Assist by Granara, Robbie, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "Faceoff Lad Harper vs Casey, TJ won by SBU, [07:22] Ground ball pickup by SBU Henry Coke.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "Turnover by SBU Jaxon Dillon.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by UMASS Jackman, Brian, goal number 7 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "Faceoff Lad Harper vs Coyle, Brendan won by SBU, [05:18] Ground ball pickup by SBU Lad Harper.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:11",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "Shot by SBU Cole Kucinski WIDE.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "Shot by SBU Chris Lawrence, SAVE Salanger, Owen.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by UMASS Cargiulo, Matthew WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot by UMASS Granara, Robbie WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Shot clock violation by UMASS."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "Shot by SBU Chris Lawrence, SAVE Salanger, Owen.",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:08",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by UMASS Drunsic, Aiden, Assist by Granara, Robbie, goal number 20 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "Faceoff Lad Harper vs Coyle, Brendan won by SBU, [01:23] Ground ball pickup by SBU Lad Harper.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "Turnover by SBU Kaden Brennan.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Casey, TJ won by SBU (on faceoff violation).",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "Ground ball pickup by SBU John Boomer.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:04",
+    "home_event": "Shot by SBU John Boomer WIDE.",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "GOAL by SBU Chris Lawrence, Assist by John Boomer.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "Faceoff Lad Harper vs Coyle, Brendan won by SBU, [13:49] Ground ball pickup by SBU Lad Harper.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:41",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:04",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:35",
+    "home_event": "Turnover by SBU Nolan Wilde.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:30",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by UMASS Granara, Robbie."
+  },
+  {
+    "quarter": "2",
+    "time": "12:41",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by UMASS Drunsic, Aiden, Assist by Hogan, Trace, goal number 21 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:41",
+    "home_event": "Faceoff Lad Harper vs Coyle, Brendan won by SBU, [12:41] Ground ball pickup by SBU Lad Harper.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:25",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:52",
+    "home_event": "Turnover by SBU Chase Perryman.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:47",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by UMASS Hogan, Trace, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "Ground ball pickup by SBU Isaac Farmer.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:54",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:48",
+    "home_event": "Shot by SBU John Boomer BLOCKED.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "Shot clock violation by SBU.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:36",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by UMASS Granara, Robbie WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:30",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "Ground ball pickup by SBU Patrick Shanahan.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:26",
+    "home_event": "Shot by SBU Chris Lawrence, SAVE Salanger, Owen.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:14",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Shot by UMASS Clayton, Tyler HIT CROSSBAR."
+  },
+  {
+    "quarter": "2",
+    "time": "07:06",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:24",
+    "home_event": "Shot by SBU Patrick Shanahan BLOCKED.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by UMASS Cargiulo, Matthew, goal number 12 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Faceoff Lad Harper vs Casey, TJ won by UMASS, [05:40] Ground ball pickup by UMASS Casey, TJ."
+  },
+  {
+    "quarter": "2",
+    "time": "05:32",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by UMASS Hogan, Trace WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Turnover by UMASS Jackman, Brian."
+  },
+  {
+    "quarter": "2",
+    "time": "04:39",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "Shot by SBU Chris Lawrence, SAVE Salanger, Owen.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:48",
+    "home_event": "Ground ball pickup by SBU Patrick Shanahan.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:22",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Penalty on UMASS Mourad, Ryan (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "03:00",
+    "home_event": "Shot by SBU Cole Kucinski, SAVE Salanger, Owen.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:51",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:58",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by UMASS Lewis, Caelin, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "01:52",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "Turnover by SBU Connor Ballou (caused by Clayton, Tyler).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:43",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by UMASS Clayton, Tyler."
+  },
+  {
+    "quarter": "2",
+    "time": "01:27",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by UMASS Lewis, Caelin, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "Ground ball pickup by SBU Drew Kenney.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:21",
+    "home_event": "Shot by SBU Nolan Wilde, SAVE Salanger, Owen.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by UMASS Drunsic, Aiden, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Turnover by SBU Isaac Farmer (caused by Cook, Chance).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by UMASS Cook, Chance."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Lad Harper vs Casey, TJ won by SBU.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:02",
+    "home_event": "Turnover by SBU Chase Perryman (caused by Petitto, Matthew).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:58",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "13:53",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:37",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by UMASS Hogan, Trace, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "GOAL by UMASS Clayton, Tyler, goal number 9 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Faceoff Lad Harper vs Casey, TJ won by UMASS, [12:49] Ground ball pickup by UMASS Casey, TJ."
+  },
+  {
+    "quarter": "3",
+    "time": "12:01",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by UMASS Krisch, John WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by UMASS Granara, Robbie BLOCKED."
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Turnover by UMASS Jackman, Brian (caused by Kyle Pepper)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:16",
+    "home_event": "Ground ball pickup by SBU Kyle Pepper.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:13",
+    "home_event": "Shot by SBU Cameron Viavada WIDE.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:42",
+    "home_event": "Shot by SBU O. Maracle, SAVE Salanger, Owen.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "Shot by SBU O. Maracle, SAVE Salanger, Owen.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:29",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:18",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Shot by UMASS Auble, Zach WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "GOAL by UMASS Drunsic, Aiden, goal number 22 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:46",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS, [09:46] Ground ball pickup by UMASS Casey, TJ."
+  },
+  {
+    "quarter": "3",
+    "time": "09:36",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Turnover by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "3",
+    "time": "09:30",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Turnover by SBU Henry Coke.",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:06",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Ground ball pickup by UMASS Petitto, Matthew."
+  },
+  {
+    "quarter": "3",
+    "time": "09:04",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Clear attempt by UMASS failed."
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Turnover by UMASS."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "GOAL by SBU Drew Kenney, Assist by Chase Perryman.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Penalty on UMASS Petitto, Matthew (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "08:25",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "07:01",
+    "home_event": "Penalty on SBU Kaden Brennan (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "2-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "GOAL by UMASS Granara, Robbie (MAN-UP), Assist by Finnerty, Michael, goal number 29 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Faceoff Quinn Nolan vs Casey, TJ won by UMASS (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Ground ball pickup by UMASS Waxman, Zack."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "GOAL by UMASS Krisch, John, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS, [05:25] Ground ball pickup by UMASS New, Blaise."
+  },
+  {
+    "quarter": "3",
+    "time": "05:09",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by UMASS Granara, Robbie."
+  },
+  {
+    "quarter": "3",
+    "time": "04:01",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by UMASS Granara, Robbie, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "3",
+    "time": "03:58",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:07",
+    "home_event": "Turnover by SBU Drew Kenney.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:02",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by UMASS Clayton, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "02:57",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Turnover by UMASS Clayton, Tyler."
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "Turnover by SBU Drew Kenney.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:43",
+    "home_event": "Timeout by SBU.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:54",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Ground ball pickup by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "GOAL by UMASS Krisch, John, Assist by Jackman, Brian, goal number 7 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "Faceoff Jeremy Askin vs Casey, TJ won by SBU, [01:39] Ground ball pickup by SBU Owen Tasse.",
+    "score": "2-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:26",
+    "home_event": "Ground ball pickup by SBU Jeremy Askin.",
+    "score": "2-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "Shot by SBU Chase Perryman WIDE.",
+    "score": "2-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "Shot clock violation by SBU.",
+    "score": "2-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:09",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS, [15:00] Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "14:44",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:33",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Shot by UMASS New, Blaise, SAVE Isaac Farmer."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "2-12",
+    "away_event": "Ground ball pickup by UMASS Drunsic, Aiden."
+  },
+  {
+    "quarter": "4",
+    "time": "13:42",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "GOAL by UMASS Clayton, Tyler, goal number 10 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:42",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS, [13:42] Ground ball pickup by UMASS Morse, Will."
+  },
+  {
+    "quarter": "4",
+    "time": "12:51",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by UMASS Hogan, Trace BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Turnover by UMASS Hogan, Trace."
+  },
+  {
+    "quarter": "4",
+    "time": "12:22",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:23",
+    "home_event": "Turnover by SBU Reilly DelPonte (caused by Conley, Joe).",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by UMASS Cargiulo, Matthew WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "10:59",
+    "home_event": "Penalty on SBU Henry Coke (PUSHING/0:30) Extra-man opportunity.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:46",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "GOAL by UMASS Granara, Robbie (MAN-UP), Assist by Finnerty, Michael, goal number 30 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:46",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Faceoff Jeremy Askin vs Casey, TJ won by UMASS, [10:46] Ground ball pickup by UMASS Casey, TJ."
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Turnover by UMASS Casey, TJ (caused by Cameron Viavada)."
+  },
+  {
+    "quarter": "4",
+    "time": "30:31",
+    "home_event": "Ground ball pickup by SBU Chris Lawrence.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Turnover by SBU O. Maracle.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:17",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Turnover by UMASS Waxman, Zack."
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Timeout by UMASS."
+  },
+  {
+    "quarter": "4",
+    "time": "08:53",
+    "home_event": "Shot by SBU Chris Lawrence WIDE.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:50",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Ground ball pickup by UMASS Salanger, Owen."
+  },
+  {
+    "quarter": "4",
+    "time": "08:49",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Ground ball pickup by UMASS Drunsic, Aiden."
+  },
+  {
+    "quarter": "4",
+    "time": "07:35",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Shot by UMASS Jackman, Brian WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "Penalty on SBU Henry Coke (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:34",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Bluse, Tyler at goalie for UMASS."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "GOAL by UMASS Lewis, Caelin (MAN-UP), Assist by Hogan, Trace, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:13",
+    "home_event": "Faceoff Jeremy Askin vs Casey, TJ won by SBU (on faceoff violation).",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "Turnover by SBU Cole Tucker.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:02",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Ground ball pickup by UMASS Bluse, Tyler."
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:24",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Turnover by UMASS Crehan, John."
+  },
+  {
+    "quarter": "4",
+    "time": "05:19",
+    "home_event": "Clear attempt by SBU good.",
+    "score": "2-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "GOAL by SBU Cole Kucinski, Assist by Kyle Pepper.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:05",
+    "home_event": "Faceoff Jeremy Askin vs Coyle, Brendan won by SBU, [05:05] Ground ball pickup by SBU Jeremy Askin.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "",
+    "score": "3-15",
+    "away_event": "Penalty on UMASS Coyle, Brendan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "04:38",
+    "home_event": "Shot by SBU Drew Kenney WIDE.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "Ground ball pickup by SBU Chase Perryman.",
+    "score": "3-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "GOAL by SBU Patrick Shanahan, Assist by Cole Kucinski.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "Faceoff Jeremy Askin vs Casey, TJ won by SBU, [04:00] Ground ball pickup by SBU Aaron Eberhard.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:09",
+    "home_event": "Shot by SBU Nolan Wilde, SAVE Bluse, Tyler.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Ground ball pickup by UMASS Relovsky, Zachary."
+  },
+  {
+    "quarter": "4",
+    "time": "03:01",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Mazzariello, Ryan at goalie for UMASS."
+  },
+  {
+    "quarter": "4",
+    "time": "02:13",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Shot by UMASS Turowsky, Jack HIT POST."
+  },
+  {
+    "quarter": "4",
+    "time": "01:53",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:41",
+    "home_event": "Turnover by SBU Josh Rosa.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Ground ball pickup by UMASS Hutchinson, Russ."
+  },
+  {
+    "quarter": "4",
+    "time": "01:31",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Clear attempt by UMASS good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Turnover by UMASS Grimaldi, Chris."
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "Clear attempt by SBU failed.",
+    "score": "4-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "Turnover by SBU Connor Ballou.",
+    "score": "4-15",
+    "away_event": ""
+  }
+]

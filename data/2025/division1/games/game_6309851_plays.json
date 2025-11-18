@@ -1,0 +1,1843 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Downs, Luke at goalie for TOWSON.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Matthew Nunes at goalie for VA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "[15:00] Faceoff Constantinides, Matt vs Anthony Ghobriel won by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VA McCabe Millon (FIRST GOAL), Assist by Truitt Sunderland, goal number 8 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [14:12] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "Shot by TOWSON Webber, Josh, SAVE Matthew Nunes.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by VA Matthew Nunes (caused by Gallagher, Chop)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey BLOCKED.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by VA Mack Till."
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by VA Mack Till (caused by Weisshaar, Mikey)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "Ground ball pickup by TOWSON Gallagher, Chop.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "Turnover by TOWSON Gallagher, Chop (caused by McCabe Millon).",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:41",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by VA Ben Wayer BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "12:28",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by VA Jack Walshe, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "Ground ball pickup by TOWSON Downs, Luke.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "GOAL by TOWSON Matusek, Chuck, Assist by Vieni, Alex, goal number 2 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:30",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [11:30] Ground ball pickup by TOWSON Meidling, Joe.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Turnover by VA Griffin Schutz (caused by Azbill, James)."
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "Ground ball pickup by TOWSON Law, Jake.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "Turnover by TOWSON Boswell, Evan.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by VA Ryan Colsey HIT CROSSBAR."
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "Ground ball pickup by TOWSON Downs, Luke.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "GOAL by TOWSON Fitzpatrick, Ronan, goal number 14 for season.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "Faceoff Constantinides, Matt vs Andrew Greenspan won by TOWSON, [08:35] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "Shot by TOWSON Constantinides, Matt, SAVE Matthew Nunes.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by VA Griffin Schutz HIT POST."
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "Shot by TOWSON Matusek, Chuck HIT POST.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by VA McCabe Millon BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by VA McCabe Millon, Assist by Jack Walshe, goal number 9 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [06:12] Ground ball pickup by TOWSON Meidling, Joe.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "Turnover by TOWSON Webber, Josh (caused by Tommy McNeal).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "1",
+    "time": "05:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by VA Hudson Hausmann WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by McCabe Millon, goal number 15 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "Faceoff Constantinides, Matt vs Andrew Greenspan won by TOWSON, [04:30] Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "Shot by TOWSON Vieni, Alex WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "Turnover by TOWSON Fitzpatrick, Ronan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by VA Ryan Colsey (caused by Petro, Joe)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "Ground ball pickup by TOWSON Reilly, Dan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "Shot by TOWSON Roussel, Alex WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "Turnover by TOWSON Schrier, Ryan (caused by George Fulton).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Griffin Schutz WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Penalty on VA Noah Chizmar (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan HIGH.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:24",
+    "home_event": "Shot by TOWSON Katz, Michael, SAVE Matthew Nunes.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Thomas Mencke, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:40",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by VA Griffin Schutz."
+  },
+  {
+    "quarter": "2",
+    "time": "12:36",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:57",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan HIT POST.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:54",
+    "home_event": "Ground ball pickup by TOWSON Boswell, Evan.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "Timeout by TOWSON.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey, SAVE Matthew Nunes.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:09",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA McCabe Millon, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "10:31",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "Shot by TOWSON Vieni, Alex BLOCKED.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:55",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by VA John Schroter."
+  },
+  {
+    "quarter": "2",
+    "time": "08:52",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Thomas Mencke WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:45",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Will Inderlied, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:04",
+    "home_event": "Turnover by TOWSON Roussel, Alex (caused by Ben Wayer).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:59",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "2",
+    "time": "07:56",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:50",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:10",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Penalty on VA Hudson Hausmann (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "06:47",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:23",
+    "home_event": "Shot by TOWSON Webber, Josh BLOCKED.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "Ground ball pickup by TOWSON Weisshaar, Mikey.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "GOAL by TOWSON Fitzpatrick, Ronan (MAN-UP), goal number 15 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:13",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [06:13] Ground ball pickup by TOWSON Smith, Elijah.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "GOAL by TOWSON Weisshaar, Mikey, goal number 11 for season.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Constantinides, Matt vs Henry Metz won by VA, [05:25] Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VA Jack Walshe, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "2",
+    "time": "03:45",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Turnover by TOWSON Fitzpatrick, Ronan (caused by George Fulton).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:52",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "2",
+    "time": "02:50",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:00",
+    "home_event": "Ground ball pickup by TOWSON Schrier, Ryan.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "Ground ball pickup by TOWSON Schrier, Ryan.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:49",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Penalty on VA Tommy McNeal (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "01:44",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "2",
+    "time": "01:20",
+    "home_event": "Shot by TOWSON Roussel, Alex WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by VA McCabe Millon."
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Turnover by TOWSON Petro, Joe (caused by Ryan Colsey).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by VA, [15:00] Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "14:45",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VA McCabe Millon WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "14:42",
+    "home_event": "Ground ball pickup by TOWSON Spagnolli, Conor.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:32",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:30",
+    "home_event": "Turnover by TOWSON Downs, Luke.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:28",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "3",
+    "time": "14:25",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VA McCabe Millon HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "13:52",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by VA Truitt Sunderland (caused by Petro, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Ground ball pickup by TOWSON Downs, Luke.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:37",
+    "home_event": "Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:34",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:33",
+    "home_event": "Turnover by TOWSON Spagnolli, Conor.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VA Griffin Schutz."
+  },
+  {
+    "quarter": "3",
+    "time": "13:26",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "13:15",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:18",
+    "home_event": "Ground ball pickup by TOWSON Gallagher, Chop.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan WIDE.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:05",
+    "home_event": "Shot by TOWSON Schrier, Ryan, SAVE Matthew Nunes.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:48",
+    "home_event": "Turnover by TOWSON Gallagher, Chop (caused by Ben Wayer).",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "11:41",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "GOAL by VA Thomas Mencke, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by VA, [10:46] Ground ball pickup by VA Anthony Ghobriel."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VA Thomas Mencke, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "Ground ball pickup by TOWSON Spagnolli, Conor.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:31",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "Shot by TOWSON Schrier, Ryan, SAVE Matthew Nunes.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "Shot by TOWSON Matusek, Chuck, SAVE Matthew Nunes.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "",
+    "score": "4-4",
+    "away_event": "Shot by VA Truitt Sunderland, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "Penalty on TOWSON Spagnolli, Conor (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "4-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "GOAL by VA Thomas Mencke (MAN-UP), Assist by Truitt Sunderland, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [09:18] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "Shot by TOWSON Schrier, Ryan, SAVE Matthew Nunes.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:06",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "08:58",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:35",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:33",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Penalty on VA Malachi Jones (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "Shot by TOWSON Maurer, Bode WIDE.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan HIT POST.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:04",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by VA Caulley Deringer WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by VA McCabe Millon (caused by Petro, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:43",
+    "home_event": "Turnover by TOWSON Morin, Sam.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:40",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VA Tucker Mullen."
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by VA Mikie Harmeyer, Assist by Tucker Mullen, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "06:08",
+    "home_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by TOWSON, [06:08] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:59",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey HIGH.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on VA Anthony Ghobriel (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "Turnover by TOWSON Fitzpatrick, Ronan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by VA Noah Chizmar."
+  },
+  {
+    "quarter": "3",
+    "time": "05:02",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VA Mikie Harmeyer WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VA Tucker Mullen WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:03",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:18",
+    "home_event": "Shot by TOWSON Matusek, Chuck, SAVE Matthew Nunes.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:14",
+    "home_event": "Ground ball pickup by TOWSON Fitzpatrick, Ronan.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:10",
+    "home_event": "Turnover by TOWSON Fitzpatrick, Ronan (caused by Ben Wayer).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "3",
+    "time": "03:03",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:00",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VA Ben Wayer WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by VA Will Inderlied (caused by Meidling, Joe)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:24",
+    "home_event": "Ground ball pickup by TOWSON Meidling, Joe.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:18",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:46",
+    "home_event": "Turnover by TOWSON Weisshaar, Mikey (caused by Noah Chizmar).",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:43",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "3",
+    "time": "01:33",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VA Thomas Mencke HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "00:31",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by VA Jack Walshe, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "3",
+    "time": "00:24",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "Turnover by TOWSON Petro, Joe.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by VA Thomas Mencke, goal number 6 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:05",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Constantinides, Matt vs Henry Metz won by VA (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Lopez, Kai vs Henry Metz won by VA, [15:00] Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "4",
+    "time": "13:55",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by VA Johnny Hackett (caused by Law, Jake)."
+  },
+  {
+    "quarter": "4",
+    "time": "13:50",
+    "home_event": "Ground ball pickup by TOWSON Law, Jake.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:38",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:05",
+    "home_event": "Turnover by TOWSON Scott, Owen (caused by Mack Till).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:01",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by VA Tommy McNeal."
+  },
+  {
+    "quarter": "4",
+    "time": "12:52",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:54",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by VA Ryan Colsey WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by VA McCabe Millon HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot clock violation by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "Turnover by TOWSON Law, Jake.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:51",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Shot by VA Griffin Schutz, SAVE Downs, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "10:48",
+    "home_event": "Ground ball pickup by TOWSON Petro, Joe.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:44",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "Turnover by TOWSON Downs, Luke (caused by McCabe Millon).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by VA McCabe Millon."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by VA Griffin Schutz, Assist by Truitt Sunderland, goal number 8 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Faceoff Constantinides, Matt vs Henry Metz won by TOWSON (on faceoff violation).",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:50",
+    "home_event": "Shot by TOWSON Boswell, Evan, SAVE Matthew Nunes.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:44",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by VA Ryan Colsey, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Constantinides, Matt vs Anthony Ghobriel won by VA, [09:05] Ground ball pickup by VA Tommy Snyder."
+  },
+  {
+    "quarter": "4",
+    "time": "08:17",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Ryan Colsey."
+  },
+  {
+    "quarter": "4",
+    "time": "07:52",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by VA Jack Walshe."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by VA Truitt Sunderland, Assist by Thomas Mencke, goal number 16 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Timeout by TOWSON.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Constantinides, Matt vs Henry Metz won by VA, [07:44] Ground ball pickup by VA Henry Metz."
+  },
+  {
+    "quarter": "4",
+    "time": "07:36",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by VA Henry Metz."
+  },
+  {
+    "quarter": "4",
+    "time": "07:27",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "Shot by TOWSON Scott, Owen, SAVE Matthew Nunes.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:52",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:56",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "GOAL by VA Ryan Colsey, goal number 17 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "05:56",
+    "home_event": "Faceoff Constantinides, Matt vs Henry Metz won by TOWSON, [05:56] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:22",
+    "home_event": "Shot by TOWSON Matusek, Chuck, SAVE Matthew Nunes.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:19",
+    "home_event": "",
+    "score": "4-11",
+    "away_event": "Penalty on VA Luke Hublitz (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "04:55",
+    "home_event": "Shot by TOWSON Fitzpatrick, Ronan, SAVE Matthew Nunes.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:42",
+    "home_event": "GOAL by TOWSON Webber, Josh, Assist by Gallagher, Chop, goal number 4 for season.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:42",
+    "home_event": "Faceoff Constantinides, Matt vs Andrew Greenspan won by TOWSON, [04:42] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "Shot by TOWSON Constantinides, Matt HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Penalty on VA Griffin Kology (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "GOAL by TOWSON Weisshaar, Mikey (MAN-UP), Assist by Gallagher, Chop, goal number 12 for season.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:18",
+    "home_event": "Faceoff Constantinides, Matt vs Henry Metz won by TOWSON, [04:18] Ground ball pickup by TOWSON Constantinides, Matt.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Turnover by TOWSON Constantinides, Matt (caused by Hudson Hausmann).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by VA George Fulton."
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "Clear attempt by TOWSON failed.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by VA failed."
+  },
+  {
+    "quarter": "4",
+    "time": "03:34",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by VA Matthew Nunes (caused by Weisshaar, Mikey)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:28",
+    "home_event": "Ground ball pickup by TOWSON Downs, Luke.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:25",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:57",
+    "home_event": "Shot by TOWSON Boswell, Evan WIDE.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "Turnover by TOWSON Weisshaar, Mikey (caused by Griffin Kology).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by VA Ben Wayer."
+  },
+  {
+    "quarter": "4",
+    "time": "02:25",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by VA McCabe Millon (caused by Spagnolli, Conor)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:49",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:36",
+    "home_event": "Shot by TOWSON Weisshaar, Mikey WIDE.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:32",
+    "home_event": "Turnover by TOWSON Katz, Michael (caused by Will Erdmann).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:32",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by VA Matthew Nunes."
+  },
+  {
+    "quarter": "4",
+    "time": "01:32",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by VA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:55",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Timeout by VA."
+  },
+  {
+    "quarter": "4",
+    "time": "00:51",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by VA Burke McFarlane BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "00:47",
+    "home_event": "Ground ball pickup by TOWSON Spagnolli, Conor.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Clear attempt by TOWSON good.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:33",
+    "home_event": "Ground ball pickup by TOWSON Morin, Sam.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:31",
+    "home_event": "Shot by TOWSON Morin, Sam, SAVE Matthew Nunes.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "Timeout by TOWSON.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:14",
+    "home_event": "Shot by TOWSON Webber, Josh WIDE.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "Shot by TOWSON Webber, Josh, SAVE Matthew Nunes.",
+    "score": "6-11",
+    "away_event": ""
+  }
+]

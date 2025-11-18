@@ -1,0 +1,1430 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Patrick Jameison at goalie for DU.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Thomas Ricciardelli at goalie for ND."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU, [15:00] Ground ball pickup by DU Luke Engelke.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "GOAL by DU Luke Grayum (FIRST GOAL), Assist by Eric Malever.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU (on faceoff violation).",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "Shot by DU Jack Pappendick WIDE.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by ND Jordan Faison, goal number 6 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Luke Engelke vs Colin Hagstrom won by ND, [13:22] Ground ball pickup by ND Colin Hagstrom."
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by ND Devon McLane, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "Ground ball pickup by DU Charlie Johnson.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:30",
+    "home_event": "Clear attempt by DU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:41",
+    "home_event": "Shot by DU Liam Kershis HIT POST.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:08",
+    "home_event": "Shot by DU Graham Blake HIGH.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "Shot by DU Jack Pappendick, SAVE Thomas Ricciardelli.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Ground ball pickup by ND Will Gallagher."
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by ND Will Maheras BLOCKED."
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "Clear attempt by DU good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "Shot by DU Max Sloat WIDE.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by ND Matt Jeffery, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "Faceoff Luke Engelke vs Colin Hagstrom won by DU, [07:47] Ground ball pickup by DU Luke Engelke.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:41",
+    "home_event": "Clear attempt by DU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "Shot by DU Benn Johnston HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "Shot by DU Benn Johnston WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "Ground ball pickup by DU Eric Malever.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:32",
+    "home_event": "Ground ball pickup by DU Benn Johnston.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "Shot by DU Benn Johnston WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "Turnover by DU Eric Malever.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by ND Devon McLane."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by ND Jalen Seymour WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot clock violation by ND."
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "Clear attempt by DU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "Shot by DU Chris Cusolito WIDE.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by ND Devon McLane."
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Clear attempt by DU good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "Shot by DU Max Sloat HIGH.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "GOAL by DU Max Sloat, Assist by Eric Malever.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU, [01:51] Ground ball pickup by DU Luke Engelke.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "Clear attempt by DU good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "Turnover by DU Chris Cusolito (caused by Ronan Doherty).",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Ground ball pickup by ND Ronan Doherty."
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Shot by ND Will Maheras, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "Penalty on DU Aidan Maguire (HOLDING/0:30) Extra-man opportunity.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by ND Jake Taylor (MAN-UP), Assist by Devon McLane, goal number 17 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "14:34",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "13:48",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by ND Matt Jeffery WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:26",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "2",
+    "time": "13:21",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by ND Chris Kavanagh BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "13:16",
+    "home_event": "Ground ball pickup by DU Keith Boyer.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:13",
+    "home_event": "Clear attempt by DU good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:44",
+    "home_event": "Turnover by DU Andrew McAdorey (caused by Ben Ramsey).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by ND Greg Campisi."
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "GOAL by ND Jalen Seymour, Assist by Devon McLane, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:56",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Faceoff Ben McCarthy vs Will Lynch won by ND, [11:56] Ground ball pickup by ND Will Gallagher."
+  },
+  {
+    "quarter": "2",
+    "time": "11:39",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by ND Devon McLane, Assist by Chris Kavanagh, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "Timeout by DU.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:49",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND, [10:49] Ground ball pickup by ND Will Donovan."
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Turnover by ND Will Donovan (caused by Mac Christmas)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "Clear attempt by DU good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:53",
+    "home_event": "Shot by DU Eric Malever, SAVE Thomas Ricciardelli.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:45",
+    "home_event": "Ground ball pickup by DU Benn Johnston.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:39",
+    "home_event": "Shot by DU Max Sloat, SAVE Thomas Ricciardelli.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:32",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "08:50",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "Clear attempt by DU good.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "Shot by DU Graham Blake, SAVE Thomas Ricciardelli.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by ND Thomas Ricciardelli."
+  },
+  {
+    "quarter": "2",
+    "time": "07:09",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:38",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by ND Devon McLane HIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by ND Fisher Finley, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "2",
+    "time": "05:56",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Timeout by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "05:31",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Shot by ND Jordan Faison WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "GOAL by ND Jake Taylor, Assist by Chris Kavanagh, goal number 18 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:25",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:46",
+    "home_event": "Shot by DU Max Sloat HIGH.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Shot by DU Benn Johnston WIDE.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by ND Michael Ridgway BLOCKED."
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Ground ball pickup by DU Luke Grayum.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:59",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Penalty on ND Chris Reihnardt (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "03:23",
+    "home_event": "Shot by DU Luke Grayum, SAVE Thomas Ricciardelli.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:18",
+    "home_event": "Ground ball pickup by DU Luke Grayum.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:06",
+    "home_event": "Turnover by DU Luke Grayum (caused by Nate Schwitzenberg).",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:59",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Ground ball pickup by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "2",
+    "time": "02:57",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:12",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "GOAL by ND Will Angrick, Assist by Chris Kavanagh, goal number 10 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU, [02:07] Ground ball pickup by DU Mac Christmas.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:52",
+    "home_event": "Turnover by DU Graham Blake (caused by Greg Campisi).",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:47",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by ND Greg Campisi."
+  },
+  {
+    "quarter": "2",
+    "time": "00:45",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:42",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Timeout by ND."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND, [15:00] Ground ball pickup by ND Ben Ramsey."
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Shot by ND Matt Jeffery WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "13:48",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by ND Devon McLane (caused by Mac Christmas)."
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Ground ball pickup by DU Jack Gray.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:39",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Penalty on ND Devon McLane (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "13:04",
+    "home_event": "Turnover by DU Benn Johnston.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:51",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:49",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Turnover by ND Will Maheras (caused by Keith Boyer)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Ground ball pickup by ND Ronan Doherty."
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "Clear attempt by DU good.",
+    "score": "2-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "GOAL by DU Andrew McAdorey.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:46",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Turnover by ND Jordan Faison."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:56",
+    "home_event": "Shot by DU Liam Kershis WIDE.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:43",
+    "home_event": "Shot by DU Jack Pappendick WIDE.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:38",
+    "home_event": "Shot clock violation by DU.",
+    "score": "3-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by ND Jake Taylor, Assist by Chris Kavanagh, goal number 19 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:01",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Ben McCarthy vs Will Lynch won by ND, [08:01] Ground ball pickup by ND Will Donovan."
+  },
+  {
+    "quarter": "3",
+    "time": "07:19",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Ground ball pickup by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "3",
+    "time": "07:04",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Turnover by ND Jake Taylor (caused by Cole Krauss)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:57",
+    "home_event": "Ground ball pickup by DU Patrick Jameison.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:55",
+    "home_event": "Clear attempt by DU good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:52",
+    "home_event": "Shot by DU Jack Pappendick WIDE.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:07",
+    "home_event": "GOAL by DU Benn Johnston.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:07",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "05:36",
+    "home_event": "Ground ball pickup by DU Charlie Johnson.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:33",
+    "home_event": "Clear attempt by DU good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "Shot by DU Eric Malever, SAVE Thomas Ricciardelli.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:20",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by ND Devon McLane, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "04:17",
+    "home_event": "Penalty on DU Mac Christmas (SLASHING/1:00) Extra-man opportunity.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:39",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by ND Devon McLane, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "03:36",
+    "home_event": "Clear attempt by DU good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "Shot by DU Benn Johnston HIGH.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:16",
+    "home_event": "Shot clock violation by DU.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by ND Jordan Faison, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "Penalty on DU Aidan Maguire (ILLEGAL BODY CHECK/2:00) Extra-man opportunity.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:00",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by ND Jeffery Ricciardelli (MAN-UP), Assist by Jake Taylor, goal number 8 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:00",
+    "home_event": "Faceoff Ben McCarthy vs Will Lynch won by DU, [01:00] Ground ball pickup by DU Ben McCarthy.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:39",
+    "home_event": "Shot clock violation by DU.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:31",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by ND failed."
+  },
+  {
+    "quarter": "4",
+    "time": "14:19",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by ND Ben Ramsey (caused by Keith Boyer)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "Clear attempt by DU good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "GOAL by DU Andrew McAdorey.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:35",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND, [13:35] Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by ND Will Angrick WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "12:23",
+    "home_event": "Penalty on DU Cole Krauss (SLASHING/1:00) Extra-man opportunity.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:00",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by ND Jake Taylor WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by ND Brady Pokorny BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "11:30",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by ND Brady Pokorny."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by ND Jeffery Ricciardelli (MAN-UP), Assist by Jake Taylor, goal number 9 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND, [11:32] Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by ND Will Lynch (caused by Keith Boyer)."
+  },
+  {
+    "quarter": "4",
+    "time": "11:32",
+    "home_event": "Ground ball pickup by DU Luke Engelke.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Shot by DU Andrew McAdorey, SAVE Thomas Ricciardelli.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by ND Greg Campisi."
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by ND Jake Taylor, Assist by Christian Alacqua, goal number 20 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "10:09",
+    "home_event": "Faceoff Luke Engelke vs Will Lynch won by DU, [10:09] Ground ball pickup by DU Aidan Maguire.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "Shot by DU Benn Johnston, SAVE Thomas Ricciardelli.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:23",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by ND good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by ND Chris Kavanagh, Assist by Ben Ramsey, goal number 20 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Timeout by DU.",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff Luke Engelke vs Will Lynch won by ND, [09:19] Ground ball pickup by ND Will Lynch."
+  },
+  {
+    "quarter": "4",
+    "time": "08:35",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by ND Will Maheras, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Ground ball pickup by ND Jake Taylor."
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by ND Jake Taylor, goal number 21 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "Faceoff Luke Engelke vs Colin Hagstrom won by DU (on faceoff violation).",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:14",
+    "home_event": "GOAL by DU Luke Grayum, Assist by Chris Cusolito.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:14",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Ben McCarthy vs Will Lynch won by ND, [07:14] Ground ball pickup by ND Will Donovan."
+  },
+  {
+    "quarter": "4",
+    "time": "06:17",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by ND Chris Kavanagh."
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "Turnover by DU Liam McLane.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:39",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by ND failed."
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by ND Christian Alacqua (caused by Luke Grayum)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:34",
+    "home_event": "Ground ball pickup by DU Reed Landin.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:01",
+    "home_event": "Shot by DU Luke Grayum, SAVE Thomas Ricciardelli.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:58",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by ND Jalen Seymour."
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by ND failed."
+  },
+  {
+    "quarter": "4",
+    "time": "04:45",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by ND Nate Schwitzenberg."
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "Ground ball pickup by DU Reed Landin.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "Turnover by DU Reed Landin (caused by Nate Schwitzenberg).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:33",
+    "home_event": "Ground ball pickup by DU Reed Landin.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by ND Luke Miller HIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "Penalty on DU Andrew McAdorey (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:53",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by ND Brady Pokorny WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "03:01",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by ND Chris Kavanagh, SAVE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "02:48",
+    "home_event": "Clear attempt by DU good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "Ground ball pickup by DU Jack Pappendick.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:09",
+    "home_event": "Evan Barr at goalie for DU.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "GOAL by DU Benn Johnston, Assist by Andrew McAdorey.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:07",
+    "home_event": "Faceoff Ben McCarthy vs Colin Hagstrom won by DU, [02:07] Ground ball pickup by DU Ben McCarthy.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "Clear attempt by DU good.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:22",
+    "home_event": "Shot by DU Max Sloat, SAVE Thomas Ricciardelli.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:18",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Ground ball pickup by ND Thomas Ricciardelli."
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Clear attempt by ND good."
+  }
+]
