@@ -1,34 +1,66 @@
 # Lacrosse Stats
 
-A system for fetching, processing, and storing NCAA lacrosse game statistics from the NCAA API into a PostgreSQL database.
+A complete system for scraping and storing NCAA Division I men's lacrosse statistics. Features web scraping with intelligent rate limiting, Supabase database integration, and comprehensive data analysis capabilities.
 
 ## Overview
 
-This project automates the collection and processing of NCAA Division I men's lacrosse game data. It fetches game information from the NCAA API, processes individual game statistics, and stores the data in a normalized database structure with quality controls.
+This project automates the collection and storage of NCAA Division I men's lacrosse game data from the NCAA stats website. The system includes:
+
+1. **Web Scraper**: Collects game data, player statistics, and play-by-play information
+2. **Database System**: Stores all data in Supabase with optimized schema
+3. **Data Loaders**: Batch processing scripts to populate the database
 
 ## Features
 
-- **Automated Game Discovery**: Fetches all lacrosse games within a configurable date range from the NCAA API
-- **Batch Processing**: Processes games in batches with configurable rate limiting to respect API limits
-- **Data Quality Controls**:
-  - Normalizes team and player names to prevent duplicates
-  - Uses official NCAA game IDs as primary keys
-  - Maintains accurate game dates from source data
-- **Robust Error Handling**: Includes retry logic, failed game tracking, and graceful error recovery
-- **Multiple Operating Modes**:
-  - Dry-run mode for testing without database writes
-  - Test mode for processing a limited number of games
-  - Full production mode with database persistence
-- **Progress Tracking**: Real-time progress reporting with success/failure statistics
-- **Database Integration**: Stores data in Supabase with proper schema design and indexes
+### Data Collection
+- **Game Information**: Metadata, scores, venue, attendance
+- **Player Statistics**: Individual performance metrics per game
+- **Play-by-Play Data**: Detailed event-by-event game records
+- **Team Rosters**: Player biographical information and positions
+
+### Technical Features
+- **Intelligent Rate Limiting**: Configurable delays with jitter and burst protection
+- **Robust Error Handling**: Exponential backoff, retry logic, HTTP status code handling
+- **Comprehensive Logging**: Performance metrics and error tracking
+- **Multi-threaded Processing**: Parallel scraping with shared rate limiting
+- **Database Integration**: Automated loading to Supabase with deduplication
+
+## Database Schema
+
+The system stores data in Supabase with the following structure:
+
+### Core Tables
+- **`teams`** - 77 NCAA Division I teams (TEXT primary key using NCAA IDs)
+- **`players`** - 3,368 players (BIGINT primary key using NCAA player IDs)
+- **`games`** - 579 games with scores and metadata (TEXT primary key using NCAA game IDs)
+- **`player_game_stats`** - 32,261 individual player statistics per game
+- **`game_plays`** - 137,453 play-by-play events
+
+### Multi-Season Support Tables
+- **`seasons`** - Season reference table (2025, 2026, etc.)
+- **`team_seasons`** - Season-specific team attributes (names, conferences)
+- **`player_seasons`** - Season-specific player attributes (jersey numbers, positions)
+- **`player_season_stats`** - Materialized view of aggregated season statistics
+
+**Note**: Uses external NCAA IDs as primary keys (not UUIDs) for direct data correlation.
+
+### Multi-Season Features
+
+The database supports multiple seasons with per-season tracking of:
+- Player jersey numbers and positions (which change between seasons)
+- Team names and conference affiliations
+- Player transfers between teams
+- Historical season comparisons
+
+See `TODO/MIGRATION_GUIDE.md` and `TODO/MULTI_SEASON_SUMMARY.md` for details on multi-season architecture and migration.
 
 ## Installation
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
-- Supabase account and project
-- Git
+- Python 3.8+
+- Supabase account (for database storage)
+- Required Python packages: `requests`, `beautifulsoup4`, `pytz`, `supabase`
 
 ### Setup
 
@@ -39,202 +71,466 @@ This project automates the collection and processing of NCAA Division I men's la
    cd lacrosse-stats
    ```
 
-2. **Install dependencies**
+2. **Install Python dependencies**
 
    ```bash
-   npm install
-   cd loader
-   npm install
-   cd ..
+   pip install requests beautifulsoup4 pytz supabase
    ```
 
 3. **Configure Supabase**
 
-   - Create a new Supabase project
-   - Set up your database connection (see Configuration section)
-   - Run the database migrations (located in `supabase/migrations/`)
+   Create `.env.local` with your Supabase credentials:
+   ```
+   SUPABASE_URL=https://your-project.supabase.co
+   SUPABASE_SERVICE_KEY=your-service-role-key
+   ```
 
-4. **Configure date range**
-   - Edit `config.js` to set your desired game date range
-   - Default range is February 1 - May 31, 2025 (current lacrosse season)
+   Update `config.json` with your Supabase URL and anon key:
+   ```json
+   {
+     "supabase_url": "https://your-project.supabase.co",
+     "supabase_key": "your-anon-key"
+   }
+   ```
 
-## Configuration
+4. **Initialize Database Schema**
 
-### Date Range Configuration
+   Execute `scripts/loading/reset_database.sql` in your Supabase SQL Editor to create tables.
 
-Edit `config.js` to set the lacrosse season dates:
+5. **Set Up Database Keep-Alive (Optional)**
 
-```javascript
-export const config = {
-  gameStartDate: "2025-02-01", // Start of season
-  gameEndDate: "2025-05-31", // End of season
-};
-```
+   Keep your Supabase free tier active with automated pings:
+   ```bash
+   bash scripts/utils/setup_cron.sh
+   ```
+   This schedules database pings twice per week (Tuesday 10am, Friday 2pm).
 
-### Environment Variables
-
-Create a `.env` file in the `loader/` directory with your Supabase credentials:
-
-```
-SUPABASE_URL=your_supabase_project_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
-```
+   Manual ping: `python3 scripts/utils/ping_database.py --verbose`
 
 ## Usage
 
-### 1. Update Game List
+### Directory Structure
 
-First, fetch the list of games for your configured date range:
-
-```bash
-npm run update-games
+Data is organized by season and division in the following structure:
+```
+data/
+└── {season_id}/              # e.g., 2025, 2024, etc.
+    ├── division1/            # Division I data
+    │   ├── games/            # Game data files
+    │   │   ├── game_{id}_info.json
+    │   │   ├── game_{id}_player_stats.json
+    │   │   └── game_{id}_plays.json
+    │   └── raw/              # Raw scraping outputs
+    │       ├── game_ids.json
+    │       ├── team_ids.json
+    │       └── rosters.json
+    ├── division2/            # Division II data (when available)
+    │   └── ...
+    └── division3/            # Division III data (when available)
+        └── ...
 ```
 
-This will:
+### Complete Workflow
 
-- Query the NCAA API for each day in your date range
-- Find all lacrosse games and extract game IDs
-- Save the results to `loader/games_data.json`
-
-### 2. Load Game Statistics
-
-Process the games and load statistics into your database:
+#### 1. Scrape Game Data
 
 ```bash
-# Dry run (no database writes) - recommended first
-node load-games.js
+# Get list of games for date range (specify season and optionally division)
+python3 scripts/utils/get_game_ids.py --season 2025 --start-date 02/01/2025 --end-date 05/26/2025
+python3 scripts/utils/get_game_ids.py --season 2025 --division 2  # For Division II
 
-# Test mode (process first 3 games only)
-node load-games.js --test
+# Extract team IDs
+python3 scripts/utils/team_list.py
 
-# Production mode (save to database)
-node load-games.js --save
+# Get team rosters (optional)
+python3 scripts/utils/get_rosters.py
 
-# Limited processing (first N games)
-node load-games.js --limit=10 --save
+# Scrape all game data (specify season and optionally division)
+python3 main.py --season 2025                    # Division I (default)
+python3 main.py --season 2025 --division 2       # Division II
+python3 main.py --season 2025 --division 3       # Division III
 ```
 
-### Advanced Usage
+This creates JSON files in `data/2025/division{n}/games/` with game info, player stats, and plays.
 
-**Process games from the loader directory:**
+#### 2. Load Data to Supabase
+
+**Note:** Before loading multi-division data, run the schema migration:
+```bash
+# Run this once to add division support to database
+# Execute scripts/loading/add_division_support.sql in Supabase SQL Editor
+```
 
 ```bash
-cd loader
-node loadAllGames.js --save
+# Load games (optionally filter by season and/or division)
+python3 scripts/loading/load_games_multi_season.py
+python3 scripts/loading/load_games_multi_season.py --season 2025
+python3 scripts/loading/load_games_multi_season.py --season 2025 --division 1
+python3 scripts/loading/load_games_multi_season.py --division 2  # All D2 seasons
+
+# Load player stats
+python3 scripts/loading/load_player_stats_multi_season.py
+python3 scripts/loading/load_player_stats_multi_season.py --season 2025 --division 1
 ```
 
-**Retry failed games:**
-Failed games are automatically saved to `loader/failed_games.json` and can be retried by running the loader again.
+This loads:
+- Seasons from game dates
+- Teams from game files
+- Team-season combinations
+- Players from player stats files
+- Player-season attributes
+- Games with scores and metadata
+- Player game statistics
 
-## System Architecture
+#### 3. Verify Data
 
-### Core Components
+Execute verification queries in Supabase SQL Editor:
 
-- **`config.js`**: Central configuration for date ranges and settings
-- **`update-games.js`**: Convenience script for updating the game list
-- **`load-games.js`**: Main entry point for processing games
-- **`loader/`**: Core processing module containing:
-  - `findGamesByDate.js`: NCAA API integration for game discovery
-  - `loadAllGames.js`: Batch processor with rate limiting and error handling
-  - `loadGame.js`: Individual game processor
-  - `games_data.json`: Cached game list from NCAA API
+```sql
+-- Check record counts
+SELECT 'teams' as table_name, COUNT(*) FROM teams
+UNION ALL SELECT 'players', COUNT(*) FROM players
+UNION ALL SELECT 'games', COUNT(*) FROM games
+UNION ALL SELECT 'player_game_stats', COUNT(*) FROM player_game_stats
+UNION ALL SELECT 'game_plays', COUNT(*) FROM game_plays;
 
-### Processing Flow
+-- Test data relationships
+SELECT g.id, t1.name as home_team, t2.name as away_team, g.home_score, g.away_score
+FROM games g
+JOIN teams t1 ON g.home_team_id = t1.id
+JOIN teams t2 ON g.away_team_id = t2.id
+LIMIT 10;
+```
 
-1. **Game Discovery**: Query NCAA API for games in date range
-2. **Data Extraction**: Parse game details and extract statistics
-3. **Data Processing**: Normalize names, validate data quality
-4. **Database Storage**: Upsert games, teams, players, and statistics
-5. **Error Handling**: Track failures and provide retry capabilities
+Full verification queries: `scripts/loading/verify_data.sql`
 
-### Rate Limiting
+## Multi-Division Support
 
-The system includes built-in rate limiting to respect NCAA API limits:
+The system supports all three NCAA divisions (D1, D2, D3):
 
-- 1-second delay between individual game requests
-- Configurable batch sizes (default: 10 games per batch)
-- Extended delays for retry attempts
-- Graceful handling of API failures
+### Key Features
+- **Data Organization**: Files organized by season and division (`data/{season}/division{n}/`)
+- **Independent Scraping**: Each division can be scraped separately
+- **Division Filtering**: All loading scripts support `--division` flag
+- **Default Behavior**: Division 1 is the default if not specified
 
-## Database Schema
+### Configuration
 
-The system uses a normalized database structure:
+Division configuration is stored in `config.json`:
 
-- **games**: Game metadata with NCAA IDs as primary keys
-- **teams**: Team information with normalized names
-- **players**: Player roster with normalized names
-- **player_stats**: Individual game statistics
-- **Additional tables**: For comprehensive game data tracking
+```json
+{
+  "division": 1,
+  "season_division_ids": {
+    "1": {
+      "2025": 18484,
+      "2024": 16520
+    },
+    "2": {},
+    "3": {}
+  }
+}
+```
 
-All tables include proper indexes and triggers for data quality enforcement.
+**Note:** Division 2 and 3 `season_division_ids` must be discovered from the NCAA website. See `TODO/multi_division_plan.md` for research instructions.
 
-## Development
+### Database Schema
 
-### Project Structure
+The database includes:
+- `divisions` table (reference: D1, D2, D3)
+- `division_id` column on all major tables
+- Division-aware materialized views
+- Indexes optimized for multi-division queries
+
+Run `scripts/loading/add_division_support.sql` to migrate existing databases.
+
+## Configuration
+
+### Scraping Configuration (`config.json`)
+
+```json
+{
+  "date_ranges": {
+    "start_date": "02/01/2025",
+    "end_date": "05/26/2025"
+  },
+  "rate_limiting": {
+    "base_delay": 0.625,
+    "random_jitter": [0.125, 0.375],
+    "burst_protection": true,
+    "daily_limit": 4000,
+    "requests_per_minute": 60
+  },
+  "retry_strategy": {
+    "max_attempts": 3,
+    "base_delay": 5.0,
+    "429_backoff_start": 30,
+    "max_backoff": 300
+  }
+}
+```
+
+### Database Configuration
+
+- **Service Role Key**: Used for data loading (stored in `.env.local`)
+- **Anon Key**: Used for application queries (stored in `config.json`)
+- **RLS**: Enabled with public read access for all stats data
+
+## Project Structure
 
 ```
 lacrosse-stats/
-├── config.js              # Configuration settings
-├── load-games.js          # Main loading script
-├── update-games.js        # Game list update script
-├── loader/                # Core processing module
-│   ├── findGamesByDate.js # NCAA API integration
-│   ├── loadAllGames.js    # Batch processor
-│   ├── loadGame.js        # Individual game processor
-│   └── games_data.json    # Cached game data
-├── supabase/              # Database configuration
+├── main.py                          # Main batch scraper
+├── config.json                      # Configuration
+├── .env.local                       # Supabase credentials
+├── scripts/
+│   ├── fetching/                    # Web scraping scripts
+│   │   ├── fetch_game_data.py       # Game info and stats scraper
+│   │   └── fetch_game_plays.py      # Play-by-play scraper
+│   ├── loading/                     # Database loading scripts
+│   │   ├── run_data_migration.py    # Main orchestrator
+│   │   ├── load_teams.py            # Team loader
+│   │   ├── load_players.py          # Player loader
+│   │   ├── load_games_multi_season.py        # Game loader (multi-season)
+│   │   ├── load_player_stats_multi_season.py # Player stats loader (multi-season)
+│   │   ├── load_plays.py            # Play-by-play loader
+│   │   ├── reset_database.sql       # Schema creation
+│   │   ├── verify_data.sql          # Verification queries
+│   │   └── verify_multi_season_migration.sql # Multi-season verification
+│   └── utils/                       # Utility scripts
+│       ├── get_game_ids.py          # Game discovery
+│       ├── team_list.py             # Team extraction
+│       ├── get_rosters.py           # Roster scraper
+│       └── logging_config.py        # Logging setup
+├── data/
+│   ├── games/                       # Scraped JSON files (1,737 files)
+│   └── raw/                         # Raw API data
+│       ├── game_ids.json            # Master game list
+│       ├── team_ids.json            # Team IDs
+│       └── rosters.json             # Player rosters
+├── outputs/
+│   └── logs/                        # Scraper logs
+├── supabase/
+│   └── migrations/                  # Active migrations
+│       └── 20250131000001_create_new_schema.sql
+└── archive/                         # Archived files
+    ├── migrations/                  # Old migration attempts
+    ├── scripts/                     # Deprecated scripts
+    ├── tests/                       # Old test files
+    └── docs/                        # Historical docs
 ```
 
-### Running Tests
+## Command Reference
 
-Test mode processes only the first 3 games for development:
+### Scraping Commands
 
 ```bash
-node load-games.js --test
+# Get game IDs for date range
+python3 scripts/utils/get_game_ids.py
+
+# Extract team IDs
+python3 scripts/utils/team_list.py
+
+# Get rosters (optional)
+python3 scripts/utils/get_rosters.py [--limit N] [--dry-run]
+
+# Scrape all games
+python3 main.py [--config FILE] [--max-workers N] [--sequential]
+
+# Scrape individual game
+python3 scripts/fetching/fetch_game_data.py GAME_URL
+python3 scripts/fetching/fetch_game_plays.py --test GAME_ID
 ```
 
-### Debugging
-
-Use dry-run mode to test processing without database writes:
+### Data Loading Commands
 
 ```bash
-node load-games.js  # Defaults to dry-run mode
+# Load all data (after scraping)
+python3 scripts/loading/run_data_migration.py [--dry-run]
+
+# Load individual data types (multi-season versions)
+python3 scripts/loading/load_teams.py [--data-dir DIR] [--dry-run]
+python3 scripts/loading/load_players.py [--data-dir DIR] [--dry-run]
+python3 scripts/loading/load_games_multi_season.py [--data-dir DIR] [--dry-run]
+python3 scripts/loading/load_player_stats_multi_season.py [--data-dir DIR] [--dry-run]
+python3 scripts/loading/load_plays.py [--data-dir DIR] [--dry-run]
 ```
 
-## API Reference
+**Note**: Use `*_multi_season.py` loaders for games and player stats to ensure proper season tracking.
 
-### NCAA API Integration
+### Monitoring Commands
 
-The system integrates with the NCAA scoreboard API:
+```bash
+# Watch scraper logs
+tail -f outputs/logs/lacrosse_scraper_*.log
 
-- **Base URL**: `https://data.ncaa.com/casablanca`
-- **Endpoint**: `/scoreboard/lacrosse-men/d1/{year}/{month}/{day}/scoreboard.json`
-- **Rate Limits**: Self-imposed 1-second delays between requests
+# Count scraped files
+ls data/games/game_*_info.json | wc -l
 
-### Command Line Options
+# Check failed games
+cat data/raw/failed_games.json
 
-**load-games.js options:**
+# Monitor scraping success rate
+grep "Successfully fetched" outputs/logs/*.log | wc -l
+```
 
-- `--save`: Enable database writes (default: dry-run)
-- `--test`: Process first 3 games only
-- `--limit=N`: Process first N games only
+## Data Output
+
+### Scraped Files (JSON)
+
+Each game produces three files in `data/games/`:
+
+1. **`game_{id}_info.json`** - Game metadata
+   ```json
+   {
+     "gameId": "6313129",
+     "gameDate": "02/01/2025",
+     "homeTeam": "Queens (NC) Royals",
+     "homeTeamId": "594044",
+     "homeScore": 9,
+     "awayTeam": "Mount St. Mary's Mountaineers",
+     "awayTeamId": "593988",
+     "awayScore": 14,
+     "location": "Queens Sports Complex (Charlotte, NC)",
+     "attendance": 205
+   }
+   ```
+
+2. **`game_{id}_player_stats.json`** - Player statistics
+   ```json
+   [
+     {
+       "playerId": 8762073,
+       "name": "Player Name",
+       "jersey": "1",
+       "position": "M",
+       "Goals": 2,
+       "Assists": 1,
+       "Points": 3,
+       "Shots": 5,
+       "SOG": 4,
+       "GB": 3,
+       "TO": 1,
+       "CT": 0
+     }
+   ]
+   ```
+
+3. **`game_{id}_plays.json`** - Play-by-play events
+   ```json
+   [
+     {
+       "quarter": "1",
+       "time": "15:00",
+       "homeEvent": null,
+       "awayEvent": "Faceoff won by AWAY",
+       "score": "0-0"
+     }
+   ]
+   ```
+
+### Database Tables
+
+All scraped data is normalized and stored in Supabase:
+
+- **teams**: Team master table with NCAA IDs
+- **players**: Player master table with biographic info
+- **games**: Game records with foreign keys to teams
+- **player_game_stats**: Individual player performance per game
+- **game_plays**: Sequential play-by-play events
+
+## Rate Limiting
+
+The scraper respects NCAA website resources:
+
+- **Base Delay**: 0.625s between requests
+- **Jitter**: 0.125-0.375s random variation
+- **Burst Protection**: Max 60 requests/minute
+- **Daily Limit**: 4,000 requests/day
+- **Exponential Backoff**: Progressive delays for 429/5xx errors
+- **Business Hours**: Optional slowdown during EST business hours
+
+## Important Notes
+
+### NCAA ID Changes
+
+The roster extraction URLs use category IDs specific to the 2024-2025 season:
+- Category 15649: Field players
+- Category 15650: Goalkeepers
+
+**These IDs change annually** in the NCAA database. Update URLs in `scripts/utils/get_rosters.py` for future seasons.
+
+### Data Quality
+
+- The system automatically deduplicates player stats (1,561 duplicates removed from source data)
+- Some players appear twice in game files (e.g., played field and goalie)
+- The loader keeps the first occurrence of duplicate (game_id, player_id) pairs
+
+### Future Updates
+
+To load new games or new seasons after initial setup:
+
+1. Update date range in `config.json`
+2. Run scraping workflow
+3. Load data using multi-season loaders:
+   ```bash
+   python3 scripts/loading/load_games_multi_season.py
+   python3 scripts/loading/load_player_stats_multi_season.py
+   ```
+
+The multi-season loaders automatically:
+- Create new season records if needed
+- Update player_seasons with current jersey numbers and positions
+- Maintain team_seasons for each team per season
+- Refresh aggregated statistics materialized view
+
+## Row Level Security
+
+RLS is enabled on all tables with public read access. When loading new data, use service role key:
+
+1. Update `config.json` to use service role key (from `.env.local`)
+2. Run data loading: `python3 scripts/loading/run_data_migration.py`
+3. Restore anon key in `config.json`
+
+**Note**: Service role key bypasses RLS and should only be used for data loading operations.
+
+## Documentation
+
+- **`TODO/tasks.md`** - Project tasks and obsolete file tracking
+- **`TODO/MIGRATION_GUIDE.md`** - Multi-season migration instructions
+- **`TODO/MULTI_SEASON_SUMMARY.md`** - Multi-season architecture overview
+- **`archive/docs/`** - Historical documentation and archived guides
 
 ## Troubleshooting
 
-### Common Issues
+### Scraping Issues
 
-1. **Schema Cache Issues**: If encountering schema cache problems, restart your Supabase instance
-2. **API Rate Limits**: The system includes built-in rate limiting, but extend delays if needed
-3. **Failed Games**: Check `loader/failed_games.json` for games that failed processing
-4. **Date Format**: Ensure dates in `config.js` use YYYY-MM-DD format
+1. **429 Errors**: Increase `base_delay` in config
+2. **Timeouts**: Increase `timeout_seconds` or reduce `max_workers`
+3. **Failed Games**: Check `data/raw/failed_games.json` and re-run scraper
+4. **Missing Data**: Verify date range and ensure NCAA site is accessible
 
-### Getting Help
+### Database Issues
 
-- Review failed game logs in `loader/failed_games.json`
+1. **Connection Errors**: Verify Supabase credentials in `config.json`
+2. **Schema Errors**: Re-run `scripts/loading/reset_database.sql`
+3. **Foreign Key Violations**: Load in correct order (teams → players → games → stats → plays)
+4. **Duplicate Errors**: Already handled by deduplication in loaders
+
+### Verification Failed
+
+Execute verification queries from `scripts/loading/verify_data.sql` to diagnose:
+- Missing data
+- Broken relationships
+- Incorrect record counts
 
 ## License
 
-...
+[Add your license here]
+
+## Contributing
+
+[Add contribution guidelines if open source]
 
 ## Contact
 
