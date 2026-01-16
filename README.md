@@ -1,541 +1,299 @@
 # Lacrosse Stats
 
-A complete system for scraping and storing NCAA men's lacrosse statistics across all divisions (D1, D2, D3). Features web scraping with intelligent rate limiting, Supabase database integration, and comprehensive data analysis capabilities.
+NCAA men's lacrosse statistics pipeline with local PostgreSQL storage and Next.js web dashboard.
 
 ## Overview
 
-This project automates the collection and storage of NCAA men's lacrosse game data from the NCAA stats website across all three divisions. The system includes:
+Automated collection and analysis of NCAA lacrosse game data:
 
-1. **Web Scraper**: Collects game data, player statistics, and play-by-play information
-2. **Database System**: Stores all data in Supabase with optimized schema
-3. **Data Loaders**: Batch processing scripts to populate the database
+- **Data Pipeline**: Scrapes games, player stats, and play-by-play from NCAA
+- **Local Database**: PostgreSQL with Prisma ORM
+- **Quality Control**: Automated validation and gap-filling from play-by-play
+- **Daily Sync**: Cron job for nightly updates during season
+- **Web Dashboard**: Next.js app for stats exploration
 
-## Features
-
-### Data Collection
-- **Game Information**: Metadata, scores, venue, attendance
-- **Player Statistics**: Individual performance metrics per game
-- **Play-by-Play Data**: Detailed event-by-event game records
-- **Team Rosters**: Player biographical information and positions
-
-### Technical Features
-- **Intelligent Rate Limiting**: Configurable delays with jitter and burst protection
-- **Robust Error Handling**: Exponential backoff, retry logic, HTTP status code handling
-- **Comprehensive Logging**: Performance metrics and error tracking
-- **Multi-threaded Processing**: Parallel scraping with shared rate limiting
-- **Database Integration**: Automated loading to Supabase with deduplication
-
-## Database Schema
-
-The system stores data in Supabase with the following structure:
-
-### Core Tables
-- **`teams`** - NCAA teams across all divisions (TEXT primary key using NCAA IDs)
-- **`players`** - Player records with biographical information (BIGINT primary key using NCAA player IDs)
-- **`games`** - Games with scores and metadata (TEXT primary key using NCAA game IDs)
-- **`player_game_stats`** - Individual player statistics per game
-- **`game_plays`** - Play-by-play events
-
-### Multi-Season and Division Support Tables
-- **`divisions`** - Division reference table (D1, D2, D3)
-- **`seasons`** - Season reference table (2025, 2026, etc.) with division_id
-- **`team_seasons`** - Season-specific team attributes (names, conferences) per division
-- **`player_seasons`** - Season-specific player attributes (jersey numbers, positions) per division
-- **`player_season_stats_view`** - Materialized view of aggregated season statistics by division
-
-**Note**: Uses external NCAA IDs as primary keys (not UUIDs) for direct data correlation.
-
-### Multi-Season Features
-
-The database supports multiple seasons with per-season tracking of:
-- Player jersey numbers and positions (which change between seasons)
-- Team names and conference affiliations
-- Player transfers between teams
-- Historical season comparisons
-
-See `TODO/MIGRATION_GUIDE.md` and `TODO/MULTI_SEASON_SUMMARY.md` for details on multi-season architecture and migration.
-
-## Installation
+## Quick Start
 
 ### Prerequisites
 
-- Python 3.8+
-- Supabase account (for database storage)
-- Required Python packages: `requests`, `beautifulsoup4`, `pytz`, `supabase`
+- Python 3.11+
+- PostgreSQL 16+ (`brew install postgresql@16`)
+- Node.js 20+ and pnpm
 
 ### Setup
 
-1. **Clone the repository**
+```bash
+# Clone and install Python dependencies
+git clone <repository-url>
+cd lacrosse-stats
+uv venv && source .venv/bin/activate
+uv pip install -r requirements.txt
 
-   ```bash
-   git clone <repository-url>
-   cd lacrosse-stats
-   ```
+# Start PostgreSQL and create database
+brew services start postgresql@16
+createdb lacrosse_stats
 
-2. **Install Python dependencies**
+# Initialize database schema
+cd web && pnpm install && pnpm prisma db push
 
-   ```bash
-   pip install requests beautifulsoup4 pytz supabase
-   ```
+# Verify setup
+cd .. && python scripts/qc/assess_data_quality.py
+```
 
-3. **Configure Supabase**
+### Load Existing Data
 
-   Create `.env.local` with your Supabase credentials:
-   ```
-   SUPABASE_URL=https://your-project.supabase.co
-   SUPABASE_SERVICE_KEY=your-service-role-key
-   ```
+```bash
+# Load scraped data to database
+python scripts/loading/load_teams.py --season 2025
+python scripts/loading/load_games.py --season 2025
+python scripts/loading/load_players.py --season 2025
+python scripts/loading/load_player_stats.py --season 2025
+```
 
-   Update `config.json` with your Supabase URL and anon key:
-   ```json
-   {
-     "supabase_url": "https://your-project.supabase.co",
-     "supabase_key": "your-anon-key"
-   }
-   ```
+### Start Web Dashboard
 
-4. **Initialize Database Schema**
+```bash
+cd web && pnpm dev
+# Open http://localhost:3000
+```
 
-   Execute `scripts/loading/reset_database.sql` in your Supabase SQL Editor to create tables.
-
-5. **Set Up Database Keep-Alive (Optional)**
-
-   Keep your Supabase free tier active with automated pings:
-   ```bash
-   bash scripts/utils/setup_cron.sh
-   ```
-   This schedules database pings twice per week (Tuesday 10am, Friday 2pm).
-
-   Manual ping: `python3 scripts/utils/ping_database.py --verbose`
-
-## Usage
+## Data Pipeline
 
 ### Directory Structure
 
-Data is organized by season and division in the following structure:
 ```
 data/
-└── {season_id}/              # e.g., 2025, 2024, etc.
-    ├── division1/            # Division I data
-    │   ├── games/            # Game data files
-    │   │   ├── game_{id}_info.json
-    │   │   ├── game_{id}_player_stats.json
-    │   │   └── game_{id}_plays.json
-    │   └── raw/              # Raw scraping outputs
-    │       ├── game_ids.json
-    │       ├── team_ids.json
-    │       └── rosters.json
-    ├── division2/            # Division II data (when available)
-    │   └── ...
-    └── division3/            # Division III data (when available)
-        └── ...
+└── {season}/                    # e.g., "2025", "2026"
+    └── division{n}/             # division1, division2, division3
+        ├── raw/
+        │   ├── rosters.json     # Team rosters (source of truth)
+        │   └── game_ids.json    # Discovered game IDs
+        └── games/
+            ├── game_{id}_info.json          # Game metadata
+            ├── game_{id}_player_stats.json  # Player stats
+            └── game_{id}_plays.json         # Play-by-play
 ```
 
-### Complete Workflow
+### Data Hierarchy
 
-#### 1. Scrape Game Data
+1. **Rosters** - Source of truth for player→team mapping
+2. **Games** - Game metadata, scores, team IDs
+3. **Player Stats** - Per-game statistics, validated against rosters
+4. **Plays** - Play-by-play, used for QC and derived stats
+
+### Scraping Workflow
 
 ```bash
-# Get list of games for date range (specify season and optionally division)
-python3 scripts/utils/get_game_ids.py --season 2025 --start-date 02/01/2025 --end-date 05/26/2025
-python3 scripts/utils/get_game_ids.py --season 2025 --division 2  # For Division II
+# 1. Discover game IDs for date range
+python scripts/utils/get_game_ids.py --season 2026 --start-date 02/01/2026 --end-date 05/31/2026
 
-# Extract team IDs
-python3 scripts/utils/team_list.py
+# 2. Fetch game data and play-by-play
+python main.py --season 2026
 
-# Get team rosters (optional)
-python3 scripts/utils/get_rosters.py
+# 3. Load to database
+python scripts/loading/load_teams.py --season 2026
+python scripts/loading/load_games.py --season 2026
+python scripts/loading/load_players.py --season 2026
+python scripts/loading/load_player_stats.py --season 2026
 
-# Scrape all game data (specify season and optionally division)
-python3 main.py --season 2025                    # Division I (default)
-python3 main.py --season 2025 --division 2       # Division II
-python3 main.py --season 2025 --division 3       # Division III
+# 4. Run quality control
+python scripts/qc/assess_data_quality.py --season 2026
 ```
 
-This creates JSON files in `data/2025/division{n}/games/` with game info, player stats, and plays.
+## Daily Sync (Cron)
 
-#### 2. Load Data to Supabase
-
-**Note:** Before loading multi-division data, run the schema migration:
-```bash
-# Run this once to add division support to database
-# Execute scripts/loading/add_division_support.sql in Supabase SQL Editor
-```
+Automated nightly updates during season:
 
 ```bash
-# Load games (optionally filter by season and/or division)
-python3 scripts/loading/load_games_multi_season.py
-python3 scripts/loading/load_games_multi_season.py --season 2025
-python3 scripts/loading/load_games_multi_season.py --season 2025 --division 1
-python3 scripts/loading/load_games_multi_season.py --division 2  # All D2 seasons
+# Install cron job (runs at midnight local time)
+./scripts/cron/setup_cron.sh install
 
-# Load player stats
-python3 scripts/loading/load_player_stats_multi_season.py
-python3 scripts/loading/load_player_stats_multi_season.py --season 2025 --division 1
+# Check status
+./scripts/cron/setup_cron.sh status
+
+# Manual run
+./scripts/cron/setup_cron.sh run
 ```
 
-This loads:
-- Seasons from game dates
-- Teams from game files
-- Team-season combinations
-- Players from player stats files
-- Player-season attributes
-- Games with scores and metadata
-- Player game statistics
+The sync discovers yesterday's games, fetches data, loads to database, and runs QC.
 
-#### 3. Verify Data
+## Quality Control
 
-Execute verification queries in Supabase SQL Editor:
+### Assessment
 
-```sql
--- Check record counts
-SELECT 'teams' as table_name, COUNT(*) FROM teams
-UNION ALL SELECT 'players', COUNT(*) FROM players
-UNION ALL SELECT 'games', COUNT(*) FROM games
-UNION ALL SELECT 'player_game_stats', COUNT(*) FROM player_game_stats
-UNION ALL SELECT 'game_plays', COUNT(*) FROM game_plays;
+```bash
+# Check data quality (terminal table output)
+python scripts/qc/assess_data_quality.py
 
--- Test data relationships
-SELECT g.id, t1.name as home_team, t2.name as away_team, g.home_score, g.away_score
-FROM games g
-JOIN teams t1 ON g.home_team_id = t1.id
-JOIN teams t2 ON g.away_team_id = t2.id
-LIMIT 10;
+# Filter by season/division
+python scripts/qc/assess_data_quality.py --season 2025 --division 1
+
+# JSON output for automation
+python scripts/qc/assess_data_quality.py --json
 ```
 
-Full verification queries: `scripts/loading/verify_data.sql`
+Sample output:
+```
+┌─────────┬─────────────────────────────┬────────────┬─────────┬──────────┬───────────────┐
+│ Game ID │ Teams                       │ Expected   │ Actual  │ Delta    │ Cause         │
+├─────────┼─────────────────────────────┼────────────┼─────────┼──────────┼───────────────┤
+│ 6310370 │ Villanova vs Yale           │ 13-11 (24) │ 12-11   │ -1 home  │ GOAL_MISMATCH*│
+└─────────┴─────────────────────────────┴────────────┴─────────┴──────────┴───────────────┘
+* = Play-by-play available for recovery
+```
 
-## Multi-Division Support
+### Fill Missing Data
 
-The system supports all three NCAA divisions (D1, D2, D3):
+```bash
+# Fill specific game from play-by-play
+python scripts/qc/fill_missing_stats.py --game 6380961
 
-### Key Features
-- **Data Organization**: Files organized by season and division (`data/{season}/division{n}/`)
-- **Independent Scraping**: Each division can be scraped separately
-- **Division Filtering**: All loading scripts support `--division` flag
-- **Default Behavior**: Division 1 is the default if not specified
+# Fill all games with missing files
+python scripts/qc/fill_missing_stats.py --all-missing
 
-### Configuration
+# Dry run
+python scripts/qc/fill_missing_stats.py --all-missing --dry-run
+```
 
-Division configuration is stored in `config.json`:
+## Configuration
+
+### config.json
 
 ```json
 {
   "division": 1,
   "season_division_ids": {
     "1": {
-      "2025": 18484,
-      "2024": 16520
-    },
-    "2": {},
-    "3": {}
-  }
-}
-```
-
-**Note:** Division 2 and 3 `season_division_ids` must be discovered from the NCAA website. See `TODO/multi_division_plan.md` for research instructions.
-
-### Database Schema
-
-The database includes:
-- `divisions` table (reference: D1, D2, D3)
-- `division_id` column on all major tables
-- Division-aware materialized views
-- Indexes optimized for multi-division queries
-
-Run `scripts/loading/add_division_support.sql` to migrate existing databases.
-
-## Configuration
-
-### Scraping Configuration (`config.json`)
-
-```json
-{
+      "2026": null,
+      "2025": 18484
+    }
+  },
   "date_ranges": {
-    "start_date": "02/01/2025",
-    "end_date": "05/26/2025"
+    "start_date": "02/01/2026",
+    "end_date": "06/01/2026"
   },
   "rate_limiting": {
     "base_delay": 0.625,
-    "random_jitter": [0.125, 0.375],
-    "burst_protection": true,
     "daily_limit": 4000,
     "requests_per_minute": 60
   },
-  "retry_strategy": {
-    "max_attempts": 3,
-    "base_delay": 5.0,
-    "429_backoff_start": 30,
-    "max_backoff": 300
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "lacrosse_stats"
   }
 }
 ```
 
-### Database Configuration
+### Season Setup
 
-- **Service Role Key**: Used for data loading (stored in `.env.local`)
-- **Anon Key**: Used for application queries (stored in `config.json`)
-- **RLS**: Enabled with public read access for all stats data
+Each NCAA season requires discovering the `season_division_id`:
+
+```bash
+# Run when new season starts (typically late January)
+python scripts/utils/get_game_ids.py --season 2026 --test --start-date 02/01/2026 --debug
+
+# Update config.json with discovered ID
+```
 
 ## Project Structure
 
 ```
 lacrosse-stats/
-├── main.py                          # Main batch scraper
-├── config.json                      # Configuration
-├── .env.local                       # Supabase credentials
+├── config.json                  # Scraping and database config
+├── main.py                      # Batch scraper orchestration
 ├── scripts/
-│   ├── fetching/                    # Web scraping scripts
-│   │   ├── fetch_game_data.py       # Game info and stats scraper
-│   │   └── fetch_game_plays.py      # Play-by-play scraper
-│   ├── loading/                     # Database loading scripts
-│   │   ├── load_teams.py            # Team loader
-│   │   ├── load_players.py          # Player loader
-│   │   ├── load_games_multi_season.py        # Game loader (multi-season, multi-division)
-│   │   ├── load_player_stats_multi_season.py # Player stats loader (multi-season, multi-division)
-│   │   ├── load_plays.py            # Play-by-play loader
-│   │   ├── add_division_support.sql # Schema migration for multi-division
-│   │   ├── reset_database.sql       # Schema creation
-│   │   ├── verify_data.sql          # Verification queries
-│   │   └── verify_multi_season_migration.sql # Multi-season verification
-│   └── utils/                       # Utility scripts
-│       ├── get_game_ids.py          # Game discovery
-│       ├── team_list.py             # Team extraction
-│       ├── get_rosters.py           # Roster scraper
-│       ├── migrate_to_division_structure.py  # Reorganize data files by division
-│       ├── ping_database.py         # Keep Supabase free tier active
-│       ├── setup_cron.sh            # Install database ping cron jobs
-│       └── logging_config.py        # Logging setup
-├── data/
-│   ├── games/                       # Scraped JSON files (1,737 files)
-│   └── raw/                         # Raw API data
-│       ├── game_ids.json            # Master game list
-│       ├── team_ids.json            # Team IDs
-│       └── rosters.json             # Player rosters
-├── outputs/
-│   └── logs/                        # Scraper logs
-├── supabase/
-│   └── migrations/                  # Active migrations
-│       └── 20250131000001_create_new_schema.sql
-└── archive/                         # Archived files
-    ├── migrations/                  # Old migration attempts
-    ├── scripts/                     # Deprecated scripts
-    ├── tests/                       # Old test files
-    └── docs/                        # Historical docs
+│   ├── fetching/                # NCAA web scrapers
+│   │   ├── fetch_game_data.py   # Game info + player stats
+│   │   └── fetch_game_plays.py  # Play-by-play
+│   ├── loading/                 # Database loaders
+│   │   ├── load_teams.py
+│   │   ├── load_games.py
+│   │   ├── load_players.py
+│   │   └── load_player_stats.py
+│   ├── qc/                      # Quality control
+│   │   ├── assess_data_quality.py
+│   │   └── fill_missing_stats.py
+│   ├── cron/                    # Scheduled tasks
+│   │   └── setup_cron.sh
+│   ├── sync_daily.py            # Daily sync orchestration
+│   └── utils/
+│       ├── db.py                # PostgreSQL helpers
+│       ├── roster_lookup.py     # Player→team mapping
+│       ├── pbp_parser.py        # Play-by-play parsing
+│       └── get_game_ids.py      # Game discovery
+├── data/                        # Scraped JSON files
+├── web/                         # Next.js dashboard
+│   ├── prisma/schema.prisma     # Database schema
+│   └── src/app/                 # App Router pages
+├── outputs/logs/                # Scraper logs
+└── TODO/
+    ├── tasks.md                 # Current tasks
+    └── architecture.md          # System documentation
 ```
 
-## Command Reference
+## Database Schema
 
-### Scraping Commands
+Core tables:
+- `teams` - NCAA teams (TEXT primary key = NCAA ID)
+- `players` - Player records (BIGINT primary key = NCAA player ID)
+- `games` - Games with scores and metadata
+- `player_game_stats` - Individual player stats per game
+- `player_seasons` - Season-specific player attributes
 
-```bash
-# Get game IDs for date range
-python3 scripts/utils/get_game_ids.py
+See `web/prisma/schema.prisma` for complete schema.
 
-# Extract team IDs
-python3 scripts/utils/team_list.py
+## Verification Queries
 
-# Get rosters (optional)
-python3 scripts/utils/get_rosters.py [--limit N] [--dry-run]
+```sql
+-- Row counts
+SELECT 'teams' as tbl, COUNT(*) FROM teams
+UNION ALL SELECT 'players', COUNT(*) FROM players
+UNION ALL SELECT 'games', COUNT(*) FROM games
+UNION ALL SELECT 'player_game_stats', COUNT(*) FROM player_game_stats;
 
-# Scrape all games
-python3 main.py [--config FILE] [--max-workers N] [--sequential]
+-- Data integrity: all player teams match game teams
+SELECT COUNT(*) FROM player_game_stats pgs
+JOIN games g ON pgs.game_id = g.id
+WHERE pgs.team_id NOT IN (g.home_team_id, g.away_team_id);
+-- Expected: 0
 
-# Scrape individual game
-python3 scripts/fetching/fetch_game_data.py GAME_URL
-python3 scripts/fetching/fetch_game_plays.py --test GAME_ID
+-- Goals match scores
+SELECT g.id, g.home_score, SUM(CASE WHEN pgs.team_id = g.home_team_id THEN pgs.goals ELSE 0 END) as calc_home
+FROM games g
+JOIN player_game_stats pgs ON pgs.game_id = g.id
+GROUP BY g.id
+HAVING g.home_score != SUM(CASE WHEN pgs.team_id = g.home_team_id THEN pgs.goals ELSE 0 END);
 ```
-
-### Data Loading Commands
-
-```bash
-# Load individual data types
-python3 scripts/loading/load_teams.py [--data-dir DIR] [--dry-run]
-python3 scripts/loading/load_players.py [--data-dir DIR] [--dry-run]
-python3 scripts/loading/load_games_multi_season.py [--data-dir DIR] [--season YEAR] [--division N] [--dry-run]
-python3 scripts/loading/load_player_stats_multi_season.py [--data-dir DIR] [--season YEAR] [--division N] [--dry-run]
-python3 scripts/loading/load_plays.py [--data-dir DIR] [--dry-run]
-
-# Ping database to keep free tier active
-python3 scripts/utils/ping_database.py [--verbose]
-```
-
-**Note**: Use `*_multi_season.py` loaders for games and player stats to ensure proper season and division tracking.
-
-### Monitoring Commands
-
-```bash
-# Watch scraper logs
-tail -f outputs/logs/lacrosse_scraper_*.log
-
-# Count scraped files
-ls data/games/game_*_info.json | wc -l
-
-# Check failed games
-cat data/raw/failed_games.json
-
-# Monitor scraping success rate
-grep "Successfully fetched" outputs/logs/*.log | wc -l
-```
-
-## Data Output
-
-### Scraped Files (JSON)
-
-Each game produces three files in `data/games/`:
-
-1. **`game_{id}_info.json`** - Game metadata
-   ```json
-   {
-     "gameId": "6313129",
-     "gameDate": "02/01/2025",
-     "homeTeam": "Queens (NC) Royals",
-     "homeTeamId": "594044",
-     "homeScore": 9,
-     "awayTeam": "Mount St. Mary's Mountaineers",
-     "awayTeamId": "593988",
-     "awayScore": 14,
-     "location": "Queens Sports Complex (Charlotte, NC)",
-     "attendance": 205
-   }
-   ```
-
-2. **`game_{id}_player_stats.json`** - Player statistics
-   ```json
-   [
-     {
-       "playerId": 8762073,
-       "name": "Player Name",
-       "jersey": "1",
-       "position": "M",
-       "Goals": 2,
-       "Assists": 1,
-       "Points": 3,
-       "Shots": 5,
-       "SOG": 4,
-       "GB": 3,
-       "TO": 1,
-       "CT": 0
-     }
-   ]
-   ```
-
-3. **`game_{id}_plays.json`** - Play-by-play events
-   ```json
-   [
-     {
-       "quarter": "1",
-       "time": "15:00",
-       "homeEvent": null,
-       "awayEvent": "Faceoff won by AWAY",
-       "score": "0-0"
-     }
-   ]
-   ```
-
-### Database Tables
-
-All scraped data is normalized and stored in Supabase:
-
-- **teams**: Team master table with NCAA IDs
-- **players**: Player master table with biographic info
-- **games**: Game records with foreign keys to teams
-- **player_game_stats**: Individual player performance per game
-- **game_plays**: Sequential play-by-play events
 
 ## Rate Limiting
 
 The scraper respects NCAA website resources:
-
-- **Base Delay**: 0.625s between requests
-- **Jitter**: 0.125-0.375s random variation
-- **Burst Protection**: Max 60 requests/minute
-- **Daily Limit**: 4,000 requests/day
-- **Exponential Backoff**: Progressive delays for 429/5xx errors
-- **Business Hours**: Optional slowdown during EST business hours
-
-## Important Notes
-
-### NCAA ID Changes
-
-The roster extraction URLs use category IDs specific to the 2024-2025 season:
-- Category 15649: Field players
-- Category 15650: Goalkeepers
-
-**These IDs change annually** in the NCAA database. Update URLs in `scripts/utils/get_rosters.py` for future seasons.
-
-### Data Quality
-
-- The system automatically deduplicates player stats (1,561 duplicates removed from source data)
-- Some players appear twice in game files (e.g., played field and goalie)
-- The loader keeps the first occurrence of duplicate (game_id, player_id) pairs
-
-### Loading New Data
-
-To load new games, seasons, or divisions after initial setup:
-
-1. Update date range in `config.json`
-2. Run scraping workflow with appropriate `--season` and `--division` flags
-3. Load data using multi-season loaders:
-   ```bash
-   python3 scripts/loading/load_games_multi_season.py --season 2025 --division 1
-   python3 scripts/loading/load_player_stats_multi_season.py --season 2025 --division 1
-   ```
-
-The multi-season loaders automatically:
-- Create new season and division records if needed
-- Update player_seasons with current jersey numbers and positions
-- Maintain team_seasons for each team per season and division
-- Refresh aggregated statistics materialized view
-
-## Row Level Security
-
-RLS is enabled on all tables with public read access. When loading new data, use service role key:
-
-1. Update `config.json` to use service role key (from `.env.local`)
-2. Run data loading scripts (e.g., `load_games_multi_season.py`, `load_player_stats_multi_season.py`)
-3. Restore anon key in `config.json`
-
-**Note**: Service role key bypasses RLS and should only be used for data loading operations.
-
-## Documentation
-
-- **`TODO/tasks.md`** - Project tasks and obsolete file tracking
-- **`TODO/MIGRATION_GUIDE.md`** - Multi-season migration instructions
-- **`TODO/MULTI_SEASON_SUMMARY.md`** - Multi-season architecture overview
-- **`archive/docs/`** - Historical documentation and archived guides
+- Base delay: 0.625s between requests
+- Random jitter: 0.125-0.375s
+- Max 60 requests/minute
+- Daily limit: 4,000 requests
+- Exponential backoff for errors
 
 ## Troubleshooting
 
-### Scraping Issues
+### Scraping
 
-1. **429 Errors**: Increase `base_delay` in config
-2. **Timeouts**: Increase `timeout_seconds` or reduce `max_workers`
-3. **Failed Games**: Check `data/raw/failed_games.json` and re-run scraper
-4. **Missing Data**: Verify date range and ensure NCAA site is accessible
+- **403 Blocked**: Wait several hours, use VPN, or increase delays
+- **429 Rate Limited**: Automatic backoff; increase `base_delay` if persistent
+- **Missing Games**: Check `data/raw/failed_games.json`
 
-### Database Issues
+### Database
 
-1. **Connection Errors**: Verify Supabase credentials in `config.json`
-2. **Schema Errors**: Re-run `scripts/loading/reset_database.sql`
-3. **Foreign Key Violations**: Load in correct order (teams → players → games → stats → plays)
-4. **Duplicate Errors**: Already handled by deduplication in loaders
+- **Connection Error**: Verify PostgreSQL running (`brew services list`)
+- **Schema Mismatch**: Run `pnpm prisma db push` in web/
+- **Foreign Key Errors**: Load in order: teams → games → players → stats
 
-### Verification Failed
+### QC
 
-Execute verification queries from `scripts/loading/verify_data.sql` to diagnose:
-- Missing data
-- Broken relationships
-- Incorrect record counts
+- **GOAL_MISMATCH**: Can often be fixed with `fill_missing_stats.py`
+- **MISSING_FILE**: Check if play-by-play exists for recovery
 
 ## License
 
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines if open source]
-
-## Contact
-
-For questions or support, please refer to the project documentation or create an issue in the repository.
+Copyright Mere Animals LLC. All rights reserved.

@@ -20,6 +20,7 @@ from collections import defaultdict
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from utils.db import get_cursor, parse_time_to_seconds, execute_query
 from utils.path_helpers import get_all_season_dirs
+from utils.roster_lookup import get_roster_mapping_cached, get_player_team
 
 
 def safe_int(value, default=0):
@@ -124,15 +125,21 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 			with open(file_path, "r", encoding="utf-8") as f:
 				players_data = json.load(f)
 
-			# Assign team based on position in file (heuristic)
-			midpoint = len(players_data) // 2
+			# Load roster mapping for team assignment
+			roster_map = get_roster_mapping_cached(season_id, division)
 
-			for idx, player_data in enumerate(players_data):
+			for player_data in players_data:
 				if "playerId" not in player_data or "name" not in player_data:
 					continue
 
 				player_id = player_data["playerId"]
-				team_id = home_team_id if idx < midpoint else away_team_id
+
+				# Look up team from roster (source of truth)
+				team_id = get_player_team(player_id, roster_map, home_team_id, away_team_id)
+				if team_id is None:
+					player_name = player_data.get("name", "Unknown")
+					print(f"Warning: Player {player_id} ({player_name}) not found in roster for game {game_id}, skipping", file=sys.stderr)
+					continue
 
 				# Check if goalie stats
 				is_goalie_stat = "G Min" in player_data
