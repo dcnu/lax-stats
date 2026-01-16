@@ -1,0 +1,82 @@
+import { NextResponse } from "next/server";
+import { prisma } from "@/lib/db";
+
+interface ScorerRow {
+	player_id: bigint;
+	player_name: string;
+	team_id: string;
+	team_name: string;
+	season_id: string;
+	games_played: bigint;
+	total_goals: bigint;
+	total_assists: bigint;
+	total_points: bigint;
+	total_shots: bigint;
+	total_shots_on_goal: bigint;
+	total_ground_balls: bigint;
+	total_turnovers: bigint;
+	total_caused_turnovers: bigint;
+}
+
+export async function GET(request: Request) {
+	const { searchParams } = new URL(request.url);
+	const seasonId = searchParams.get("seasonId") || "2025";
+	const limit = parseInt(searchParams.get("limit") || "50");
+
+	try {
+		const result = await prisma.$queryRaw<ScorerRow[]>`
+			SELECT
+				pgs.player_id,
+				p.name as player_name,
+				pgs.team_id,
+				t.name as team_name,
+				pgs.season_id,
+				COUNT(DISTINCT pgs.game_id) as games_played,
+				SUM(pgs.goals) as total_goals,
+				SUM(pgs.assists) as total_assists,
+				SUM(pgs.points) as total_points,
+				SUM(pgs.shots) as total_shots,
+				SUM(pgs.shots_on_goal) as total_shots_on_goal,
+				SUM(pgs.ground_balls) as total_ground_balls,
+				SUM(pgs.turnovers) as total_turnovers,
+				SUM(pgs.caused_turnovers) as total_caused_turnovers
+			FROM player_game_stats pgs
+			JOIN players p ON pgs.player_id = p.id
+			JOIN teams t ON pgs.team_id = t.id
+			WHERE pgs.season_id = ${seasonId}
+			GROUP BY pgs.player_id, p.name, pgs.team_id, t.name, pgs.season_id
+			ORDER BY total_points DESC
+			LIMIT ${limit}
+		`;
+
+		// Convert bigints to numbers and add derived fields
+		const data = result.map((row) => ({
+			player_id: Number(row.player_id),
+			player_name: row.player_name,
+			team_id: row.team_id,
+			team_name: row.team_name,
+			season_id: row.season_id,
+			games_played: Number(row.games_played),
+			total_goals: Number(row.total_goals),
+			total_assists: Number(row.total_assists),
+			total_points: Number(row.total_points),
+			total_shots: Number(row.total_shots),
+			total_shots_on_goal: Number(row.total_shots_on_goal),
+			total_ground_balls: Number(row.total_ground_balls),
+			total_turnovers: Number(row.total_turnovers),
+			total_caused_turnovers: Number(row.total_caused_turnovers),
+			points_per_game:
+				Number(row.games_played) > 0
+					? Math.round((Number(row.total_points) / Number(row.games_played)) * 100) / 100
+					: 0,
+		}));
+
+		return NextResponse.json(data);
+	} catch (error) {
+		console.error("Error fetching top scorers:", error);
+		return NextResponse.json(
+			{ message: "Failed to fetch top scorers" },
+			{ status: 500 }
+		);
+	}
+}

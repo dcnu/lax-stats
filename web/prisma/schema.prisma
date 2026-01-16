@@ -1,0 +1,244 @@
+generator client {
+	provider = "prisma-client"
+	output   = "../src/generated/prisma"
+}
+
+datasource db {
+	provider = "postgresql"
+	url      = env("DATABASE_URL")
+}
+
+// Lookup Tables
+
+model Division {
+	id           Int      @id
+	name         String   @unique
+	abbreviation String   @unique
+	createdAt    DateTime @default(now()) @map("created_at")
+
+	teams           Team[]
+	players         Player[]
+	seasons         Season[]
+	games           Game[]
+	playerGameStats PlayerGameStats[]
+
+	@@map("divisions")
+}
+
+model Position {
+	code     String @id
+	name     String
+	category String
+
+	playerGameStats PlayerGameStats[]
+
+	@@map("positions")
+}
+
+model PlayType {
+	code     String @id
+	name     String
+	category String
+
+	gamePlays GamePlay[]
+
+	@@map("play_types")
+}
+
+// Core Tables
+
+model Team {
+	id         String   @id
+	name       String
+	shortName  String?  @map("short_name")
+	divisionId Int      @default(1) @map("division_id")
+	createdAt  DateTime @default(now()) @map("created_at")
+	updatedAt  DateTime @updatedAt @map("updated_at")
+
+	division        Division          @relation(fields: [divisionId], references: [id])
+	homeGames       Game[]            @relation("HomeTeam")
+	awayGames       Game[]            @relation("AwayTeam")
+	teamSeasons     TeamSeason[]
+	playerSeasons   PlayerSeason[]
+	playerGameStats PlayerGameStats[]
+	gamePlays       GamePlay[]
+
+	@@map("teams")
+}
+
+model Player {
+	id         BigInt   @id
+	name       String
+	divisionId Int      @default(1) @map("division_id")
+	createdAt  DateTime @default(now()) @map("created_at")
+	updatedAt  DateTime @updatedAt @map("updated_at")
+
+	division        Division          @relation(fields: [divisionId], references: [id])
+	playerSeasons   PlayerSeason[]
+	playerGameStats PlayerGameStats[]
+	primaryPlays    GamePlay[]        @relation("PrimaryPlayer")
+	secondaryPlays  GamePlay[]        @relation("SecondaryPlayer")
+
+	@@map("players")
+}
+
+model Season {
+	id         String    @id
+	divisionId Int       @default(1) @map("division_id")
+	startYear  Int       @map("start_year")
+	endYear    Int       @map("end_year")
+	startDate  DateTime? @map("start_date") @db.Date
+	endDate    DateTime? @map("end_date") @db.Date
+	isCurrent  Boolean   @default(false) @map("is_current")
+	createdAt  DateTime  @default(now()) @map("created_at")
+	updatedAt  DateTime  @updatedAt @map("updated_at")
+
+	division        Division          @relation(fields: [divisionId], references: [id])
+	games           Game[]
+	teamSeasons     TeamSeason[]
+	playerSeasons   PlayerSeason[]
+	playerGameStats PlayerGameStats[]
+
+	@@map("seasons")
+}
+
+model Game {
+	id         String     @id
+	seasonId   String     @map("season_id")
+	divisionId Int        @default(1) @map("division_id")
+	gameDate   DateTime   @map("game_date") @db.Date
+	homeTeamId String     @map("home_team_id")
+	awayTeamId String     @map("away_team_id")
+	homeScore  Int?       @map("home_score")
+	awayScore  Int?       @map("away_score")
+	location   String?
+	attendance Int?
+	status     GameStatus @default(final)
+	createdAt  DateTime   @default(now()) @map("created_at")
+	updatedAt  DateTime   @updatedAt @map("updated_at")
+
+	division        Division          @relation(fields: [divisionId], references: [id])
+	season          Season            @relation(fields: [seasonId], references: [id])
+	homeTeam        Team              @relation("HomeTeam", fields: [homeTeamId], references: [id])
+	awayTeam        Team              @relation("AwayTeam", fields: [awayTeamId], references: [id])
+	playerGameStats PlayerGameStats[]
+	gamePlays       GamePlay[]
+
+	@@map("games")
+}
+
+enum GameStatus {
+	scheduled
+	in_progress
+	final
+	postponed
+	cancelled
+
+	@@map("game_status")
+}
+
+// Stats Tables
+
+model PlayerGameStats {
+	id              String   @id @default(uuid())
+	gameId          String   @map("game_id")
+	playerId        BigInt   @map("player_id")
+	teamId          String   @map("team_id")
+	seasonId        String   @map("season_id")
+	divisionId      Int      @default(1) @map("division_id")
+	jerseyNumber    String?  @map("jersey_number")
+	position        String?
+	minutesPlayed   Int?     @map("minutes_played") // Stored as seconds
+	goals           Int      @default(0)
+	assists         Int      @default(0)
+	points          Int      @default(0)
+	shots           Int      @default(0)
+	shotsOnGoal     Int      @default(0) @map("shots_on_goal")
+	groundBalls     Int      @default(0) @map("ground_balls")
+	turnovers       Int      @default(0)
+	causedTurnovers Int      @default(0) @map("caused_turnovers")
+	faceoffWins     Int      @default(0) @map("faceoff_wins")
+	faceoffsTaken   Int      @default(0) @map("faceoffs_taken")
+	goalieMinutes   Int?     @map("goalie_minutes") // Stored as seconds
+	goalsAllowed    Int      @default(0) @map("goals_allowed")
+	gaa             Decimal? @db.Decimal(5, 3)
+	saves           Int      @default(0)
+	savePercentage  Decimal? @map("save_percentage") @db.Decimal(5, 3)
+	createdAt       DateTime @default(now()) @map("created_at")
+	updatedAt       DateTime @updatedAt @map("updated_at")
+
+	division    Division  @relation(fields: [divisionId], references: [id])
+	game        Game      @relation(fields: [gameId], references: [id])
+	player      Player    @relation(fields: [playerId], references: [id])
+	team        Team      @relation(fields: [teamId], references: [id])
+	season      Season    @relation(fields: [seasonId], references: [id])
+	positionRef Position? @relation(fields: [position], references: [code])
+
+	@@unique([gameId, playerId, position])
+	@@map("player_game_stats")
+}
+
+model GamePlay {
+	id                  String   @id @default(uuid())
+	gameId              String   @map("game_id")
+	quarter             String
+	timeRemaining       Int      @map("time_remaining") // Stored as seconds
+	playSequence        Int      @map("play_sequence")
+	playType            String   @map("play_type")
+	playerId            BigInt?  @map("player_id")
+	playerName          String?  @map("player_name")
+	teamId              String?  @map("team_id")
+	secondaryPlayerId   BigInt?  @map("secondary_player_id")
+	secondaryPlayerName String?  @map("secondary_player_name")
+	homeScore           Int?     @map("home_score")
+	awayScore           Int?     @map("away_score")
+	rawDescription      String?  @map("raw_description")
+	createdAt           DateTime @default(now()) @map("created_at")
+
+	game            Game      @relation(fields: [gameId], references: [id])
+	player          Player?   @relation("PrimaryPlayer", fields: [playerId], references: [id])
+	team            Team?     @relation(fields: [teamId], references: [id])
+	secondaryPlayer Player?   @relation("SecondaryPlayer", fields: [secondaryPlayerId], references: [id])
+	playTypeRef     PlayType? @relation(fields: [playType], references: [code])
+
+	@@unique([gameId, playSequence])
+	@@map("game_plays")
+}
+
+// Season-specific Tables
+
+model TeamSeason {
+	id         String   @id @default(uuid())
+	teamId     String   @map("team_id")
+	seasonId   String   @map("season_id")
+	teamName   String   @map("team_name")
+	conference String?
+	logoUrl    String?  @map("logo_url")
+	createdAt  DateTime @default(now()) @map("created_at")
+	updatedAt  DateTime @updatedAt @map("updated_at")
+
+	team   Team   @relation(fields: [teamId], references: [id])
+	season Season @relation(fields: [seasonId], references: [id])
+
+	@@unique([teamId, seasonId])
+	@@map("team_seasons")
+}
+
+model PlayerSeason {
+	id              String   @id @default(uuid())
+	playerId        BigInt   @map("player_id")
+	teamId          String   @map("team_id")
+	seasonId        String   @map("season_id")
+	jerseyNumber    String   @map("jersey_number")
+	primaryPosition String?  @map("primary_position")
+	classYear       String?  @map("class_year")
+	createdAt       DateTime @default(now()) @map("created_at")
+	updatedAt       DateTime @updatedAt @map("updated_at")
+
+	player Player @relation(fields: [playerId], references: [id])
+	team   Team   @relation(fields: [teamId], references: [id])
+	season Season @relation(fields: [seasonId], references: [id])
+
+	@@unique([playerId, teamId, seasonId])
+	@@map("player_seasons")
+}
