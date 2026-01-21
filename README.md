@@ -37,51 +37,6 @@ Automated collection and analysis of NCAA lacrosse game data:
 | Charts | Recharts |
 | DB Driver | psycopg2-binary |
 
-## Architecture
-
-```mermaid
-flowchart TB
-    subgraph Scraping["Data Collection"]
-        NCAA[NCAA Website]
-        FG[fetch_game_data.py]
-        FP[fetch_game_plays.py]
-        NCAA --> FG & FP
-    end
-
-    subgraph Storage["Local Storage"]
-        JSON[(JSON Files<br/>data/season/)]
-        FG & FP --> JSON
-    end
-
-    subgraph Loading["Database Loading"]
-        LT[load_teams.py]
-        LG[load_games.py]
-        LP[load_players.py]
-        LS[load_player_stats.py]
-        JSON --> LT --> LG --> LP --> LS
-    end
-
-    subgraph Database["PostgreSQL"]
-        DB[(lacrosse_stats)]
-        LS --> DB
-    end
-
-    subgraph QC["Quality Control"]
-        AQ[assess_data_quality.py]
-        FM[fill_missing_stats.py]
-        DB --> AQ
-        JSON --> FM --> DB
-    end
-
-    subgraph Web["Next.js Dashboard"]
-        API[API Routes]
-        UI[React UI]
-        DB --> API --> UI
-    end
-
-    CRON[Daily Sync<br/>sync_daily.py] -.-> NCAA
-```
-
 ## Quick Start
 
 ### Prerequisites
@@ -225,52 +180,10 @@ python scripts/qc/fill_missing_stats.py --all-missing
 python scripts/qc/fill_missing_stats.py --all-missing --dry-run
 ```
 
-## Configuration
-
-### config.json
-
-```json
-{
-  "division": 1,
-  "season_division_ids": {
-    "1": {
-      "2026": null,
-      "2025": 18484
-    }
-  },
-  "date_ranges": {
-    "start_date": "02/01/2026",
-    "end_date": "06/01/2026"
-  },
-  "rate_limiting": {
-    "base_delay": 0.625,
-    "daily_limit": 4000,
-    "requests_per_minute": 60
-  },
-  "database": {
-    "host": "localhost",
-    "port": 5432,
-    "database": "lacrosse_stats"
-  }
-}
-```
-
-### Season Setup
-
-Each NCAA season requires discovering the `season_division_id`:
-
-```bash
-# Run when new season starts (typically late January)
-python scripts/utils/get_game_ids.py --season 2026 --test --start-date 02/01/2026 --debug
-
-# Update config.json with discovered ID
-```
-
 ## Project Structure
 
 ```
 lacrosse-stats/
-├── config.json                  # Scraping and database config
 ├── main.py                      # Batch scraper orchestration
 ├── scripts/
 │   ├── fetching/                # NCAA web scrapers
@@ -293,13 +206,9 @@ lacrosse-stats/
 │       ├── pbp_parser.py        # Play-by-play parsing
 │       └── get_game_ids.py      # Game discovery
 ├── data/                        # Scraped JSON files
-├── web/                         # Next.js dashboard
-│   ├── prisma/schema.prisma     # Database schema
-│   └── src/app/                 # App Router pages
-├── outputs/logs/                # Scraper logs
-└── TODO/
-    ├── tasks.md                 # Current tasks
-    └── architecture.md          # System documentation
+└── web/                         # Next.js dashboard
+    ├── prisma/schema.prisma     # Database schema
+    └── src/app/                 # App Router pages
 ```
 
 ## Database Schema
