@@ -2,7 +2,7 @@
 
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Node.js 20+](https://img.shields.io/badge/Node.js-20+-green.svg)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 NCAA men's lacrosse statistics pipeline with local PostgreSQL storage and Next.js web dashboard.
 
@@ -49,7 +49,7 @@ flowchart TB
     end
 
     subgraph Storage["Local Storage"]
-        JSON[(JSON Files<br/>data/{season}/)]
+        JSON[(JSON Files<br/>data/season/)]
         FG & FP --> JSON
     end
 
@@ -451,4 +451,4 @@ or
 
 ## License
 
-Copyright Mere Animals LLC. All rights reserved.
+MIT License. See [LICENSE](LICENSE) for details.
