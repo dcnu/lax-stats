@@ -1,5 +1,9 @@
 # Lacrosse Stats
 
+![Python 3.11+](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![Node.js 20+](https://img.shields.io/badge/Node.js-20+-green.svg)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)
+
 NCAA men's lacrosse statistics pipeline with local PostgreSQL storage and Next.js web dashboard.
 
 ## Overview
@@ -11,6 +15,72 @@ Automated collection and analysis of NCAA lacrosse game data:
 - **Quality Control**: Automated validation and gap-filling from play-by-play
 - **Daily Sync**: Cron job for nightly updates during season
 - **Web Dashboard**: Next.js app for stats exploration
+
+## Features
+
+- **Multi-division support**: D1, D2, D3 data collection
+- **Multi-season historical data**: Tracks multiple seasons with season-specific configurations
+- **Automated daily sync**: Cron-based nightly updates during active season
+- **Play-by-play gap filling**: Recovers missing stats from play-by-play data
+- **Natural language queries**: SQL generation from plain English (requires Anthropic API key)
+- **Data quality monitoring**: Automated validation with detailed mismatch reports
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Scraping | Python (BeautifulSoup, httpx) |
+| Database | PostgreSQL 16 + Prisma ORM |
+| Backend | Next.js 16 API Routes |
+| Frontend | React + TypeScript + TailwindCSS |
+| UI Components | shadcn/ui |
+| Charts | Recharts |
+| DB Driver | psycopg2-binary |
+
+## Architecture
+
+```mermaid
+flowchart TB
+    subgraph Scraping["Data Collection"]
+        NCAA[NCAA Website]
+        FG[fetch_game_data.py]
+        FP[fetch_game_plays.py]
+        NCAA --> FG & FP
+    end
+
+    subgraph Storage["Local Storage"]
+        JSON[(JSON Files<br/>data/{season}/)]
+        FG & FP --> JSON
+    end
+
+    subgraph Loading["Database Loading"]
+        LT[load_teams.py]
+        LG[load_games.py]
+        LP[load_players.py]
+        LS[load_player_stats.py]
+        JSON --> LT --> LG --> LP --> LS
+    end
+
+    subgraph Database["PostgreSQL"]
+        DB[(lacrosse_stats)]
+        LS --> DB
+    end
+
+    subgraph QC["Quality Control"]
+        AQ[assess_data_quality.py]
+        FM[fill_missing_stats.py]
+        DB --> AQ
+        JSON --> FM --> DB
+    end
+
+    subgraph Web["Next.js Dashboard"]
+        API[API Routes]
+        UI[React UI]
+        DB --> API --> UI
+    end
+
+    CRON[Daily Sync<br/>sync_daily.py] -.-> NCAA
+```
 
 ## Quick Start
 
@@ -274,6 +344,91 @@ The scraper respects NCAA website resources:
 - Max 60 requests/minute
 - Daily limit: 4,000 requests
 - Exponential backoff for errors
+
+## API Endpoints
+
+Base URL: `http://localhost:3000/api`
+
+### GET /seasons
+Returns available seasons.
+```json
+[{ "id": "2026" }, { "id": "2025" }]
+```
+
+### GET /stats/recent-games
+Returns recent completed games.
+
+| Param | Default | Description |
+|-------|---------|-------------|
+| seasonId | 2025 | Season filter |
+| limit | 30 | Max results |
+
+```json
+[{
+  "id": "6380961",
+  "date": "2025-05-26",
+  "home_team": "Syracuse",
+  "home_score": 13,
+  "away_team": "Duke",
+  "away_score": 11
+}]
+```
+
+### GET /stats/top-scorers
+Returns player scoring leaders with aggregated stats.
+
+| Param | Default | Description |
+|-------|---------|-------------|
+| seasonId | 2025 | Season filter |
+| limit | 50 | Max results |
+
+```json
+[{
+  "player_name": "Brennan O'Neill",
+  "team_name": "Duke",
+  "games_played": 18,
+  "total_goals": 65,
+  "total_assists": 23,
+  "total_points": 88,
+  "points_per_game": 4.89
+}]
+```
+
+### GET /stats/team-standings
+Returns team win/loss records and goal differentials.
+
+| Param | Default | Description |
+|-------|---------|-------------|
+| seasonId | 2025 | Season filter |
+
+```json
+[{
+  "team_name": "Notre Dame",
+  "wins": 17,
+  "losses": 3,
+  "win_pct": ".850",
+  "goals_for": 289,
+  "goals_against": 178,
+  "goal_diff": 111
+}]
+```
+
+### POST /query
+Natural language or direct SQL queries (requires ANTHROPIC_API_KEY).
+
+**Request:**
+```json
+{ "query": "Who led the ACC in goals?", "seasonId": "2025" }
+```
+or
+```json
+{ "sql": "SELECT name FROM players LIMIT 5" }
+```
+
+**Response:**
+```json
+{ "data": [...], "sql": "SELECT ...", "rowCount": 10 }
+```
 
 ## Troubleshooting
 

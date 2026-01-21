@@ -41,6 +41,10 @@
 		"level": "INFO",
 		"log_file": "lacrosse_scraper.log"
 	},
-	"supabase_url": "https://your-project.supabase.co",
-	"supabase_key": "your-anon-key-here"
+	"database": {
+		"host": "localhost",
+		"port": 5432,
+		"database": "lacrosse_stats",
+		"user": "postgres"
+	}
 }
