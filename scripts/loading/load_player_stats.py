@@ -11,6 +11,8 @@ Usage:
 	python3 scripts/loading/load_player_stats.py --dry-run
 """
 
+import csv
+import io
 import json
 import sys
 import argparse
@@ -18,7 +20,7 @@ from pathlib import Path
 from collections import defaultdict
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from utils.db import get_cursor, parse_time_to_seconds, execute_query
+from utils.db import get_connection, parse_time_to_seconds, execute_query
 from utils.path_helpers import get_all_season_dirs
 from utils.roster_lookup import get_roster_mapping_cached, get_player_team
 
@@ -52,6 +54,16 @@ def get_game_metadata(game_id: str):
 	if result:
 		return result[0]
 	return None
+
+
+def get_all_game_metadata():
+	"""Prefetch all game metadata in a single query."""
+	result = execute_query(
+		"SELECT id, season_id, home_team_id, away_team_id FROM games",
+	)
+	if not result:
+		return {}
+	return {str(row["id"]): row for row in result}
 
 
 def extract_player_stats(data_dir: str = "data", season_filter: str = None, division_filter: int = None):
@@ -103,18 +115,15 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 	print(f"Processing {len(stats_files)} player stats files...")
 
 	player_stats = []
-	game_cache = {}
+	game_cache = get_all_game_metadata()
+	print(f"Prefetched metadata for {len(game_cache)} games")
 
 	for season_id, division, file_path in stats_files:
 		try:
 			# Extract game ID from filename
 			game_id = file_path.stem.split("_")[1]
 
-			# Get game metadata
-			if game_id not in game_cache:
-				game_cache[game_id] = get_game_metadata(game_id)
-
-			game_meta = game_cache[game_id]
+			game_meta = game_cache.get(game_id)
 			if not game_meta:
 				print(f"Warning: No game metadata for {game_id}, skipping", file=sys.stderr)
 				continue
@@ -256,7 +265,7 @@ def build_player_seasons(player_stats):
 
 
 def load_player_stats_to_database(player_stats: list, dry_run: bool = False):
-	"""Load player stats into PostgreSQL."""
+	"""Load player stats into PostgreSQL via COPY protocol."""
 	player_stats = deduplicate_stats(player_stats)
 
 	if dry_run:
@@ -267,83 +276,71 @@ def load_player_stats_to_database(player_stats: list, dry_run: bool = False):
 			print(f"  ... and {len(player_stats) - 10} more")
 		return
 
-	print(f"Loading {len(player_stats)} player game stats to database...")
+	print(f"Loading {len(player_stats)} player game stats to database...", flush=True)
 
-	query = """
-		INSERT INTO player_game_stats (
-			game_id, player_id, team_id, season_id, division_id,
-			jersey_number, position, minutes_played,
-			goals, assists, points, shots, shots_on_goal,
-			ground_balls, turnovers, caused_turnovers,
-			faceoff_wins, faceoffs_taken,
-			goalie_minutes, goals_allowed, gaa, saves, save_percentage
-		)
-		VALUES (%(game_id)s, %(player_id)s, %(team_id)s, %(season_id)s, %(division_id)s,
-			%(jersey_number)s, %(position)s, %(minutes_played)s,
-			%(goals)s, %(assists)s, %(points)s, %(shots)s, %(shots_on_goal)s,
-			%(ground_balls)s, %(turnovers)s, %(caused_turnovers)s,
-			%(faceoff_wins)s, %(faceoffs_taken)s,
-			%(goalie_minutes)s, %(goals_allowed)s, %(gaa)s, %(saves)s, %(save_percentage)s)
-		ON CONFLICT (game_id, player_id, position) DO UPDATE SET
-			goals = EXCLUDED.goals,
-			assists = EXCLUDED.assists,
-			points = EXCLUDED.points,
-			shots = EXCLUDED.shots,
-			shots_on_goal = EXCLUDED.shots_on_goal,
-			ground_balls = EXCLUDED.ground_balls,
-			turnovers = EXCLUDED.turnovers,
-			caused_turnovers = EXCLUDED.caused_turnovers,
-			faceoff_wins = EXCLUDED.faceoff_wins,
-			faceoffs_taken = EXCLUDED.faceoffs_taken,
-			goalie_minutes = EXCLUDED.goalie_minutes,
-			goals_allowed = EXCLUDED.goals_allowed,
-			gaa = EXCLUDED.gaa,
-			saves = EXCLUDED.saves,
-			save_percentage = EXCLUDED.save_percentage
-	"""
+	cols = [
+		"game_id", "player_id", "team_id", "season_id", "division_id",
+		"jersey_number", "position", "minutes_played",
+		"goals", "assists", "points", "shots", "shots_on_goal",
+		"ground_balls", "turnovers", "caused_turnovers",
+		"faceoff_wins", "faceoffs_taken",
+		"goalie_minutes", "goals_allowed", "gaa", "saves", "save_percentage",
+	]
 
-	loaded = 0
-	batch_size = 100
+	buf = io.StringIO()
+	writer = csv.writer(buf)
+	for stat in player_stats:
+		writer.writerow(["" if stat[c] is None else stat[c] for c in cols])
+	buf.seek(0)
 
-	with get_cursor() as cursor:
-		for i in range(0, len(player_stats), batch_size):
-			batch = player_stats[i:i + batch_size]
-			for stat in batch:
-				cursor.execute(query, stat)
-				loaded += 1
+	copy_sql = f"COPY player_game_stats ({', '.join(cols)}) FROM STDIN WITH (FORMAT csv, NULL '')"
 
-			print(f"Loaded batch {i // batch_size + 1}: {len(batch)} stats")
+	conn = get_connection()
+	try:
+		with conn.cursor() as cur:
+			cur.execute("DELETE FROM player_game_stats")
+			cur.copy_expert(copy_sql, buf)
+		conn.commit()
+	except Exception:
+		conn.rollback()
+		raise
+	finally:
+		conn.close()
 
-	print(f"Successfully loaded {loaded} player game stats")
+	print(f"Successfully loaded {len(player_stats)} player game stats")
 
 
 def load_player_seasons_to_database(player_seasons: list, dry_run: bool = False):
-	"""Load player_seasons records."""
+	"""Load player_seasons records via COPY protocol."""
 	if dry_run:
 		print(f"DRY RUN: Would load {len(player_seasons)} player-season records")
 		return
 
-	print(f"Loading {len(player_seasons)} player-season records...")
+	print(f"Loading {len(player_seasons)} player-season records...", flush=True)
 
-	query = """
-		INSERT INTO player_seasons (player_id, team_id, season_id, jersey_number, primary_position)
-		VALUES (%s, %s, %s, %s, %s)
-		ON CONFLICT (player_id, team_id, season_id) DO UPDATE SET
-			jersey_number = EXCLUDED.jersey_number,
-			primary_position = EXCLUDED.primary_position,
-			updated_at = NOW()
-	"""
+	cols = ["player_id", "team_id", "season_id", "jersey_number", "primary_position"]
 
-	loaded = 0
-	with get_cursor() as cursor:
-		for ps in player_seasons:
-			cursor.execute(
-				query,
-				(ps["player_id"], ps["team_id"], ps["season_id"], ps["jersey_number"], ps["primary_position"]),
-			)
-			loaded += 1
+	buf = io.StringIO()
+	writer = csv.writer(buf)
+	for ps in player_seasons:
+		writer.writerow(["" if ps[c] is None else ps[c] for c in cols])
+	buf.seek(0)
 
-	print(f"Successfully loaded {loaded} player-season records")
+	copy_sql = f"COPY player_seasons ({', '.join(cols)}) FROM STDIN WITH (FORMAT csv, NULL '')"
+
+	conn = get_connection()
+	try:
+		with conn.cursor() as cur:
+			cur.execute("DELETE FROM player_seasons")
+			cur.copy_expert(copy_sql, buf)
+		conn.commit()
+	except Exception:
+		conn.rollback()
+		raise
+	finally:
+		conn.close()
+
+	print(f"Successfully loaded {len(player_seasons)} player-season records")
 
 
 def main():

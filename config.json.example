@@ -41,10 +41,5 @@
 		"level": "INFO",
 		"log_file": "lacrosse_scraper.log"
 	},
-	"database": {
-		"host": "localhost",
-		"port": 5432,
-		"database": "lacrosse_stats",
-		"user": "postgres"
-	}
+	"_note_database": "Set DATABASE_URL in .env.local"
 }

@@ -1,45 +1,62 @@
 """
-Database connection module for local PostgreSQL.
+Database connection module.
 
-Provides connection management using psycopg2.
+Reads DATABASE_URL from .env.local (via python-dotenv), falling back to
+config.json for backward compatibility.
 """
 
 import json
+import os
 import sys
 from pathlib import Path
 from contextlib import contextmanager
 
 import psycopg2
 from psycopg2.extras import RealDictCursor
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent.parent.parent / ".env.local")
 
 
-def load_config():
-	"""Load database configuration from config.json."""
+def get_database_url() -> str:
+	"""Return a database connection string.
+
+	Checks DATABASE_URL env var first, then falls back to config.json.
+	"""
+	url = os.environ.get("DATABASE_URL")
+	if url:
+		return url
+
 	config_path = Path("config.json")
 	if not config_path.exists():
-		print("Error: config.json not found.", file=sys.stderr)
+		print("Error: DATABASE_URL not set and config.json not found.", file=sys.stderr)
 		sys.exit(1)
 
 	with open(config_path) as f:
 		config = json.load(f)
 
-	if "database" not in config:
-		print("Error: 'database' section not found in config.json", file=sys.stderr)
+	db = config.get("database")
+	if not db:
+		print("Error: DATABASE_URL not set and no 'database' in config.json", file=sys.stderr)
 		sys.exit(1)
 
-	return config["database"]
+	host = db.get("host", "localhost")
+	port = db.get("port", 5432)
+	user = db.get("user", "")
+	password = db.get("password", "")
+	database = db["database"]
+	return f"postgresql://{user}:{password}@{host}:{port}/{database}"
 
 
 def get_connection():
 	"""Create a new database connection."""
-	db_config = load_config()
 	return psycopg2.connect(
-		host=db_config.get("host", "localhost"),
-		port=db_config.get("port", 5432),
-		database=db_config["database"],
-		user=db_config.get("user", ""),
-		password=db_config.get("password", ""),
+		get_database_url(),
 		cursor_factory=RealDictCursor,
+		keepalives=1,
+		keepalives_idle=30,
+		keepalives_interval=10,
+		keepalives_count=5,
 	)
 
 
