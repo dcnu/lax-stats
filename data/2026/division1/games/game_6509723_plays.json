@@ -1,0 +1,1626 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Adam Norris at goalie for VMI.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "OVEREND, Zack at goalie for HPUM."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [15:00] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by HPUM CANN, Ian WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by HPUM ROBINS, Carson (FIRST GOAL), Assist by CANN, Ian, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [13:54] Ground ball pickup by VMI RJ Wyrick.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "Turnover by VMI Matt Nichols.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by HPUM ROBINS, Carson, Assist by HYNES, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "Shot by VMI Jack Duncan-Bloom HIT POST.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "Ground ball pickup by VMI Dayton Bagwell.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "Shot by VMI Beau Durkin WIDE.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "Shot by VMI Beau Durkin, SAVE OVEREND, Zack.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by HPUM OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:20",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by HPUM STEELE, Nicholas WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by HPUM CANN, Ian."
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by HPUM WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "Faceoff Jack Rogers vs MOORE, Scott won by VMI, [09:03] Ground ball pickup by VMI Jack Rogers.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Penalty on HPUM DERMON, Luke (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "Shot by VMI Dayton Bagwell HIT POST.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Clear attempt by HPUM failed."
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by HPUM MOTTER, Cole (caused by Ty Yonas)."
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "Ground ball pickup by VMI Zac Creel.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "Shot by VMI Ty Yonas BLOCKED.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:52",
+    "home_event": "Ground ball pickup by VMI Dayton Bagwell.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "GOAL by VMI Matt Nichols, Assist by Dayton Bagwell, goal number 1 for season.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [06:49] Ground ball pickup by VMI Nate Golding.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "Shot by VMI Warner Lewis, SAVE OVEREND, Zack.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by HPUM MOORE, Scott."
+  },
+  {
+    "quarter": "1",
+    "time": "05:57",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by HPUM ROVERE, Collin WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "Penalty on VMI Dayton Bagwell (SLASHING/1:00) Extra-man opportunity.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by HPUM CANN, Ian (MAN-UP), Assist by ROVERE, Collin, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [04:56] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by HPUM ACCARDO, Luca, Assist by WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "Timeout by VMI.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [04:25] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "1",
+    "time": "04:19",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by HPUM ACCARDO, Luca WIDE."
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by HPUM WIXTED, Justin."
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "Shot by VMI Jack Duncan-Bloom, SAVE OVEREND, Zack.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by HPUM OVEREND, Zack."
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:58",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Turnover by HPUM BENSON, Weston (caused by Greg Peters)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "Ground ball pickup by VMI Greg Peters.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "Turnover by VMI Dayton Bagwell (caused by LANG, Robby).",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:32",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by HPUM ROBINS, Carson, SAVE Adam Norris."
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by HPUM ROVERE, Collin, SAVE Adam Norris."
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [15:00] Ground ball pickup by VMI Jack Rogers.",
+    "score": "1-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "GOAL by VMI Beau Durkin, goal number 1 for season.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:06",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [14:06] Ground ball pickup by VMI Greg Peters.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:59",
+    "home_event": "Turnover by VMI Greg Peters (caused by MARENGO, Ryan).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:56",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by HPUM MARENGO, Ryan."
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "Penalty on VMI Dayton Bagwell (PUSHING/0:30) Extra-man opportunity.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "Shot by HPUM CANN, Ian WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by HPUM ROBINS, Carson, Assist by WIXTED, Justin, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [13:01] Ground ball pickup by VMI Jack Rogers.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:47",
+    "home_event": "Shot by VMI Jack Duncan-Bloom WIDE.",
+    "score": "2-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:43",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Ground ball pickup by HPUM OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "12:39",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "GOAL by HPUM HYNES, Ryan, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "Shot by VMI Austin English, SAVE OVEREND, Zack.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Ground ball pickup by HPUM OVEREND, Zack."
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Turnover by HPUM CANN, Ian."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "Ground ball pickup by VMI Connor Jung.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:09",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:42",
+    "home_event": "Shot by VMI Austin English WIDE.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:26",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:00",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by HPUM KILLEN, Charlie WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "GOAL by HPUM KILLEN, Charlie, Assist by WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:32",
+    "home_event": "",
+    "score": "2-8",
+    "away_event": "Faceoff Jack Rogers vs MOORE, Scott won by HPUM, [08:32] Ground ball pickup by HPUM RICHINS, Brice."
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "GOAL by HPUM BUNTEN, Owen, Assist by BENSON, Weston, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "08:22",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [08:22] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "07:41",
+    "home_event": "",
+    "score": "2-9",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "GOAL by HPUM BUNTEN, Owen, Assist by STEELE, Nicholas, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "2",
+    "time": "07:19",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [07:19] Ground ball pickup by VMI Thomas Finta.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:07",
+    "home_event": "Turnover by VMI Thomas Finta (caused by WIXTED, Justin).",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "GOAL by HPUM HYNES, Ryan, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [06:19] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "06:09",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Turnover by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "2",
+    "time": "05:58",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "GOAL by VMI Jack Duncan-Bloom, goal number 1 for season.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:22",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [05:22] Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "2",
+    "time": "05:03",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Turnover by HPUM MOTTER, Cole (caused by Zac Creel)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Ground ball pickup by VMI Jack Duncan-Bloom.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:41",
+    "home_event": "Shot by VMI Beau Durkin WIDE.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "GOAL by VMI Jack Duncan-Bloom, goal number 2 for season.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:30",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:50",
+    "home_event": "Ground ball pickup by VMI Austin English.",
+    "score": "4-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "GOAL by VMI Ty Yonas, Assist by Austin English, goal number 1 for season.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "Shot by VMI Cole Jones, SAVE OVEREND, Zack.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:55",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:50",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by HPUM WIXTED, Justin."
+  },
+  {
+    "quarter": "2",
+    "time": "01:46",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:35",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "Turnover by VMI Austin English.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM ROVERE, Collin HIT POST."
+  },
+  {
+    "quarter": "2",
+    "time": "00:55",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM CANN, Ian WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM BUNTEN, Owen WIDE."
+  },
+  {
+    "quarter": "2",
+    "time": "00:24",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM ROBINS, Carson, SAVE Adam Norris."
+  },
+  {
+    "quarter": "2",
+    "time": "00:19",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM HYNES, Ryan, SAVE Adam Norris."
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [15:00] Ground ball pickup by VMI Nate Golding.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:46",
+    "home_event": "Shot by VMI Matt Nichols, SAVE OVEREND, Zack.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Shot by VMI Will Gormsen HIGH.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:08",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Ground ball pickup by HPUM BUNTEN, Owen."
+  },
+  {
+    "quarter": "3",
+    "time": "12:34",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by HPUM ROVERE, Collin, SAVE Adam Norris."
+  },
+  {
+    "quarter": "3",
+    "time": "12:29",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "Shot by VMI Jack Duncan-Bloom WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:43",
+    "home_event": "Shot by VMI Ty Yonas WIDE.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "GOAL by VMI Cole Jones, Assist by Ty Yonas, goal number 1 for season.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:29",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [11:29] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "11:06",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by HPUM GRASSI, Anthony (caused by Connor Jung)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:00",
+    "home_event": "Ground ball pickup by VMI Connor Jung.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:50",
+    "home_event": "Turnover by VMI Nate Golding.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by HPUM ROBINS, Carson, Assist by WIXTED, Justin, goal number 4 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:59",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [09:59] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "09:51",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by HPUM ACCARDO, Luca WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "09:14",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by HPUM ROVERE, Collin."
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Timeout by HPUM."
+  },
+  {
+    "quarter": "3",
+    "time": "09:11",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Media timeout."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "GOAL by HPUM WIXTED, Justin, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "",
+    "score": "6-13",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [08:53] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "GOAL by HPUM CANN, Ian, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "07:40",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by HPUM, [07:40] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "07:09",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Shot by HPUM BUNTEN, Owen HIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "07:00",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by HPUM BUNTEN, Owen (caused by Jack Myhre)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:57",
+    "home_event": "Ground ball pickup by VMI Miller Tatum.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "Turnover by VMI Miller Tatum.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:46",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by HPUM HYNES, Ryan (caused by Greg Peters)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "Ground ball pickup by VMI Greg Peters.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:54",
+    "home_event": "Turnover by VMI Dayton Bagwell (caused by RICHINS, Brice).",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:51",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Ground ball pickup by HPUM RICHINS, Brice."
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Clear attempt by HPUM failed."
+  },
+  {
+    "quarter": "3",
+    "time": "05:26",
+    "home_event": "",
+    "score": "6-14",
+    "away_event": "Turnover by HPUM OVEREND, Zack (caused by Adam Norris)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:22",
+    "home_event": "Ground ball pickup by VMI Josh Hallam.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:14",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "6-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:11",
+    "home_event": "GOAL by VMI Dayton Bagwell, goal number 1 for season.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:11",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Alex Ordoqui vs ACCARDO, Luca won by HPUM, [05:11] Ground ball pickup by HPUM ACCARDO, Luca."
+  },
+  {
+    "quarter": "3",
+    "time": "04:33",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Shot by HPUM WIXTED, Justin WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "04:04",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:04",
+    "home_event": "Turnover by VMI RJ Wyrick.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "",
+    "score": "7-15",
+    "away_event": "GOAL by HPUM ROVERE, Collin, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "7-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "GOAL by VMI Dayton Bagwell, Assist by Jack Duncan-Bloom, goal number 2 for season.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by VMI, [02:59] Ground ball pickup by VMI Nate Golding.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:46",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:45",
+    "home_event": "Turnover by VMI Nate Golding (caused by ROBINS, Carson).",
+    "score": "8-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:40",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Ground ball pickup by HPUM ROBINS, Carson."
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Shot by HPUM FALKIEWICZ, Magnus WIDE."
+  },
+  {
+    "quarter": "3",
+    "time": "02:01",
+    "home_event": "",
+    "score": "8-15",
+    "away_event": "Timeout by HPUM."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "GOAL by HPUM LUTZEL, Matt, Assist by WIXTED, Justin, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI (on faceoff violation).",
+    "score": "8-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "Turnover by VMI Dayton Bagwell.",
+    "score": "8-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:59",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "Turnover by HPUM WOLFORD, Mason (caused by Jack Myhre)."
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "Ground ball pickup by VMI Josh Hallam.",
+    "score": "8-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:10",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "8-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "8-16",
+    "away_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by HPUM, [15:00] Ground ball pickup by HPUM RICHINS, Brice."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "GOAL by HPUM WIXTED, Justin, goal number 3 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "14:08",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [14:08] Ground ball pickup by VMI Jack Rogers.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "Turnover by VMI Beau Durkin (caused by MOTTER, Cole).",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:11",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "13:07",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:56",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Turnover by HPUM ROBINS, Carson."
+  },
+  {
+    "quarter": "4",
+    "time": "11:40",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:39",
+    "home_event": "Turnover by VMI Jack Myhre.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:04",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Shot by HPUM BUNTEN, Owen, SAVE Adam Norris."
+  },
+  {
+    "quarter": "4",
+    "time": "10:57",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:52",
+    "home_event": "Turnover by VMI Warner Lewis.",
+    "score": "8-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:46",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:36",
+    "home_event": "",
+    "score": "8-17",
+    "away_event": "Shot by HPUM RICHINS, Brice WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "",
+    "score": "8-18",
+    "away_event": "GOAL by HPUM LUTZEL, Matt, Assist by WIXTED, Justin, goal number 2 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "09:08",
+    "home_event": "Faceoff Jack Rogers vs ACCARDO, Luca won by VMI, [09:08] Ground ball pickup by VMI Jack Rogers.",
+    "score": "8-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:23",
+    "home_event": "GOAL by VMI Austin English, goal number 1 for season.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:23",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by HPUM, [08:23] Ground ball pickup by HPUM TAUSCHER, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "07:37",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by HPUM STEELE, Nicholas WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by HPUM FENDERSON, Luke BLOCKED."
+  },
+  {
+    "quarter": "4",
+    "time": "07:16",
+    "home_event": "Ground ball pickup by VMI Adam Norris.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:05",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:33",
+    "home_event": "Shot by VMI Austin English, SAVE OVEREND, Zack.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:27",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by HPUM MOTTER, Cole."
+  },
+  {
+    "quarter": "4",
+    "time": "06:06",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:45",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by HPUM FALKIEWICZ, Magnus WIDE."
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Shot by HPUM HYNES, Ryan, SAVE Adam Norris {shot from close left wing}."
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "Ground ball pickup by VMI Zac Creel.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:18",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:59",
+    "home_event": "Ground ball pickup by VMI Jack Duncan-Bloom.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:51",
+    "home_event": "Shot by VMI Jack Duncan-Bloom, SAVE OVEREND, Zack.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:48",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Ground ball pickup by HPUM MOORE, Scott."
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "9-18",
+    "away_event": "Turnover by HPUM FENDERSON, Luke (caused by Ty Yonas)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by VMI RJ Wyrick.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:28",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "GOAL by VMI Dayton Bagwell, Assist by Nate Golding, goal number 3 for season.",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:17",
+    "home_event": "",
+    "score": "10-18",
+    "away_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by HPUM, [04:17] Ground ball pickup by HPUM TAUSCHER, Michael."
+  },
+  {
+    "quarter": "4",
+    "time": "03:01",
+    "home_event": "",
+    "score": "10-18",
+    "away_event": "Turnover by HPUM FENDERSON, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "10-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:41",
+    "home_event": "GOAL by VMI Dayton Bagwell, goal number 4 for season.",
+    "score": "11-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:41",
+    "home_event": "",
+    "score": "11-18",
+    "away_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by HPUM, [02:41] Ground ball pickup by HPUM FENDERSON, Luke."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "11-19",
+    "away_event": "GOAL by HPUM STEELE, Nicholas, Assist by KILLEN, Charlie, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "Penalty on VMI Miller Tatum (SLASHING/1:00) Extra-man opportunity.",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "Faceoff Jack Rogers vs TAUSCHER, Michael won by VMI, [02:05] Ground ball pickup by VMI Sam Morginstin.",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Clear attempt by VMI failed.",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:51",
+    "home_event": "Turnover by VMI Adam Norris (caused by LANG, Robby).",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:47",
+    "home_event": "",
+    "score": "11-19",
+    "away_event": "Ground ball pickup by HPUM LANG, Robby."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "11-19",
+    "away_event": "Clear attempt by HPUM good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:29",
+    "home_event": "",
+    "score": "11-19",
+    "away_event": "Shot clock violation by HPUM."
+  },
+  {
+    "quarter": "4",
+    "time": "00:23",
+    "home_event": "Clear attempt by VMI good.",
+    "score": "11-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "Shot by VMI Nate Golding HIGH.",
+    "score": "11-19",
+    "away_event": ""
+  }
+]

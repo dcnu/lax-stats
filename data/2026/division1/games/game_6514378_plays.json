@@ -1,0 +1,2074 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Andrew Lehrman at goalie for COLGATE.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Jake Marek at goalie for VIRGINIA."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [15:00] Ground ball pickup by COLGATE Team.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:31",
+    "home_event": "Ground ball pickup by COLGATE John Carrabine.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:29",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE John Carrabine (caused by Ryan Colsey).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by VIRGINIA Michael Meredith."
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VIRGINIA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by VIRGINIA Tommy Snyder."
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "Shot by COLGATE Sam Erickson WIDE",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Hunter Drouin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VIRGINIA Hudson Hausmann WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by VIRGINIA Brendan Millon, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "Shot by COLGATE Freddy Fowler, SAVE Jake Marek",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by VIRGINIA McCabe Millon."
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE John Carrabine (caused by Mack Till).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by VIRGINIA Truitt Sunderland."
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by VIRGINIA Ryan Colsey (FIRST GOAL), Assist by McCabe Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Fischer Burke vs Griff Meyer won by VIRGINIA, [11:42] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by VIRGINIA Ben Boyer (caused by Rett Zeigler)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "Ground ball pickup by COLGATE John Carrabine.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "GOAL by COLGATE Ryan Favaro, goal number 1 for season.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:09",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Kyle Rummel vs Griff Meyer won by VIRGINIA, [11:09] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by VIRGINIA McCabe Millon, Assist by Brendan Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE, [10:21] Ground ball pickup by COLGATE Ryan Bilello.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "Ground ball pickup by COLGATE Patty Eldredge.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by COLGATE Patty Eldredge.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:29",
+    "home_event": "Shot by COLGATE Freddy Fowler WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Andrew Kiefer.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by VIRGINIA Will Inderlied."
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "Shot by COLGATE Ryan Favaro HIGH",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "Shot by COLGATE Quinn Spillett WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "Shot by COLGATE Ryan Favaro, SAVE Jake Marek",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by VIRGINIA Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "07:41",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by VIRGINIA Ryan Colsey, Assist by Truitt Sunderland, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [07:19] Ground ball pickup by COLGATE Charlie Lohman.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "Ground ball pickup by COLGATE Ryan Favaro.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "Shot by COLGATE Quinn Spillett WIDE",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Penalty on VIRGINIA Mack Till (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "Ground ball pickup by COLGATE Andrew Kiefer.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "GOAL by COLGATE Andrew Kiefer (MAN-UP), goal number 1 for season.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "Faceoff Fischer Burke vs Henry Metz won by COLGATE, [06:00] Ground ball pickup by COLGATE Fischer Burke.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Fischer Burke (caused by Lindan Verville).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by VIRGINIA Lindan Verville."
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:27",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VIRGINIA Aidan Murnane WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VIRGINIA Truitt Sunderland, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "Penalty on COLGATE Nick Lancaster (INTERFERENCE/0:30) Extra-man opportunity.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VIRGINIA Ryan Colsey HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by VIRGINIA Tim Myers, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "Ground ball pickup by COLGATE Ryan Bilello.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "GOAL by COLGATE Hunter Drouin, goal number 3 for season.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "Faceoff Kyle Rummel vs Henry Metz won by COLGATE, [03:55] Ground ball pickup by COLGATE Sam Barton.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Sam Barton (caused by Ryan Colsey).",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Ground ball pickup by VIRGINIA Robby Hopper."
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by Brendan Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE, [02:57] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Emmet Crotty (caused by Luke Hublitz).",
+    "score": "3-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by VIRGINIA Chase Band, Assist by Brendan Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [01:09] Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Jake Marek",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Ground ball pickup by VIRGINIA Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by VIRGINIA Jake Marek."
+  },
+  {
+    "quarter": "1",
+    "time": "00:46",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by VIRGINIA failed."
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "Ground ball pickup by COLGATE Rett Zeigler.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by COLGATE Freddy Fowler.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Shot by VIRGINIA Ryan Colsey BLOCKED"
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Shot by COLGATE Ryan Favaro WIDE",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Penalty on VIRGINIA Hudson Hausmann (ILLEGAL PROCEDURE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "14:42",
+    "home_event": "Ground ball pickup by COLGATE Quinn Spillett.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "GOAL by COLGATE Ryan Favaro (MAN-UP), Assist by Hunter Drouin, goal number 2 for season.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE, [14:32] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "Shot by COLGATE Casey Quinson WIDE",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:47",
+    "home_event": "Shot by COLGATE Andrew Heubeck, SAVE Jake Marek",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:43",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VIRGINIA Johnny Hackett."
+  },
+  {
+    "quarter": "2",
+    "time": "12:23",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "30-second clock violation by VIRGINIA."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by COLGATE Carter Cadin (caused by Mack Till).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VIRGINIA Aidan Murnane."
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VIRGINIA Jake Marek."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:37",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by VIRGINIA Truitt Sunderland, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Ground ball pickup by VIRGINIA Ryan Duenkel."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by Ryan Duenkel, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:01",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [10:01] Ground ball pickup by COLGATE Charlie Lohman.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:47",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:30",
+    "home_event": "Ground ball pickup by COLGATE Hunter Drouin.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:05",
+    "home_event": "Shot by COLGATE Emmet Crotty HIGH",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:02",
+    "home_event": "Ground ball pickup by COLGATE Ryan Favaro.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:53",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on VIRGINIA Luke Hublitz (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "08:37",
+    "home_event": "Ground ball pickup by COLGATE Casey Quinson.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:35",
+    "home_event": "Timeout by COLGATE.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "GOAL by COLGATE Casey Quinson (MAN-UP), Assist by Freddy Fowler, goal number 4 for season.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "Faceoff Fischer Burke vs Christian Grosso won by COLGATE, [08:23] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "5-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "GOAL by COLGATE Casey Quinson, goal number 5 for season.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:02",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Faceoff Kyle Rummel vs Henry Metz won by VIRGINIA, [08:02] Ground ball pickup by VIRGINIA Henry Metz."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-6",
+    "away_event": "Turnover by VIRGINIA Henry Metz (caused by Ryan Bilello)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:31",
+    "home_event": "Ground ball pickup by COLGATE Sam Barton.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:29",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by COLGATE Sam Barton (caused by Brendan Millon).",
+    "score": "6-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "",
+    "score": "6-7",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by Brendan Millon, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "06:57",
+    "home_event": "Faceoff Fischer Burke vs Christian Grosso won by COLGATE.",
+    "score": "6-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "GOAL by COLGATE Casey Quinson, Assist by Fischer Burke, goal number 6 for season.",
+    "score": "7-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:39",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Faceoff Kyle Rummel vs Henry Metz won by VIRGINIA."
+  },
+  {
+    "quarter": "2",
+    "time": "06:08",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by VIRGINIA Brendan Millon HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Timeout by VIRGINIA."
+  },
+  {
+    "quarter": "2",
+    "time": "05:26",
+    "home_event": "",
+    "score": "7-7",
+    "away_event": "Shot by VIRGINIA Ryan Duenkel BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by Ryan Colsey, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:21",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:53",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Jake Marek",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:43",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Shot by VIRGINIA Robby Hopper WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "7-8",
+    "away_event": "Turnover by VIRGINIA Robby Hopper."
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Penalty on COLGATE John Carrabine (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "GOAL by VIRGINIA Johnny Hackett (MAN-UP), Assist by Brendan Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "Faceoff Kyle Rummel vs Henry Metz won by COLGATE, [03:55] Ground ball pickup by COLGATE Kyle Rummel.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:36",
+    "home_event": "Ground ball pickup by COLGATE Nick Lancaster.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:32",
+    "home_event": "Ground ball pickup by COLGATE Wylie Warchol.",
+    "score": "7-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Penalty on VIRGINIA Truitt Sunderland (PUSHING/0:30)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Penalty on VIRGINIA McCabe Millon (ILLEGAL BODY CHECK/1:00)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Penalty on VIRGINIA Hudson Hausmann (HOLDING/0:30)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:24",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Faceoff Fischer Burke vs Griff Meyer won by VIRGINIA, [03:24] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "7-9",
+    "away_event": "Turnover by VIRGINIA Griff Meyer (caused by Fischer Burke)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:14",
+    "home_event": "GOAL by COLGATE Freddy Fowler (MAN-UP), Assist by Ryan Favaro, goal number 3 for season.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by COLGATE Hunter Drouin.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:10",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Aidan Murnane WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "Ground ball pickup by COLGATE Ryan Bilello.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by COLGATE Freddy Fowler.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VIRGINIA failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by VIRGINIA Hudson Hausmann (caused by John Carrabine)."
+  },
+  {
+    "quarter": "2",
+    "time": "01:32",
+    "home_event": "Timeout by COLGATE.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "Shot by COLGATE Quinn Spillett WIDE",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "Shot by COLGATE Andrew Kiefer WIDE",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:40",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:15",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA McCabe Millon, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "Penalty on COLGATE Ryan Bilello (SLASHING/1:00) Extra-man opportunity.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:33",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Brendan Millon, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Freddy Fowler.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:22",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA McCabe Millon, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "14:16",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Nick Lancaster (caused by Ryan Colsey).",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:35",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Ryan Colsey WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Chase Band, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "13:12",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Ground ball pickup by VIRGINIA McCabe Millon."
+  },
+  {
+    "quarter": "3",
+    "time": "12:51",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Tim Myers BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA McCabe Millon WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by VIRGINIA McCabe Millon."
+  },
+  {
+    "quarter": "3",
+    "time": "12:19",
+    "home_event": "Clear attempt by COLGATE failed.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Sam Erickson.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:09",
+    "home_event": "Timeout by COLGATE.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:08",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VIRGINIA failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Turnover by VIRGINIA Hudson Hausmann (caused by John Carrabine)."
+  },
+  {
+    "quarter": "3",
+    "time": "11:52",
+    "home_event": "Ground ball pickup by COLGATE John Carrabine.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:44",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Jake Marek",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:41",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:25",
+    "home_event": "",
+    "score": "8-9",
+    "away_event": "Shot by VIRGINIA Jake Marek WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:15",
+    "home_event": "Shot by COLGATE Hunter Drouin WIDE",
+    "score": "8-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "GOAL by COLGATE Andrew Kiefer, goal number 2 for season.",
+    "score": "9-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Faceoff Kyle Rummel vs Griff Meyer won by VIRGINIA, [10:49] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "3",
+    "time": "10:40",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Shot by VIRGINIA Truitt Sunderland BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "9-9",
+    "away_event": "Penalty on VIRGINIA Ryan Colsey (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "GOAL by COLGATE Casey Quinson (MAN-UP), goal number 7 for season.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:11",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Faceoff Fischer Burke vs Griff Meyer won by VIRGINIA, [10:11] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Penalty on COLGATE Freddy Fowler (PUSHING/0:30) Extra-man opportunity.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:57",
+    "home_event": "Penalty on COLGATE Freddy Fowler (OFFSIDE/0:30).",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:25",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by VIRGINIA Chase Band, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "09:21",
+    "home_event": "Ground ball pickup by COLGATE John Carrabine.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:18",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "10-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Shot by VIRGINIA Ryan Duenkel, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "",
+    "score": "10-9",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "GOAL by VIRGINIA Hudson Hausmann (MAN-UP), Assist by Jake Marek, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "09:00",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [09:00] Ground ball pickup by COLGATE Thomas Lala.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Shot by COLGATE Casey Quinson WIDE",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:00",
+    "home_event": "Ground ball pickup by COLGATE Hunter Drouin.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Hunter Drouin (caused by Tommy Snyder).",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:49",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by VIRGINIA Aidan Murnane."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Turnover by VIRGINIA Mack Till."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:59",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:53",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by VIRGINIA Tommy Snyder WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "06:25",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Shot by VIRGINIA McCabe Millon WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "06:22",
+    "home_event": "Penalty on COLGATE Wylie Warchol (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "10-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:41",
+    "home_event": "",
+    "score": "10-10",
+    "away_event": "Ground ball pickup by VIRGINIA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "",
+    "score": "10-11",
+    "away_event": "GOAL by VIRGINIA McCabe Millon, Assist by Truitt Sunderland, goal number 2 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Euan McKeever at goalie for COLGATE.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:51",
+    "home_event": "Ground ball pickup by COLGATE Hunter Drouin.",
+    "score": "10-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "GOAL by COLGATE Hunter Drouin, goal number 4 for season.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:49",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [04:49] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:34",
+    "home_event": "Shot by COLGATE Patty Eldredge, SAVE Jake Marek",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:31",
+    "home_event": "Ground ball pickup by COLGATE Freddy Fowler.",
+    "score": "11-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "GOAL by COLGATE Freddy Fowler, goal number 4 for season.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "Andrew Lehrman at goalie for COLGATE.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:29",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "Faceoff Fischer Burke vs Henry Metz won by VIRGINIA, [04:29] Ground ball pickup by VIRGINIA Wills Burt."
+  },
+  {
+    "quarter": "3",
+    "time": "04:08",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "Ground ball pickup by VIRGINIA Ryan Colsey."
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by McCabe Millon, goal number 5 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "04:05",
+    "home_event": "Faceoff Kyle Rummel vs Christian Grosso won by COLGATE.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Jake Marek",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:33",
+    "home_event": "Ground ball pickup by COLGATE Emmet Crotty.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by COLGATE Emmet Crotty (caused by Michael Meredith).",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:53",
+    "home_event": "Penalty on COLGATE Kyle Rummel (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by VIRGINIA Brendan Millon, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "02:32",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by VIRGINIA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "02:14",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by VIRGINIA Truitt Sunderland."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "GOAL by VIRGINIA McCabe Millon, Assist by Chase Band, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "02:03",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Faceoff Fischer Burke vs Henry Metz won by VIRGINIA, [02:03] Ground ball pickup by VIRGINIA Michael Meredith."
+  },
+  {
+    "quarter": "3",
+    "time": "01:45",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by VIRGINIA Ryan Colsey, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "3",
+    "time": "01:42",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by VIRGINIA Henry Metz."
+  },
+  {
+    "quarter": "3",
+    "time": "01:41",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "GOAL by VIRGINIA Henry Metz, goal number 1 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "01:41",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "Faceoff Kyle Rummel vs Griff Meyer won by VIRGINIA, [01:41] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "3",
+    "time": "00:49",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "GOAL by VIRGINIA Ryan Colsey, Assist by McCabe Millon, goal number 3 for season."
+  },
+  {
+    "quarter": "3",
+    "time": "00:49",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "Faceoff Fischer Burke vs Griff Meyer won by VIRGINIA."
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "Shot by VIRGINIA Ryan Duenkel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Kyle Rummel vs Griff Meyer won by COLGATE, [15:00] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "12-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:37",
+    "home_event": "Shot by COLGATE Patty Eldredge WIDE",
+    "score": "12-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Ryan Favaro (caused by Robby Hopper).",
+    "score": "12-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "",
+    "score": "12-15",
+    "away_event": "Shot by VIRGINIA Michael Meredith WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "GOAL by VIRGINIA Truitt Sunderland, Assist by McCabe Millon, goal number 6 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "13:03",
+    "home_event": "Faceoff Fischer Burke vs Griff Meyer won by COLGATE, [13:03] Ground ball pickup by COLGATE Thomas Lala.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "Ground ball pickup by COLGATE Nick Lancaster.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:43",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:21",
+    "home_event": "Shot by COLGATE Emmet Crotty HIGH",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:20",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Penalty on VIRGINIA Mack Till (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:59",
+    "home_event": "Shot by COLGATE Quinn Spillett WIDE",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Ryan Favaro (caused by Luke Hublitz).",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:45",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Ground ball pickup by VIRGINIA Wills Burt."
+  },
+  {
+    "quarter": "4",
+    "time": "11:28",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-16",
+    "away_event": "Turnover by VIRGINIA McCabe Millon (caused by Charlie Lohman)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:42",
+    "home_event": "Ground ball pickup by COLGATE Charlie Lohman.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:40",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:12",
+    "home_event": "Shot by COLGATE Hunter Drouin WIDE",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "Shot by COLGATE Casey Quinson HIGH",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:38",
+    "home_event": "Shot by COLGATE Casey Quinson WIDE",
+    "score": "12-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "GOAL by COLGATE Freddy Fowler, goal number 5 for season.",
+    "score": "13-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:31",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Faceoff Kyle Rummel vs Henry Metz won by VIRGINIA, [09:31] Ground ball pickup by VIRGINIA Ben Boyer."
+  },
+  {
+    "quarter": "4",
+    "time": "08:36",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Shot by VIRGINIA Will Inderlied, SAVE Andrew Lehrman"
+  },
+  {
+    "quarter": "4",
+    "time": "07:58",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Shot by VIRGINIA Chase Band HIT CROSSBAR"
+  },
+  {
+    "quarter": "4",
+    "time": "07:54",
+    "home_event": "",
+    "score": "13-16",
+    "away_event": "Ground ball pickup by VIRGINIA Truitt Sunderland."
+  },
+  {
+    "quarter": "4",
+    "time": "07:07",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "GOAL by VIRGINIA Charles Balsamo, Assist by McCabe Millon, goal number 1 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Faceoff Miller Marks vs Griff Meyer won by VIRGINIA, [] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "4",
+    "time": "06:13",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Shot by VIRGINIA Chase Band BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "06:03",
+    "home_event": "Ground ball pickup by COLGATE Freddy Fowler.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Freddy Fowler.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:57",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Ground ball pickup by VIRGINIA Aidan Murnane."
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Turnover by VIRGINIA Ryan Colsey (caused by Ryan Bilello)."
+  },
+  {
+    "quarter": "4",
+    "time": "04:29",
+    "home_event": "Ground ball pickup by COLGATE Sam Erickson.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:27",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:16",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:10",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Shot by VIRGINIA Aidan Murnane WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:43",
+    "home_event": "Shot by COLGATE Freddy Fowler, SAVE Jake Marek",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:36",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:14",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Ground ball pickup by VIRGINIA Robby Hopper."
+  },
+  {
+    "quarter": "4",
+    "time": "03:12",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Shot by VIRGINIA Robby Hopper WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Turnover by VIRGINIA Will Inderlied (caused by Rett Zeigler)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:29",
+    "home_event": "Shot by COLGATE Patty Eldredge HIT POST",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Casey Quinson.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:11",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Clear attempt by VIRGINIA good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "",
+    "score": "13-17",
+    "away_event": "Shot by VIRGINIA Robby Hopper BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "01:53",
+    "home_event": "Ground ball pickup by COLGATE Andrew Lehrman.",
+    "score": "13-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "GOAL by COLGATE Andy Croddick, Assist by Freddy Fowler, goal number 2 for season.",
+    "score": "14-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Faceoff Kyle Rummel vs Griff Meyer won by VIRGINIA, [01:46] Ground ball pickup by VIRGINIA Griff Meyer."
+  },
+  {
+    "quarter": "4",
+    "time": "01:37",
+    "home_event": "",
+    "score": "14-17",
+    "away_event": "Timeout by VIRGINIA."
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "",
+    "score": "14-18",
+    "away_event": "GOAL by VIRGINIA Ryan Colsey, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "01:35",
+    "home_event": "",
+    "score": "14-18",
+    "away_event": "Faceoff Fischer Burke vs Griff Meyer won by VIRGINIA."
+  },
+  {
+    "quarter": "4",
+    "time": "01:23",
+    "home_event": "",
+    "score": "14-18",
+    "away_event": "Shot by VIRGINIA McCabe Millon HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "",
+    "score": "14-19",
+    "away_event": "GOAL by VIRGINIA McCabe Millon, Assist by Ryan Duenkel, goal number 4 for season."
+  },
+  {
+    "quarter": "4",
+    "time": "00:35",
+    "home_event": "Faceoff Kyle Rummel vs Henry Metz won by COLGATE, [00:35] Ground ball pickup by COLGATE John Carrabine.",
+    "score": "14-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "Ground ball pickup by COLGATE Nick Lancaster.",
+    "score": "14-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:21",
+    "home_event": "Clear attempt by COLGATE good.",
+    "score": "14-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "Shot by COLGATE Casey Quinson, SAVE Jake Marek",
+    "score": "14-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by COLGATE Hunter Drouin (caused by Michael Meredith).",
+    "score": "14-19",
+    "away_event": ""
+  }
+]

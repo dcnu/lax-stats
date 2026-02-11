@@ -20,6 +20,55 @@ from utils.db import get_cursor
 from utils.path_helpers import get_all_season_dirs
 
 
+def load_roster_data(data_dir: str, season_filter: str = None, division_filter: int = None) -> dict:
+	"""Load player data from roster files.
+
+	Returns:
+		Dict mapping playerId -> {hometown, high_school, class_year, position}
+	"""
+	data_path = Path(data_dir)
+	roster_data = {}
+
+	if season_filter:
+		seasons = [(season_filter, data_path / season_filter)]
+	else:
+		seasons = get_all_season_dirs(data_dir)
+
+	for season_id, season_path in seasons:
+		division_dirs = [d for d in season_path.iterdir() if d.is_dir() and d.name.startswith("division")]
+		for div_dir in division_dirs:
+			try:
+				division = int(div_dir.name.replace("division", ""))
+				if division_filter and division != division_filter:
+					continue
+			except ValueError:
+				continue
+
+			raw_dir = div_dir / "raw"
+			rosters_file = raw_dir / "rosters.json"
+			if not rosters_file.exists():
+				continue
+
+			with open(rosters_file, "r", encoding="utf-8") as f:
+				teams = json.load(f)
+
+			for team in teams:
+				for player in team.get("players", []):
+					pid = player.get("playerID")
+					if pid:
+						try:
+							pid = int(pid)
+						except (ValueError, TypeError):
+							continue
+						roster_data[pid] = {
+							"hometown": player.get("hometown", ""),
+							"high_school": player.get("highSchool", ""),
+							"class_year": player.get("classYear", ""),
+						}
+
+	return roster_data
+
+
 def extract_players_from_files(data_dir: str = "data", season_filter: str = None, division_filter: int = None):
 	"""Extract unique players from all player stats files."""
 	data_path = Path(data_dir)
@@ -70,6 +119,11 @@ def extract_players_from_files(data_dir: str = "data", season_filter: str = None
 
 	print(f"Processing {len(stats_files)} player stats files...")
 
+	# Load roster data for enrichment
+	roster_data = load_roster_data(data_dir, season_filter, division_filter)
+	if roster_data:
+		print(f"Loaded roster data for {len(roster_data)} players")
+
 	for division, file_path in stats_files:
 		try:
 			with open(file_path, "r", encoding="utf-8") as f:
@@ -80,11 +134,23 @@ def extract_players_from_files(data_dir: str = "data", season_filter: str = None
 				name = player_data.get("name")
 
 				if player_id and name and player_id not in players:
-					players[player_id] = {
+					player = {
 						"id": player_id,
 						"name": name,
 						"division_id": division,
+						"hometown": None,
+						"high_school": None,
 					}
+
+					# Enrich from roster data
+					roster = roster_data.get(player_id)
+					if roster:
+						if roster["hometown"]:
+							player["hometown"] = roster["hometown"]
+						if roster["high_school"]:
+							player["high_school"] = roster["high_school"]
+
+					players[player_id] = player
 
 		except Exception as e:
 			print(f"Warning: Error processing {file_path}: {e}", file=sys.stderr)
@@ -106,17 +172,22 @@ def load_players_to_database(players: list, dry_run: bool = False):
 	print(f"Loading {len(players)} players to database...")
 
 	query = """
-		INSERT INTO players (id, name, division_id)
-		VALUES (%s, %s, %s)
+		INSERT INTO players (id, name, division_id, hometown, high_school)
+		VALUES (%s, %s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
 			name = EXCLUDED.name,
+			hometown = COALESCE(EXCLUDED.hometown, players.hometown),
+			high_school = COALESCE(EXCLUDED.high_school, players.high_school),
 			updated_at = NOW()
 	"""
 
 	loaded = 0
 	with get_cursor() as cursor:
 		for player in players:
-			cursor.execute(query, (player["id"], player["name"], player["division_id"]))
+			cursor.execute(query, (
+				player["id"], player["name"], player["division_id"],
+				player.get("hometown"), player.get("high_school"),
+			))
 			loaded += 1
 
 	print(f"Successfully loaded {loaded} players")

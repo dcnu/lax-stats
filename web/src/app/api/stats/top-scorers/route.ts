@@ -1,35 +1,35 @@
 import { NextResponse } from "next/server";
-import { prisma } from "@/lib/db";
+import { getSql, getCurrentSeason } from "@/lib/db";
 
 interface ScorerRow {
-	player_id: bigint;
+	player_id: number;
 	player_name: string;
 	team_id: string;
 	team_name: string;
 	season_id: string;
-	games_played: bigint;
-	total_goals: bigint;
-	total_assists: bigint;
-	total_points: bigint;
-	total_shots: bigint;
-	total_shots_on_goal: bigint;
-	total_ground_balls: bigint;
-	total_turnovers: bigint;
-	total_caused_turnovers: bigint;
+	games_played: number;
+	total_goals: number;
+	total_assists: number;
+	total_points: number;
+	total_shots: number;
+	total_shots_on_goal: number;
+	total_ground_balls: number;
+	total_turnovers: number;
+	total_caused_turnovers: number;
 }
 
 export async function GET(request: Request) {
 	const { searchParams } = new URL(request.url);
-	const seasonId = searchParams.get("seasonId") || "2025";
+	const seasonId = searchParams.get("seasonId") || await getCurrentSeason();
 	const limit = parseInt(searchParams.get("limit") || "50");
 
 	try {
-		const result = await prisma.$queryRaw<ScorerRow[]>`
+		const result = await getSql()<ScorerRow[]>`
 			SELECT
 				pgs.player_id,
-				p.name as player_name,
+				pgs.player_name,
 				pgs.team_id,
-				t.name as team_name,
+				pgs.team_name,
 				pgs.season_id,
 				COUNT(DISTINCT pgs.game_id) as games_played,
 				SUM(pgs.goals) as total_goals,
@@ -41,15 +41,13 @@ export async function GET(request: Request) {
 				SUM(pgs.turnovers) as total_turnovers,
 				SUM(pgs.caused_turnovers) as total_caused_turnovers
 			FROM player_game_stats pgs
-			JOIN players p ON pgs.player_id = p.id
-			JOIN teams t ON pgs.team_id = t.id
 			WHERE pgs.season_id = ${seasonId}
-			GROUP BY pgs.player_id, p.name, pgs.team_id, t.name, pgs.season_id
+				AND pgs.player_name IS NOT NULL
+			GROUP BY pgs.player_id, pgs.player_name, pgs.team_id, pgs.team_name, pgs.season_id
 			ORDER BY total_points DESC
 			LIMIT ${limit}
 		`;
 
-		// Convert bigints to numbers and add derived fields
 		const data = result.map((row) => ({
 			player_id: Number(row.player_id),
 			player_name: row.player_name,
@@ -76,7 +74,7 @@ export async function GET(request: Request) {
 		console.error("Error fetching top scorers:", error);
 		return NextResponse.json(
 			{ message: "Failed to fetch top scorers" },
-			{ status: 500 }
+			{ status: 500 },
 		);
 	}
 }

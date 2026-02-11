@@ -1,0 +1,1983 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Vito DeBellis at goalie for SIENA.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Connor Phillips at goalie for BOSTONU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Logan Banek vs Madden Murphy won by SIENA, [15:00] Ground ball pickup by SIENA R.J. Ihlefeld.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA R.J. Ihlefeld (caused by Luke Davis).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by BOSTONU Peyton Forte."
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BOSTONU Peyton Forte, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Liam Lennon (caused by Murphy McLaughlin).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by BOSTONU Murphy McLaughlin."
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by BOSTONU Timothy Shannehan WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by BOSTONU Mike Rooney (FIRST GOAL), Assist by Tyler Fox, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [13:05] Ground ball pickup by BOSTONU Donald Varnerin."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by BOSTONU Donald Varnerin, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [12:49] Ground ball pickup by BOSTONU Mike Luce."
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by BOSTONU Peyton Forte WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by BOSTONU Timothy Shannehan, Assist by Peyton Forte, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [11:32] Ground ball pickup by BOSTONU Charlie Huntley."
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by BOSTONU Tyler Fox, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by BOSTONU Jimmy Kohr."
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Shot by BOSTONU Peyton Forte BLOCKED"
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by BOSTONU Peyton Forte."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by BOSTONU Ben Morris."
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "Ground ball pickup by SIENA Anthony Nicolucci.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Vito DeBellis (caused by Timothy Shannehan).",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by BOSTONU Jimmy Kohr, Assist by Timothy Shannehan, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Turnover by BOSTONU Andrew Pape."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA P.J. Mackey (caused by Logan Styles).",
+    "score": "0-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by BOSTONU Timothy Shannehan, Assist by Luke Davis, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU."
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by BOSTONU Mike Rooney WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by BOSTONU Andrew Pape, Assist by Sam Burns, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [08:01] Ground ball pickup by BOSTONU Madden Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "Shot by BOSTONU Jimmy Kohr WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by BOSTONU Tyler Fox, Assist by Timothy Shannehan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "Faceoff Logan Banek vs Madden Murphy won by SIENA, [06:51] Ground ball pickup by SIENA Logan Banek.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Logan Banek (caused by Donald Varnerin).",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by BOSTONU Jackson Matthews."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Turnover by BOSTONU Mike Rooney."
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Ground ball pickup by SIENA Jacob Wells.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Colby LeBlanc (caused by Donald Varnerin).",
+    "score": "0-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Ground ball pickup by BOSTONU Donald Varnerin."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by BOSTONU Murphy McLaughlin, Assist by Timothy Shannehan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [05:28] Ground ball pickup by BOSTONU Madden Murphy."
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by BOSTONU Ethan Hart."
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "Ground ball pickup by SIENA Liam Lennon.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Caden Olmstead.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Sam Burns WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Andrew Pape WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Peyton Forte, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "Shot by SIENA Patrick Radomski WIDE",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "Shot by SIENA Xander Derkatz, SAVE Connor Phillips",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Tyler Fox, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "Shot by SIENA Patrick Radomski WIDE",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by SIENA Patrick Radomski.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Timothy Shannehan, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Logan Banek vs Madden Murphy won by SIENA, [15:00] Ground ball pickup by SIENA Carter Fort.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:32",
+    "home_event": "Shot by SIENA Travis Fry, SAVE Connor Phillips",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by BOSTONU Luke Davis WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by BOSTONU Luke Davis."
+  },
+  {
+    "quarter": "2",
+    "time": "14:15",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Riley Hegarty (caused by Charlie Huntley).",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:14",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by BOSTONU Charlie Huntley."
+  },
+  {
+    "quarter": "2",
+    "time": "14:10",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "2",
+    "time": "14:05",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by BOSTONU Peyton Forte, Assist by Connor Kehm."
+  },
+  {
+    "quarter": "2",
+    "time": "13:50",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU, [14:05] Ground ball pickup by BOSTONU Peyton Forte."
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by BOSTONU Peyton Forte, goal number 4 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "13:44",
+    "home_event": "Faceoff Logan Banek vs Daine Kostes won by SIENA, [13:44] Ground ball pickup by SIENA R.J. Ihlefeld.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:42",
+    "home_event": "Ground ball pickup by SIENA Joe Valenza.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "Shot by SIENA Patrick Radomski WIDE",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:50",
+    "home_event": "Ground ball pickup by SIENA Conor Hufnagel.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Conor Hufnagel (caused by Murphy McLaughlin).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:42",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by BOSTONU Murphy McLaughlin."
+  },
+  {
+    "quarter": "2",
+    "time": "12:38",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:33",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by BOSTONU Jimmy Kohr, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "2",
+    "time": "12:26",
+    "home_event": "Ground ball pickup by SIENA Anthony Nicolucci.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:12",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Anthony Nicolucci (caused by James Lapina).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:49",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by BOSTONU James Lapina."
+  },
+  {
+    "quarter": "2",
+    "time": "11:43",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by BOSTONU Jimmy Kohr."
+  },
+  {
+    "quarter": "2",
+    "time": "11:42",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Timeout by BOSTONU."
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "",
+    "score": "0-11",
+    "away_event": "GOAL by BOSTONU Sam Burns, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:22",
+    "home_event": "Faceoff Logan Banek vs Madden Murphy won by SIENA, [11:22] Ground ball pickup by SIENA Joe Valenza.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:50",
+    "home_event": "Shot by SIENA Caden Olmstead WIDE",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:38",
+    "home_event": "Ground ball pickup by SIENA Gavin Blenk.",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "Shot by SIENA Patrick Radomski WIDE",
+    "score": "0-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "GOAL by SIENA Conor Hufnagel.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "Faceoff Logan Banek vs Madden Murphy won by SIENA, [10:17] Ground ball pickup by SIENA Brandon Blenk.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:59",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Penalty on BOSTONU Aden Johnson (TRIPPING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Conor Hufnagel (caused by Mike Luce).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:33",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by BOSTONU Mike Luce."
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Turnover by BOSTONU Jimmy Kohr."
+  },
+  {
+    "quarter": "2",
+    "time": "09:20",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Riley Hegarty.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by BOSTONU Charlie Huntley."
+  },
+  {
+    "quarter": "2",
+    "time": "09:11",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by BOSTONU Timothy Shannehan, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "2",
+    "time": "08:17",
+    "home_event": "Ground ball pickup by SIENA Colby LeBlanc.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:13",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA R.J. Ihlefeld (caused by Logan Styles).",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:05",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by BOSTONU Andrew Pape WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "GOAL by BOSTONU Peyton Forte, Assist by Timothy Shannehan, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "07:00",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU."
+  },
+  {
+    "quarter": "2",
+    "time": "06:00",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Shot by BOSTONU Ethan Hart, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "2",
+    "time": "05:55",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Caden Olmstead (caused by Logan Styles).",
+    "score": "1-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:17",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Ground ball pickup by BOSTONU Mike Luce."
+  },
+  {
+    "quarter": "2",
+    "time": "05:09",
+    "home_event": "",
+    "score": "1-12",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "",
+    "score": "1-13",
+    "away_event": "GOAL by BOSTONU Timothy Shannehan, goal number 3 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "Faceoff Tyler Kuprianchik vs Madden Murphy won by SIENA, [04:42] Ground ball pickup by SIENA Carter Fort.",
+    "score": "1-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "GOAL by SIENA Patrick Radomski, goal number 1 for season.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:03",
+    "home_event": "Faceoff Tyler Kuprianchik vs Madden Murphy won by SIENA, [04:03] Ground ball pickup by SIENA R.J. Ihlefeld.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by SIENA Colby LeBlanc.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:21",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by BOSTONU Sam Burns WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Turnover by BOSTONU Timothy Shannehan (caused by Liam Lennon)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "Ground ball pickup by SIENA Riley Hegarty.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:55",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "Shot by SIENA Carter Fort WIDE",
+    "score": "2-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:47",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:42",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by BOSTONU Donald Varnerin WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "01:30",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by BOSTONU Ben Morris WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Shot by BOSTONU Jimmy Kohr WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "",
+    "score": "2-13",
+    "away_event": "Ground ball pickup by BOSTONU Ethan Hart."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "GOAL by BOSTONU Ethan Hart, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "00:59",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Faceoff Tyler Kuprianchik vs Daine Kostes won by BOSTONU."
+  },
+  {
+    "quarter": "2",
+    "time": "00:50",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Timeout by BOSTONU."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-14",
+    "away_event": "Faceoff Logan Banek vs Madden Murphy won by BOSTONU."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Penalty on SIENA Logan Banek (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity.",
+    "score": "2-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:38",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "GOAL by BOSTONU Jimmy Kohr (MAN-UP), Assist by Timothy Shannehan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:38",
+    "home_event": "",
+    "score": "2-15",
+    "away_event": "Faceoff Tyler Kuprianchik vs Madden Murphy won by BOSTONU (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "GOAL by BOSTONU Andrew Pape (MAN-UP), Assist by Timothy Shannehan."
+  },
+  {
+    "quarter": "3",
+    "time": "14:11",
+    "home_event": "",
+    "score": "2-16",
+    "away_event": "Faceoff Will Miller vs Madden Murphy won by BOSTONU, [14:11] Ground ball pickup by BOSTONU Luke Davis."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "GOAL by BOSTONU Timothy Shannehan, Assist by Sam Burns."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Faceoff Will Miller vs Daine Kostes won by BOSTONU, [13:29] Ground ball pickup by BOSTONU Daine Kostes."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by BOSTONU Timothy Shannehan (caused by Ryan Wilson)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:28",
+    "home_event": "Ground ball pickup by SIENA Ryan Wilson.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:24",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Joe Valenza (caused by Peyton Forte).",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Ground ball pickup by BOSTONU Peyton Forte."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by BOSTONU Jimmy Kohr."
+  },
+  {
+    "quarter": "3",
+    "time": "11:38",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Colby LeBlanc.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:21",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Shot by BOSTONU Luke Davis WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:04",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Vito DeBellis (caused by Murphy McLaughlin).",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Ground ball pickup by BOSTONU Murphy McLaughlin."
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by BOSTONU Jimmy Kohr (caused by Brandon Blenk)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:56",
+    "home_event": "Ground ball pickup by SIENA Anthony Nicolucci.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:52",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Anthony Nicolucci (caused by Andrew Pape).",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:45",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Ground ball pickup by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Shot by BOSTONU Andrew Pape, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Shot by BOSTONU Mike Rooney HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by BOSTONU Mike Rooney (caused by Liam Lennon)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Caden Olmstead.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Ground ball pickup by SIENA Riley Hegarty.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Turnover by BOSTONU Jimmy Kohr (caused by Riley Hegarty)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:18",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "2-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:17",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Ground ball pickup by BOSTONU Jackson Matthews."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "",
+    "score": "2-17",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "GOAL by SIENA Patrick Radomski, Assist by Conor Hufnagel.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:15",
+    "home_event": "Faceoff Logan Banek vs Daine Kostes won by SIENA, [08:15] Ground ball pickup by SIENA Logan Banek.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:37",
+    "home_event": "Shot by SIENA Conor Hufnagel, SAVE Connor Phillips",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:32",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Ground ball pickup by BOSTONU Connor Kehm."
+  },
+  {
+    "quarter": "3",
+    "time": "07:06",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:50",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Shot by BOSTONU Finn Lawrence WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "06:45",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Ground ball pickup by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Turnover by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "3",
+    "time": "06:36",
+    "home_event": "Ground ball pickup by SIENA Liam Lennon.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:32",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:14",
+    "home_event": "Shot by SIENA Carter Fort, SAVE Connor Phillips",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "Ground ball pickup by SIENA Patrick Radomski.",
+    "score": "3-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:42",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Timeout by BOSTONU."
+  },
+  {
+    "quarter": "3",
+    "time": "05:23",
+    "home_event": "",
+    "score": "3-17",
+    "away_event": "Ground ball pickup by BOSTONU Peyton Forte."
+  },
+  {
+    "quarter": "3",
+    "time": "04:41",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "GOAL by BOSTONU Sam Burns, Assist by Mike Rooney."
+  },
+  {
+    "quarter": "3",
+    "time": "04:41",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Faceoff Logan Banek vs Mike Ramirez won by BOSTONU, [04:41] Ground ball pickup by BOSTONU Mike Ramirez."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Turnover by BOSTONU Tyler Fox."
+  },
+  {
+    "quarter": "3",
+    "time": "03:46",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Xander Derkatz.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:17",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:16",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Shot by BOSTONU Peyton Forte WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "02:12",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Ground ball pickup by BOSTONU Jimmy Kohr."
+  },
+  {
+    "quarter": "3",
+    "time": "01:58",
+    "home_event": "",
+    "score": "3-18",
+    "away_event": "Shot by BOSTONU Timothy Shannehan WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Penalty on SIENA Carter Fort (UNSPORTSMANLIKE CONDUCT/1:00) Extra-man opportunity.",
+    "score": "3-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "GOAL by BOSTONU Finn Lawrence (MAN-UP), Assist by Jimmy Kohr."
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Faceoff Tyler Kuprianchik vs Mike Ramirez won by BOSTONU, [01:38] Ground ball pickup by BOSTONU Mike Ramirez."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Shot by BOSTONU Timothy Shannehan, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Turnover by BOSTONU Timothy Shannehan (caused by R.J. Ihlefeld)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:21",
+    "home_event": "Ground ball pickup by SIENA Brandon Blenk.",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:17",
+    "home_event": "Ground ball pickup by SIENA Anthony Nicolucci.",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by SIENA Anthony Nicolucci (caused by Luke Davis).",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:55",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Ground ball pickup by BOSTONU Luke Davis."
+  },
+  {
+    "quarter": "3",
+    "time": "00:22",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Shot by BOSTONU Tommy Garofalo, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Clear attempt by SIENA failed.",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Faceoff Tyler Kuprianchik vs Daine Kostes won by BOSTONU, [15:00] Ground ball pickup by BOSTONU Daine Kostes."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Michael Allieri at goalie for BOSTONU."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "3-19",
+    "away_event": "Turnover by BOSTONU Timothy Shannehan (caused by Anthony Nicolucci)."
+  },
+  {
+    "quarter": "4",
+    "time": "14:14",
+    "home_event": "Ground ball pickup by SIENA Joe Valenza.",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:11",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "3-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "GOAL by SIENA Joe Valenza, Assist by Patrick Radomski.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Faceoff Tyler Kuprianchik vs Daine Kostes won by BOSTONU, [14:06] Ground ball pickup by BOSTONU Daine Kostes."
+  },
+  {
+    "quarter": "4",
+    "time": "13:36",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Ground ball pickup by BOSTONU Ethan Hart."
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Shot by BOSTONU Jimmy Kohr, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:10",
+    "home_event": "Ground ball pickup by SIENA Ryan Wilson.",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SIENA Ryan Wilson (caused by Zac Maggiacomo).",
+    "score": "4-19",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Ground ball pickup by BOSTONU Zac Maggiacomo."
+  },
+  {
+    "quarter": "4",
+    "time": "12:01",
+    "home_event": "",
+    "score": "4-19",
+    "away_event": "Shot by BOSTONU Bryce Gunn WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "11:46",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "GOAL by BOSTONU Timothy Shannehan."
+  },
+  {
+    "quarter": "4",
+    "time": "11:46",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Faceoff Will Miller vs Daine Kostes won by BOSTONU, [11:46] Ground ball pickup by BOSTONU Daine Kostes."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Turnover by BOSTONU Finn Lawrence."
+  },
+  {
+    "quarter": "4",
+    "time": "11:16",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:28",
+    "home_event": "Shot by SIENA Caden Olmstead, SAVE Michael Allieri",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by SIENA Gavin Blenk.",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:05",
+    "home_event": "Shot by SIENA Travis Fry, SAVE Michael Allieri",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:02",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Ground ball pickup by BOSTONU Michael Allieri."
+  },
+  {
+    "quarter": "4",
+    "time": "09:56",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Clear attempt by BOSTONU failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Turnover by BOSTONU Murphy McLaughlin."
+  },
+  {
+    "quarter": "4",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by SIENA Jacob Wells.",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:37",
+    "home_event": "Shot by SIENA Gavin Blenk, SAVE Michael Allieri",
+    "score": "4-20",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:24",
+    "home_event": "",
+    "score": "4-20",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "GOAL by BOSTONU Tommy Garofalo."
+  },
+  {
+    "quarter": "4",
+    "time": "09:02",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Faceoff Logan Banek vs Mike Ramirez won by BOSTONU, [09:02] Ground ball pickup by BOSTONU Kaden Freelove."
+  },
+  {
+    "quarter": "4",
+    "time": "09:00",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Ground ball pickup by BOSTONU Kaden Freelove."
+  },
+  {
+    "quarter": "4",
+    "time": "08:51",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Ground ball pickup by BOSTONU Matt Ferraro."
+  },
+  {
+    "quarter": "4",
+    "time": "08:28",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Shot by BOSTONU Ben Morris WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Shot by BOSTONU Tyler Fox, SAVE Vito DeBellis"
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "4-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:32",
+    "home_event": "Ground ball pickup by SIENA Caden Olmstead.",
+    "score": "4-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:31",
+    "home_event": "",
+    "score": "4-21",
+    "away_event": "Zach Webb at goalie for BOSTONU."
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "GOAL by SIENA Patrick Linton.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:30",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "Faceoff Logan Banek vs Mike Ramirez won by BOSTONU, [06:30] Ground ball pickup by BOSTONU Kaden Freelove."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "Turnover by BOSTONU Kaden Freelove."
+  },
+  {
+    "quarter": "4",
+    "time": "06:24",
+    "home_event": "Ground ball pickup by SIENA Jack Lamarca.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:21",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:20",
+    "home_event": "Shot by SIENA Travis Fry, SAVE Zach Webb",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:16",
+    "home_event": "Ground ball pickup by SIENA Caden Olmstead.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:00",
+    "home_event": "30-second clock violation by SIENA.",
+    "score": "5-21",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:57",
+    "home_event": "",
+    "score": "5-21",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "",
+    "score": "5-22",
+    "away_event": "GOAL by BOSTONU Charlie Howard, Assist by Samuel Whitehurst."
+  },
+  {
+    "quarter": "4",
+    "time": "04:00",
+    "home_event": "Faceoff Logan Banek vs Daine Kostes won by SIENA, [04:00] Ground ball pickup by SIENA R.J. Ihlefeld.",
+    "score": "5-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "",
+    "score": "5-22",
+    "away_event": "Kevin Barrett at goalie for BOSTONU."
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "GOAL by SIENA Travis Fry.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:31",
+    "home_event": "Faceoff Logan Banek vs Daine Kostes won by SIENA, [03:31] Ground ball pickup by SIENA Logan Banek.",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by SIENA Logan Banek (caused by Lance Biagioli).",
+    "score": "6-22",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:21",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Ground ball pickup by BOSTONU Caleb Smith."
+  },
+  {
+    "quarter": "4",
+    "time": "03:17",
+    "home_event": "",
+    "score": "6-22",
+    "away_event": "Clear attempt by BOSTONU good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "GOAL by BOSTONU Tommy Garofalo."
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "Faceoff Tyler Kuprianchik vs Mike Ramirez won by BOSTONU, [02:23] Ground ball pickup by BOSTONU Lance Biagioli."
+  },
+  {
+    "quarter": "4",
+    "time": "02:22",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "Ground ball pickup by BOSTONU Lance Biagioli."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "Turnover by BOSTONU Charlie Howard (caused by Ryan Vogel)."
+  },
+  {
+    "quarter": "4",
+    "time": "01:33",
+    "home_event": "Clear attempt by SIENA good.",
+    "score": "6-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:10",
+    "home_event": "Shot by SIENA Caden Olmstead, SAVE Kevin Barrett",
+    "score": "6-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:53",
+    "home_event": "Ground ball pickup by SIENA Colby LeBlanc.",
+    "score": "6-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "",
+    "score": "6-23",
+    "away_event": "Penalty on BOSTONU Carter Hall (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "GOAL by SIENA Caden Olmstead (MAN-UP), Assist by Conor Hufnagel.",
+    "score": "7-23",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:24",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Faceoff Will Miller vs Mike Ramirez won by BOSTONU, [00:24] Ground ball pickup by BOSTONU Carter Hall."
+  },
+  {
+    "quarter": "4",
+    "time": "00:21",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Ground ball pickup by BOSTONU William Wright."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "7-23",
+    "away_event": "Turnover by BOSTONU William Wright."
+  },
+  {
+    "quarter": "4",
+    "time": "00:11",
+    "home_event": "Ground ball pickup by SIENA Caden Olmstead.",
+    "score": "7-23",
+    "away_event": ""
+  }
+]

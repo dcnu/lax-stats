@@ -1,19 +1,19 @@
 import { NextResponse } from "next/server";
-import { prisma } from "@/lib/db";
+import { getSupabase } from "@/lib/db";
 
 export async function GET() {
-	try {
-		const seasons = await prisma.season.findMany({
-			select: { id: true },
-			orderBy: { id: "desc" },
-		});
+	const { data, error } = await getSupabase()
+		.from("lookup_seasons")
+		.select("id, is_current")
+		.order("id", { ascending: false });
 
-		return NextResponse.json(seasons);
-	} catch (error) {
+	if (error) {
 		console.error("Error fetching seasons:", error);
 		return NextResponse.json(
 			{ message: "Failed to fetch seasons" },
-			{ status: 500 }
+			{ status: 500 },
 		);
 	}
+
+	return NextResponse.json(data);
 }

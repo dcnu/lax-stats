@@ -1,0 +1,1780 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Lenskold, Collin at goalie for UTAH.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Patrick Jameison at goalie for DUKE."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH, [15:00] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Tanner, Dallin.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DUKE Mac Christmas."
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by DUKE Michael Ortlieb (FIRST GOAL), Assist by Brady Scioletti."
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Kloeckl, Tyler vs Luke Engelke won by DUKE, [14:36] Ground ball pickup by DUKE Luke Warrington."
+  },
+  {
+    "quarter": "1",
+    "time": "14:13",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DUKE Liam Kershis HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "Penalty on UTAH Mullen, Joel (TOO MANY PLAYERS/0:30) Extra-man opportunity.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by DUKE Liam Kershis WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by DUKE Liam Kershis (MAN-UP), Assist by Thomas Mencke."
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "Faceoff Kloeckl, Tyler vs Luke Engelke won by UTAH, [13:34] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "Shot by UTAH Kloeckl, Tyler, SAVE Patrick Jameison",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by DUKE Aidan Maguire."
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DUKE Luke Engelke, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "Shot by UTAH Stines, Ryan, SAVE Patrick Jameison",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:29",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DUKE Max Sloat, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Likes, Jake.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Turnover by DUKE Aidan Maguire."
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Faulkner, Cade.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DUKE Brady Scioletti WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by DUKE Benn Johnston, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by Pivetta, Luca.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [09:26] Ground ball pickup by DUKE Henry Bard."
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:20",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Connor Nolen."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Connor Nolen (caused by Faulkner, Cade)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:51",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Reed, Jordan (caused by Will Pedicano).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Will Pedicano."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Will Pedicano."
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Patrick Jameison",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Charlie Johnson."
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DUKE Max Sloat HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Benn Johnston."
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DUKE Benn Johnston, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:47",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "Shot by UTAH Stines, Ryan WIDE",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DUKE Michael Ortlieb HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DUKE Brady Scioletti, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Patrick Jameison",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on DUKE Benn Johnston (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Penalty on DUKE Connor Nolen (OFFSIDE/0:30)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Patrick Jameison",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Liam Kershis (caused by Pascarella, Marco)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "Ground ball pickup by UTAH Trask, Ben.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Patrick Jameison",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Liam Kershis."
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Stines, Ryan (caused by Benn Johnston).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Benn Johnston."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Michael Ortlieb."
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "Ground ball pickup by UTAH Faulkner, Cade.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by UTAH Faulkner, Cade.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by DUKE Patrick Jameison."
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by DUKE Kyle Colsey (caused by Pascarella, Marco)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [15:00] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "14:23",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by DUKE Max Sloat WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by DUKE Max Sloat."
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH, [14:01] Ground ball pickup by UTAH Tanner, Dallin."
+  },
+  {
+    "quarter": "2",
+    "time": "13:27",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by DUKE Thomas Mencke WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:12",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by DUKE Benn Johnston WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by DUKE Thomas Mencke WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by DUKE Kyle Colsey, Assist by Thomas Mencke."
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "Timeout by UTAH.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:49",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [12:49] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "12:10",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Shot by DUKE Kyle Colsey WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Turnover by DUKE Max Sloat (caused by DiPonio, Nikko)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:35",
+    "home_event": "Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UTAH Pascarella, Marco.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:25",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by DUKE Liam Kershis."
+  },
+  {
+    "quarter": "2",
+    "time": "11:23",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "GOAL by DUKE Kyle Colsey, Assist by Michael Ortlieb."
+  },
+  {
+    "quarter": "2",
+    "time": "10:44",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [10:44] Ground ball pickup by DUKE Mac Christmas."
+  },
+  {
+    "quarter": "2",
+    "time": "10:26",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:13",
+    "home_event": "",
+    "score": "1-5",
+    "away_event": "Shot by DUKE Max Sloat WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "GOAL by DUKE Brady Scioletti."
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "Timeout by UTAH.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH, [09:31] Ground ball pickup by UTAH Kloeckl, Tyler.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UTAH Kloeckl, Tyler.",
+    "score": "1-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:16",
+    "home_event": "",
+    "score": "1-6",
+    "away_event": "Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "GOAL by DUKE Max Sloat."
+  },
+  {
+    "quarter": "2",
+    "time": "08:59",
+    "home_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH (on faceoff violation).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:21",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Patrick Jameison",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by UTAH Stines, Ryan (caused by Charlie Johnson).",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:35",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Ground ball pickup by DUKE Charlie Johnson."
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:28",
+    "home_event": "",
+    "score": "1-7",
+    "away_event": "Shot by DUKE Will Pedicano, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:20",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "1-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "GOAL by UTAH McNamara, Luke, Assist by Stines, Ryan.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:16",
+    "home_event": "Faceoff Kloeckl, Tyler vs Luke Engelke won by UTAH, [07:16] Ground ball pickup by UTAH Flanagan, Conner.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:16",
+    "home_event": "Shot by UTAH Stines, Ryan, SAVE Patrick Jameison",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:11",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:06",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by DUKE Luke Warrington WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "05:45",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Shot by DUKE Liam Kershis HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "2-7",
+    "away_event": "Turnover by DUKE Liam Kershis (caused by Crane, Mikey)."
+  },
+  {
+    "quarter": "2",
+    "time": "05:04",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:01",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "2-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "GOAL by UTAH Stines, Ryan.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Timeout by DUKE."
+  },
+  {
+    "quarter": "2",
+    "time": "04:52",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [04:52] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "2",
+    "time": "04:51",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by DUKE Benn Johnston WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Shot by DUKE Max Sloat, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "Ground ball pickup by UTAH Stines, Ryan.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:08",
+    "home_event": "30-second clock violation by UTAH.",
+    "score": "3-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "3-7",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "GOAL by DUKE Connor Nolen, Assist by Henry Bard."
+  },
+  {
+    "quarter": "2",
+    "time": "02:44",
+    "home_event": "",
+    "score": "3-8",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:06",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "GOAL by DUKE Tomas Delgado, Assist by Thomas Mencke."
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [02:05] Ground ball pickup by DUKE Henry Bard."
+  },
+  {
+    "quarter": "2",
+    "time": "01:57",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "3-9",
+    "away_event": "Shot by DUKE Benn Johnston, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "2",
+    "time": "01:01",
+    "home_event": "Ground ball pickup by UTAH Pascarella, Marco.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:57",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "3-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "GOAL by UTAH Chalmers, Nathan, Assist by Stines, Ryan.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH (on faceoff violation).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by DUKE Aidan Maguire, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Dara, Anthony vs Cal Girard won by UTAH, [15:00] Ground ball pickup by UTAH Dara, Anthony.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:21",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Penalty on DUKE Mac Christmas (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "13:41",
+    "home_event": "Shot by UTAH Stines, Ryan BLOCKED",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:30",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Ground ball pickup by DUKE Nikolas Menendez."
+  },
+  {
+    "quarter": "3",
+    "time": "13:14",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UTAH Stines, Ryan (caused by Charlie Johnson).",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "GOAL by DUKE Thomas Mencke."
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Faceoff Dara, Anthony vs Cal Girard won by DUKE, [12:38] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "12:37",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Shot by DUKE Benn Johnston WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "12:37",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Ground ball pickup by DUKE Michael Ortlieb."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by DUKE Michael Ortlieb (caused by Harrison, Kyle)."
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:12",
+    "home_event": "Shot by UTAH Sparks, Karson HIT POST",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Clear attempt by DUKE failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-10",
+    "away_event": "Turnover by DUKE Aidan Maguire."
+  },
+  {
+    "quarter": "3",
+    "time": "11:53",
+    "home_event": "Ground ball pickup by UTAH Faulkner, Cade.",
+    "score": "4-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "GOAL by UTAH Flanagan, Conner, Assist by Stines, Ryan.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:49",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [10:49] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "3",
+    "time": "10:40",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:04",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Shot by DUKE Thomas Mencke HIT CROSSBAR"
+  },
+  {
+    "quarter": "3",
+    "time": "10:00",
+    "home_event": "Ground ball pickup by UTAH Mullen, Joel.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:58",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:53",
+    "home_event": "Shot by UTAH Chalmers, Nathan WIDE",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:13",
+    "home_event": "Shot by UTAH McNamara, Luke, SAVE Patrick Jameison",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:01",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by DUKE Benn Johnston."
+  },
+  {
+    "quarter": "3",
+    "time": "08:54",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by DUKE failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Turnover by DUKE Mac Christmas (caused by Reed, Jordan)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Ground ball pickup by UTAH Reed, Jordan.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:13",
+    "home_event": "Shot by UTAH Faulkner, Cade BLOCKED",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:10",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Ground ball pickup by DUKE Nikolas Menendez."
+  },
+  {
+    "quarter": "3",
+    "time": "08:07",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "GOAL by DUKE Brady Scioletti, Assist by Michael Ortlieb."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Timeout by DUKE."
+  },
+  {
+    "quarter": "3",
+    "time": "06:42",
+    "home_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by UTAH (on faceoff violation).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by UTAH Faulkner, Cade (caused by Will Pedicano).",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:40",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:25",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by DUKE Max Sloat HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Turnover by DUKE Benn Johnston (caused by Flanagan, Conner)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "Ground ball pickup by UTAH Trask, Ben.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:59",
+    "home_event": "Shot by UTAH Faulkner, Cade, SAVE Patrick Jameison",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:52",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:08",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by DUKE Michael Ortlieb WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "02:58",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Shot by DUKE Brady Scioletti HIT CROSSBAR"
+  },
+  {
+    "quarter": "3",
+    "time": "02:27",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:17",
+    "home_event": "Shot by UTAH McNamara, Luke BLOCKED",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:10",
+    "home_event": "Ground ball pickup by UTAH McNamara, Luke.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:46",
+    "home_event": "",
+    "score": "5-11",
+    "away_event": "Penalty on DUKE Nikolas Menendez (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "01:14",
+    "home_event": "Shot by UTAH McNamara, Luke WIDE",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:48",
+    "home_event": "Shot by UTAH Chalmers, Nathan BLOCKED",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:43",
+    "home_event": "Ground ball pickup by UTAH White, Zachary.",
+    "score": "5-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:43",
+    "home_event": "GOAL by UTAH McNamara, Luke (MAN-UP), Assist by White, Zachary.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:43",
+    "home_event": "Faceoff Kloeckl, Tyler vs Ben McCarthy won by UTAH (on faceoff violation).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [15:00] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by DUKE Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "14:34",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH Pivetta, Luca.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "GOAL by DUKE Benn Johnston, Assist by Aidan Maguire."
+  },
+  {
+    "quarter": "4",
+    "time": "14:29",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [14:29] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by DUKE Will Pedicano."
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH McNamara, Luke (caused by Will Pedicano).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:16",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DUKE Will Tantillo."
+  },
+  {
+    "quarter": "4",
+    "time": "13:14",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:11",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DUKE Liam Kershis, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "4",
+    "time": "12:08",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:18",
+    "home_event": "Shot by UTAH Reed, Jordan WIDE",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH White, Zachary (caused by Nikolas Menendez).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:41",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DUKE Nikolas Menendez."
+  },
+  {
+    "quarter": "4",
+    "time": "10:39",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "10:37",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DUKE Mac Christmas WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "10:16",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DUKE Max Sloat WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "10:05",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Shot by DUKE Max Sloat, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by DUKE Benn Johnston (caused by DiPonio, Nikko)."
+  },
+  {
+    "quarter": "4",
+    "time": "09:52",
+    "home_event": "Ground ball pickup by UTAH Trask, Ben.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:45",
+    "home_event": "Shot by UTAH DiPonio, Nikko, SAVE Patrick Jameison",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:43",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Penalty on DUKE Will Pedicano (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "09:41",
+    "home_event": "Ground ball pickup by UTAH Trask, Ben.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH McNamara, Luke (caused by Charlie Johnson).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:32",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DUKE Charlie Johnson."
+  },
+  {
+    "quarter": "4",
+    "time": "09:29",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by DUKE Thomas Mencke (caused by Tanner, Dallin)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "Ground ball pickup by UTAH Mullen, Joel.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:19",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Ground ball pickup by UTAH Chalmers, Nathan.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:43",
+    "home_event": "Shot by UTAH Likes, Jake WIDE",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH Likes, Jake (caused by Henry Bard).",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Ground ball pickup by DUKE Aidan Maguire."
+  },
+  {
+    "quarter": "4",
+    "time": "07:41",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-12",
+    "away_event": "Turnover by DUKE Max Sloat."
+  },
+  {
+    "quarter": "4",
+    "time": "06:22",
+    "home_event": "Ground ball pickup by UTAH DiPonio, Nikko.",
+    "score": "6-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "GOAL by UTAH Chalmers, Nathan, Assist by Stines, Ryan.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:08",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Faceoff Kloeckl, Tyler vs Cal Girard won by DUKE, [06:08] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "05:28",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DUKE Michael Ortlieb WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DUKE Michael Ortlieb HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "04:56",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DUKE Michael Ortlieb, SAVE Lenskold, Collin"
+  },
+  {
+    "quarter": "4",
+    "time": "04:53",
+    "home_event": "Clear attempt by UTAH failed.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by UTAH Stines, Ryan.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:41",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DUKE Patrick Jameison."
+  },
+  {
+    "quarter": "4",
+    "time": "04:39",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Shot by DUKE Tomas Delgado WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "03:32",
+    "home_event": "Penalty on UTAH Harrison, Kyle (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:59",
+    "home_event": "",
+    "score": "7-12",
+    "away_event": "Ground ball pickup by DUKE Brady Scioletti."
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "GOAL by DUKE Michael Ortlieb (MAN-UP), Assist by Thomas Mencke."
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "7-13",
+    "away_event": "Faceoff McCarthy, Seamus vs Cal Girard won by DUKE, [02:39] Ground ball pickup by DUKE Cal Girard."
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "GOAL by DUKE Benn Johnston."
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "Penalty on UTAH Tanner, Dallin (SLASHING/1:00) Extra-man opportunity.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:54",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Faceoff Dara, Anthony vs Luke Engelke won by DUKE, [01:54] Ground ball pickup by DUKE Aidan Maguire."
+  },
+  {
+    "quarter": "4",
+    "time": "01:34",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Clear attempt by DUKE good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:07",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Shot by DUKE Max Sloat BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "01:04",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Ground ball pickup by DUKE Kyle Colsey."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Turnover by DUKE Michael Ortlieb."
+  },
+  {
+    "quarter": "4",
+    "time": "00:52",
+    "home_event": "Ground ball pickup by UTAH McCarthy, Seamus.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:39",
+    "home_event": "Clear attempt by UTAH good.",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:21",
+    "home_event": "Shot by UTAH Faulkner, Cade WIDE",
+    "score": "7-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:12",
+    "home_event": "",
+    "score": "7-14",
+    "away_event": "Clear attempt by DUKE good."
+  }
+]

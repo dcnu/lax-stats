@@ -1,0 +1,1633 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Matt Deedy at goalie for AF."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Patrick Roelke at goalie for LC.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:54",
+    "home_event": "Faceoff Nick Faccone vs Michael Frieri won by LC, [14:54] Ground ball pickup by LC Jack Massotto.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "Shot by LC Nicholas Blalock HIGH",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "GOAL by LC Erik Volfson (FIRST GOAL), Assist by Nicholas Blalock.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "Faceoff Nick Faccone vs Michael Frieri won by LC, [13:49] Ground ball pickup by LC Brendan Poirier.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "Ground ball pickup by LC Nick Faccone.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "30-second clock violation by LC.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by AF Luke Vrsansky."
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "Faceoff Nick Faccone vs Michael Frieri won by LC, [11:10] Ground ball pickup by LC Nick Faccone.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Erik Volfson (caused by John Kleinbeck).",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by AF Charlie Pyfer HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "GOAL by AF Cole Rassas, Assist by Ryan Stadelmaier."
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF."
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Shot by AF Alex Rismani WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "Clear attempt by LC failed.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC (caused by Caelan Driggs).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by AF Christian Schweiger."
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "Clear attempt by LC good.",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Nick Muller (caused by Charlie Pyfer).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Ground ball pickup by AF Christian Schweiger."
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Turnover by AF Charlie Pyfer (caused by Noah Blinkoff)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Nick Faccone (caused by Aidan Chairs).",
+    "score": "1-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "1-2",
+    "away_event": "Timeout by AF."
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "GOAL by AF Caelan Driggs, Assist by Christian Schweiger."
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [05:02] Ground ball pickup by LC Nick Faccone.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:58",
+    "home_event": "Shot by LC Jack Irish WIDE",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by AF Matt Deedy."
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "Penalty on LC Joshua Heaney (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "1-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by AF Caelan Driggs WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Shot by AF Caelan Driggs HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "1-3",
+    "away_event": "Ground ball pickup by AF Cole Rassas."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "GOAL by AF Mana Wilhelm."
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [02:35] Ground ball pickup by LC Nick Faccone.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "Shot by LC Nicholas Blalock, SAVE Matt Deedy",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Ground ball pickup by AF Matt Deedy."
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-4",
+    "away_event": "Turnover by AF Charlie Pyfer (caused by Noah Blinkoff)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "Ground ball pickup by LC Charlie Merrick.",
+    "score": "1-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "GOAL by LC Benjamin Dibattista, Assist by Joseph Duggan.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [01:30] Ground ball pickup by LC Jack Massotto.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Jack Massotto (caused by Rogan Kane).",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-4",
+    "away_event": "Turnover by AF."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Jack Massotto.",
+    "score": "2-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "",
+    "score": "2-5",
+    "away_event": "GOAL by AF Ben Heidt, Assist by Sam Lovell."
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [00:36] Ground ball pickup by LC George Urich.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "Clear attempt by LC failed.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by LC Patrick Roelke.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Penalty on LC Benjamin Dibattista (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC (on faceoff violation).",
+    "score": "2-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:29",
+    "home_event": "",
+    "score": "2-6",
+    "away_event": "GOAL by AF Caelan Driggs (MAN-UP), Assist by Christian Schweiger."
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "GOAL by LC Joseph Duggan.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "Faceoff Nick Faccone vs Hunter Panzik won by LC, [13:40] Ground ball pickup by LC Nick Faccone.",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:03",
+    "home_event": "Shot by LC P.j. Hodge HIGH",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by LC Joshua Heaney (caused by Cole Cunningham).",
+    "score": "3-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by AF Aidan Chairs."
+  },
+  {
+    "quarter": "2",
+    "time": "12:23",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Ground ball pickup by AF Jake Park."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-6",
+    "away_event": "Turnover by AF Jake Park."
+  },
+  {
+    "quarter": "2",
+    "time": "11:20",
+    "home_event": "GOAL by LC Aidan Kopen.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:20",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF, [11:20] Ground ball pickup by AF Ryan Stadelmaier."
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by AF Ryan Stadelmaier WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "10:59",
+    "home_event": "Clear attempt by LC good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:40",
+    "home_event": "Timeout by LC.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:17",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by AF Christian Schweiger, Assist by Cole Rassas."
+  },
+  {
+    "quarter": "2",
+    "time": "09:43",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF, [09:43] Ground ball pickup by AF Aidan Chairs."
+  },
+  {
+    "quarter": "2",
+    "time": "09:31",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Turnover by AF Blake Boyd (caused by Nicholas Blalock)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "Shot by LC Joshua Heaney BLOCKED",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by LC Benjamin Dibattista (caused by Cole Cunningham).",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:20",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Ground ball pickup by AF Cole Cunningham."
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by AF Charlie Pyfer."
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "Timeout by LC.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [08:15] Ground ball pickup by LC Nick Faccone.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:41",
+    "home_event": "GOAL by LC Nicholas Blalock.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:41",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Henry Spencer, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Caelan Driggs HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Henry Spencer WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "06:28",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Ben Heidt WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:49",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Caelan Driggs, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "2",
+    "time": "04:24",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Mana Wilhelm, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "2",
+    "time": "04:19",
+    "home_event": "Ground ball pickup by LC George Urich.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "Clear attempt by LC failed.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by LC Patrick Roelke (caused by Mana Wilhelm).",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:53",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Luke Vrsansky WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Turnover by AF Mana Wilhelm (caused by Noah Blinkoff)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:15",
+    "home_event": "Ground ball pickup by LC Noah Blinkoff.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "Clear attempt by LC failed.",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by LC Joshua Heaney (caused by Jack Gounaris).",
+    "score": "5-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:04",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:45",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Ground ball pickup by AF Sam Lovell."
+  },
+  {
+    "quarter": "2",
+    "time": "02:19",
+    "home_event": "",
+    "score": "5-8",
+    "away_event": "Shot by AF Christian Schweiger WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "GOAL by AF Christian Schweiger, Assist by Henry Spencer."
+  },
+  {
+    "quarter": "2",
+    "time": "02:18",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC (on faceoff violation).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by AF Caelan Driggs."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by LC P.j. Hodge (caused by Cole Cunningham).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by AF Cole Cunningham."
+  },
+  {
+    "quarter": "2",
+    "time": "01:37",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:58",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by AF Cole Rassas WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:43",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by AF Caelan Driggs."
+  },
+  {
+    "quarter": "2",
+    "time": "00:43",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [00:43] Ground ball pickup by LC Nick Faccone.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:30",
+    "home_event": "Clear attempt by LC good.",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "GOAL by LC Aidan Kopen, Assist by Clifford Chapman.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF, [00:07] Ground ball pickup by AF Rogan Kane."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:09",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by AF Christian Schweiger BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "13:51",
+    "home_event": "",
+    "score": "6-10",
+    "away_event": "Shot by AF Jack Gounaris HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "GOAL by AF Luke Vrsansky, Assist by Cole Rassas."
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "Faceoff Christian Tapia vs Rogan Kane won by LC, [13:43] Ground ball pickup by LC Christian Tapia.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:32",
+    "home_event": "Shot by LC Charlie Merrick HIGH",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:57",
+    "home_event": "Shot by LC Joseph Duggan, SAVE Matt Deedy",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:53",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by AF."
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "Shot by LC Joshua Heaney, SAVE Matt Deedy",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:13",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Penalty on AF Aidan Chairs (INTERFERENCE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LC Joseph Duggan (caused by Jack Gounaris).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:03",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by AF Charlie Pyfer."
+  },
+  {
+    "quarter": "3",
+    "time": "11:47",
+    "home_event": "Ground ball pickup by LC Joseph Duggan.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:22",
+    "home_event": "Ground ball pickup by LC Joseph Duggan.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:19",
+    "home_event": "Ground ball pickup by LC Aidan Kopen.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:56",
+    "home_event": "Shot by LC Erik Volfson WIDE",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:23",
+    "home_event": "Shot by LC Benjamin Dibattista BLOCKED",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "Ground ball pickup by LC Joseph Duggan.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:16",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Penalty on AF Jack Gounaris (CROSSE IN FACE/5:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LC Billy Irish (caused by Charlie Pyfer).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:09",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by AF Cole Cunningham."
+  },
+  {
+    "quarter": "3",
+    "time": "10:07",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Turnover by AF Christian Schweiger (caused by Brendan Poirier)."
+  },
+  {
+    "quarter": "3",
+    "time": "09:50",
+    "home_event": "Ground ball pickup by LC Brendan Poirier.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LC Brendan Poirier (caused by Connor Albertson).",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:42",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Ground ball pickup by AF Hee-Cheol Shin."
+  },
+  {
+    "quarter": "3",
+    "time": "09:35",
+    "home_event": "",
+    "score": "6-11",
+    "away_event": "Shot by AF Cole Rassas BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "09:28",
+    "home_event": "Ground ball pickup by LC Erik Volfson.",
+    "score": "6-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "GOAL by LC Benjamin Dibattista (MAN-UP), Assist by Nicholas Blalock.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:36",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [08:36] Ground ball pickup by LC George Urich.",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Shot by LC Joshua Heaney WIDE",
+    "score": "7-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "GOAL by LC Nick Muller.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [07:52] Ground ball pickup by LC Nick Faccone.",
+    "score": "8-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "GOAL by LC Jack Irish.",
+    "score": "9-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:23",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Faceoff Christian Tapia vs Rogan Kane won by AF, [07:23] Ground ball pickup by AF Hee-Cheol Shin."
+  },
+  {
+    "quarter": "3",
+    "time": "07:12",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Ground ball pickup by AF Aidan Chairs."
+  },
+  {
+    "quarter": "3",
+    "time": "07:09",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:54",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Shot by AF Hee-Cheol Shin, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "",
+    "score": "9-11",
+    "away_event": "Ground ball pickup by AF Caelan Driggs."
+  },
+  {
+    "quarter": "3",
+    "time": "06:02",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "GOAL by AF Christian Schweiger, Assist by Caelan Driggs."
+  },
+  {
+    "quarter": "3",
+    "time": "06:02",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Faceoff Nick Faccone vs Rogan Kane won by AF (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "05:06",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by AF Caelan Driggs, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "3",
+    "time": "04:59",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LC Zach Zukowsky (caused by Cole Cunningham).",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:37",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by AF Mana Wilhelm WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "04:00",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by AF Christian Schweiger, SAVE Patrick Roelke"
+  },
+  {
+    "quarter": "3",
+    "time": "03:56",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Ground ball pickup by AF Caelan Driggs."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Turnover by AF Christian Schweiger (caused by John Finkeldie)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:35",
+    "home_event": "Clear attempt by LC good.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "GOAL by LC Charlie Foley.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:59",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC (on faceoff violation).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:09",
+    "home_event": "Shot by LC Jack Irish WIDE",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:29",
+    "home_event": "Shot by LC Benjamin Dibattista, SAVE Matt Deedy",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by LC Benjamin Dibattista (caused by Connor Albertson).",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Shot by AF Ryan Stadelmaier HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "10-12",
+    "away_event": "Ground ball pickup by AF Cole Rassas."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "GOAL by AF Luke Vrsansky, Assist by Cole Rassas."
+  },
+  {
+    "quarter": "3",
+    "time": "00:08",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [00:08] Ground ball pickup by LC George Urich.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "Shot by LC Joshua Heaney, SAVE Matt Deedy",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [15:00] Ground ball pickup by LC George Urich.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LC Joshua Heaney (caused by Connor Albertson).",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:57",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by AF Matt Deedy."
+  },
+  {
+    "quarter": "4",
+    "time": "13:53",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Turnover by AF Christian Schweiger."
+  },
+  {
+    "quarter": "4",
+    "time": "13:22",
+    "home_event": "Shot by LC Joshua Heaney, SAVE Matt Deedy",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:17",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Ground ball pickup by AF Jack Gounaris."
+  },
+  {
+    "quarter": "4",
+    "time": "13:14",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:00",
+    "home_event": "",
+    "score": "10-13",
+    "away_event": "Shot by AF Aidan Chairs, TEAM SAVE by Team"
+  },
+  {
+    "quarter": "4",
+    "time": "12:53",
+    "home_event": "Ground ball pickup by LC Joshua Heaney.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:12",
+    "home_event": "Shot by LC Benjamin Dibattista HIGH",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "Timeout by LC.",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:06",
+    "home_event": "Shot by LC Nicholas Blalock HIGH",
+    "score": "10-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "GOAL by LC Benjamin Dibattista, Assist by Aidan Kopen.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [10:55] Ground ball pickup by LC Nick Faccone.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:33",
+    "home_event": "Shot by LC Charlie Foley, SAVE Matt Deedy",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:31",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by AF Aidan Chairs (caused by Matt Morelli)."
+  },
+  {
+    "quarter": "4",
+    "time": "10:11",
+    "home_event": "Ground ball pickup by LC Matt Morelli.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LC Noah Blinkoff (caused by Jack Gounaris).",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:48",
+    "home_event": "Ground ball pickup by LC George Urich.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by AF Christian Schweiger."
+  },
+  {
+    "quarter": "4",
+    "time": "09:19",
+    "home_event": "Ground ball pickup by LC Team.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "Shot by LC Joshua Heaney, SAVE Matt Deedy",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:01",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Ground ball pickup by AF Jack Gounaris."
+  },
+  {
+    "quarter": "4",
+    "time": "08:48",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by AF failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by AF Caelan Driggs."
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "Clear attempt by LC good.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LC Nicholas Blalock (caused by Charlie Pyfer).",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:51",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "11-13",
+    "away_event": "Turnover by AF Ben Heidt (caused by Jack Massotto)."
+  },
+  {
+    "quarter": "4",
+    "time": "05:55",
+    "home_event": "Ground ball pickup by LC Jack Massotto.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:52",
+    "home_event": "Clear attempt by LC good.",
+    "score": "11-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "GOAL by LC Nicholas Blalock, Assist by Joshua Heaney.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "Faceoff Nick Faccone vs Rogan Kane won by LC, [05:44] Ground ball pickup by LC Nick Faccone.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:07",
+    "home_event": "Shot by LC Brendan Poirier HIGH",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:04",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Penalty on AF Rogan Kane (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "04:21",
+    "home_event": "Shot by LC Joseph Duggan, SAVE Matt Deedy",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:14",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by AF Charlie Pyfer."
+  },
+  {
+    "quarter": "4",
+    "time": "04:13",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by AF Cole Cunningham."
+  },
+  {
+    "quarter": "4",
+    "time": "03:54",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Timeout by AF."
+  },
+  {
+    "quarter": "4",
+    "time": "03:45",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by AF Caelan Driggs HIT POST"
+  },
+  {
+    "quarter": "4",
+    "time": "03:39",
+    "home_event": "Ground ball pickup by LC George Urich.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "Clear attempt by LC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LC Joseph Duggan (caused by Jack Gounaris).",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:39",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by AF Jack Gounaris."
+  },
+  {
+    "quarter": "4",
+    "time": "02:37",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Shot by AF Christian Schweiger WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "01:57",
+    "home_event": "Clear attempt by LC good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:48",
+    "home_event": "Timeout by LC.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "Shot by LC Joseph Duggan WIDE",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:48",
+    "home_event": "Shot by LC Benjamin Dibattista WIDE",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:40",
+    "home_event": "30-second clock violation by LC.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:32",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Clear attempt by AF good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:18",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Timeout by AF."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Turnover by AF Christian Schweiger (caused by Patrick Roelke)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:07",
+    "home_event": "Ground ball pickup by LC Patrick Roelke.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:05",
+    "home_event": "Clear attempt by LC failed.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by LC Matt Morelli (caused by Aidan Chairs).",
+    "score": "12-13",
+    "away_event": ""
+  }
+]

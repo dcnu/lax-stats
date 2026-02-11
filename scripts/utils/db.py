@@ -73,7 +73,7 @@ def execute_many(query: str, params_list: list):
 def upsert_team(team_id: str, name: str, short_name: str = None, division_id: int = 1):
 	"""Insert or update a team."""
 	query = """
-		INSERT INTO teams (id, name, short_name, division_id)
+		INSERT INTO lookup_teams (id, name, short_name, division_id)
 		VALUES (%s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
 			name = EXCLUDED.name,
@@ -112,7 +112,7 @@ def upsert_season(
 ):
 	"""Insert or update a season."""
 	query = """
-		INSERT INTO seasons (id, division_id, start_year, end_year, start_date, end_date, is_current)
+		INSERT INTO lookup_seasons (id, division_id, start_year, end_year, start_date, end_date, is_current)
 		VALUES (%s, %s, %s, %s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
 			division_id = EXCLUDED.division_id,

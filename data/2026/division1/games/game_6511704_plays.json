@@ -1,0 +1,1381 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "UD Starters: McCurry, John; Parmer, Bennett; D'Ambrogi, Hank; Powers, Brendan; Kolar, Jason; Koff, Aidan; Cowen, Nick; Owings, Tyler; Atkinson, Louie; Powell, Liam. DRX Starters: Tulio, Alec; Wallace, Jack; Hooley, Conor; Joyner, Jack; Lyman, Pat; Donnelly, Brendan; Knight, Owen; Kelly, Gavin; Crawford, Witt; Carden, Luke; UD Keeper: Koff, Aidan. DRX Keeper: Donnelly, Brendan."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [15:00] Ground ball pickup by DRX Kammar, Liam.."
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Knight, Owen WIDE RIGHT"
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Crawford, Witt WIDE RIGHT"
+  },
+  {
+    "quarter": "1",
+    "time": "13:25",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "30-second clock violation by DRX"
+  },
+  {
+    "quarter": "1",
+    "time": "13:19",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "Turnover by UD Rodgers, Finn",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Ground ball pickup by DRX Tulio, Alec"
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by DRX Crawford, Witt (FIRST GOAL), Assist by Kelly, Gavin"
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [12:01] Ground ball pickup by DRX Layton, Trent.."
+  },
+  {
+    "quarter": "1",
+    "time": "11:17",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by DRX Luzza, Liam"
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "Shot by UD Parmer, Bennett, SAVE by Donnelly, Brendan",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX failed."
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by DRX Donnelly, Brendan"
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "Shot by UD D'Ambrogi, Hank WIDE",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "Shot by UD Kolar, Jason, SAVE by Donnelly, Brendan",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by DRX Lyman, Pat"
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "Shot by UD Triolo, Matt, SAVE by Donnelly, Brendan",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "Ground ball pickup by UD Morgan, Finn",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "30-second clock violation by UD",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:57",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by DRX Hooley, Conor"
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "Turnover by UD Powers, Brendan (caused by Todd, Kai).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Lyman, Pat"
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Knight, Owen, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "Ground ball pickup by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "Shot by UD McCurry, John HIGH",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Shot by UD Parmer, Bennett, SAVE by Donnelly, Brendan",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Zadell, Caden WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by DRX Tulio, Alec, Assist by Hooley, Conor"
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [01:55] Ground ball pickup by DRX Kammar, Liam.."
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by DRX Knight, Owen"
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Bolger, Nolan vs Layton, Trent won by DRX, [00:59] Ground ball pickup by DRX Layton, Trent.."
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Knight, Owen WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Crawford, Witt HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Clear attempt by UD failed.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "Shot by UD Koff, Aidan WIDE",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Bolger, Nolan vs Layton, Trent won by DRX (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by DRX Kelly, Gavin"
+  },
+  {
+    "quarter": "2",
+    "time": "13:49",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Crawford, Witt, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:01",
+    "home_event": "Shot by UD Owings, Tyler BLOCKED by Lyman, Pat",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:45",
+    "home_event": "Shot by UD Kolar, Jason, SAVE by Donnelly, Brendan",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:37",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:53",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Joyner, Jack WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "11:28",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "30-second clock violation by DRX"
+  },
+  {
+    "quarter": "2",
+    "time": "11:17",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:43",
+    "home_event": "Shot by UD Triolo, Matt WIDE",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:32",
+    "home_event": "Shot by UD Morgan, Finn HIGH",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:24",
+    "home_event": "Turnover by UD Parmer, Bennett (caused by Donnelly, Brendan).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:15",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "09:29",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DRX Hooley, Conor, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "2",
+    "time": "09:23",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:15",
+    "home_event": "Ground ball pickup by UD Cowen, Nick",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:12",
+    "home_event": "Ground ball pickup by UD Powers, Brendan",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:34",
+    "home_event": "Shot by UD McCurry, John WIDE",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:31",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Penalty on DRX Lyman, Pat (Slashing/1:00); Extra-man opportunity (ends at 7:31 of QTR 2)"
+  },
+  {
+    "quarter": "2",
+    "time": "07:55",
+    "home_event": "Shot by UD Powers, Brendan WIDE",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:34",
+    "home_event": "Shot by UD McCurry, John HIT POST",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "Turnover by UD McCurry, John",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:33",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by DRX Wallace, Jack"
+  },
+  {
+    "quarter": "2",
+    "time": "06:25",
+    "home_event": "Turnover by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:20",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Tecu, Corby"
+  },
+  {
+    "quarter": "2",
+    "time": "06:17",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by DRX Knight, Owen"
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "Timeout by UD",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:46",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Bolger, Nolan vs Layton, Trent won by DRX, [05:46] Ground ball pickup by DRX Layton, Trent.."
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by DRX Crawford, Witt, Assist by Layton, Trent"
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "Faceoff Conte, Scott vs Layton, Trent won by UD (on faceoff violation).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:33",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Chiango, Anthony, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "2",
+    "time": "04:20",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Donnelly, Brendan"
+  },
+  {
+    "quarter": "2",
+    "time": "04:17",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:05",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by DRX Knight, Owen"
+  },
+  {
+    "quarter": "2",
+    "time": "03:37",
+    "home_event": "Shot by UD McCurry, John, SAVE by Donnelly, Brendan",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:27",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:08",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Crawford, Witt WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:25",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Joyner, Jack, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "2",
+    "time": "02:21",
+    "home_event": "Ground ball pickup by UD Cowen, Nick",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:17",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:22",
+    "home_event": "Turnover by UD Capri, Cory",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:18",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DRX Todd, Kai"
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:03",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Timeout by DRX"
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DRX Hooley, Conor WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "30-second clock violation by DRX"
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "Shot by UD Powell, Liam",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Conte, Scott vs Di, Sam won by DRX, [15:00] Ground ball pickup by DRX Di, Sam.."
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DRX Di, Sam"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Ground ball pickup by UD Powell, Liam",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:08",
+    "home_event": "Shot by UD McCurry, John, SAVE by Donnelly, Brendan",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:57",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Hooley, Conor WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "12:44",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by DRX Joyner, Jack WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "12:38",
+    "home_event": "Ground ball pickup by UD Koff, Aidan",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:21",
+    "home_event": "Clear attempt by UD failed.",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:14",
+    "home_event": "Turnover by UD Powell, Liam",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:06",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:24",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DRX Luthy, Teddy WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by DRX Tulio, Alec, Assist by Luzza, Liam"
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [11:09] Ground ball pickup by DRX Layton, Trent.."
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by DRX Layton, Trent"
+  },
+  {
+    "quarter": "3",
+    "time": "11:09",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [11:09] Ground ball pickup by DRX Nolan, Jack.."
+  },
+  {
+    "quarter": "3",
+    "time": "10:52",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "09:48",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DRX Joyner, Jack, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "3",
+    "time": "09:43",
+    "home_event": "Ground ball pickup by UD Gillin, Patrick",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:40",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:53",
+    "home_event": "Shot by UD Parmer, Bennett WIDE",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "Turnover by UD Morgan, Finn (caused by Kammar, Liam).",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:33",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "30-second clock violation by UD",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Zadell, Caden, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "3",
+    "time": "07:43",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:54",
+    "home_event": "Shot by UD Parmer, Bennett, SAVE by Donnelly, Brendan",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:41",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:23",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Knight, Owen, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "3",
+    "time": "06:18",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Hogan, Flynn"
+  },
+  {
+    "quarter": "3",
+    "time": "06:11",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:34",
+    "home_event": "Turnover by UD D'Ambrogi, Hank (caused by McVicker, Connor).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:12",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:50",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Luthy, Teddy"
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by DRX Knight, Owen, Assist by Tulio, Alec"
+  },
+  {
+    "quarter": "3",
+    "time": "04:36",
+    "home_event": "Faceoff Conte, Scott vs Layton, Trent won by UD (on faceoff violation).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:25",
+    "home_event": "Turnover by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:19",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Kammar, Liam"
+  },
+  {
+    "quarter": "3",
+    "time": "03:16",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:13",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Lyman, Pat"
+  },
+  {
+    "quarter": "3",
+    "time": "02:38",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by DRX Joyner, Jack (caused by Powell, Liam)."
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "Ground ball pickup by UD Powell, Liam",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:31",
+    "home_event": "Clear attempt by UD failed.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:26",
+    "home_event": "Turnover by UD Powell, Liam (caused by Crawford, Witt).",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:22",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DRX Hooley, Conor"
+  },
+  {
+    "quarter": "3",
+    "time": "01:35",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DRX Luthy, Teddy HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "01:18",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DRX Luthy, Teddy"
+  },
+  {
+    "quarter": "3",
+    "time": "00:54",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Shot by DRX Luzza, Liam BLOCKED by Atkinson, Louie"
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Ground ball pickup by DRX Luzza, Liam"
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by DRX Luzza, Liam, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "3",
+    "time": "00:37",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "Shot by UD Parmer, Bennett WIDE",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:02",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "14:41",
+    "home_event": "Faceoff Conte, Scott vs Di, Sam won by UD, [14:41] Ground ball pickup by UD Conte, Scott..",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:46",
+    "home_event": "Shot by UD Parmer, Bennett, SAVE by Donnelly, Brendan",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:34",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "12:47",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by DRX Knight, Owen"
+  },
+  {
+    "quarter": "4",
+    "time": "12:42",
+    "home_event": "Ground ball pickup by UD Rodgers, Finn",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:40",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:36",
+    "home_event": "Shot by UD Furgeson, Nathan, SAVE by Donnelly, Brendan",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:32",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:27",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "GOAL by DRX Zadell, Caden"
+  },
+  {
+    "quarter": "4",
+    "time": "11:27",
+    "home_event": "Penalty on UD Atkinson, Louie (Unnecessary Roughness/1:00); Extra-man opportunity (ends at 10:27 of QTR 4)",
+    "score": "0-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:27",
+    "home_event": "",
+    "score": "0-9",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [11:27] Ground ball pickup by DRX Quinn, Patrick.."
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "GOAL by DRX Tulio, Alec (MAN-UP), Assist by Hooley, Conor"
+  },
+  {
+    "quarter": "4",
+    "time": "10:34",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [10:34] Ground ball pickup by DRX Nolan, Jack.."
+  },
+  {
+    "quarter": "4",
+    "time": "09:27",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Ground ball pickup by DRX Hooley, Conor"
+  },
+  {
+    "quarter": "4",
+    "time": "09:16",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Shot by DRX Hooley, Conor HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by DRX Hooley, Conor (caused by Gillin, Patrick)."
+  },
+  {
+    "quarter": "4",
+    "time": "08:54",
+    "home_event": "Ground ball pickup by UD Powell, Liam",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "Clear attempt by UD good.",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:16",
+    "home_event": "Shot by UD Triolo, Matt, SAVE by Donnelly, Brendan",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:05",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:04",
+    "home_event": "",
+    "score": "0-10",
+    "away_event": "Turnover by DRX Carden, Luke"
+  },
+  {
+    "quarter": "4",
+    "time": "06:58",
+    "home_event": "Ground ball pickup by UD Parmer, Bennett",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:57",
+    "home_event": "Timeout by UD",
+    "score": "0-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "GOAL by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Conte, Scott vs Layton, Trent won by DRX, [06:48] Ground ball pickup by DRX Bradley, Nate.."
+  },
+  {
+    "quarter": "4",
+    "time": "06:48",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:35",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Crawford, Witt BLOCKED by Cowen, Nick"
+  },
+  {
+    "quarter": "4",
+    "time": "05:15",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Joyner, Jack WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "05:10",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "30-second clock violation by DRX"
+  },
+  {
+    "quarter": "4",
+    "time": "05:08",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:46",
+    "home_event": "Shot by UD Powers, Brendan BLOCKED by Nolan, Jack",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:30",
+    "home_event": "Shot by UD Powers, Brendan WIDE",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:12",
+    "home_event": "Shot by UD Parmer, Bennett, SAVE by Donnelly, Brendan",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:08",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Donnelly, Brendan"
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Timeout by DRX"
+  },
+  {
+    "quarter": "4",
+    "time": "03:03",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Shot by DRX Knight, Owen, SAVE by Koff, Aidan"
+  },
+  {
+    "quarter": "4",
+    "time": "02:57",
+    "home_event": "Clear attempt by UD good.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:23",
+    "home_event": "Shot by UD Smith, Maverick, SAVE by Donnelly, Brendan",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:12",
+    "home_event": "Ground ball pickup by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:03",
+    "home_event": "Turnover by UD McCurry, John",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:46",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Wallace, Jack"
+  },
+  {
+    "quarter": "4",
+    "time": "01:44",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Ground ball pickup by DRX Nolan, Jack"
+  },
+  {
+    "quarter": "4",
+    "time": "01:40",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Clear attempt by DRX good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:00",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "GOAL by DRX Zadell, Caden"
+  },
+  {
+    "quarter": "4",
+    "time": "00:41",
+    "home_event": "Faceoff Conte, Scott vs Layton, Trent won by UD, [00:41] Ground ball pickup by UD Rodgers, Finn..",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:40",
+    "home_event": "Timeout by UD",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:19",
+    "home_event": "Shot by UD McCurry, John, SAVE by Donnelly, Brendan",
+    "score": "1-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:06",
+    "home_event": "",
+    "score": "1-11",
+    "away_event": "Clear attempt by DRX good."
+  }
+]

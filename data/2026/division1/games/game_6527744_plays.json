@@ -1,0 +1,1304 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Miles Lancaster at goalie for HAMP.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Jacob Neuman at goalie for MER."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Trevor Tran vs Christopher Cappelmann won by MER, [15:00] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Nick Church HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by MER Michael Frederick, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by MER Michael Frederick."
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "Shot by HAMP Athan Barmer, SAVE Jacob Neuman",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by MER Jack Callaghan."
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MER Dillon Bush (FIRST GOAL), Assist by Ganon Cope, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff A. Bardonille, Jr. vs Christopher Cappelmann won by MER, [12:14] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "GOAL by MER Dillon Bush, Assist by Jack Sullivan, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Faceoff Braeden Lessane vs Christopher Cappelmann won by MER, [11:03] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MER Ben Jose, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "1",
+    "time": "10:08",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MER Nolan Filley."
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MER Christopher Cappelmann HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "Shot by HAMP A. Bardonille, Jr., SAVE Jacob Neuman",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MER Thomas Venzie."
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MER Dillon Bush, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MER Dillon Bush."
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Penalty on MER Team (ILLEGAL PROCEDURE/0:30)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HAMP Jadon Myers.",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "0-2",
+    "away_event": "Shot by MER Jack Sullivan, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "Shot by HAMP Maliik Wood, SAVE Jacob Neuman",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "Shot by HAMP Maliik Wood HIGH",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "Shot by HAMP A. Bardonille, Jr., SAVE Jacob Neuman",
+    "score": "0-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "GOAL by MER Luke Fox, Assist by Jack Sullivan, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by HAMP, [04:55] Ground ball pickup by HAMP Amar\u00c3\u00a9 Ford.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "Shot by HAMP Darius Stanley WIDE",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by HAMP Athan Barmer.",
+    "score": "0-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Turnover by MER Will Zylstra."
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "0-3",
+    "away_event": "Ground ball pickup by MER Ben Jose."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "GOAL by MER Dillon Bush, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "0-4",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [02:58] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "GOAL by MER Michael Frederick, Assist by Christopher Cappelmann, goal number 1 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Timeout Hampton",
+    "score": "0-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [02:51] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "0-5",
+    "away_event": "Shot by MER Will Zylstra HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "0-6",
+    "away_event": "GOAL by MER Dillon Bush, goal number 4 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by HAMP.",
+    "score": "0-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:01",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "GOAL by MER Michael Frederick, goal number 2 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "01:01",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [01:01] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "0-7",
+    "away_event": "Shot by MER Connor Corkill HIGH"
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "GOAL by MER Michael Frederick, Assist by Dillon Bush, goal number 3 for season."
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [00:15] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by MER Michael Frederick (caused by Judah Johnson-Nixon)."
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [15:00] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "14:24",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by MER Kade McNeil WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:57",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Shot by MER Connor Corkill, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "Shot by HAMP Darius Stanley, SAVE Jacob Neuman",
+    "score": "0-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "0-8",
+    "away_event": "Turnover by MER Jacob Neuman."
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "GOAL by HAMP Maliik Wood, goal number 1 for season.",
+    "score": "1-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:19",
+    "home_event": "",
+    "score": "1-8",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [12:19] Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "2",
+    "time": "11:36",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "GOAL by MER Dillon Bush, Assist by Matthew Burnside, goal number 5 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "11:35",
+    "home_event": "",
+    "score": "1-9",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [11:35] Ground ball pickup by MER Greyson Brockman."
+  },
+  {
+    "quarter": "2",
+    "time": "10:53",
+    "home_event": "Shot by HAMP Jadon Myers, SAVE Jacob Neuman",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:20",
+    "home_event": "Shot by HAMP Jadon Myers WIDE",
+    "score": "1-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "GOAL by MER Dillon Bush, goal number 6 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "10:08",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER."
+  },
+  {
+    "quarter": "2",
+    "time": "09:17",
+    "home_event": "Shot by HAMP Athan Barmer, SAVE Jacob Neuman",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by MER Michael Frederick."
+  },
+  {
+    "quarter": "2",
+    "time": "08:14",
+    "home_event": "Ground ball pickup by HAMP Amar\u00c3\u00a9 Ford.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:58",
+    "home_event": "Ground ball pickup by HAMP Maliik Wood.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:27",
+    "home_event": "Shot by HAMP James Greene, SAVE Jacob Neuman",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "1-10",
+    "away_event": "Turnover by MER Will Zylstra."
+  },
+  {
+    "quarter": "2",
+    "time": "06:35",
+    "home_event": "Ground ball pickup by HAMP Miles Lancaster.",
+    "score": "1-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "GOAL by HAMP A. Bardonille, Jr., goal number 1 for season.",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:29",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [06:29] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "06:19",
+    "home_event": "Penalty on HAMP A. Bardonille, Jr. (PUSHING/1:00).",
+    "score": "2-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:50",
+    "home_event": "",
+    "score": "2-10",
+    "away_event": "Shot by MER Michael Frederick HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "GOAL by MER Dillon Bush (MAN-UP), Assist by Jack Sullivan, goal number 7 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "05:40",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [05:40] Ground ball pickup by MER Quinn Kelley."
+  },
+  {
+    "quarter": "2",
+    "time": "04:54",
+    "home_event": "",
+    "score": "2-11",
+    "away_event": "Shot by MER Jack Sullivan WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:04",
+    "home_event": "Ground ball pickup by HAMP A. Bardonille, Jr..",
+    "score": "2-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:02",
+    "home_event": "GOAL by HAMP Darius Stanley, Assist by A. Bardonille, Jr., goal number 1 for season.",
+    "score": "3-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "",
+    "score": "3-11",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [03:55] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "03:40",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "GOAL by MER Will Zylstra, goal number 1 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "03:39",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [03:39] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-12",
+    "away_event": "Turnover by MER Jacob Neuman (caused by Jadon Myers)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "GOAL by HAMP Maliik Wood, Assist by A. Bardonille, Jr..",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [03:25] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Turnover by MER James Davidson."
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "GOAL by MER Will Zylstra, goal number 2 for season."
+  },
+  {
+    "quarter": "2",
+    "time": "02:27",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [02:27] Ground ball pickup by MER Kyle Pierce."
+  },
+  {
+    "quarter": "2",
+    "time": "02:06",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Will Zylstra, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by HAMP Miles Lancaster (caused by James Davidson).",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:15",
+    "home_event": "Penalty on HAMP Miles Lancaster (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Nick Church WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "01:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Ground ball pickup by MER Nick Church."
+  },
+  {
+    "quarter": "2",
+    "time": "00:44",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Nick Church, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "2",
+    "time": "00:09",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Nick Church WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Jack Sullivan WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [15:00] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "14:33",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "14:15",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Shot by MER Nick Church, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "",
+    "score": "4-13",
+    "away_event": "Ground ball pickup by MER Brady Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HAMP Darius Stanley (caused by Brady Corkill).",
+    "score": "4-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "GOAL by MER Ben Jose."
+  },
+  {
+    "quarter": "3",
+    "time": "13:11",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [13:11] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "13:10",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "Shot by MER Christopher Cappelmann WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "12:25",
+    "home_event": "",
+    "score": "4-14",
+    "away_event": "Shot by MER Ben Jose, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Clear attempt by HAMP good.",
+    "score": "4-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HAMP Reed Shaw.",
+    "score": "4-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:07",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "GOAL by MER Michael Frederick."
+  },
+  {
+    "quarter": "3",
+    "time": "11:07",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Faceoff James Greene vs Graham Hartman won by MER, [11:07] Ground ball pickup by MER Graham Hartman."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-15",
+    "away_event": "Turnover by MER Connor Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "GOAL by MER Will Zylstra, Assist by Connor Corkill."
+  },
+  {
+    "quarter": "3",
+    "time": "10:27",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by MER, [10:27] Ground ball pickup by MER Christopher Cappelmann."
+  },
+  {
+    "quarter": "3",
+    "time": "09:53",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by MER Dylan McKelvy."
+  },
+  {
+    "quarter": "3",
+    "time": "09:44",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Dylan McKelvy, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Dillon Bush HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by MER Michael Frederick."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by MER Nick Church."
+  },
+  {
+    "quarter": "3",
+    "time": "08:35",
+    "home_event": "Ground ball pickup by HAMP Judah Johnson-Nixon.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:11",
+    "home_event": "Shot by HAMP Kevin Wallace, SAVE Jacob Neuman",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:57",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Tyler Gilbert WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Connor Corkill HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "07:16",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by MER Kade McNeil."
+  },
+  {
+    "quarter": "3",
+    "time": "06:59",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Kade McNeil HIT CROSSBAR"
+  },
+  {
+    "quarter": "3",
+    "time": "06:20",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Chance Haynie, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "3",
+    "time": "06:01",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Ground ball pickup by MER Nolan Filley."
+  },
+  {
+    "quarter": "3",
+    "time": "05:27",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Ben Jose, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "3",
+    "time": "05:14",
+    "home_event": "Ground ball pickup by HAMP Myles Johnson.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "Shot by HAMP A. Bardonille, Jr. WIDE",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:38",
+    "home_event": "Shot by HAMP Maliik Wood WIDE",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:18",
+    "home_event": "Shot by HAMP Athan Barmer WIDE",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HAMP A. Bardonille, Jr..",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by MER Greg Canning (caused by Canyon Steverson)."
+  },
+  {
+    "quarter": "3",
+    "time": "03:06",
+    "home_event": "Shot by HAMP Maliik Wood WIDE",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:25",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Shot by MER Nick Church WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Shot by HAMP Maliik Wood WIDE",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by HAMP Maliik Wood.",
+    "score": "4-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-16",
+    "away_event": "Turnover by MER Grafton Ely."
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "GOAL by HAMP Payton Riddle.",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:46",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Christopher Cappelmann won by HAMP, [00:46] Ground ball pickup by HAMP Nikki Rattan.",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:18",
+    "home_event": "Shot by HAMP A. Bardonille, Jr. WIDE",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Graham Hartman won by MER, [15:00] Ground ball pickup by MER Graham Hartman."
+  },
+  {
+    "quarter": "4",
+    "time": "14:30",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "GOAL by MER Ben Jose."
+  },
+  {
+    "quarter": "4",
+    "time": "14:30",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Faceoff Amar\u00c3\u00a9 Ford vs Graham Hartman won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "14:06",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Nick Church WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Penalty on HAMP Logan McGill (HOLDING/0:30).",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Nick Church HIT CROSSBAR"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HAMP Noah Wright.",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Shot by HAMP Maliik Wood WIDE",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Shot by HAMP A. Bardonille, Jr., SAVE Jacob Neuman",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:44",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Timeout by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "11:24",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Eddie Webb, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "4",
+    "time": "11:12",
+    "home_event": "Clear attempt by HAMP good.",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:24",
+    "home_event": "Shot by HAMP Maliik Wood WIDE",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "Shot by HAMP Darius Stanley, SAVE Jacob Neuman",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:02",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Clear attempt by MER good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:53",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Tyler Gilbert WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "09:35",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Nick Church, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "4",
+    "time": "09:26",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Ground ball pickup by MER Greg Canning."
+  },
+  {
+    "quarter": "4",
+    "time": "09:07",
+    "home_event": "",
+    "score": "5-17",
+    "away_event": "Shot by MER Bennett Junod, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "4",
+    "time": "08:56",
+    "home_event": "Clear attempt by HAMP good.",
+    "score": "5-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "GOAL by HAMP Darius Stanley, Assist by A. Bardonille, Jr..",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Faceoff A. Bardonille, Jr. vs Graham Hartman won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "08:33",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Shot by MER Nick Church, SAVE Miles Lancaster"
+  },
+  {
+    "quarter": "4",
+    "time": "08:24",
+    "home_event": "Shot by HAMP James Greene WIDE",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:22",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Ground ball pickup by MER Kade McNeil."
+  },
+  {
+    "quarter": "4",
+    "time": "07:55",
+    "home_event": "",
+    "score": "6-17",
+    "away_event": "Shot by MER Eddie Webb HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HAMP Maliik Wood.",
+    "score": "6-17",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:37",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "GOAL by MER Chance Haynie."
+  },
+  {
+    "quarter": "4",
+    "time": "06:37",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Graham Hartman won by HAMP (on faceoff violation).",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:59",
+    "home_event": "Shot by HAMP A. Bardonille, Jr. WIDE",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:30",
+    "home_event": "Shot by HAMP Jadon Myers, SAVE Jacob Neuman",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:07",
+    "home_event": "Clear attempt by HAMP good.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by HAMP Maliik Wood.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "6-18",
+    "away_event": "Turnover by MER Ben Jose."
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "Ground ball pickup by HAMP Howard Casterlow.",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:18",
+    "home_event": "Shot by HAMP Payton Riddle WIDE",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:04",
+    "home_event": "Shot by HAMP A. Bardonille, Jr. WIDE",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:45",
+    "home_event": "Shot by HAMP Jadon Myers BLOCKED",
+    "score": "6-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "GOAL by HAMP A. Bardonille, Jr..",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:26",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Laird Nugent won by HAMP (on faceoff violation).",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:00",
+    "home_event": "Shot by HAMP A. Bardonille, Jr. WIDE",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:38",
+    "home_event": "Ground ball pickup by HAMP Zachary Ramseur.",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:06",
+    "home_event": "Shot by HAMP James Greene WIDE",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:56",
+    "home_event": "",
+    "score": "7-18",
+    "away_event": "Ground ball pickup by MER Jack Guido."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "7-18",
+    "away_event": "Turnover by MER Callahan Casey (caused by A. Bardonille, Jr.)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:37",
+    "home_event": "Shot by HAMP Darius Stanley, SAVE Jacob Neuman",
+    "score": "7-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "GOAL by HAMP Reed Shaw.",
+    "score": "8-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "",
+    "score": "8-18",
+    "away_event": "Faceoff Athan Barmer vs Graham Hartman won by MER."
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "GOAL by HAMP A. Bardonille, Jr..",
+    "score": "9-18",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:16",
+    "home_event": "Faceoff Amar\u00c3\u00a9 Ford vs Laird Nugent won by HAMP.",
+    "score": "9-18",
+    "away_event": ""
+  }
+]

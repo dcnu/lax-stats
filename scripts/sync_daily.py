@@ -103,48 +103,37 @@ def fetch_game_ids(date: str, season: str, division: int, config: dict, dry_run:
 
 
 def fetch_game_data(game_ids: list[str], season: str, division: int, config: dict, dry_run: bool = False) -> dict:
-	"""Fetch game data and play-by-play for discovered games."""
+	"""Fetch game data and play-by-play via agent-browser."""
 	results = {"success": [], "failed": []}
 
 	if not game_ids:
 		print("No new games to fetch")
 		return results
 
-	print(f"Fetching data for {len(game_ids)} games...")
+	print(f"Fetching data for {len(game_ids)} games via agent-browser...")
 
 	if dry_run:
 		print(f"DRY RUN: Would fetch {len(game_ids)} games")
 		return results
 
+	cmd = [
+		sys.executable, "scripts/fetching/fetch_games_browser.py",
+		"--season", season,
+		"--division", str(division),
+	]
+
+	result = subprocess.run(cmd, capture_output=False, text=True)
+	if result.returncode != 0:
+		print("Browser fetch failed", file=sys.stderr)
+
+	# Check which games succeeded by looking for output files
+	games_dir = get_season_games_dir(season, division)
 	for game_id in game_ids:
-		# Check if already exists
-		games_dir = get_season_games_dir(season, division)
 		info_file = games_dir / f"game_{game_id}_info.json"
-
 		if info_file.exists():
-			print(f"Game {game_id} already exists, skipping")
 			results["success"].append(game_id)
-			continue
-
-		# Fetch game data
-		url = f"https://stats.ncaa.org/contests/{game_id}/individual_stats"
-		cmd = [sys.executable, "scripts/fetching/fetch_game_data.py", url]
-
-		result = subprocess.run(cmd, capture_output=True, text=True)
-		if result.returncode != 0:
-			print(f"Failed to fetch game {game_id}: {result.stderr}")
+		else:
 			results["failed"].append(game_id)
-			continue
-
-		# Fetch play-by-play
-		cmd = [sys.executable, "scripts/fetching/fetch_game_plays.py", "--test", game_id]
-		result = subprocess.run(cmd, capture_output=True, text=True)
-		if result.returncode != 0:
-			print(f"Failed to fetch plays for {game_id}: {result.stderr}")
-			# Game data was fetched, so partial success
-
-		results["success"].append(game_id)
-		print(f"Fetched game {game_id}")
 
 	return results
 
@@ -163,6 +152,8 @@ def load_to_database(season: str, division: int, dry_run: bool = False) -> bool:
 		("load_games.py", "Loading games"),
 		("load_players.py", "Loading players"),
 		("load_player_stats.py", "Loading player stats"),
+		("load_game_plays.py", "Loading game plays"),
+		("enrich_tables.py", "Running enrichment"),
 	]
 
 	for script, description in scripts:

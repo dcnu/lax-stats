@@ -1,0 +1,1535 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Dylan Cadigan at goalie for MON.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ethan Barlag at goalie for MAN."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [15:00] Ground ball pickup by MON Landon Parker.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:42",
+    "home_event": "Clear attempt by MON good.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "Shot by MON Nick Teets BLOCKED",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MON Brendan Dundas.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by MAN Aiden Kane (FIRST GOAL)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [13:29] Ground ball pickup by MON Landon Parker.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MON Landon Parker.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MAN Tyler Mosca WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Ground ball pickup by MAN Sean Shelko."
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MAN Aiden Kane WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by MAN Thomas White WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "30-second clock violation by MAN."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Turnover by MAN (caused by Team)."
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "Clear attempt by MON good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "GOAL by MON Nick Teets, Assist by Connor Gorman.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "GOAL by MON Brendan Dundas.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Landon Parker vs Beau Fairbanks won by MAN, [10:17] Ground ball pickup by MAN Brady Kezelman."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by MAN Jack Miller (caused by Hayden Chester)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "Ground ball pickup by MON Kevin Ring.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "Clear attempt by MON failed.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MON Carter Malone (caused by Dylan Knapp).",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by MAN Connor Engel WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by MAN Thomas White, Assist by Liam Peabody."
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [07:29] Ground ball pickup by MON Gavin Seaman.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "GOAL by MON Connor Gorman, Assist by Gavin Seaman.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [07:19] Ground ball pickup by MON Miles Fang.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "Shot by MON Bradley Wyckoff WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "GOAL by MAN Connor Engel, Assist by Matthew Pantorno."
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [05:54] Ground ball pickup by MON Will Hohn Jr..",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "Clear attempt by MON good.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "GOAL by MON Connor Gorman, Assist by Nick Teets.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [04:24] Ground ball pickup by MON JJ Jenkins.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "Clear attempt by MON failed.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MON Kevin Ring.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Ground ball pickup by MAN Michael Medici."
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-3",
+    "away_event": "Turnover by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Clear attempt by MON good.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Shot by MON Connor Gorman, SAVE Ethan Barlag",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "Ground ball pickup by MON Ty Caffarelli.",
+    "score": "4-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "GOAL by MON Ty Caffarelli.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [02:16] Ground ball pickup by MON Landon Parker.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "Clear attempt by MON good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "GOAL by MON Brendan Dundas, Assist by Brady Brown.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Timeout by MAN."
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [01:16] Ground ball pickup by MON Gavin Seaman.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Connor Gorman.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [00:53] Ground ball pickup by MON Landon Parker.",
+    "score": "7-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Ryan O'Rourke.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "Faceoff Will Hohn Jr. vs Beau Fairbanks won by MON, [00:09] Ground ball pickup by MON Will Hohn Jr..",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Shot by MON Will Hohn Jr. WIDE",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "Shot by MON Hayden Chester WIDE",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [15:00] Ground ball pickup by MON Gavin Seaman.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:47",
+    "home_event": "Clear attempt by MON good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON Bobby Keane.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:03",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by MAN Aiden Kane."
+  },
+  {
+    "quarter": "2",
+    "time": "13:05",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by MAN Liam Peabody WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "12:57",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by MAN Thomas White, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON (caused by Team).",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:31",
+    "home_event": "Clear attempt by MON failed.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:06",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by MAN Connor White BLOCKED"
+  },
+  {
+    "quarter": "2",
+    "time": "12:03",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Ground ball pickup by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "2",
+    "time": "11:59",
+    "home_event": "",
+    "score": "8-3",
+    "away_event": "Shot by MAN Sean Shelko, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "2",
+    "time": "11:40",
+    "home_event": "Clear attempt by MON good.",
+    "score": "8-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Ryan O'Rourke.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:31",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [11:31] Ground ball pickup by MON Carter Malone.",
+    "score": "9-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "GOAL by MON Nick Teets.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:58",
+    "home_event": "Faceoff Will Hohn Jr. vs Beau Fairbanks won by MON, [10:58] Ground ball pickup by MON Matt Dollive.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:23",
+    "home_event": "Shot by MON Bradley Wyckoff BLOCKED",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:20",
+    "home_event": "Ground ball pickup by MON Bradley Wyckoff.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:20",
+    "home_event": "Timeout by MON.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:44",
+    "home_event": "Shot by MON Brendan Dundas WIDE",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:35",
+    "home_event": "Shot by MON Riley Chester WIDE",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:32",
+    "home_event": "30-second clock violation by MON.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON (caused by Team).",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "08:47",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Shot by MAN Liam Peabody, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "2",
+    "time": "08:40",
+    "home_event": "Clear attempt by MON good.",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON Connor Gorman (caused by Michael Medici).",
+    "score": "10-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:23",
+    "home_event": "",
+    "score": "10-3",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "GOAL by MAN Connor Engel, Assist by Jack Miller."
+  },
+  {
+    "quarter": "2",
+    "time": "07:25",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Faceoff Will Hohn Jr. vs Beau Fairbanks won by MAN, [07:25] Ground ball pickup by MAN Gavin Wolf."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Turnover by MAN Gavin Wolf (caused by Gavin Seaman)."
+  },
+  {
+    "quarter": "2",
+    "time": "07:12",
+    "home_event": "Ground ball pickup by MON Matt Dollive.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:56",
+    "home_event": "Clear attempt by MON failed.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON Connor Gorman.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:45",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:16",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Shot by MAN Sean Shelko WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "Clear attempt by MON good.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:38",
+    "home_event": "Shot by MON Connor Gorman, SAVE Ethan Barlag",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:42",
+    "home_event": "Shot by MON Ryan O'Rourke BLOCKED",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON (caused by Team).",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:36",
+    "home_event": "30-second clock violation by MON.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:25",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:48",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Shot by MAN Thomas White WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "03:44",
+    "home_event": "Ground ball pickup by MON Dylan Cadigan.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:37",
+    "home_event": "Clear attempt by MON good.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:40",
+    "home_event": "Shot by MON Brendan Dundas, SAVE Ethan Barlag",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:37",
+    "home_event": "Ground ball pickup by MON Ty Caffarelli.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:36",
+    "home_event": "Shot by MON Ty Caffarelli, SAVE Ethan Barlag",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:33",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Ground ball pickup by MAN Matthew Pantorno."
+  },
+  {
+    "quarter": "2",
+    "time": "02:26",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Turnover by MAN Aiden Kane."
+  },
+  {
+    "quarter": "2",
+    "time": "01:39",
+    "home_event": "Ground ball pickup by MON Matt Dollive.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:37",
+    "home_event": "Clear attempt by MON good.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MON Nick Teets.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:10",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:28",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Timeout by MAN."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "10-4",
+    "away_event": "Turnover by MAN Liam Peabody."
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "Clear attempt by MON good.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:12",
+    "home_event": "Timeout by MON.",
+    "score": "10-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:02",
+    "home_event": "GOAL by MON Nick Teets.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [15:00] Ground ball pickup by MON Hayden Chester.",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "11-4",
+    "away_event": "Ryan Beller at goalie for MAN."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MON Hayden Chester (caused by Timothy Monzon).",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:51",
+    "home_event": "Shot by MON Brendan Dundas WIDE",
+    "score": "11-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Matt Porazzo.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:13",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [13:13] Ground ball pickup by MON Landon Parker.",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:33",
+    "home_event": "Shot by MON Nick Teets, SAVE Ryan Beller",
+    "score": "12-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:17",
+    "home_event": "",
+    "score": "12-4",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "GOAL by MAN Aiden Kane, Assist by Connor Engel."
+  },
+  {
+    "quarter": "3",
+    "time": "11:55",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MAN (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:37",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Shot by MAN Liam Peabody WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Turnover by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "3",
+    "time": "09:32",
+    "home_event": "Shot by MON Bobby Keane, SAVE Ryan Beller",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:19",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Clear attempt by MAN failed."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-5",
+    "away_event": "Turnover by MAN Matthew Cleary."
+  },
+  {
+    "quarter": "3",
+    "time": "08:42",
+    "home_event": "Ground ball pickup by MON Brendan Dundas.",
+    "score": "12-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "GOAL by MON Riley Chester.",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "Faceoff Landon Parker vs Casey Klossner won by MON, [08:32] Ground ball pickup by MON Landon Parker.",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:20",
+    "home_event": "Shot by MON Landon Parker, SAVE Ryan Beller",
+    "score": "13-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:16",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Ground ball pickup by MAN Andrew Giandonato."
+  },
+  {
+    "quarter": "3",
+    "time": "08:04",
+    "home_event": "",
+    "score": "13-5",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "GOAL by MAN Tyler Mosca, Assist by Aiden Kane."
+  },
+  {
+    "quarter": "3",
+    "time": "07:44",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [07:44] Ground ball pickup by MON Will Hohn Jr..",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:35",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "Penalty on MAN Nick DiEsso (ILLEGAL BODY CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MON Connor Gorman (caused by Matthew Pantorno).",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:44",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "Ground ball pickup by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "3",
+    "time": "05:56",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "Shot by MAN Tyler Mosca, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "3",
+    "time": "05:46",
+    "home_event": "Clear attempt by MON good.",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MON Connor Gorman.",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:28",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "13-6",
+    "away_event": "Turnover by MAN Liam Peabody (caused by Gavin Seaman)."
+  },
+  {
+    "quarter": "3",
+    "time": "04:44",
+    "home_event": "Clear attempt by MON good.",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:11",
+    "home_event": "Shot by MON Ryan O'Rourke HIGH",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:59",
+    "home_event": "Shot by MON Brendan Dundas WIDE",
+    "score": "13-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Nick Teets.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Faceoff Landon Parker vs Casey Klossner won by MAN."
+  },
+  {
+    "quarter": "3",
+    "time": "03:04",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Shot by MAN Aiden Kane WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "02:50",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Shot by MAN Liam Peabody WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "02:34",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Shot by MAN Aiden Kane HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "02:30",
+    "home_event": "Penalty on MON Miles Fang (HOLDING/0:30) Extra-man opportunity.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Turnover by MAN Connor White."
+  },
+  {
+    "quarter": "3",
+    "time": "02:06",
+    "home_event": "Ground ball pickup by MON JJ Jenkins.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Penalty on MAN Sean Shelko (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "01:52",
+    "home_event": "Clear attempt by MON good.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:39",
+    "home_event": "Shot by MON Matt Dollive, SAVE Ryan Beller",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:24",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Turnover by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "3",
+    "time": "00:39",
+    "home_event": "Clear attempt by MON good.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:13",
+    "home_event": "Shot by MON Ty Caffarelli BLOCKED",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:06",
+    "home_event": "Ground ball pickup by MON Ty Caffarelli.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:04",
+    "home_event": "Shot by MON Ty Caffarelli HIT POST",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:03",
+    "home_event": "Penalty on MON Riley Chester (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "14:15",
+    "home_event": "",
+    "score": "14-6",
+    "away_event": "Shot by MAN Liam Peabody BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "14:01",
+    "home_event": "Clear attempt by MON good.",
+    "score": "14-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "GOAL by MON Ty Caffarelli, Assist by Brendan Dundas.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:18",
+    "home_event": "Faceoff Will Hohn Jr. vs Casey Klossner won by MON, [13:18] Ground ball pickup by MON Gavin Seaman.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:02",
+    "home_event": "Timeout by MON.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:35",
+    "home_event": "Ground ball pickup by MON Brendan Dundas.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:14",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Penalty on MAN Matthew Pantorno (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "11:36",
+    "home_event": "Shot by MON Connor Gorman WIDE",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:21",
+    "home_event": "Shot by MON Ty Caffarelli, SAVE Ryan Beller",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "Penalty on MON Connor Gorman (PUSHING/0:30) Extra-man opportunity.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:55",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Turnover by MAN Sean Shelko."
+  },
+  {
+    "quarter": "4",
+    "time": "10:10",
+    "home_event": "Clear attempt by MON good.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:15",
+    "home_event": "Shot by MON Brendan Dundas WIDE",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "Shot by MON Riley Chester WIDE",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:05",
+    "home_event": "30-second clock violation by MON.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MON (caused by Team).",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:58",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "08:23",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by MAN Nick DiEsso WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "08:02",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by MAN Jack Miller, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "4",
+    "time": "07:47",
+    "home_event": "Clear attempt by MON good.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:04",
+    "home_event": "Shot by MON Ty Caffarelli, SAVE Ryan Beller",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:47",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Turnover by MAN Aiden Kane."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MON Bradley Wyckoff.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:31",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Ground ball pickup by MAN Gavin Wolf."
+  },
+  {
+    "quarter": "4",
+    "time": "05:30",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:20",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by MAN Sean Shelko, SAVE Dylan Cadigan"
+  },
+  {
+    "quarter": "4",
+    "time": "04:05",
+    "home_event": "Clear attempt by MON good.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "Timeout by MON.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:37",
+    "home_event": "Arjun Gill at goalie for MON.",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MON Cole Kruger Pitcher (caused by Thomas Shoniker).",
+    "score": "15-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:56",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Ground ball pickup by MAN Thomas Shoniker."
+  },
+  {
+    "quarter": "4",
+    "time": "02:51",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "02:13",
+    "home_event": "",
+    "score": "15-6",
+    "away_event": "Shot by MAN Connor Engel WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "GOAL by MAN Tyler Mosca."
+  },
+  {
+    "quarter": "4",
+    "time": "02:05",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Faceoff Jack O'Neill vs Casey Klossner won by MAN."
+  },
+  {
+    "quarter": "4",
+    "time": "01:42",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Shot by MAN Nick Henry WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "01:28",
+    "home_event": "",
+    "score": "15-7",
+    "away_event": "Shot by MAN Nick Henry WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "01:11",
+    "home_event": "",
+    "score": "15-8",
+    "away_event": "GOAL by MAN Sean Shelko."
+  },
+  {
+    "quarter": "4",
+    "time": "01:11",
+    "home_event": "",
+    "score": "15-8",
+    "away_event": "Faceoff Jack O'Neill vs Casey Klossner won by MAN, [01:11] Ground ball pickup by MAN Casey Klossner."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "15-8",
+    "away_event": "Turnover by MAN Timothy Monzon (caused by Sean Massett)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:44",
+    "home_event": "Ground ball pickup by MON Cole Dawkins.",
+    "score": "15-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:42",
+    "home_event": "Clear attempt by MON failed.",
+    "score": "15-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MON Cole Dawkins.",
+    "score": "15-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:34",
+    "home_event": "",
+    "score": "15-8",
+    "away_event": "Ground ball pickup by MAN Matthew Pantorno."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "15-8",
+    "away_event": "Clear attempt by MAN good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "",
+    "score": "15-9",
+    "away_event": "GOAL by MAN Liam Peabody."
+  },
+  {
+    "quarter": "4",
+    "time": "00:13",
+    "home_event": "Faceoff Jack O'Neill vs Casey Klossner won by MON.",
+    "score": "15-9",
+    "away_event": ""
+  }
+]

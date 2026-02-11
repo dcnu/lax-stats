@@ -122,7 +122,7 @@ def load_teams_to_database(teams: list, dry_run: bool = False):
 	print(f"Loading {len(teams)} teams to database...")
 
 	query = """
-		INSERT INTO teams (id, name, short_name, division_id)
+		INSERT INTO lookup_teams (id, name, short_name, division_id)
 		VALUES (%s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
 			name = EXCLUDED.name,

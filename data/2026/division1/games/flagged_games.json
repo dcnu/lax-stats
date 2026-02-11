@@ -1,0 +1,23 @@
+[
+  {
+    "gameID": "6511704",
+    "error": "box score has errors and the data will not be reflected in season to date stats or national rankings until the following errors are fixed: | -Drexel : Assists, Team Total = 7, Player Totals = 6<br/>",
+    "awayTeam": "Delaware Blue Hens",
+    "homeTeam": "Drexel Dragons",
+    "gameDate": "02/06/2026"
+  },
+  {
+    "gameID": "6523037",
+    "error": "box score has errors and the data will not be reflected in season to date stats or national rankings until the following errors are fixed: | -Hofstra : Caused Turnovers, Team Total = 7, Player Totals = 6<br/>-Holy Cross : Turnovers, Team Total = 15, Player Totals = 14<br/>",
+    "awayTeam": "Holy Cross Crusaders",
+    "homeTeam": "Hofstra Pride",
+    "gameDate": "02/06/2026"
+  },
+  {
+    "gameID": "6543633",
+    "error": "box score has errors and the data will not be reflected in season to date stats or national rankings until the following errors are fixed: | -Merrimack : Turnovers, Team Total = 15, Player Totals = 14<br/>",
+    "awayTeam": "Merrimack Warriors",
+    "homeTeam": "Massachusetts Minutemen",
+    "gameDate": "02/07/2026"
+  }
+]

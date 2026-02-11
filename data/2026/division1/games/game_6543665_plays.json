@@ -1,0 +1,1829 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Owen Hirsch at goalie for FAIRFIEL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Kasey Heath at goalie for LEHIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Will Consoli (caused by Kasey Heath).",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:13",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by LEHIGH Kasey Heath."
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEHIGH Andrew Kelly WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Shot by LEHIGH Peter Theodoropoulos HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "GOAL by LEHIGH Luke Winkler (FIRST GOAL)."
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [13:09] Ground ball pickup by LEHIGH Noah Ramirez."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "0-1",
+    "away_event": "Shot by LEHIGH Andrew Kelly, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "0-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "GOAL by FAIRFIEL KJ Delane, Assist by Devin Lampron.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [11:38] Ground ball pickup by LEHIGH Bo Horvath."
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by LEHIGH Finn Morgan, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "GOAL by FAIRFIEL Andrew Kasten.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [10:44] Ground ball pickup by FAIRFIEL Trey Ordway.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "Ground ball pickup by FAIRFIEL Trey Ordway.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Penalty on LEHIGH Richard Checo (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "Shot by FAIRFIEL Devin Lampron HIGH",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "GOAL by FAIRFIEL Jeremiah Wade (MAN-UP), Assist by Will Consoli.",
+    "score": "3-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [09:23] Ground ball pickup by LEHIGH Braeden Korb."
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by LEHIGH Braeden Korb WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Shot by LEHIGH Andrew Kelly, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "3-1",
+    "away_event": "Ground ball pickup by LEHIGH Debusschere Peter."
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "GOAL by LEHIGH Finn Morgan, Assist by Luke Breslin."
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [08:14] Ground ball pickup by FAIRFIEL Daniel Davis.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "Shot by FAIRFIEL Jake Gilbert WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "Shot by FAIRFIEL Luke Patchen BLOCKED",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "Shot by FAIRFIEL Jeremiah Wade WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jake Gilbert (caused by Luke McAuliffe).",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by LEHIGH Chris Constantine."
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Ground ball pickup by LEHIGH Luke Winkler."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Turnover by LEHIGH Andrew Kelly (caused by Nate Livingston)."
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "Shot by FAIRFIEL Devin Lampron WIDE",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:11",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "3-2",
+    "away_event": "Shot by LEHIGH Kasey Heath WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "3-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "GOAL by FAIRFIEL Rob Moore.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [04:34] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by LEHIGH Riley Connor, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "1",
+    "time": "03:56",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by LEHIGH Andrew Kelly WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "Shot by FAIRFIEL Devin Lampron HIT POST",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "Shot by FAIRFIEL Rob Moore, SAVE Kasey Heath",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "Ground ball pickup by FAIRFIEL Will Consoli.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jason LaMay jr..",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:06",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Shot by LEHIGH Colin French WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "4-2",
+    "away_event": "Turnover by LEHIGH Andrew Kelly (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "Shot by FAIRFIEL Devin Lampron WIDE",
+    "score": "4-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "GOAL by FAIRFIEL Jake Gilbert.",
+    "score": "5-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "5-2",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [00:51] Ground ball pickup by LEHIGH Harrison Vassel."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "GOAL by LEHIGH Jack Archer, Assist by Curren Johnsen."
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Richard Checo WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Faceoff Jonathan Lewis vs Riley Connor won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "2",
+    "time": "14:52",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Riley Connor WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by LEHIGH Andrew Kelly."
+  },
+  {
+    "quarter": "2",
+    "time": "14:09",
+    "home_event": "Ground ball pickup by FAIRFIEL Shane Elliott.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:01",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL KJ Delane (caused by Bo Horvath).",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:25",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by LEHIGH Bo Horvath."
+  },
+  {
+    "quarter": "2",
+    "time": "12:55",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Debusschere Peter HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "12:15",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Curren Johnsen, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "2",
+    "time": "12:04",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:34",
+    "home_event": "Shot by FAIRFIEL Jake Gilbert WIDE",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:21",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Turnover by LEHIGH Kasey Heath (caused by Andrew Kasten)."
+  },
+  {
+    "quarter": "2",
+    "time": "11:15",
+    "home_event": "Ground ball pickup by FAIRFIEL Andrew Kasten.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:02",
+    "home_event": "Shot by FAIRFIEL Rob Moore HIT POST",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:57",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Ground ball pickup by LEHIGH Noah Ramirez."
+  },
+  {
+    "quarter": "2",
+    "time": "10:54",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "10:12",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Luke Breslin WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:56",
+    "home_event": "",
+    "score": "5-3",
+    "away_event": "Shot by LEHIGH Colin French, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "2",
+    "time": "09:46",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "5-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "GOAL by FAIRFIEL Luke Patchen.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:08",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [09:08] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by LEHIGH Luke Breslin (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:16",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:08",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "6-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Turnover by LEHIGH Charlie Hayley."
+  },
+  {
+    "quarter": "2",
+    "time": "07:17",
+    "home_event": "",
+    "score": "6-3",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "",
+    "score": "6-4",
+    "away_event": "GOAL by LEHIGH Luke Breslin, Assist by Peter Theodoropoulos."
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "Penalty on FAIRFIEL Austin McClintic (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:50",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [06:50] Ground ball pickup by FAIRFIEL Daniel Davis.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:30",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "6-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "GOAL by FAIRFIEL KJ Delane, Assist by Jason LaMay jr..",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:36",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:48",
+    "home_event": "Timeout by FAIRFIEL.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Will Consoli (caused by Charlie Sherman).",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Ground ball pickup by LEHIGH Richard Checo."
+  },
+  {
+    "quarter": "2",
+    "time": "03:58",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Shot by LEHIGH Curren Johnsen, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by LEHIGH Curren Johnsen."
+  },
+  {
+    "quarter": "2",
+    "time": "03:20",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:56",
+    "home_event": "Shot by FAIRFIEL Jeremiah Wade, SAVE Kasey Heath",
+    "score": "7-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:47",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Turnover by LEHIGH Finn Morgan."
+  },
+  {
+    "quarter": "2",
+    "time": "02:15",
+    "home_event": "",
+    "score": "7-4",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "GOAL by FAIRFIEL Will Consoli, Assist by Jake Gilbert.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:02",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL.",
+    "score": "8-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:27",
+    "home_event": "GOAL by FAIRFIEL Will Consoli, Assist by Jason LaMay jr..",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:27",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [01:27] Ground ball pickup by FAIRFIEL Shane Elliott.",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:06",
+    "home_event": "Shot by FAIRFIEL Jason LaMay jr., SAVE Kasey Heath",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:04",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Ground ball pickup by LEHIGH Zach Mesa."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Shot by LEHIGH Braeden Korb WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "",
+    "score": "9-4",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:00",
+    "home_event": "Penalty on FAIRFIEL Jake Gilbert (CROSS-CHECK/1:00).",
+    "score": "9-4",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:49",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "GOAL by LEHIGH Luke Winkler (MAN-UP), Assist by Luke Breslin."
+  },
+  {
+    "quarter": "3",
+    "time": "14:49",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [14:49] Ground ball pickup by FAIRFIEL Daniel Davis.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jason LaMay jr. (caused by Kasey Heath).",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:18",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by LEHIGH Kasey Heath."
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:49",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Shot by LEHIGH Colin French, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Ground ball pickup by FAIRFIEL Andrew Kasten.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:40",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:02",
+    "home_event": "Shot by FAIRFIEL Devin Lampron, SAVE Kasey Heath",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Rob Moore (caused by Braeden Korb).",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:45",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Ground ball pickup by LEHIGH Braeden Korb."
+  },
+  {
+    "quarter": "3",
+    "time": "11:42",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "9-5",
+    "away_event": "Turnover by LEHIGH Braeden Korb."
+  },
+  {
+    "quarter": "3",
+    "time": "11:34",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "9-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "GOAL by FAIRFIEL Will Consoli.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:17",
+    "home_event": "Faceoff Daniel Davis vs Johnny Kidd won by FAIRFIEL.",
+    "score": "10-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "GOAL by FAIRFIEL Luke Patchen.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:10",
+    "home_event": "Faceoff Daniel Davis vs Johnny Kidd won by LEHIGH (on faceoff violation).",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Shane Elliott (caused by Richard Checo).",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:29",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Andrew Kelly, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "3",
+    "time": "09:08",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Andrew Kelly, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "3",
+    "time": "09:05",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by LEHIGH Luke Breslin."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Turnover by LEHIGH Finn Morgan (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:32",
+    "home_event": "Shot by FAIRFIEL Trey Ordway, SAVE Kasey Heath",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:23",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "07:54",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Luke Winkler WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "07:26",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Luke Winkler WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "07:14",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Luke Breslin, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "3",
+    "time": "06:47",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Shot by LEHIGH Luke Winkler WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Turnover by LEHIGH Finn Morgan (caused by Eli Adams)."
+  },
+  {
+    "quarter": "3",
+    "time": "06:28",
+    "home_event": "Ground ball pickup by FAIRFIEL Nate Livingston.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:26",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Rob Moore.",
+    "score": "11-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:50",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Ground ball pickup by LEHIGH Peter Theodoropoulos."
+  },
+  {
+    "quarter": "3",
+    "time": "05:46",
+    "home_event": "",
+    "score": "11-5",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "GOAL by LEHIGH Finn Morgan, Assist by Jack Archer."
+  },
+  {
+    "quarter": "3",
+    "time": "04:48",
+    "home_event": "Faceoff Daniel Davis vs Johnny Kidd won by FAIRFIEL, [04:48] Ground ball pickup by FAIRFIEL Andrew Kasten.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:10",
+    "home_event": "Shot by FAIRFIEL Devin Lampron WIDE",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:00",
+    "home_event": "Shot by FAIRFIEL Jason LaMay jr. WIDE",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:40",
+    "home_event": "Shot by FAIRFIEL Will Consoli, SAVE Kasey Heath",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Rob Moore (caused by Richard Checo).",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:50",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:28",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by LEHIGH Luke Winkler HIGH"
+  },
+  {
+    "quarter": "3",
+    "time": "02:19",
+    "home_event": "",
+    "score": "11-6",
+    "away_event": "Shot by LEHIGH Luke Winkler, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "3",
+    "time": "02:15",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "11-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "GOAL by FAIRFIEL Jason LaMay jr., Assist by Jake Gilbert.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:08",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [02:08] Ground ball pickup by FAIRFIEL Andrew Kasten.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:56",
+    "home_event": "Shot by FAIRFIEL Devin Lampron, SAVE Kasey Heath",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:33",
+    "home_event": "Shot by FAIRFIEL Luke Patchen, SAVE Kasey Heath",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:23",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Penalty on LEHIGH Luke McAuliffe (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Rob Moore (caused by Matthew Sparhuber).",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:02",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Ground ball pickup by LEHIGH Zach Mesa."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Turnover by LEHIGH Zach Mesa."
+  },
+  {
+    "quarter": "3",
+    "time": "00:58",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Will Consoli.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:42",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [15:00] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "4",
+    "time": "14:02",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Shot by LEHIGH Finn Morgan, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "4",
+    "time": "14:00",
+    "home_event": "Ground ball pickup by FAIRFIEL Julian Radossich.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:40",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:09",
+    "home_event": "Shot by FAIRFIEL KJ Delane, SAVE Kasey Heath",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Devin Lampron.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:34",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Clear attempt by LEHIGH failed."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Turnover by LEHIGH Kasey Heath."
+  },
+  {
+    "quarter": "4",
+    "time": "12:26",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Trey Ordway.",
+    "score": "12-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:10",
+    "home_event": "",
+    "score": "12-6",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "GOAL by LEHIGH Debusschere Peter."
+  },
+  {
+    "quarter": "4",
+    "time": "11:41",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [11:41] Ground ball pickup by FAIRFIEL Daniel Davis.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:20",
+    "home_event": "Timeout by FAIRFIEL.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:15",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Penalty on LEHIGH Braeden Korb (CROSS-CHECK/2:00) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jeremiah Wade (caused by Richard Checo).",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:37",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Ground ball pickup by LEHIGH Richard Checo."
+  },
+  {
+    "quarter": "4",
+    "time": "10:35",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:21",
+    "home_event": "",
+    "score": "12-7",
+    "away_event": "Shot by LEHIGH Jack Archer BLOCKED"
+  },
+  {
+    "quarter": "4",
+    "time": "09:20",
+    "home_event": "Penalty on FAIRFIEL Jeremiah Wade (SLASHING/1:00) Extra-man opportunity.",
+    "score": "12-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "GOAL by LEHIGH Finn Morgan (MAN-UP), Assist by Luke Breslin."
+  },
+  {
+    "quarter": "4",
+    "time": "08:57",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jason LaMay jr. (caused by Brian Delaney jr).",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:32",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Ground ball pickup by LEHIGH Harrison Vassel."
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:29",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by LEHIGH Richard Checo WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "08:13",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Shot by LEHIGH Finn Morgan WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Julian Radossich (caused by Andrew Kelly).",
+    "score": "12-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "",
+    "score": "12-8",
+    "away_event": "Ground ball pickup by LEHIGH Finn Morgan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "GOAL by LEHIGH Finn Morgan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:53",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "07:19",
+    "home_event": "",
+    "score": "12-9",
+    "away_event": "Shot by LEHIGH Finn Morgan HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "07:12",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "GOAL by LEHIGH Luke Breslin, Assist by Finn Morgan."
+  },
+  {
+    "quarter": "4",
+    "time": "07:12",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Faceoff Jonathan Lewis vs Riley Connor won by LEHIGH, [07:12] Ground ball pickup by LEHIGH Luke Breslin."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-10",
+    "away_event": "Turnover by LEHIGH Debusschere Peter."
+  },
+  {
+    "quarter": "4",
+    "time": "06:29",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jake Gilbert.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:40",
+    "home_event": "Penalty on FAIRFIEL John Okupski (OFFSIDE/0:30) Extra-man opportunity.",
+    "score": "12-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "GOAL by LEHIGH Finn Morgan (MAN-UP), Assist by Luke Breslin."
+  },
+  {
+    "quarter": "4",
+    "time": "05:12",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL, [05:12] Ground ball pickup by FAIRFIEL Shane Elliott.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:57",
+    "home_event": "Ground ball pickup by FAIRFIEL Shane Elliott.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "Ground ball pickup by FAIRFIEL Nate Livingston.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Andrew Kasten (caused by Luke McAuliffe).",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:25",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "Ground ball pickup by LEHIGH Kasey Heath."
+  },
+  {
+    "quarter": "4",
+    "time": "04:22",
+    "home_event": "",
+    "score": "12-11",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:07",
+    "home_event": "Penalty on FAIRFIEL Devin Lampron (SLASHING/1:00) Extra-man opportunity.",
+    "score": "12-11",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:50",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "GOAL by LEHIGH Grant Rodny (MAN-UP), Assist by Luke Breslin."
+  },
+  {
+    "quarter": "4",
+    "time": "03:50",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [03:50] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Shot by LEHIGH Riley Connor HIGH"
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "GOAL by LEHIGH Finn Morgan, Assist by Luke Breslin."
+  },
+  {
+    "quarter": "4",
+    "time": "03:15",
+    "home_event": "Faceoff Daniel Davis vs Riley Connor won by FAIRFIEL.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jason LaMay jr. (caused by Kasey Heath).",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:40",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Ground ball pickup by LEHIGH Kasey Heath."
+  },
+  {
+    "quarter": "4",
+    "time": "02:33",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:52",
+    "home_event": "Penalty on FAIRFIEL Devin Lampron (ILLEGAL PROCEDURE/0:30) Extra-man opportunity.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Turnover by LEHIGH Hansen Polonkey."
+  },
+  {
+    "quarter": "4",
+    "time": "01:22",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "12-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "GOAL by FAIRFIEL Devin Lampron, Assist by Shane Elliott.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:14",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [01:14] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "4",
+    "time": "01:02",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Turnover by LEHIGH Peter Theodoropoulos (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:01",
+    "home_event": "Ground ball pickup by FAIRFIEL Owen Hirsch.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH, [04:00] Ground ball pickup by LEHIGH Riley Connor."
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Timeout by LEHIGH."
+  },
+  {
+    "quarter": "1",
+    "time": "03:38",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Shot by LEHIGH Luke Winkler WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Turnover by LEHIGH Finn Morgan (caused by Andrew Kasten)."
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "Ground ball pickup by FAIRFIEL Bryce Hrubiec.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "Timeout by FAIRFIEL.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "Shot by FAIRFIEL Will Consoli, SAVE Kasey Heath",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Ground ball pickup by LEHIGH Bo Horvath."
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Turnover by LEHIGH Jack Archer (caused by Julian Radossich)."
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "Ground ball pickup by FAIRFIEL Nate Livingston.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Will Consoli (caused by Richard Checo).",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Ground ball pickup by LEHIGH Braeden Korb."
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "Clear attempt by FAIRFIEL failed.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by FAIRFIEL Jason LaMay jr. (caused by Zach Mesa).",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Ground ball pickup by LEHIGH Harrison Vassel."
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Clear attempt by LEHIGH good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Shot by LEHIGH Luke McAuliffe WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Faceoff Daniel Davis vs Riley Connor won by LEHIGH (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "03:25",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Ground ball pickup by LEHIGH Luke Winkler."
+  },
+  {
+    "quarter": "2",
+    "time": "03:07",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Shot by LEHIGH Luke Breslin WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "",
+    "score": "13-13",
+    "away_event": "Shot by LEHIGH Peter Theodoropoulos, SAVE Owen Hirsch"
+  },
+  {
+    "quarter": "2",
+    "time": "02:39",
+    "home_event": "Ground ball pickup by FAIRFIEL Nate Livingston.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:30",
+    "home_event": "Clear attempt by FAIRFIEL good.",
+    "score": "13-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:51",
+    "home_event": "GOAL by FAIRFIEL Devin Lampron, Assist by KJ Delane.",
+    "score": "14-13",
+    "away_event": ""
+  }
+]

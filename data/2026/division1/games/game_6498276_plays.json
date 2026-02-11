@@ -1,0 +1,1304 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Bennett Wright at goalie for MTST .",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Tyler Gresh at goalie for LIU."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [15:00] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "GOAL by MTST  Aidan Kilduff (FIRST GOAL), Assist by Collin Thomson.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [13:49] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LIU Ben McIsaac WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Turnover by LIU Drew Togno (caused by Sean Connelly)."
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "Ground ball pickup by MTST  Sean Connelly.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:36",
+    "home_event": "Shot by MTST  Owen Fasulka, SAVE Tyler Gresh",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "Ground ball pickup by MTST  Marcelo Carreiro.",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "Shot by MTST  Alex Guy, SAVE Tyler Gresh",
+    "score": "1-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Ground ball pickup by LIU Kyle Cochran."
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "1-0",
+    "away_event": "Shot by LIU Drew Togno WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "GOAL by LIU Cameron Connolly."
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [10:03] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "1-1",
+    "away_event": "Shot by LIU Antony Tsakos, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "1-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "GOAL by MTST  Chris Grimaldi, Assist by Kevin Whitty.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Turnover by LIU Aidan Zuhoski (caused by Noah Fox)."
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "Ground ball pickup by MTST  Marcelo Carreiro.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "Shot by MTST  Marcelo Carreiro, SAVE Tyler Gresh",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "Shot by MTST  Gavin Schaffer, SAVE Tyler Gresh",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by LIU Ben McIsaac WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Shot by LIU Aidan Zuhoski, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MTST  Conner Aquino.",
+    "score": "2-1",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "2-1",
+    "away_event": "Ground ball pickup by LIU Cameron Connolly."
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "GOAL by LIU Ben McIsaac."
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [04:37] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Turnover by LIU Charlie Hunnewell."
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "Shot by MTST  Marcelo Carreiro, SAVE Tyler Gresh",
+    "score": "2-2",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "2-2",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "GOAL by LIU Drew Togno, Assist by Aidan Zuhoski."
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST  (on faceoff violation).",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "Shot by MTST  Owen Fasulka WIDE",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "Shot by MTST  Alex Guy, SAVE Tyler Gresh",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "Turnover by MTST  Alex Guy.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Ground ball pickup by LIU Kyle Cochran."
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by LIU Ben Schuster."
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "Shot by MTST  Cole Angeline, SAVE Tyler Gresh",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Faceoff Nicolas Belmonte vs Joseph Doyle won by LIU (on faceoff violation)."
+  },
+  {
+    "quarter": "2",
+    "time": "14:25",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Shot by LIU Aidan Zuhoski HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "2-3",
+    "away_event": "Turnover by LIU Cameron Connolly."
+  },
+  {
+    "quarter": "2",
+    "time": "13:26",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:06",
+    "home_event": "Shot by MTST  Chris Grimaldi, SAVE Tyler Gresh",
+    "score": "2-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:04",
+    "home_event": "GOAL by MTST  Chris Grimaldi.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "13:04",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [13:04] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "2",
+    "time": "12:00",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LIU Drew Togno HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "11:32",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LIU Ben McIsaac, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LIU Drew Togno WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Penalty on MTST  Sean Connelly (HOLDING/0:30) Extra-man opportunity.",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:26",
+    "home_event": "Timeout by MTST .",
+    "score": "3-3",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "",
+    "score": "3-3",
+    "away_event": "Shot by LIU Antony Tsakos HIGH"
+  },
+  {
+    "quarter": "2",
+    "time": "10:40",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "GOAL by LIU Cameron Connolly (MAN-UP)."
+  },
+  {
+    "quarter": "2",
+    "time": "10:39",
+    "home_event": "",
+    "score": "3-4",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [10:39] Ground ball pickup by LIU Ryan Fountain."
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "GOAL by LIU Ben McIsaac, Assist by Cameron Connolly."
+  },
+  {
+    "quarter": "2",
+    "time": "09:27",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [09:27] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:18",
+    "home_event": "Shot by MTST  Chris Grimaldi, SAVE Tyler Gresh",
+    "score": "3-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "3-5",
+    "away_event": "Turnover by LIU Tyler Gresh (caused by Kevin Whitty)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "GOAL by MTST  Carter Quested, Assist by Kevin Whitty.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [08:06] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "2",
+    "time": "07:40",
+    "home_event": "Penalty on MTST  Sean Center-Wilhelm (HOLDING/0:30) Extra-man opportunity.",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:39",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by LIU Antony Tsakos, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Turnover by LIU Aidan Zuhoski (caused by Bennett Wright)."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "Turnover by MTST  Noah Fox (caused by Blake Mason).",
+    "score": "4-5",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "06:30",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by LIU Cameron Connolly WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "05:43",
+    "home_event": "",
+    "score": "4-5",
+    "away_event": "Shot by LIU Charlie Hunnewell, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "GOAL by LIU Aidan Zuhoski, Assist by Charlie Hunnewell."
+  },
+  {
+    "quarter": "2",
+    "time": "05:05",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [05:05] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "2",
+    "time": "05:02",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by LIU Cameron Connolly, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "2",
+    "time": "04:57",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:55",
+    "home_event": "Shot by MTST  Kevin Whitty WIDE",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:40",
+    "home_event": "30-second clock violation by MTST .",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:16",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:05",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Timeout by LIU."
+  },
+  {
+    "quarter": "2",
+    "time": "02:46",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Shot by LIU Khairi Sears WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by LIU Cameron Connolly (caused by Conner Aquino)."
+  },
+  {
+    "quarter": "2",
+    "time": "02:09",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:05",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:56",
+    "home_event": "Timeout by MTST .",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:37",
+    "home_event": "Shot by MTST  Carter Quested, SAVE Tyler Gresh",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:23",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by LIU failed."
+  },
+  {
+    "quarter": "2",
+    "time": "",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Turnover by LIU Tyler Gresh."
+  },
+  {
+    "quarter": "2",
+    "time": "00:07",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Penalty on LIU Ryan Baudo (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "2",
+    "time": "00:01",
+    "home_event": "Shot by MTST  Collin Thomson, SAVE Tyler Gresh",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:44",
+    "home_event": "Shot by MTST  Aidan Kilduff WIDE",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:06",
+    "home_event": "Shot by MTST  Marcelo Carreiro, SAVE Tyler Gresh",
+    "score": "4-6",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:59",
+    "home_event": "",
+    "score": "4-6",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "GOAL by LIU Drew Togno, Assist by Charlie Hunnewell."
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "Penalty on MTST  Aidan Kilduff (HOLDING/0:30) Extra-man opportunity.",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:29",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [13:29] Ground ball pickup by LIU Matthew Gilbert."
+  },
+  {
+    "quarter": "3",
+    "time": "12:58",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by LIU Ben McIsaac (MAN-UP), Assist by Cameron Connolly."
+  },
+  {
+    "quarter": "3",
+    "time": "12:30",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "Shot by MTST  Gavin Schaffer, SAVE Tyler Gresh",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:01",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "11:40",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by LIU Cameron Connolly WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Turnover by LIU Drew Togno (caused by Sean Center-Wilhelm)."
+  },
+  {
+    "quarter": "3",
+    "time": "10:45",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Ground ball pickup by LIU Ben Schuster."
+  },
+  {
+    "quarter": "3",
+    "time": "10:34",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by LIU Austin McMahon, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "3",
+    "time": "10:28",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "10:20",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:58",
+    "home_event": "Shot by MTST  Collin Thomson, SAVE Tyler Gresh",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:22",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "08:45",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by LIU Khairi Sears BLOCKED"
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "GOAL by LIU Khairi Sears."
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "Timeout by MTST .",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:41",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "08:06",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by LIU Aidan Zuhoski, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "3",
+    "time": "07:55",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:56",
+    "home_event": "Shot by MTST  Carter Quested, SAVE Tyler Gresh",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "05:38",
+    "home_event": "",
+    "score": "4-9",
+    "away_event": "Shot by LIU Cameron Connolly HIT POST"
+  },
+  {
+    "quarter": "3",
+    "time": "05:30",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "4-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "GOAL by MTST  Chris Grimaldi, Assist by Kevin Whitty.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:57",
+    "home_event": "Faceoff Owen Rupp vs Shaun Hill won by MTST , [04:57] Ground ball pickup by MTST  Sean Center-Wilhelm.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:53",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "04:07",
+    "home_event": "Shot by MTST  Kevin Whitty WIDE",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:27",
+    "home_event": "30-second clock violation by MTST .",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:18",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "02:37",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:38",
+    "home_event": "Shot by MTST  Carter Quested, SAVE Tyler Gresh",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:20",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:26",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by LIU Cameron Connolly, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "3",
+    "time": "00:20",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Shot by LIU Cameron Connolly, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "3",
+    "time": "00:14",
+    "home_event": "Clear attempt by MTST  failed.",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "",
+    "home_event": "Turnover by MTST  Brady Rauner (caused by Cameron Connolly).",
+    "score": "5-9",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "00:07",
+    "home_event": "",
+    "score": "5-9",
+    "away_event": "Ground ball pickup by LIU Cameron Connolly."
+  },
+  {
+    "quarter": "3",
+    "time": "00:00",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "GOAL by LIU Kyle Cochran."
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST  (on faceoff violation).",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:58",
+    "home_event": "Shot by MTST  Marcelo Carreiro WIDE",
+    "score": "5-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:53",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Penalty on LIU Kyle Cochran (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": "4",
+    "time": "13:31",
+    "home_event": "",
+    "score": "5-10",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "GOAL by MTST  Kevin Whitty (MAN-UP), Assist by Aidan Kilduff.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:04",
+    "home_event": "Faceoff Nicolas Belmonte vs Joseph Doyle won by MTST , [13:04] Ground ball pickup by MTST  Sam Azbill.",
+    "score": "6-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:20",
+    "home_event": "GOAL by MTST  Carter Quested (MAN-UP), Assist by Collin Thomson.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:20",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [12:20] Ground ball pickup by MTST  Tucker Claxton.",
+    "score": "7-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "GOAL by MTST  Collin Thomson.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Timeout by LIU."
+  },
+  {
+    "quarter": "4",
+    "time": "11:00",
+    "home_event": "",
+    "score": "8-10",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [11:00] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "4",
+    "time": "09:57",
+    "home_event": "Penalty on MTST  Brady Rauner (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "score": "8-10",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "GOAL by LIU Antony Tsakos (MAN-UP), Assist by Ben Schuster."
+  },
+  {
+    "quarter": "4",
+    "time": "09:25",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [09:25] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "4",
+    "time": "08:52",
+    "home_event": "",
+    "score": "8-11",
+    "away_event": "Shot by LIU Cameron Connolly, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "GOAL by LIU Drew Togno (MAN-UP), Assist by Aidan Zuhoski."
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [08:30] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:27",
+    "home_event": "Shot by MTST  Nicolas Belmonte WIDE",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "8-12",
+    "away_event": "Turnover by LIU Drew Togno."
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "Ground ball pickup by MTST  Kevin Whitty.",
+    "score": "8-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "GOAL by MTST  Kevin Whitty.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [07:44] Ground ball pickup by LIU Ryan Fountain."
+  },
+  {
+    "quarter": "4",
+    "time": "07:09",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by LIU Aidan Zuhoski WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "06:37",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Shot by LIU Khairi Sears, SAVE Bennett Wright"
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "9-12",
+    "away_event": "Turnover by LIU Ben McIsaac."
+  },
+  {
+    "quarter": "4",
+    "time": "05:44",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "9-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "GOAL by MTST  Marcelo Carreiro, Assist by Kevin Whitty.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:13",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [05:13] Ground ball pickup by MTST  Nicolas Belmonte.",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "05:06",
+    "home_event": "Timeout by MTST .",
+    "score": "10-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "GOAL by MTST  Chris Grimaldi, Assist by Kevin Whitty.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:49",
+    "home_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by MTST , [04:49] Ground ball pickup by MTST  Tucker Claxton.",
+    "score": "11-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "GOAL by MTST  Collin Thomson.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:48",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU (on faceoff violation)."
+  },
+  {
+    "quarter": "4",
+    "time": "03:40",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Turnover by LIU Antony Tsakos (caused by Dylan Sander)."
+  },
+  {
+    "quarter": "4",
+    "time": "02:50",
+    "home_event": "Ground ball pickup by MTST  Dylan Sander.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:46",
+    "home_event": "Clear attempt by MTST  good.",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "Turnover by MTST  Marcelo Carreiro (caused by Tyler Davide).",
+    "score": "12-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Ground ball pickup by LIU Tyler Davide."
+  },
+  {
+    "quarter": "4",
+    "time": "01:58",
+    "home_event": "",
+    "score": "12-12",
+    "away_event": "Clear attempt by LIU good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "GOAL by LIU Ryan Baudo, Assist by Tyler Davide."
+  },
+  {
+    "quarter": "4",
+    "time": "01:56",
+    "home_event": "",
+    "score": "12-13",
+    "away_event": "Faceoff Nicolas Belmonte vs Shaun Hill won by LIU, [01:56] Ground ball pickup by LIU Shaun Hill."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "GOAL by LIU Aidan Zuhoski."
+  },
+  {
+    "quarter": "4",
+    "time": "00:46",
+    "home_event": "Penalty on MTST  Brady Rauner (CROSS-CHECK/0:30) Extra-man opportunity.",
+    "score": "12-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "00:25",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "Timeout by LIU."
+  },
+  {
+    "quarter": "4",
+    "time": "",
+    "home_event": "",
+    "score": "12-14",
+    "away_event": "Turnover by LIU Charlie Hunnewell (caused by Sean Center-Wilhelm)."
+  },
+  {
+    "quarter": "4",
+    "time": "00:02",
+    "home_event": "Ground ball pickup by MTST  Conner Aquino.",
+    "score": "12-14",
+    "away_event": ""
+  }
+]

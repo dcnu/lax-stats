@@ -1,0 +1,1563 @@
+[
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "MC Starters: John, Savino3a Colin, Butters3a Jack, Salva3a Cody, Rehder3a Daniel, Berzrutchenko3a Evan, Napolitano3a Reid, Beitner3a Alystair, Hemburger3a Anthony, Kulturides3a Casey, Herod. UMA Starters: Mourad, Ryan3a Drunsic, Aiden3a Auble, Zach3a Turowsky, Jack3a Morse, Will3a Elliott, Jimmy3a Salanger, Owen3a Swanson, Kyle3a Granara, Robbie3a Casey, TJ3a MC Keeper: Anthony, Kulturides. UMA Keeper: Salanger, Owen."
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [15:00] Ground ball pickup by UMA Morse, Will.."
+  },
+  {
+    "quarter": "1",
+    "time": "14:54",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Ground ball pickup by UMA Turowsky, Jack"
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by UMA Johnson, Dylan (FIRST GOAL)"
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [14:00] Ground ball pickup by UMA Johnson, Zander.."
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by UMA Bagnall, Thomas, Assist by Waxman, Zack"
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [12:59] Ground ball pickup by UMA Casey, TJ.."
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Granara, Robbie, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "Shot by MC John, Savino WIDE",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Penalty on UMA Mourad, Ryan (Cross Check/1:00)3a Extra-man opportunity (ends at 9:39 of QTR 1)"
+  },
+  {
+    "quarter": "1",
+    "time": "10:24",
+    "home_event": "GOAL by MC Casey, Herod (MAN-UP)",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:24",
+    "home_event": "Faceoff Casey, TJ vs Colin, Kruger won by MC, [10:24] Ground ball pickup by MC Tyler, Peterson..",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "GOAL by MC Alystair, Hemburger, Assist by Jack, Salva",
+    "score": "5-13",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Faceoff Casey, TJ vs Tyler, Peterson won by UMA (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "08:17",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "30-second clock violation by UMA"
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "Timeout by MC",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "Shot by MC Alystair, Hemburger WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "GOAL by MC Finn, Dougherty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC, [07:15] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "Turnover by MC TEAM",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Kurtz, Charles WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Drunsic, Aiden HIT POST"
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "Shot by MC Casey, Herod, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Salanger, Owen"
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "1",
+    "time": "03:53",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "03:45",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Bagnall, Thomas"
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "Ground ball pickup by MC Finn, Dougherty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "Turnover by MC Alystair, Hemburger (caused by Auble, Zach).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Drunsic, Aiden"
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA New, Blaise, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Drunsic, Aiden WIDE"
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Penalty on UMA Swanson, Kyle (Unnecessary Roughness/1:00)3a Extra-man opportunity (ends at 0:28 of QTR 1)"
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "Shot by MC Jack, Deleo WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "GOAL by MC Alystair, Hemburger (MAN-UP)",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by  (on faceoff violation)."
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "Turnover by MC Jack, Salva (caused by Mourad, Ryan).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Turowsky, Jack"
+  },
+  {
+    "quarter": "2",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [15:00] Ground ball pickup by UMA Casey, TJ.."
+  },
+  {
+    "quarter": "2",
+    "time": "14:50",
+    "home_event": "Penalty on MC Daniel, Berzrutchenko (Pushing/0:30)3a Extra-man opportunity (ends at 14:20 of QTR 2)",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "14:20",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Drunsic, Aiden WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:55",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Kurtz, Charles WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:40",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Bagnall, Thomas WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "GOAL by UMA Cargiulo, Matthew"
+  },
+  {
+    "quarter": "2",
+    "time": "13:36",
+    "home_event": "Faceoff Casey, TJ vs Tyler, Peterson won by MC (on faceoff violation).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:58",
+    "home_event": "Ground ball pickup by MC Alystair, Hemburger",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:54",
+    "home_event": "Shot by MC Alystair, Hemburger WIDE",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:27",
+    "home_event": "Ground ball pickup by MC Jack, Salva",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:20",
+    "home_event": "Turnover by MC Jack, Salva (caused by Auble, Zach).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "12:12",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Ground ball pickup by UMA Morse, Will"
+  },
+  {
+    "quarter": "2",
+    "time": "12:08",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "11:29",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by UMA Waxman, Zack, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "2",
+    "time": "11:18",
+    "home_event": "Ground ball pickup by MC Antonio, Izzo",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "11:14",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:51",
+    "home_event": "Turnover by MC Casey, Herod (caused by Swanson, Kyle).",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "10:45",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Swanson, Kyle"
+  },
+  {
+    "quarter": "2",
+    "time": "10:16",
+    "home_event": "Penalty on MC Tate, Flint (Holding/0:30)3a Extra-man opportunity (ends at 9:46 of QTR 2)",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "09:54",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Granara, Robbie WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:42",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Drunsic, Aiden WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "09:25",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Cargiulo, Matthew HIT POST"
+  },
+  {
+    "quarter": "2",
+    "time": "09:19",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Johnson, Dylan"
+  },
+  {
+    "quarter": "2",
+    "time": "08:55",
+    "home_event": "Ground ball pickup by MC Colin, Butters",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:51",
+    "home_event": "Clear attempt by MC failed.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:42",
+    "home_event": "Turnover by MC Cody, Rehder",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:15",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Kurtz, Charles (caused by Colin, Butters)."
+  },
+  {
+    "quarter": "2",
+    "time": "08:10",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Auble, Zach"
+  },
+  {
+    "quarter": "2",
+    "time": "08:06",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "08:00",
+    "home_event": "Shot by MC Reid, Beitner, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:30",
+    "home_event": "Turnover by MC Jack, Salva (caused by Auble, Zach).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "07:22",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Auble, Zach"
+  },
+  {
+    "quarter": "2",
+    "time": "07:18",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Kurtz, Charles, Assist by Cargiulo, Matthew"
+  },
+  {
+    "quarter": "2",
+    "time": "06:53",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Timeout by  official"
+  },
+  {
+    "quarter": "2",
+    "time": "06:32",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff Cuozzo, Luca vs Tyler, Peterson won by UMA, [06:32] Ground ball pickup by UMA TEAM.."
+  },
+  {
+    "quarter": "2",
+    "time": "06:03",
+    "home_event": "Shot by MC Casey, Herod, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:57",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Salanger, Owen"
+  },
+  {
+    "quarter": "2",
+    "time": "05:53",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Cargiulo, Matthew"
+  },
+  {
+    "quarter": "2",
+    "time": "05:42",
+    "home_event": "Faceoff Cuozzo, Luca vs Daniel, Berzrutchenko won by MC, [05:42] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "05:00",
+    "home_event": "Shot by MC Finn, Dougherty WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:45",
+    "home_event": "Ground ball pickup by MC Brendan, Harty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:32",
+    "home_event": "Shot by MC Finn, Dougherty, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:28",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "04:23",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Auble, Zach WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "04:14",
+    "home_event": "Timeout by MC",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Kurtz, Charles"
+  },
+  {
+    "quarter": "2",
+    "time": "04:00",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC (on faceoff violation).",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:38",
+    "home_event": "Shot by MC John, Savino, SAVE by Salanger, Owen",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "03:33",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "03:12",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:42",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Ground ball pickup by UMA Granara, Robbie"
+  },
+  {
+    "quarter": "2",
+    "time": "02:40",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Shot by UMA Turowsky, Jack, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "2",
+    "time": "02:32",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Ground ball pickup by UMA Granara, Robbie"
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by UMA Waxman, Zack WIDE"
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "GOAL by UMA Finnerty, Michael, Assist by Granara, Robbie"
+  },
+  {
+    "quarter": "2",
+    "time": "02:28",
+    "home_event": "Faceoff Cuozzo, Luca vs Daniel, Berzrutchenko won by MC, [02:28] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "4-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:08",
+    "home_event": "Turnover by MC Antonio, Izzo",
+    "score": "4-7",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "02:07",
+    "home_event": "",
+    "score": "4-7",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "GOAL by UMA Drunsic, Aiden"
+  },
+  {
+    "quarter": "2",
+    "time": "01:17",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC, [01:17] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "01:09",
+    "home_event": "Ground ball pickup by MC Daniel, Berzrutchenko",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:31",
+    "home_event": "Shot by MC Finn, Dougherty, SAVE by Salanger, Owen",
+    "score": "4-8",
+    "away_event": ""
+  },
+  {
+    "quarter": "2",
+    "time": "00:26",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "2",
+    "time": "00:03",
+    "home_event": "",
+    "score": "4-8",
+    "away_event": "Shot by UMA Drunsic, Aiden WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "15:00",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA (on faceoff violation)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:28",
+    "home_event": "",
+    "score": "0-0",
+    "away_event": "Turnover by UMA Cargiulo, Matthew (caused by Reid, Beitner)."
+  },
+  {
+    "quarter": "3",
+    "time": "14:22",
+    "home_event": "Ground ball pickup by MC Reid, Beitner",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "14:19",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:50",
+    "home_event": "Turnover by MC John, Savino (caused by Elliott, Jimmy).",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "13:45",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by UMA Morse, Will"
+  },
+  {
+    "quarter": "3",
+    "time": "13:43",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "13:36",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Turowsky, Jack, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "3",
+    "time": "13:02",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:45",
+    "home_event": "Shot by MC Conor, Noone, SAVE by Salanger, Owen",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "12:41",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "12:16",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Ground ball pickup by UMA Finnerty, Michael"
+  },
+  {
+    "quarter": "3",
+    "time": "12:10",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Shot by UMA Waxman, Zack WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:58",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Shot by UMA Granara, Robbie WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by UMA Granara, Robbie, Assist by Turowsky, Jack"
+  },
+  {
+    "quarter": "3",
+    "time": "11:39",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC, [11:39] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:30",
+    "home_event": "Shot by MC Daniel, Berzrutchenko, SAVE by Salanger, Owen",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "11:26",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "10:36",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "30-second clock violation by UMA"
+  },
+  {
+    "quarter": "3",
+    "time": "10:03",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Penalty on UMA Turowsky, Jack (Delay of Game/0:30)3a Extra-man opportunity (ends at 9:33 of QTR 3)"
+  },
+  {
+    "quarter": "3",
+    "time": "09:52",
+    "home_event": "Shot by MC John, Savino WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:28",
+    "home_event": "Shot by MC Finn, Dougherty WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "09:03",
+    "home_event": "Ground ball pickup by MC Alystair, Hemburger",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:59",
+    "home_event": "Shot by MC Alystair, Hemburger WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:46",
+    "home_event": "Shot by MC Ryan, Buonomo WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "08:29",
+    "home_event": "30-second clock violation by MC",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:52",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Turowsky, Jack"
+  },
+  {
+    "quarter": "3",
+    "time": "07:45",
+    "home_event": "Clear attempt by MC failed.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:45",
+    "home_event": "Turnover by MC Anthony, Kulturides",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Turowsky, Jack, Assist by Drunsic, Aiden"
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Timeout by  official"
+  },
+  {
+    "quarter": "3",
+    "time": "07:33",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC, [07:33] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:20",
+    "home_event": "Shot by MC John, Savino, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "07:15",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Duva, Luca, Assist by Granara, Robbie"
+  },
+  {
+    "quarter": "3",
+    "time": "06:48",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [06:48] Ground ball pickup by UMA Casey, TJ.."
+  },
+  {
+    "quarter": "3",
+    "time": "06:30",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Clayton, Tyler, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "3",
+    "time": "06:24",
+    "home_event": "Ground ball pickup by MC Brayden, Mattera",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "06:21",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:11",
+    "home_event": "Shot by MC Jack, Salva WIDE",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:03",
+    "home_event": "30-second clock violation by MC",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "05:01",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "03:58",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "03:50",
+    "home_event": "Ground ball pickup by MC Reid, Beitner",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:48",
+    "home_event": "Clear attempt by MC failed.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "03:13",
+    "home_event": "Turnover by MC Daniel, Berzrutchenko",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "02:51",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Drunsic, Aiden"
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "GOAL by UMA Kurtz, Charles, Assist by Johnson, Dylan"
+  },
+  {
+    "quarter": "3",
+    "time": "02:41",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [02:41] Ground ball pickup by UMA Peters, Jack.."
+  },
+  {
+    "quarter": "3",
+    "time": "01:37",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Turnover by UMA Granara, Robbie (caused by Colin, Butters)."
+  },
+  {
+    "quarter": "3",
+    "time": "01:28",
+    "home_event": "Ground ball pickup by MC Brayden, Mattera",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:22",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:09",
+    "home_event": "Shot by MC Casey, Herod, SAVE by Salanger, Owen",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "3",
+    "time": "01:04",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "3",
+    "time": "00:32",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by UMA Kurtz, Charles WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "00:11",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by UMA Turowsky, Jack WIDE"
+  },
+  {
+    "quarter": "3",
+    "time": "00:01",
+    "home_event": "",
+    "score": "4-12",
+    "away_event": "Shot by UMA Granara, Robbie WIDE"
+  },
+  {
+    "quarter": "4",
+    "time": "15:00",
+    "home_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by MC, [15:00] Ground ball pickup by MC Evan, Napolitano..",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:58",
+    "home_event": "Shot by MC Conor, Noone WIDE",
+    "score": "0-0",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "GOAL by MC Brendan, Harty, Assist by Jack, Salva",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "13:43",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [13:43] Ground ball pickup by UMA Waddell, James.."
+  },
+  {
+    "quarter": "4",
+    "time": "12:27",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Shot by UMA Granara, Robbie, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "4",
+    "time": "12:22",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "12:16",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Penalty on UMA Bagnall, Thomas (Holding/0:30)3a Extra-man opportunity (ends at 11:46 of QTR 4)"
+  },
+  {
+    "quarter": "4",
+    "time": "11:55",
+    "home_event": "Shot by MC Jack, Salva WIDE",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:37",
+    "home_event": "Turnover by MC Jack, Salva",
+    "score": "5-12",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Ground ball pickup by UMA Auble, Zach"
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "5-12",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "11:33",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "GOAL by UMA Granara, Robbie, Assist by Auble, Zach"
+  },
+  {
+    "quarter": "4",
+    "time": "11:29",
+    "home_event": "",
+    "score": "5-13",
+    "away_event": "Faceoff Casey, TJ vs Daniel, Berzrutchenko won by UMA, [11:29] Ground ball pickup by UMA Casey, TJ.."
+  },
+  {
+    "quarter": "4",
+    "time": "10:28",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "GOAL by UMA Jackman, Brian"
+  },
+  {
+    "quarter": "4",
+    "time": "10:28",
+    "home_event": "Faceoff Cuozzo, Luca vs Daniel, Berzrutchenko won by MC, [10:28] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:07",
+    "home_event": "Shot by MC Casey, Herod, SAVE by Salanger, Owen",
+    "score": "5-14",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "10:03",
+    "home_event": "",
+    "score": "5-14",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "09:12",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "GOAL by UMA Johnson, Dylan"
+  },
+  {
+    "quarter": "4",
+    "time": "09:12",
+    "home_event": "Faceoff Cuozzo, Luca vs Daniel, Berzrutchenko won by MC (on faceoff violation).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:34",
+    "home_event": "Ground ball pickup by MC Finn, Dougherty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:30",
+    "home_event": "Shot by MC Finn, Dougherty, SAVE by Salanger, Owen",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "08:26",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA failed."
+  },
+  {
+    "quarter": "4",
+    "time": "08:11",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Salanger, Owen"
+  },
+  {
+    "quarter": "4",
+    "time": "07:50",
+    "home_event": "Shot by MC Max, Field HIT POST",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "07:44",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Auble, Zach"
+  },
+  {
+    "quarter": "4",
+    "time": "07:42",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "07:26",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Shot by UMA Granara, Robbie, SAVE by Anthony, Kulturides"
+  },
+  {
+    "quarter": "4",
+    "time": "07:14",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:45",
+    "home_event": "Shot by MC Casey, Herod HIGH",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Timeout by UMA"
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Mazzariello, Ryan at goalie for UMA."
+  },
+  {
+    "quarter": "4",
+    "time": "06:43",
+    "home_event": "Jesse, Dalonzo at goalie for MC.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:28",
+    "home_event": "Turnover by MC Brendan, Harty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "06:18",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "05:41",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "30-second clock violation by UMA"
+  },
+  {
+    "quarter": "4",
+    "time": "05:38",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:40",
+    "home_event": "Shot by MC Alystair, Hemburger, SAVE by Mazzariello, Ryan",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "04:36",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "04:03",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Jackman, Brian"
+  },
+  {
+    "quarter": "4",
+    "time": "03:58",
+    "home_event": "Ground ball pickup by MC Luke, Masklowski",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:55",
+    "home_event": "Clear attempt by MC failed.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:49",
+    "home_event": "Turnover by MC Ryan, Buonomo (caused by Johnson, Zander).",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "03:44",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Ground ball pickup by UMA Johnson, Zander"
+  },
+  {
+    "quarter": "4",
+    "time": "02:32",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Turnover by UMA Jackman, Brian"
+  },
+  {
+    "quarter": "4",
+    "time": "02:27",
+    "home_event": "Ground ball pickup by MC Patrick, Welch",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "02:24",
+    "home_event": "Clear attempt by MC good.",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:50",
+    "home_event": "Turnover by MC Finn, Dougherty",
+    "score": "5-15",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "5-15",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "GOAL by UMA Peters, Jack"
+  },
+  {
+    "quarter": "4",
+    "time": "01:45",
+    "home_event": "Faceoff Calvo, Michael vs Daniel, Berzrutchenko won by MC, [01:45] Ground ball pickup by MC Daniel, Berzrutchenko..",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:23",
+    "home_event": "Shot by MC Josh, Younger, SAVE by Mazzariello, Ryan",
+    "score": "5-16",
+    "away_event": ""
+  },
+  {
+    "quarter": "4",
+    "time": "01:16",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Ground ball pickup by UMA Cunningham, Nicholas"
+  },
+  {
+    "quarter": "4",
+    "time": "01:13",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Clear attempt by UMA good."
+  },
+  {
+    "quarter": "4",
+    "time": "00:30",
+    "home_event": "",
+    "score": "5-16",
+    "away_event": "Shot by UMA Duva, Luca WIDE"
+  }
+]

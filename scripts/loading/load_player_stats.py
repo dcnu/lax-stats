@@ -23,6 +23,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from utils.db import get_connection, parse_time_to_seconds, execute_query
 from utils.path_helpers import get_all_season_dirs
 from utils.roster_lookup import get_roster_mapping_cached, get_player_team
+# tableIndex in player_stats.json: even (0,2) = away, odd (1,3) = home
 
 
 def safe_int(value, default=0):
@@ -134,7 +135,7 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 			with open(file_path, "r", encoding="utf-8") as f:
 				players_data = json.load(f)
 
-			# Load roster mapping for team assignment
+			# Load roster mapping for team assignment (fallback)
 			roster_map = get_roster_mapping_cached(season_id, division)
 
 			for player_data in players_data:
@@ -143,12 +144,17 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 
 				player_id = player_data["playerId"]
 
-				# Look up team from roster (source of truth)
-				team_id = get_player_team(player_id, roster_map, home_team_id, away_team_id)
-				if team_id is None:
-					player_name = player_data.get("name", "Unknown")
-					print(f"Warning: Player {player_id} ({player_name}) not found in roster for game {game_id}, skipping", file=sys.stderr)
-					continue
+				# Use tableIndex if available (even=away, odd=home)
+				table_idx = player_data.get("tableIndex")
+				if table_idx is not None:
+					team_id = away_team_id if table_idx % 2 == 0 else home_team_id
+				else:
+					# Fallback to roster lookup for older data
+					team_id = get_player_team(player_id, roster_map, home_team_id, away_team_id)
+					if team_id is None:
+						player_name = player_data.get("name", "Unknown")
+						print(f"Warning: Player {player_id} ({player_name}) not found in roster for game {game_id}, skipping", file=sys.stderr)
+						continue
 
 				# Check if goalie stats
 				is_goalie_stat = "G Min" in player_data
@@ -264,7 +270,7 @@ def build_player_seasons(player_stats):
 	return player_seasons
 
 
-def load_player_stats_to_database(player_stats: list, dry_run: bool = False):
+def load_player_stats_to_database(player_stats: list, season_id: str = None, dry_run: bool = False):
 	"""Load player stats into PostgreSQL via COPY protocol."""
 	player_stats = deduplicate_stats(player_stats)
 
@@ -298,7 +304,10 @@ def load_player_stats_to_database(player_stats: list, dry_run: bool = False):
 	conn = get_connection()
 	try:
 		with conn.cursor() as cur:
-			cur.execute("DELETE FROM player_game_stats")
+			if season_id:
+				cur.execute("DELETE FROM player_game_stats WHERE season_id = %s", (season_id,))
+			else:
+				cur.execute("DELETE FROM player_game_stats")
 			cur.copy_expert(copy_sql, buf)
 		conn.commit()
 	except Exception:
@@ -310,7 +319,7 @@ def load_player_stats_to_database(player_stats: list, dry_run: bool = False):
 	print(f"Successfully loaded {len(player_stats)} player game stats")
 
 
-def load_player_seasons_to_database(player_seasons: list, dry_run: bool = False):
+def load_player_seasons_to_database(player_seasons: list, season_id: str = None, dry_run: bool = False):
 	"""Load player_seasons records via COPY protocol."""
 	if dry_run:
 		print(f"DRY RUN: Would load {len(player_seasons)} player-season records")
@@ -331,7 +340,10 @@ def load_player_seasons_to_database(player_seasons: list, dry_run: bool = False)
 	conn = get_connection()
 	try:
 		with conn.cursor() as cur:
-			cur.execute("DELETE FROM player_seasons")
+			if season_id:
+				cur.execute("DELETE FROM player_seasons WHERE season_id = %s", (season_id,))
+			else:
+				cur.execute("DELETE FROM player_seasons")
 			cur.copy_expert(copy_sql, buf)
 		conn.commit()
 	except Exception:
@@ -369,12 +381,12 @@ def main():
 	print(f"Summary: {unique_games} games, {unique_players} players")
 	print(f"Total goals: {total_goals}, Total assists: {total_assists}")
 
-	load_player_stats_to_database(player_stats, args.dry_run)
+	load_player_stats_to_database(player_stats, season_id=args.season, dry_run=args.dry_run)
 
 	# Build and load player_seasons
 	player_seasons = build_player_seasons(player_stats)
 	print(f"Built {len(player_seasons)} player-season records")
-	load_player_seasons_to_database(player_seasons, args.dry_run)
+	load_player_seasons_to_database(player_seasons, season_id=args.season, dry_run=args.dry_run)
 
 
 if __name__ == "__main__":

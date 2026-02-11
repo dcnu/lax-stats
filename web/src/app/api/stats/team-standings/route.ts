@@ -1,24 +1,22 @@
 import { NextResponse } from "next/server";
-import { prisma } from "@/lib/db";
+import { getSql, getCurrentSeason } from "@/lib/db";
 
 interface StandingsRow {
 	team_id: string;
 	team_name: string;
-	wins: bigint;
-	losses: bigint;
-	goals_for: bigint;
-	goals_against: bigint;
+	wins: number;
+	losses: number;
+	goals_for: number;
+	goals_against: number;
 }
 
 export async function GET(request: Request) {
 	const { searchParams } = new URL(request.url);
-	const seasonId = searchParams.get("seasonId") || "2025";
+	const seasonId = searchParams.get("seasonId") || await getCurrentSeason();
 
 	try {
-		// Calculate wins, losses, and goal differentials for each team
-		const standings = await prisma.$queryRaw<StandingsRow[]>`
+		const standings = await getSql()<StandingsRow[]>`
 			WITH team_stats AS (
-				-- Home wins and goals
 				SELECT
 					home_team_id as team_id,
 					COUNT(*) FILTER (WHERE home_score > away_score) as wins,
@@ -31,7 +29,6 @@ export async function GET(request: Request) {
 
 				UNION ALL
 
-				-- Away wins and goals
 				SELECT
 					away_team_id as team_id,
 					COUNT(*) FILTER (WHERE away_score > home_score) as wins,
@@ -49,14 +46,14 @@ export async function GET(request: Request) {
 				COALESCE(SUM(ts.losses), 0) as losses,
 				COALESCE(SUM(ts.goals_for), 0) as goals_for,
 				COALESCE(SUM(ts.goals_against), 0) as goals_against
-			FROM teams t
+			FROM lookup_teams t
 			LEFT JOIN team_stats ts ON t.id = ts.team_id
 			GROUP BY t.id, t.name
 			HAVING SUM(ts.wins) + SUM(ts.losses) > 0
 			ORDER BY COALESCE(SUM(ts.wins), 0) DESC
 		`;
 
-		const data = standings.map((row: StandingsRow) => {
+		const data = standings.map((row) => {
 			const wins = Number(row.wins);
 			const losses = Number(row.losses);
 			const gamesPlayed = wins + losses;
@@ -80,7 +77,7 @@ export async function GET(request: Request) {
 		console.error("Error fetching team standings:", error);
 		return NextResponse.json(
 			{ message: "Failed to fetch team standings" },
-			{ status: 500 }
+			{ status: 500 },
 		);
 	}
 }
