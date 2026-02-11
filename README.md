@@ -35,7 +35,6 @@ Automated collection and analysis of NCAA lacrosse game data:
 | Frontend | React + TypeScript + TailwindCSS |
 | UI Components | shadcn/ui |
 | Charts | Recharts |
-| DB Driver | psycopg2-binary |
 
 ## Quick Start
 
@@ -198,7 +197,7 @@ lacrosse-stats/
 │   │   └── setup_cron.sh
 │   ├── sync_daily.py            # Daily sync orchestration
 │   └── utils/
-│       ├── db.py                # PostgreSQL helpers
+│       ├── db.py                # Supabase connection helpers
 │       ├── roster_lookup.py     # Player→team mapping
 │       ├── pbp_parser.py        # Play-by-play parsing
 │       └── get_game_ids.py      # Game discovery
@@ -342,7 +341,7 @@ or
 
 - **403 Blocked**: Wait several hours, use VPN, or increase delays
 - **429 Rate Limited**: Automatic backoff; increase `base_delay` if persistent
-- **Missing Games**: Check `data/raw/failed_games.json`
+- **Missing Games**: Check `data/{season}/division{n}/raw/failed_games.json`
 
 ### Database
 
