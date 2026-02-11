@@ -4,14 +4,14 @@
 ![Node.js 20+](https://img.shields.io/badge/Node.js-20+-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-NCAA men's lacrosse statistics pipeline with local PostgreSQL storage and Next.js web dashboard.
+NCAA men's lacrosse statistics pipeline with Supabase PostgreSQL storage and Next.js web dashboard.
 
 ## Overview
 
 Automated collection and analysis of NCAA lacrosse game data:
 
 - **Data Pipeline**: Scrapes games, player stats, and play-by-play from NCAA
-- **Local Database**: PostgreSQL with Prisma ORM
+- **Database**: Supabase (PostgreSQL) with Prisma ORM
 - **Quality Control**: Automated validation and gap-filling from play-by-play
 - **Daily Sync**: Cron job for nightly updates during season
 - **Web Dashboard**: Next.js app for stats exploration
@@ -29,8 +29,8 @@ Automated collection and analysis of NCAA lacrosse game data:
 
 | Layer | Technology |
 |-------|------------|
-| Scraping | Python (BeautifulSoup, httpx) |
-| Database | PostgreSQL 16 + Prisma ORM |
+| Scraping | Python (BeautifulSoup, requests) |
+| Database | Supabase (PostgreSQL) + Prisma ORM |
 | Backend | Next.js 16 API Routes |
 | Frontend | React + TypeScript + TailwindCSS |
 | UI Components | shadcn/ui |
@@ -42,7 +42,6 @@ Automated collection and analysis of NCAA lacrosse game data:
 ### Prerequisites
 
 - Python 3.11+
-- PostgreSQL 16+ (`brew install postgresql@16`)
 - Node.js 20+ and pnpm
 
 ### Setup
@@ -54,9 +53,7 @@ cd lacrosse-stats
 uv venv && source .venv/bin/activate
 uv pip install -r requirements.txt
 
-# Start PostgreSQL and create database
-brew services start postgresql@16
-createdb lacrosse_stats
+# Set DATABASE_URL in .env.local for Supabase connection
 
 # Initialize database schema
 cd web && pnpm install && pnpm prisma db push
@@ -349,7 +346,7 @@ or
 
 ### Database
 
-- **Connection Error**: Verify PostgreSQL running (`brew services list`)
+- **Connection Error**: Verify `DATABASE_URL` in `.env.local` is correct
 - **Schema Mismatch**: Run `pnpm prisma db push` in web/
 - **Foreign Key Errors**: Load in order: teams → games → players → stats
 

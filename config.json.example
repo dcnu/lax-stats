@@ -41,5 +41,4 @@
 		"level": "INFO",
 		"log_file": "lacrosse_scraper.log"
 	},
-	"_note_database": "Set DATABASE_URL in .env.local"
 }

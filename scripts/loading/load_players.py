@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Load player data from scraped player stats files into local PostgreSQL.
+Load player data from scraped player stats files into PostgreSQL.
 
 Extracts unique players from all game_*_player_stats.json files.
 

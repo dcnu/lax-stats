@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Load player game statistics from scraped files into local PostgreSQL.
+Load player game statistics from scraped files into PostgreSQL.
 
 Processes all game_*_player_stats.json files and loads individual player
 statistics per game, with time fields converted to seconds.

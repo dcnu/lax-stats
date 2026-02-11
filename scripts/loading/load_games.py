@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Load game data from scraped game info files into local PostgreSQL.
+Load game data from scraped game info files into PostgreSQL.
 
 Processes all game_*_info.json files and loads game records with scores,
 teams, and metadata.

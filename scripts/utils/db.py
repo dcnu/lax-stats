@@ -1,11 +1,9 @@
 """
 Database connection module.
 
-Reads DATABASE_URL from .env.local (via python-dotenv), falling back to
-config.json for backward compatibility.
+Reads DATABASE_URL from .env.local (via python-dotenv) for Supabase connection.
 """
 
-import json
 import os
 import sys
 from pathlib import Path
@@ -19,33 +17,13 @@ load_dotenv(Path(__file__).resolve().parent.parent.parent / ".env.local")
 
 
 def get_database_url() -> str:
-	"""Return a database connection string.
-
-	Checks DATABASE_URL env var first, then falls back to config.json.
-	"""
+	"""Return a database connection string from DATABASE_URL."""
 	url = os.environ.get("DATABASE_URL")
 	if url:
 		return url
 
-	config_path = Path("config.json")
-	if not config_path.exists():
-		print("Error: DATABASE_URL not set and config.json not found.", file=sys.stderr)
-		sys.exit(1)
-
-	with open(config_path) as f:
-		config = json.load(f)
-
-	db = config.get("database")
-	if not db:
-		print("Error: DATABASE_URL not set and no 'database' in config.json", file=sys.stderr)
-		sys.exit(1)
-
-	host = db.get("host", "localhost")
-	port = db.get("port", 5432)
-	user = db.get("user", "")
-	password = db.get("password", "")
-	database = db["database"]
-	return f"postgresql://{user}:{password}@{host}:{port}/{database}"
+	print("Error: DATABASE_URL not set. Add it to .env.local.", file=sys.stderr)
+	sys.exit(1)
 
 
 def get_connection():

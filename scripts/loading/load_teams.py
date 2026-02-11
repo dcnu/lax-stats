@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Load team data from scraped game info files into local PostgreSQL.
+Load team data from scraped game info files into PostgreSQL.
 
 Extracts unique teams from all game_*_info.json files and loads them
 into the teams table with proper ID mapping.

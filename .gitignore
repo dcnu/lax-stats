@@ -21,6 +21,8 @@
 # misc
 .DS_Store
 *.pem
+__pycache__/
+*.pyc
 
 # debug
 npm-debug.log*
@@ -53,6 +55,7 @@ next-env.d.ts
 # Development
 TODO/
 supabase/
+!supabase/migrations/
 
 # Archive
 archive/
