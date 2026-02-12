@@ -16,7 +16,7 @@ export function getSupabase(): SupabaseClient {
 
 export function getSql(): Sql {
 	if (!_sql) {
-		_sql = postgres(process.env.DIRECT_URL!);
+		_sql = postgres(process.env.POSTGRES_URL || process.env.DIRECT_URL!);
 	}
 	return _sql;
 }
