@@ -1,22 +1,33 @@
-import { getSql } from "@/lib/db";
+import { getSupabase } from "@/lib/db";
 import type { Season } from "@/lib/types";
 
+function hasSupabaseEnv(): boolean {
+	return !!(
+		process.env.NEXT_PUBLIC_SUPABASE_URL &&
+		process.env.SUPABASE_SERVICE_ROLE_KEY
+	);
+}
+
 export async function getSeasons(): Promise<Season[]> {
-	const sql = getSql();
-	const rows = await sql`
-		SELECT id, division_id, is_current
-		FROM lookup_seasons
-		ORDER BY id DESC
-	`;
-	return rows as unknown as Season[];
+	if (!hasSupabaseEnv()) return [];
+	const supabase = getSupabase();
+	const { data } = await supabase
+		.from("lookup_seasons")
+		.select("id, division_id, is_current")
+		.order("id", { ascending: false });
+	return (data ?? []) as Season[];
 }
 
 export async function getCurrentSeasonId(): Promise<string> {
-	const sql = getSql();
-	const rows = await sql`
-		SELECT id FROM lookup_seasons WHERE is_current = true LIMIT 1
-	`;
-	return rows[0]?.id || "2025";
+	if (!hasSupabaseEnv()) return "2025";
+	const supabase = getSupabase();
+	const { data } = await supabase
+		.from("lookup_seasons")
+		.select("id")
+		.eq("is_current", true)
+		.limit(1)
+		.single();
+	return data?.id || "2025";
 }
 
 export async function resolveSeasonId(
