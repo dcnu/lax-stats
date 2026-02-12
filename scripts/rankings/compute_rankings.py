@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Compute team ratings: RPI, Massey, recency-weighted Massey, and Bayesian projected RPI.
+Compute team rankings: RPI, Massey, recency-weighted Massey, and Bayesian projected RPI.
 
 Writes to team_season_ratings (current snapshot) and team_season_ratings_history
-(weekly snapshots). All ratings are per-season.
+(weekly snapshots). All rankings are per-season.
 
 Usage:
-	python -m scripts.ratings.compute_ratings
-	python -m scripts.ratings.compute_ratings --season 2025 --backfill
-	python -m scripts.ratings.compute_ratings --dry-run
+	python -m scripts.rankings.compute_rankings
+	python -m scripts.rankings.compute_rankings --season 2025 --backfill
+	python -m scripts.rankings.compute_rankings --dry-run
 """
 
 import argparse
@@ -69,8 +69,8 @@ def load_remaining_games(cur, season_id):
 	return cur.fetchall()
 
 
-def load_prior_ratings(cur, season_id):
-	"""Load prior season's RPI ratings for Bayesian seeding."""
+def load_prior_rankings(cur, season_id):
+	"""Load prior season's RPI rankings for Bayesian seeding."""
 	try:
 		prior_id = str(int(season_id) - 1)
 	except ValueError:
@@ -202,9 +202,9 @@ def compute_rpi(games, teams):
 # ---------------------------------------------------------------------------
 
 def compute_massey(games, teams):
-	"""Massey rating via least squares on score margins (clamped ±8).
+	"""Massey ranking via least squares on score margins (clamped ±8).
 
-	Returns dict of {team_id: rating}.
+	Returns dict of {team_id: ranking}.
 	"""
 	if len(teams) < 2 or len(games) < len(teams):
 		return {t: 0.0 for t in teams}
@@ -245,7 +245,7 @@ def compute_massey_recency(games, teams, season_start):
 	"""Massey with exponential recency weighting.
 
 	Weight: w_k = exp(-0.02 * (t_max - t_k)) where t_k = days since season start.
-	Returns dict of {team_id: rating}.
+	Returns dict of {team_id: ranking}.
 	"""
 	if len(teams) < 2 or len(games) < len(teams):
 		return {t: 0.0 for t in teams}
@@ -398,7 +398,7 @@ def compute_bayesian_rpi(games, remaining, teams, priors=None, n_sims=1000):
 # Database writes
 # ---------------------------------------------------------------------------
 
-def upsert_ratings(cur, season_id, ratings_rows):
+def upsert_rankings(cur, season_id, ranking_rows):
 	"""Upsert into team_season_ratings."""
 	sql = """
 		INSERT INTO team_season_ratings (
@@ -435,11 +435,11 @@ def upsert_ratings(cur, season_id, ratings_rows):
 			computed_at = EXCLUDED.computed_at,
 			updated_at = CURRENT_TIMESTAMP
 	"""
-	for row in ratings_rows:
+	for row in ranking_rows:
 		cur.execute(sql, row)
 
 
-def upsert_history(cur, season_id, week_number, ratings_rows):
+def upsert_history(cur, season_id, week_number, ranking_rows):
 	"""Upsert into team_season_ratings_history."""
 	sql = """
 		INSERT INTO team_season_ratings_history (
@@ -477,7 +477,7 @@ def upsert_history(cur, season_id, week_number, ratings_rows):
 			projected_rpi_seeded_high = EXCLUDED.projected_rpi_seeded_high,
 			computed_at = EXCLUDED.computed_at
 	"""
-	for row in ratings_rows:
+	for row in ranking_rows:
 		row_with_week = {**row, "week_number": week_number}
 		cur.execute(sql, row_with_week)
 
@@ -506,8 +506,8 @@ def native_row(row):
 # Orchestration
 # ---------------------------------------------------------------------------
 
-def compute_all_ratings(games, remaining, teams, season_start, priors=None):
-	"""Run all 5 rating systems. Returns list of row dicts."""
+def compute_all_rankings(games, remaining, teams, season_start, priors=None):
+	"""Run all 5 ranking systems. Returns list of row dicts."""
 	if not games:
 		return []
 
@@ -571,10 +571,10 @@ def print_summary(rows, team_names):
 
 
 def main():
-	parser = argparse.ArgumentParser(description="Compute team ratings")
+	parser = argparse.ArgumentParser(description="Compute team rankings")
 	parser.add_argument("--season", help="Season ID (default: current)")
 	parser.add_argument("--backfill", action="store_true", help="Recompute all weeks historically")
-	parser.add_argument("--dry-run", action="store_true", help="Print ratings without writing")
+	parser.add_argument("--dry-run", action="store_true", help="Print rankings without writing")
 	args = parser.parse_args()
 
 	conn = get_connection()
@@ -586,7 +586,7 @@ def main():
 			all_games = load_games(cur, season_id)
 			remaining = load_remaining_games(cur, season_id)
 			team_names = load_team_names(cur)
-			priors = load_prior_ratings(cur, season_id)
+			priors = load_prior_rankings(cur, season_id)
 
 			if not all_games:
 				print("No completed games found. Nothing to compute.")
@@ -605,7 +605,7 @@ def main():
 			print(f"Games: {len(all_games)} final, {len(remaining)} remaining")
 			print(f"Teams: {len(teams)}, Week 1: {week1}, Current week: {current_week}")
 			if priors:
-				print(f"Prior season ratings: {len(priors)} teams")
+				print(f"Prior season rankings: {len(priors)} teams")
 
 			if args.backfill:
 				print(f"\nBackfilling weeks 1 through {current_week}...")
@@ -622,7 +622,7 @@ def main():
 						g for g in all_games if g["game_date"] >= week_cutoff
 					] + remaining
 
-					rows = compute_all_ratings(
+					rows = compute_all_rankings(
 						week_games, week_remaining, week_teams, start_date, priors
 					)
 					for r in rows:
@@ -631,9 +631,9 @@ def main():
 					if not args.dry_run:
 						upsert_history(cur, season_id, week, rows)
 						conn.commit()
-						# Final week also updates current ratings
+						# Final week also updates current rankings
 						if week == current_week:
-							upsert_ratings(cur, season_id, rows)
+							upsert_rankings(cur, season_id, rows)
 							conn.commit()
 
 					print(f"  Week {week}: {len(week_games)} games, {len(week_teams)} teams")
@@ -643,7 +643,7 @@ def main():
 					print_summary(rows, team_names)
 			else:
 				# Single computation for current state
-				rows = compute_all_ratings(
+				rows = compute_all_rankings(
 					all_games, remaining, teams, start_date, priors
 				)
 				for r in rows:
@@ -652,11 +652,11 @@ def main():
 				print_summary(rows, team_names)
 
 				if not args.dry_run:
-					upsert_ratings(cur, season_id, rows)
+					upsert_rankings(cur, season_id, rows)
 					if current_week > 0:
 						upsert_history(cur, season_id, current_week, rows)
 					conn.commit()
-					print(f"\nWrote {len(rows)} ratings to database (week {current_week})")
+					print(f"\nWrote {len(rows)} rankings to database (week {current_week})")
 				else:
 					print("\nDry run — no database writes.")
 

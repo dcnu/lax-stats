@@ -1,6 +1,6 @@
-# Team Ratings
+# Team Rankings
 
-Five rating systems computed weekly by `scripts/ratings/compute_ratings.py`. Results stored in `team_season_ratings` (latest snapshot) and `team_season_ratings_history` (weekly snapshots).
+Five ranking systems computed weekly by `scripts/rankings/compute_rankings.py`. Results stored in `team_season_ratings` (latest snapshot) and `team_season_ratings_history` (weekly snapshots).
 
 ## RPI (Rating Percentage Index)
 
@@ -11,16 +11,16 @@ RPI = 0.25 * WP + 0.50 * OWP + 0.25 * OOWP
 ```
 
 - **WP** (Winning Percentage): wins / (wins + losses)
-- **OWP** (Opponents' Winning Percentage): mean WP of opponents, excluding head-to-head games against the team being rated
+- **OWP** (Opponents' Winning Percentage): mean WP of opponents, excluding head-to-head games against the team being ranked
 - **OOWP** (Opponents' Opponents' Winning Percentage): mean OWP of opponents
 
 The heavy OWP weighting (50%) rewards teams that play tough schedules. A team that goes 10-5 against strong opponents can rank higher than a team that goes 15-0 against weak ones.
 
-## Massey Rating
+## Massey Ranking
 
-Least-squares regression on score margins. Each game produces an equation: `r_home - r_away = margin`, clamped to [-8, 8] to limit blowout influence. The system solves for team strengths that best explain observed margins, with a sum-to-zero constraint so ratings center around 0.
+Least-squares regression on score margins. Each game produces an equation: `r_home - r_away = margin`, clamped to [-8, 8] to limit blowout influence. The system solves for team strengths that best explain observed margins, with a sum-to-zero constraint so rankings center around 0.
 
-Positive ratings indicate above-average teams. The magnitude reflects expected margin of victory against an average (0-rated) team.
+Positive rankings indicate above-average teams. The magnitude reflects expected margin of victory against an average (0-ranked) team.
 
 Falls back to `lstsq` if the normal equations are singular (rare, requires disconnected schedule components).
 
@@ -56,12 +56,12 @@ As more current-season games accumulate, the prior's influence diminishes and th
 
 ### `team_season_ratings`
 
-Current ratings snapshot. One row per team per season. Upserted on `(team_id, season_id)`.
+Current rankings snapshot. One row per team per season. Upserted on `(team_id, season_id)`.
 
 | Column | Description |
 |--------|-------------|
 | `wp`, `owp`, `oowp`, `rpi` | RPI components |
-| `massey` | Massey rating |
+| `massey` | Massey ranking |
 | `massey_recency` | Recency-weighted Massey |
 | `projected_rpi_flat` | Projected RPI median (flat prior) |
 | `projected_rpi_flat_low`, `_high` | 5th/95th percentile |
@@ -80,16 +80,16 @@ Week 1 starts on the first Monday on or after the season's `start_date`. Each we
 
 ```bash
 # Current season
-python -m scripts.ratings.compute_ratings
+python -m scripts.rankings.compute_rankings
 
 # Specific season
-python -m scripts.ratings.compute_ratings --season 2025
+python -m scripts.rankings.compute_rankings --season 2025
 
 # Backfill all weeks for a season
-python -m scripts.ratings.compute_ratings --season 2025 --backfill
+python -m scripts.rankings.compute_rankings --season 2025 --backfill
 
 # Preview without writing
-python -m scripts.ratings.compute_ratings --dry-run
+python -m scripts.rankings.compute_rankings --dry-run
 ```
 
 Runs weekly via GitHub Actions (Monday 8:00 UTC / midnight PT). Manual dispatch available with optional season and backfill inputs.

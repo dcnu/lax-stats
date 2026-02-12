@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["scripts", "scripts.loading", "scripts.fetching", "scripts.ratings", "scripts.utils"]
+packages = ["scripts", "scripts.loading", "scripts.fetching", "scripts.rankings", "scripts.utils"]

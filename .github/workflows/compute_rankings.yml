@@ -1,4 +1,4 @@
-name: Compute Ratings
+name: Compute Rankings
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install psycopg2-binary python-dotenv numpy scipy
-      - name: Compute ratings
+      - name: Compute rankings
         env:
           DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
         run: |
@@ -34,4 +34,4 @@ jobs:
           if [ "${{ inputs.backfill }}" = "true" ]; then
             ARGS="$ARGS --backfill"
           fi
-          python -m scripts.ratings.compute_ratings $ARGS
+          python -m scripts.rankings.compute_rankings $ARGS
