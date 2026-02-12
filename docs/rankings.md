@@ -1,6 +1,6 @@
 # Team Rankings
 
-Five ranking systems computed weekly by `scripts/rankings/compute_rankings.py`. Results stored in `team_season_ratings` (latest snapshot) and `team_season_ratings_history` (weekly snapshots).
+Five ranking systems computed weekly by `scripts/rankings/compute_rankings.py`. Results stored in `team_season_rankings` (latest snapshot) and `team_season_rankings_history` (weekly snapshots).
 
 ## RPI (Rating Percentage Index)
 
@@ -54,7 +54,7 @@ As more current-season games accumulate, the prior's influence diminishes and th
 
 ## Database Schema
 
-### `team_season_ratings`
+### `team_season_rankings`
 
 Current rankings snapshot. One row per team per season. Upserted on `(team_id, season_id)`.
 
@@ -70,7 +70,7 @@ Current rankings snapshot. One row per team per season. Upserted on `(team_id, s
 | `wins`, `losses`, `division_id` | Context |
 | `computed_at` | Timestamp of computation |
 
-### `team_season_ratings_history`
+### `team_season_rankings_history`
 
 Weekly snapshots for trend analysis. Same columns plus `week_number`. Upserted on `(team_id, season_id, week_number)`.
 

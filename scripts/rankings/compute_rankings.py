@@ -2,7 +2,7 @@
 """
 Compute team rankings: RPI, Massey, recency-weighted Massey, and Bayesian projected RPI.
 
-Writes to team_season_ratings (current snapshot) and team_season_ratings_history
+Writes to team_season_rankings (current snapshot) and team_season_rankings_history
 (weekly snapshots). All rankings are per-season.
 
 Usage:
@@ -76,7 +76,7 @@ def load_prior_rankings(cur, season_id):
 	except ValueError:
 		return {}
 	cur.execute(
-		"SELECT team_id, rpi FROM team_season_ratings WHERE season_id = %s",
+		"SELECT team_id, rpi FROM team_season_rankings WHERE season_id = %s",
 		(prior_id,),
 	)
 	return {r["team_id"]: float(r["rpi"]) for r in cur.fetchall() if r["rpi"]}
@@ -399,9 +399,9 @@ def compute_bayesian_rpi(games, remaining, teams, priors=None, n_sims=1000):
 # ---------------------------------------------------------------------------
 
 def upsert_rankings(cur, season_id, ranking_rows):
-	"""Upsert into team_season_ratings."""
+	"""Upsert into team_season_rankings."""
 	sql = """
-		INSERT INTO team_season_ratings (
+		INSERT INTO team_season_rankings (
 			team_id, season_id, division_id, wins, losses,
 			wp, owp, oowp, rpi,
 			massey, massey_recency,
@@ -440,9 +440,9 @@ def upsert_rankings(cur, season_id, ranking_rows):
 
 
 def upsert_history(cur, season_id, week_number, ranking_rows):
-	"""Upsert into team_season_ratings_history."""
+	"""Upsert into team_season_rankings_history."""
 	sql = """
-		INSERT INTO team_season_ratings_history (
+		INSERT INTO team_season_rankings_history (
 			team_id, season_id, division_id, week_number,
 			wins, losses,
 			wp, owp, oowp, rpi,
