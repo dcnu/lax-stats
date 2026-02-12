@@ -26,6 +26,26 @@ from utils.roster_lookup import get_roster_mapping_cached, get_player_team
 # tableIndex in player_stats.json: even (0,2) = away, odd (1,3) = home
 
 
+POSITION_MAP = {
+	"ATT": "A", "ATTACKER": "A", "AM": "A",
+	"MF": "M", "MID": "M", "MIDFIELDER": "M",
+	"DM": "SSDM",
+	"DEF": "D", "DEFENDER": "D",
+	"GK": "G", "GOALKEEPER": "G",
+	"F": "FO", "F/M": "FO",
+	"LS": "LSM",
+}
+VALID_POSITIONS = {"A", "D", "FO", "G", "LSM", "M", "SSDM"}
+
+
+def normalize_position(pos):
+	"""Normalize position code to canonical value."""
+	if not pos or pos in ("*", "N/A", "S", "D/M", ""):
+		return None
+	mapped = POSITION_MAP.get(pos, pos)
+	return mapped if mapped in VALID_POSITIONS else None
+
+
 def safe_int(value, default=0):
 	"""Safely convert value to int."""
 	if value is None or value == "":
@@ -167,7 +187,7 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 						"division_id": division,
 						"team_id": team_id,
 						"jersey_number": player_data.get("jersey"),
-						"position": player_data.get("position"),
+						"position": normalize_position(player_data.get("position")),
 						"minutes_played": None,
 						"goals": 0,
 						"assists": 0,
@@ -194,7 +214,7 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 						"division_id": division,
 						"team_id": team_id,
 						"jersey_number": player_data.get("jersey"),
-						"position": player_data.get("position"),
+						"position": normalize_position(player_data.get("position")),
 						# Convert minutes to seconds
 						"minutes_played": parse_time_to_seconds(player_data.get("Min")),
 						"goals": safe_int(player_data.get("Goals")),

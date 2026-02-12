@@ -1,0 +1,15 @@
+[project]
+name = "lacrosse-stats"
+version = "0.1.0"
+description = "NCAA Division I men's lacrosse statistics pipeline"
+requires-python = ">=3.11"
+dependencies = [
+	"beautifulsoup4>=4.14",
+	"psycopg2-binary>=2.9",
+	"python-dotenv>=1.1",
+	"pytz>=2024.1",
+	"requests>=2.32",
+]
+
+[tool.setuptools]
+packages = ["scripts", "scripts.loading", "scripts.fetching", "scripts.utils"]

@@ -107,6 +107,8 @@ games
 ├── home_team_id, away_team_id, home_score, away_score
 ├── home_team_name, away_team_name (denormalized)
 ├── winning_team_id, losing_team_id (denormalized)
+├── home_team_wins, home_team_losses (denormalized, running record)
+├── away_team_wins, away_team_losses (denormalized, running record)
 ├── location, attendance
 └── created_at, updated_at
 
@@ -139,10 +141,35 @@ Added by `enrich_tables.py`, populated from lookup tables:
 
 | Table | Columns |
 |-------|---------|
-| `player_game_stats` | `player_name`, `team_name` |
-| `games` | `home_team_name`, `away_team_name`, `winning_team_id`, `losing_team_id` |
+| `player_game_stats` | `player_name`, `team_name`, `opponent_id` |
+| `games` | `home_team_name`, `away_team_name`, `winning_team_id`, `losing_team_id`, `home_team_wins`, `home_team_losses`, `away_team_wins`, `away_team_losses` |
 | `players` | `team_id`, `season_count`, `first_season`, `last_season` |
 | `game_plays` | `season_id` |
+
+### Aggregated Tables
+
+Rebuilt from scratch by `enrich_tables.py` on every run.
+
+```
+player_season_stats
+├── player_id, team_id, season_id, division_id
+├── player_name, team_name, primary_position
+├── games_played, goals, assists, points
+├── shots, shots_on_goal, ground_balls
+├── turnovers, caused_turnovers
+├── faceoff_wins, faceoffs_taken
+├── minutes_played, goalie_minutes, goals_allowed, saves
+└── points_per_game, goals_per_game, shooting_pct, faceoff_pct, save_pct
+
+team_season_stats
+├── team_id, season_id, division_id, team_name
+├── wins, losses, ties, games_played
+├── goals_for, goals_against, goal_diff
+├── total_shots, total_shots_on_goal, total_ground_balls
+├── total_turnovers, total_caused_turnovers
+├── total_faceoff_wins, total_faceoffs_taken, total_saves
+└── win_pct, opp_win_pct, opp_opp_win_pct, shooting_pct, faceoff_pct, save_pct
+```
 
 ### Indexes
 
@@ -150,8 +177,9 @@ Added by `enrich_tables.py`, populated from lookup tables:
 |-------|-------|---------|
 | `idx_pgs_season_team` | `player_game_stats` | `(season_id, team_id)` |
 | `idx_pgs_season_player` | `player_game_stats` | `(season_id, player_id)` |
+| `idx_pgs_opponent` | `player_game_stats` | `(opponent_id)` |
 | `idx_games_season_status` | `games` | `(season_id, status)` |
-| `idx_player_seasons_player_desc` | `player_seasons` | `(player_id DESC)` |
+| `idx_player_seasons_player_desc` | `player_seasons` | `(player_id, season_id DESC)` |
 
 ## Data Pipeline
 
@@ -216,7 +244,7 @@ Next.js 16 with TypeScript and App Router. No Prisma — uses Supabase JS client
 | `/api/seasons` | `lookup_seasons` | All seasons |
 | `/api/stats/top-scorers` | `player_game_stats` | Uses denormalized `player_name`, `team_name` |
 | `/api/stats/recent-games` | `games` | Uses denormalized `home_team_name`, `away_team_name` |
-| `/api/stats/team-standings` | `team_seasons` JOIN `lookup_teams` | Needs JOIN for team name |
+| `/api/stats/team-standings` | `team_season_stats` | Uses denormalized `team_name`, `win_pct` |
 
 ### Environment Variables (`web/.env.local`)
 
