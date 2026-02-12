@@ -42,4 +42,11 @@ The data is still fetched and saved — the flag is informational only.
 
 ## Box Score Not Available
 
-Some game IDs in `game_ids.json` point to pages with no data ("Box score not available"). These are typically future games or games where stats haven't been submitted. They are recorded in `failed_games.json` and skipped. Re-running the fetcher will retry them automatically since no output files are written.
+Some game IDs in `game_ids.json` point to pages with no box score data ("Box score not available"). These are typically future/scheduled games or games where stats haven't been submitted. They are recorded in `failed_games.json` by `fetch_games_browser.py`.
+
+These games can still be loaded as scheduled matchups using `fetch_schedules_browser.py`, which navigates to the main `/contests/{id}` page (not `/individual_stats`) to extract team IDs, game date, and location. Schedule data is saved as `game_{id}_schedule.json` with `status: "scheduled"` and null scores.
+
+When a scheduled game is eventually played:
+1. `fetch_games_browser.py` fetches the full box score → `game_{id}_info.json`
+2. `load_games.py` upserts with `status='final'` and scores, overwriting the scheduled row
+3. `_info.json` takes precedence over `_schedule.json` during loading (deduplication)

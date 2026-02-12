@@ -94,11 +94,6 @@ def main():
 	start = datetime.strptime(start_str, "%m/%d/%Y")
 	end = datetime.strptime(end_str, "%m/%d/%Y")
 
-	# Clamp end to today
-	today = datetime.now()
-	if end > today:
-		end = today
-
 	all_games = []
 	seen_ids = set()
 	daily_counts = []

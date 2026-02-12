@@ -153,11 +153,15 @@ def upsert_game(
 		)
 		VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
-			home_score = EXCLUDED.home_score,
-			away_score = EXCLUDED.away_score,
-			location = EXCLUDED.location,
-			attendance = EXCLUDED.attendance,
-			status = EXCLUDED.status,
+			home_score = COALESCE(EXCLUDED.home_score, games.home_score),
+			away_score = COALESCE(EXCLUDED.away_score, games.away_score),
+			location = COALESCE(EXCLUDED.location, games.location),
+			attendance = COALESCE(EXCLUDED.attendance, games.attendance),
+			status = CASE
+				WHEN EXCLUDED.status = 'final' THEN 'final'
+				WHEN games.status = 'final' THEN 'final'
+				ELSE EXCLUDED.status
+			END,
 			updated_at = NOW()
 		RETURNING id
 	"""

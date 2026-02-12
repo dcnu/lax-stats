@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 """
-Load game data from scraped game info files into PostgreSQL.
+Load game data from scraped game files into PostgreSQL.
 
-Processes all game_*_info.json files and loads game records with scores,
-teams, and metadata.
+Processes game_*_info.json (final games with scores) and game_*_schedule.json
+(future games without scores) files. When both exist for the same game, the
+info file takes precedence.
+
+Status logic: 'final' always wins on upsert — a scheduled game that gets
+played will transition to 'final' when re-loaded with scores.
 
 Usage:
 	python3 scripts/loading/load_games.py
@@ -101,6 +105,8 @@ def extract_games_from_files(data_dir: str = "data", season_filter: str = None, 
 					if games_dir.exists():
 						for f in games_dir.glob("game_*_info.json"):
 							game_files.append((season_id, division, f))
+						for f in games_dir.glob("game_*_schedule.json"):
+							game_files.append((season_id, division, f))
 				except ValueError:
 					continue
 		else:
@@ -108,10 +114,19 @@ def extract_games_from_files(data_dir: str = "data", season_filter: str = None, 
 			if games_dir.exists():
 				for f in games_dir.glob("game_*_info.json"):
 					game_files.append((season_id, division_filter or 1, f))
+				for f in games_dir.glob("game_*_schedule.json"):
+					game_files.append((season_id, division_filter or 1, f))
 
 	if not game_files:
-		print(f"Error: No game info files found", file=sys.stderr)
+		print(f"Error: No game files found", file=sys.stderr)
 		sys.exit(1)
+
+	# Deduplicate: prefer _info.json over _schedule.json for the same game
+	info_ids = {f.stem.split("_")[1] for _, _, f in game_files if f.name.endswith("_info.json")}
+	game_files = [
+		(s, d, f) for s, d, f in game_files
+		if not (f.name.endswith("_schedule.json") and f.stem.split("_")[1] in info_ids)
+	]
 
 	print(f"Processing {len(game_files)} game files...")
 
@@ -123,6 +138,15 @@ def extract_games_from_files(data_dir: str = "data", season_filter: str = None, 
 			game_id = game_data.get("gameId") or file_path.stem.split("_")[1]
 			game_date = parse_game_date(game_data.get("gameDate") or game_data.get("date"))
 
+			home_score = safe_int(game_data.get("homeScore"))
+			away_score = safe_int(game_data.get("awayScore"))
+
+			# Determine status: use file's status if present, otherwise
+			# 'final' when scores exist, 'scheduled' when they don't
+			status = game_data.get("status")
+			if not status:
+				status = "final" if home_score is not None and away_score is not None else "scheduled"
+
 			game = {
 				"id": str(game_id),
 				"season_id": season_id,
@@ -130,11 +154,11 @@ def extract_games_from_files(data_dir: str = "data", season_filter: str = None, 
 				"game_date": game_date,
 				"home_team_id": game_data.get("homeTeamId"),
 				"away_team_id": game_data.get("awayTeamId"),
-				"home_score": safe_int(game_data.get("homeScore")),
-				"away_score": safe_int(game_data.get("awayScore")),
+				"home_score": home_score,
+				"away_score": away_score,
 				"location": game_data.get("location"),
 				"attendance": safe_int(game_data.get("attendance")),
-				"status": "final",
+				"status": status,
 			}
 
 			if game["home_team_id"] and game["away_team_id"]:
@@ -150,9 +174,12 @@ def extract_games_from_files(data_dir: str = "data", season_filter: str = None, 
 def load_games_to_database(games: list, dry_run: bool = False):
 	"""Load games into PostgreSQL games table."""
 	if dry_run:
-		print(f"DRY RUN: Would load {len(games)} games:")
+		final = [g for g in games if g["status"] == "final"]
+		scheduled = [g for g in games if g["status"] == "scheduled"]
+		print(f"DRY RUN: Would load {len(games)} games ({len(final)} final, {len(scheduled)} scheduled):")
 		for game in games[:10]:
-			print(f"  {game['id']}: {game['home_team_id']} vs {game['away_team_id']} ({game['home_score']}-{game['away_score']})")
+			score = f"{game['home_score']}-{game['away_score']}" if game["status"] == "final" else game["status"]
+			print(f"  {game['id']}: {game['home_team_id']} vs {game['away_team_id']} ({score})")
 		if len(games) > 10:
 			print(f"  ... and {len(games) - 10} more")
 		return
@@ -174,11 +201,15 @@ def load_games_to_database(games: list, dry_run: bool = False):
 		)
 		VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
-			home_score = EXCLUDED.home_score,
-			away_score = EXCLUDED.away_score,
-			location = EXCLUDED.location,
-			attendance = EXCLUDED.attendance,
-			status = EXCLUDED.status,
+			home_score = COALESCE(EXCLUDED.home_score, games.home_score),
+			away_score = COALESCE(EXCLUDED.away_score, games.away_score),
+			location = COALESCE(EXCLUDED.location, games.location),
+			attendance = COALESCE(EXCLUDED.attendance, games.attendance),
+			status = CASE
+				WHEN EXCLUDED.status = 'final' THEN 'final'
+				WHEN games.status = 'final' THEN 'final'
+				ELSE EXCLUDED.status
+			END,
 			updated_at = NOW()
 	"""
 

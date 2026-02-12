@@ -19,11 +19,14 @@ lacrosse-stats/
 │               ├── game_{id}_info.json          # Game metadata
 │               ├── game_{id}_player_stats.json  # Player stats per game
 │               ├── game_{id}_plays.json         # Play-by-play
-│               ├── failed_games.json            # Games with no data on NCAA site
+│               ├── game_{id}_schedule.json      # Schedule data (future games)
+│               ├── failed_games.json            # Games with no box score
+│               ├── failed_schedules.json        # Schedule fetch failures
 │               └── flagged_games.json           # Games with NCAA stat errors
 ├── scripts/
 │   ├── fetching/                    # Browser-based scrapers (agent-browser CDP)
-│   │   ├── fetch_games_browser.py   # Fetches game info, stats, plays
+│   │   ├── fetch_games_browser.py   # Fetches game info, stats, plays (final games)
+│   │   ├── fetch_schedules_browser.py # Fetches schedule data (future games)
 │   │   └── fetch_rosters_browser.py # Fetches team rosters
 │   ├── loading/                     # Database loaders (psycopg2 COPY)
 │   │   ├── load_teams.py
@@ -52,6 +55,7 @@ lacrosse-stats/
 │       ├── _extract_player_stats.js # JS extractor: player stats
 │       ├── _extract_plays.js        # JS extractor: play-by-play
 │       ├── _extract_games.js        # JS extractor: game ID discovery
+│       ├── _extract_schedule_info.js # JS extractor: schedule data (future games)
 │       └── _extract_roster.js       # JS extractor: team rosters
 ├── web/                             # Next.js 16 app
 │   └── src/
@@ -188,9 +192,10 @@ team_season_stats
 stats.ncaa.org uses Akamai CDN which blocks HTTP clients. Fetching uses `agent-browser` to control a real browser via CDP. See `docs/browser-fetching.md`.
 
 ```
-1. Discover game IDs  → get_game_ids_browser.py → data/{season}/division{n}/raw/game_ids.json
-2. Fetch game data    → fetch_games_browser.py  → game_{id}_info.json, _player_stats.json, _plays.json
-3. Fetch rosters      → fetch_rosters_browser.py → data/{season}/division{n}/raw/rosters.json
+1. Discover game IDs     → get_game_ids_browser.py     → data/{season}/division{n}/raw/game_ids.json
+2. Fetch game data       → fetch_games_browser.py      → game_{id}_info.json, _player_stats.json, _plays.json
+3. Fetch future games    → fetch_schedules_browser.py  → game_{id}_schedule.json (status='scheduled')
+4. Fetch rosters         → fetch_rosters_browser.py    → data/{season}/division{n}/raw/rosters.json
 ```
 
 ### Loading (database)
@@ -199,12 +204,14 @@ All loaders use psycopg2 COPY and are season-safe (DELETE scoped by `season_id`)
 
 ```
 1. load_teams.py         → Extract teams from game info files → lookup_teams
-2. load_games.py         → Load game metadata → games
+2. load_games.py         → Load game metadata → games (info + schedule files)
 3. load_players.py       → Extract players from stat files → players, player_seasons
 4. load_player_stats.py  → Load stats with roster-based team assignment → player_game_stats
 5. load_game_plays.py    → Load play-by-play → game_plays
 6. enrich_tables.py      → Denormalize all tables (idempotent)
 ```
+
+`load_games.py` handles both `_info.json` (final) and `_schedule.json` (scheduled) files. When both exist for the same game, the info file takes precedence. The upsert ensures `status='final'` always wins — a scheduled row is overwritten when the game is played and re-loaded with scores.
 
 ### Team Assignment
 

@@ -40,6 +40,7 @@ Instead of fetching raw HTML and parsing it server-side (which produces mangled 
 | `_extract_player_stats.js` | `/contests/{id}/individual_stats` | Player stats array |
 | `_extract_plays.js` | `/contests/{id}/play_by_play` | Play-by-play events array |
 | `_extract_games.js` | `/season_divisions/{id}/livestream_scoreboards` | Game ID discovery |
+| `_extract_schedule_info.js` | `/contests/{id}` | Schedule data for future games (teams, date, location) |
 
 ### Header Cell Gotcha
 
@@ -79,12 +80,20 @@ This handles three cases:
 ### Dry run (check what needs fetching)
 ```bash
 python3 scripts/fetching/fetch_games_browser.py --season 2026 --dry-run
+python3 scripts/fetching/fetch_schedules_browser.py --season 2026 --dry-run
 ```
 
 ### Fetch all missing games
 ```bash
 python3 scripts/fetching/fetch_games_browser.py --season 2026
 ```
+
+### Fetch schedules for future games
+```bash
+python3 scripts/fetching/fetch_schedules_browser.py --season 2026
+```
+
+Uses the main `/contests/{id}` page (not `/individual_stats`) which is available for unplayed games. Saves `game_{id}_schedule.json` with `status: "scheduled"` and no scores. Skips games already in the database or with existing info/schedule files.
 
 ### Full daily sync
 ```bash
@@ -125,9 +134,11 @@ data/{season}/division{n}/
 ├── raw/
 │   └── game_ids.json               # discovered game IDs
 └── games/
-    ├── game_{id}_info.json          # game metadata
+    ├── game_{id}_info.json          # game metadata (final games)
     ├── game_{id}_player_stats.json  # player statistics
     ├── game_{id}_plays.json         # play-by-play events
-    ├── failed_games.json            # games with no data on NCAA site
+    ├── game_{id}_schedule.json      # schedule data (future games, no scores)
+    ├── failed_games.json            # games with no box score on NCAA site
+    ├── failed_schedules.json        # games where schedule fetch failed
     └── flagged_games.json           # games with NCAA stat errors
 ```
