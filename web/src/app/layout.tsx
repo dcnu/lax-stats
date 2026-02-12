@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Toaster } from "@/components/ui/sonner";
+import { Navigation } from "@/components/navigation";
 import { Providers } from "./providers";
 import "./globals.css";
 
@@ -29,7 +30,12 @@ export default function RootLayout({
 			<body
 				className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen bg-background`}
 			>
-				<Providers>{children}</Providers>
+				<Providers>
+					<Navigation />
+					<main className="container mx-auto px-4 py-6">
+						{children}
+					</main>
+				</Providers>
 				<Toaster />
 			</body>
 		</html>

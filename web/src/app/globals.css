@@ -118,5 +118,9 @@
   }
   body {
     @apply bg-background text-foreground;
+    overflow-y: scroll;
+  }
+  html {
+    scrollbar-gutter: stable;
   }
 }

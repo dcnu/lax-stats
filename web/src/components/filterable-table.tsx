@@ -11,6 +11,7 @@ import {
 	type SortingState,
 	type ColumnDef,
 	type ColumnFiltersState,
+	type VisibilityState,
 } from "@tanstack/react-table";
 import {
 	Table,
@@ -29,12 +30,20 @@ import {
 	SelectTrigger,
 	SelectValue,
 } from "@/components/ui/select";
-import { ArrowUpDown, ChevronLeft, ChevronRight, Download, X } from "lucide-react";
+import {
+	DropdownMenu,
+	DropdownMenuCheckboxItem,
+	DropdownMenuContent,
+	DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
+import { ArrowUpDown, ChevronLeft, ChevronRight, Download, X, Columns3 } from "lucide-react";
 
-interface ColumnConfig {
+export interface ColumnConfig {
 	key: string;
 	label: string;
-	filterable: boolean;
+	filterable?: boolean;
+	renderCell?: (value: unknown, row: Record<string, unknown>) => React.ReactNode;
+	visible?: boolean;
 }
 
 interface FilterableTableProps<T extends Record<string, unknown>> {
@@ -59,10 +68,23 @@ export function FilterableTable<T extends Record<string, unknown>>({
 	pageSize = 25,
 }: FilterableTableProps<T>) {
 	const [sorting, setSorting] = useState<SortingState>(
-		defaultSort ? [{ id: defaultSort.key, desc: defaultSort.desc }] : []
+		defaultSort ? [{ id: defaultSort.key, desc: defaultSort.desc }] : [],
 	);
 	const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
 	const [globalFilter, setGlobalFilter] = useState("");
+
+	const hasHiddenColumns = columnConfig.some((col) => col.visible === false);
+	const [columnVisibility, setColumnVisibility] = useState<VisibilityState>(
+		() => {
+			const vis: VisibilityState = {};
+			for (const col of columnConfig) {
+				if (col.visible === false) {
+					vis[col.key] = false;
+				}
+			}
+			return vis;
+		},
+	);
 
 	const filterableColumns = columnConfig.filter((col) => col.filterable);
 
@@ -87,7 +109,9 @@ export function FilterableTable<T extends Record<string, unknown>>({
 				<ArrowUpDown className="ml-2 h-4 w-4" />
 			</Button>
 		),
-		cell: ({ getValue }) => formatCellValue(getValue()),
+		cell: col.renderCell
+			? ({ getValue, row }) => col.renderCell!(getValue(), row.original)
+			: ({ getValue }) => formatCellValue(getValue()),
 		filterFn: "includesString",
 	}));
 
@@ -101,10 +125,12 @@ export function FilterableTable<T extends Record<string, unknown>>({
 		onSortingChange: setSorting,
 		onColumnFiltersChange: setColumnFilters,
 		onGlobalFilterChange: setGlobalFilter,
+		onColumnVisibilityChange: setColumnVisibility,
 		state: {
 			sorting,
 			columnFilters,
 			globalFilter,
+			columnVisibility,
 		},
 		initialState: {
 			pagination: {
@@ -114,17 +140,20 @@ export function FilterableTable<T extends Record<string, unknown>>({
 	});
 
 	function exportToCSV() {
-		const headers = columnConfig.map((c) => c.label).join(",");
+		const visibleCols = columnConfig.filter(
+			(c) => columnVisibility[c.key] !== false,
+		);
+		const headers = visibleCols.map((c) => c.label).join(",");
 		const rows = table
 			.getFilteredRowModel()
 			.rows.map((row) =>
-				columnConfig
+				visibleCols
 					.map((col) => {
 						const value = row.original[col.key];
 						const formatted = formatCellValue(value);
 						return formatted.includes(",") ? `"${formatted}"` : formatted;
 					})
-					.join(",")
+					.join(","),
 			)
 			.join("\n");
 		const csv = `${headers}\n${rows}`;
@@ -160,6 +189,32 @@ export function FilterableTable<T extends Record<string, unknown>>({
 							Clear filters
 						</Button>
 					)}
+					{hasHiddenColumns && (
+						<DropdownMenu>
+							<DropdownMenuTrigger asChild>
+								<Button variant="outline" size="sm">
+									<Columns3 className="mr-2 h-4 w-4" />
+									Columns
+								</Button>
+							</DropdownMenuTrigger>
+							<DropdownMenuContent align="end">
+								{columnConfig.map((col) => (
+									<DropdownMenuCheckboxItem
+										key={col.key}
+										checked={columnVisibility[col.key] !== false}
+										onCheckedChange={(checked) =>
+											setColumnVisibility((prev) => ({
+												...prev,
+												[col.key]: checked,
+											}))
+										}
+									>
+										{col.label}
+									</DropdownMenuCheckboxItem>
+								))}
+							</DropdownMenuContent>
+						</DropdownMenu>
+					)}
 					<Button variant="outline" size="sm" onClick={exportToCSV}>
 						<Download className="mr-2 h-4 w-4" />
 						Export
@@ -178,7 +233,7 @@ export function FilterableTable<T extends Record<string, unknown>>({
 								onValueChange={(value) => {
 									if (value === "__all__") {
 										setColumnFilters((prev) =>
-											prev.filter((f) => f.id !== col.key)
+											prev.filter((f) => f.id !== col.key),
 										);
 									} else {
 										setColumnFilters((prev) => {
@@ -219,7 +274,7 @@ export function FilterableTable<T extends Record<string, unknown>>({
 											? null
 											: flexRender(
 													header.column.columnDef.header,
-													header.getContext()
+													header.getContext(),
 												)}
 									</TableHead>
 								))}
@@ -234,7 +289,7 @@ export function FilterableTable<T extends Record<string, unknown>>({
 										<TableCell key={cell.id}>
 											{flexRender(
 												cell.column.columnDef.cell,
-												cell.getContext()
+												cell.getContext(),
 											)}
 										</TableCell>
 									))}
