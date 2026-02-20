@@ -41,14 +41,14 @@ def run_ab(*args) -> str:
 	return result.stdout.strip()
 
 
-def scrape_date(base_url: str, date_str: str) -> list[dict]:
+def scrape_date(base_url: str, date_str: str, page_load_wait: int = 8) -> list[dict]:
 	"""Scrape game IDs for a single date."""
 	encoded_date = date_str.replace("/", "%2F")
 	url = f"{base_url}?utf8=%E2%9C%93&season_division_id=&game_date={encoded_date}&conference_id=0&tournament_id=&commit=Submit"
 
 	run_ab("open", url)
 	# Wait for page content to render
-	time.sleep(4)
+	time.sleep(page_load_wait)
 
 	js = JS_FILE.read_text().replace("\n", " ").replace("\t", " ")
 	# Use shell=True to preserve JS quoting
@@ -88,6 +88,10 @@ def main():
 
 	base_url = f"https://stats.ncaa.org/season_divisions/{div_id}/livestream_scoreboards"
 
+	rl = config.get("browser_rate_limiting", {})
+	page_load_wait = rl.get("page_load_wait", 8)
+	between_dates = rl.get("between_dates", 4)
+
 	date_ranges = config.get("date_ranges", {})
 	start_str = args.start_date or date_ranges.get("start_date", "01/30/2026")
 	end_str = args.end_date or date_ranges.get("end_date", "06/01/2026")
@@ -101,7 +105,7 @@ def main():
 	date = start
 	while date <= end:
 		date_str = date.strftime("%m/%d/%Y")
-		games = scrape_date(base_url, date_str)
+		games = scrape_date(base_url, date_str, page_load_wait)
 
 		new_count = 0
 		for g in games:
@@ -115,7 +119,7 @@ def main():
 		print(f"{new_count} games on {date_str}")
 
 		date += timedelta(days=1)
-		time.sleep(1)
+		time.sleep(between_dates)
 
 	# Save
 	output_dir = get_season_raw_dir(args.season, args.division)

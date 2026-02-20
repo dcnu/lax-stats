@@ -69,6 +69,25 @@ def get_season_raw_dir(season_id, division=1, base_dir="data"):
 	return path
 
 
+def get_season_ncaa_dir(season_id, division=1, base_dir="data"):
+	"""
+	Get path to ncaa.com pipeline directory for a season and division.
+
+	Args:
+		season_id: Season ID (year as string)
+		division: NCAA division (1, 2, or 3), defaults to 1
+		base_dir: Base data directory
+
+	Returns:
+		Path object for season's ncaa directory
+	"""
+	if division not in [1, 2, 3]:
+		raise ValueError(f"Division must be 1, 2, or 3. Got: {division}")
+	path = Path(base_dir) / season_id / f"division{division}" / "ncaa"
+	path.mkdir(parents=True, exist_ok=True)
+	return path
+
+
 def get_game_file_path(game_id, file_type, season_id, division=1, base_dir="data"):
 	"""
 	Get path to a game data file.
