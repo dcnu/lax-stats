@@ -56,7 +56,6 @@ const columns: ColumnConfig[] = [
 	{
 		key: "massey_recency",
 		label: "Massey Recency",
-		visible: false,
 		renderCell: (value) => {
 			if (value === null || value === undefined) return "-";
 			const num = typeof value === "string" ? parseFloat(value) : (value as number);

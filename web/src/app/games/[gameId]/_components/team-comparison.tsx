@@ -31,12 +31,12 @@ function ComparisonBar({
 			</div>
 			<div className="flex h-2 rounded-full overflow-hidden bg-muted">
 				<div
-					className="bg-primary/70 transition-all"
+					className="bg-blue-500 transition-all"
 					style={{ width: `${awayPct}%` }}
 					title={`${awayName}: ${stat.away}`}
 				/>
 				<div
-					className="bg-primary transition-all"
+					className="bg-emerald-500 transition-all"
 					style={{ width: `${homePct}%` }}
 					title={`${homeName}: ${stat.home}`}
 				/>
@@ -76,8 +76,14 @@ export function TeamComparison({
 	return (
 		<div className="pt-4 max-w-lg mx-auto space-y-4">
 			<div className="flex items-center justify-between text-sm font-semibold">
-				<span>{game.away_team_name}</span>
-				<span>{game.home_team_name}</span>
+				<span className="flex items-center gap-2">
+					<span className="h-3 w-3 rounded-full bg-blue-500" />
+					{game.away_team_name}
+				</span>
+				<span className="flex items-center gap-2">
+					{game.home_team_name}
+					<span className="h-3 w-3 rounded-full bg-emerald-500" />
+				</span>
 			</div>
 			{stats.map((stat) => (
 				<ComparisonBar

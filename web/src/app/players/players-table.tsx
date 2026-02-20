@@ -27,13 +27,13 @@ const columns: ColumnConfig[] = [
 		),
 	},
 	{ key: "primary_position", label: "Pos", filterable: true },
-	{ key: "games_played", label: "GP" },
-	{ key: "goals", label: "G" },
-	{ key: "assists", label: "A" },
-	{ key: "points", label: "Pts" },
+	{ key: "games_played", label: "GP", filterable: true, filterType: "min" },
+	{ key: "goals", label: "G", filterable: true, filterType: "min" },
+	{ key: "assists", label: "A", filterable: true, filterType: "min" },
+	{ key: "points", label: "Pts", filterable: true, filterType: "min" },
 	{ key: "shots", label: "Shots" },
 	{ key: "shots_on_goal", label: "SOG" },
-	{ key: "ground_balls", label: "GB" },
+	{ key: "ground_balls", label: "GB", filterable: true, filterType: "min" },
 	{ key: "turnovers", label: "TO" },
 	{ key: "caused_turnovers", label: "CT" },
 	{
@@ -61,7 +61,6 @@ const columns: ColumnConfig[] = [
 	{
 		key: "points_per_game",
 		label: "PPG",
-		visible: false,
 	},
 ];
 

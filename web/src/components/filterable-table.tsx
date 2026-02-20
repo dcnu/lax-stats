@@ -36,12 +36,13 @@ import {
 	DropdownMenuContent,
 	DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { ArrowUpDown, ChevronLeft, ChevronRight, Download, X, Columns3 } from "lucide-react";
+import { ArrowUpDown, ChevronLeft, ChevronRight, X, Columns3 } from "lucide-react";
 
 export interface ColumnConfig {
 	key: string;
 	label: string;
 	filterable?: boolean;
+	filterType?: "select" | "min";
 	renderCell?: (value: unknown, row: Record<string, unknown>) => React.ReactNode;
 	visible?: boolean;
 }
@@ -86,16 +87,21 @@ export function FilterableTable<T extends Record<string, unknown>>({
 		},
 	);
 
-	const filterableColumns = columnConfig.filter((col) => col.filterable);
+	const selectFilterColumns = columnConfig.filter(
+		(col) => col.filterable && col.filterType !== "min",
+	);
+	const minFilterColumns = columnConfig.filter(
+		(col) => col.filterable && col.filterType === "min",
+	);
 
 	const filterOptions = useMemo(() => {
 		const options: Record<string, string[]> = {};
-		for (const col of filterableColumns) {
+		for (const col of selectFilterColumns) {
 			const uniqueValues = [...new Set(data.map((row) => String(row[col.key] || "")))];
 			options[col.key] = uniqueValues.sort();
 		}
 		return options;
-	}, [data, filterableColumns]);
+	}, [data, selectFilterColumns]);
 
 	const columns: ColumnDef<Record<string, unknown>>[] = columnConfig.map((col) => ({
 		accessorKey: col.key,
@@ -112,7 +118,13 @@ export function FilterableTable<T extends Record<string, unknown>>({
 		cell: col.renderCell
 			? ({ getValue, row }) => col.renderCell!(getValue(), row.original)
 			: ({ getValue }) => formatCellValue(getValue()),
-		filterFn: "includesString",
+		filterFn: col.filterType === "min"
+			? (row, columnId, filterValue) => {
+					const val = row.getValue(columnId);
+					if (filterValue === "" || filterValue === undefined) return true;
+					return Number(val) >= Number(filterValue);
+				}
+			: "includesString",
 	}));
 
 	const table = useReactTable({
@@ -139,33 +151,6 @@ export function FilterableTable<T extends Record<string, unknown>>({
 		},
 	});
 
-	function exportToCSV() {
-		const visibleCols = columnConfig.filter(
-			(c) => columnVisibility[c.key] !== false,
-		);
-		const headers = visibleCols.map((c) => c.label).join(",");
-		const rows = table
-			.getFilteredRowModel()
-			.rows.map((row) =>
-				visibleCols
-					.map((col) => {
-						const value = row.original[col.key];
-						const formatted = formatCellValue(value);
-						return formatted.includes(",") ? `"${formatted}"` : formatted;
-					})
-					.join(","),
-			)
-			.join("\n");
-		const csv = `${headers}\n${rows}`;
-		const blob = new Blob([csv], { type: "text/csv" });
-		const url = URL.createObjectURL(blob);
-		const a = document.createElement("a");
-		a.href = url;
-		a.download = "lacrosse-stats.csv";
-		a.click();
-		URL.revokeObjectURL(url);
-	}
-
 	function clearFilters() {
 		setColumnFilters([]);
 		setGlobalFilter("");
@@ -175,13 +160,75 @@ export function FilterableTable<T extends Record<string, unknown>>({
 
 	return (
 		<div className="space-y-4">
-			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+			<div className="flex flex-wrap items-center gap-2">
 				<Input
 					placeholder="Search all columns..."
 					value={globalFilter}
 					onChange={(e) => setGlobalFilter(e.target.value)}
-					className="max-w-sm"
+					className="w-48 sm:w-64"
 				/>
+				{selectFilterColumns.map((col) => {
+					const currentFilter = columnFilters.find((f) => f.id === col.key);
+					return (
+						<Select
+							key={col.key}
+							value={(currentFilter?.value as string) || ""}
+							onValueChange={(value) => {
+								if (value === "__all__") {
+									setColumnFilters((prev) =>
+										prev.filter((f) => f.id !== col.key),
+									);
+								} else {
+									setColumnFilters((prev) => {
+										const existing = prev.filter((f) => f.id !== col.key);
+										return [...existing, { id: col.key, value }];
+									});
+								}
+							}}
+						>
+							<SelectTrigger className="w-[180px]">
+								<SelectValue placeholder={`Filter by ${col.label}`} />
+							</SelectTrigger>
+							<SelectContent>
+								<SelectItem value="__all__">All {col.label}s</SelectItem>
+								{filterOptions[col.key]
+									?.filter((option) => option !== "")
+									.slice(0, 100)
+									.map((option) => (
+										<SelectItem key={option} value={option}>
+											{option}
+										</SelectItem>
+									))}
+							</SelectContent>
+						</Select>
+					);
+				})}
+				{minFilterColumns.map((col) => {
+					const currentFilter = columnFilters.find((f) => f.id === col.key);
+					return (
+						<Input
+							key={col.key}
+							type="number"
+							placeholder={`Min ${col.label}`}
+							value={(currentFilter?.value as string) ?? ""}
+							onChange={(e) => {
+								const val = e.target.value;
+								if (val === "") {
+									setColumnFilters((prev) =>
+										prev.filter((f) => f.id !== col.key),
+									);
+								} else {
+									setColumnFilters((prev) => {
+										const existing = prev.filter((f) => f.id !== col.key);
+										return [...existing, { id: col.key, value: val }];
+									});
+								}
+							}}
+							className="w-20"
+						/>
+					);
+				})}
+				<div className="flex-1" />
 				<div className="flex items-center gap-2">
 					{hasActiveFilters && (
 						<Button variant="ghost" size="sm" onClick={clearFilters}>
@@ -215,53 +262,8 @@ export function FilterableTable<T extends Record<string, unknown>>({
 							</DropdownMenuContent>
 						</DropdownMenu>
 					)}
-					<Button variant="outline" size="sm" onClick={exportToCSV}>
-						<Download className="mr-2 h-4 w-4" />
-						Export
-					</Button>
 				</div>
 			</div>
-
-			{filterableColumns.length > 0 && (
-				<div className="flex flex-wrap gap-2">
-					{filterableColumns.map((col) => {
-						const currentFilter = columnFilters.find((f) => f.id === col.key);
-						return (
-							<Select
-								key={col.key}
-								value={(currentFilter?.value as string) || ""}
-								onValueChange={(value) => {
-									if (value === "__all__") {
-										setColumnFilters((prev) =>
-											prev.filter((f) => f.id !== col.key),
-										);
-									} else {
-										setColumnFilters((prev) => {
-											const existing = prev.filter((f) => f.id !== col.key);
-											return [...existing, { id: col.key, value }];
-										});
-									}
-								}}
-							>
-								<SelectTrigger className="w-[180px]">
-									<SelectValue placeholder={`Filter by ${col.label}`} />
-								</SelectTrigger>
-								<SelectContent>
-									<SelectItem value="__all__">All {col.label}s</SelectItem>
-									{filterOptions[col.key]
-										?.filter((option) => option !== "")
-										.slice(0, 100)
-										.map((option) => (
-											<SelectItem key={option} value={option}>
-												{option}
-											</SelectItem>
-										))}
-								</SelectContent>
-							</Select>
-						);
-					})}
-				</div>
-			)}
 
 			<div className="rounded-md border">
 				<Table>

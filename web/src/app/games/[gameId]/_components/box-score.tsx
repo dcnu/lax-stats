@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import {
 	Table,
 	TableBody,
@@ -9,14 +9,81 @@ import {
 	TableHeader,
 	TableRow,
 } from "@/components/ui/table";
+import { Button } from "@/components/ui/button";
 import { PlayerLink, TeamLink } from "@/components/entity-link";
 import { formatTime, formatPct } from "@/lib/format";
 import type { Game, PlayerGameStats } from "@/lib/types";
 
+type SortMode = "points" | "name" | "jersey";
+
+function hasAnyStats(p: PlayerGameStats): boolean {
+	return (
+		p.goals !== 0 ||
+		p.assists !== 0 ||
+		p.points !== 0 ||
+		p.shots !== 0 ||
+		p.shots_on_goal !== 0 ||
+		p.ground_balls !== 0 ||
+		p.turnovers !== 0 ||
+		p.caused_turnovers !== 0 ||
+		p.faceoff_wins !== 0 ||
+		p.faceoffs_taken !== 0
+	);
+}
+
+function getLastName(name: string | null): string {
+	if (!name) return "";
+	const parts = name.split(" ");
+	return parts[parts.length - 1].toLowerCase();
+}
+
+function sortPlayers(players: PlayerGameStats[], mode: SortMode): PlayerGameStats[] {
+	return [...players].sort((a, b) => {
+		switch (mode) {
+			case "points":
+				return b.points - a.points;
+			case "name":
+				return getLastName(a.player_name).localeCompare(getLastName(b.player_name));
+			case "jersey": {
+				const aNum = a.jersey_number ?? Infinity;
+				const bNum = b.jersey_number ?? Infinity;
+				return aNum - bNum;
+			}
+		}
+	});
+}
+
 function FieldPlayersTable({ players }: { players: PlayerGameStats[] }) {
-	const sorted = [...players].sort((a, b) => b.points - a.points);
+	const [sortBy, setSortBy] = useState<SortMode>("points");
+	const filtered = players.filter(hasAnyStats);
+	const sorted = sortPlayers(filtered, sortBy);
 
 	return (
+		<div className="space-y-2">
+			<div className="flex items-center gap-2">
+				<span className="text-sm text-muted-foreground">Sort:</span>
+				<Button
+					variant={sortBy === "points" ? "secondary" : "ghost"}
+					size="sm"
+					onClick={() => setSortBy("points")}
+				>
+					Points
+				</Button>
+				<Button
+					variant={sortBy === "name" ? "secondary" : "ghost"}
+					size="sm"
+					onClick={() => setSortBy("name")}
+				>
+					Name
+				</Button>
+				<Button
+					variant={sortBy === "jersey" ? "secondary" : "ghost"}
+					size="sm"
+					onClick={() => setSortBy("jersey")}
+				>
+					Jersey
+				</Button>
+			</div>
 		<div className="rounded-md border">
 			<Table>
 				<TableHeader>
@@ -58,6 +125,7 @@ function FieldPlayersTable({ players }: { players: PlayerGameStats[] }) {
 					))}
 				</TableBody>
 			</Table>
+		</div>
 		</div>
 	);
 }

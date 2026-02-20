@@ -11,6 +11,7 @@ export function TeamStats({ stats }: { stats: PlayerSeasonStats[] }) {
 	}
 
 	const columns: ColumnConfig[] = [
+		{ key: "jersey_number", label: "#" },
 		{
 			key: "player_name",
 			label: "Player",

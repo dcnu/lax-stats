@@ -77,10 +77,14 @@ export async function getTeamPlayerStats(
 ): Promise<PlayerSeasonStats[]> {
 	const sql = getSql();
 	const rows = await sql`
-		SELECT *
-		FROM player_season_stats
-		WHERE team_id = ${teamId} AND season_id = ${seasonId}
-		ORDER BY points DESC
+		SELECT pss.*, ps.jersey_number
+		FROM player_season_stats pss
+		LEFT JOIN player_seasons ps
+			ON pss.player_id = ps.player_id
+			AND pss.team_id = ps.team_id
+			AND pss.season_id = ps.season_id
+		WHERE pss.team_id = ${teamId} AND pss.season_id = ${seasonId}
+		ORDER BY pss.points DESC
 	`;
 	return rows as unknown as PlayerSeasonStats[];
 }

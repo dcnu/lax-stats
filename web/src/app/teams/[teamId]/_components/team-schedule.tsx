@@ -4,6 +4,7 @@ import type { Game } from "@/lib/types";
 import { formatGameDate, formatRecord } from "@/lib/format";
 import { GameLink, TeamLink } from "@/components/entity-link";
 import { Badge } from "@/components/ui/badge";
+import { cn } from "@/lib/utils";
 import {
 	Table,
 	TableBody,
@@ -63,7 +64,7 @@ export function TeamSchedule({
 										<GameLink gameId={game.id} className="flex items-center gap-2">
 											<Badge
 												variant={isWin ? "default" : isLoss ? "destructive" : "secondary"}
-												className="w-5 text-center"
+												className={cn("w-5 text-center", isWin && "bg-emerald-600 text-white")}
 											>
 												{isWin ? "W" : isLoss ? "L" : "T"}
 											</Badge>
