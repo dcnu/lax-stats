@@ -121,7 +121,15 @@ def load_teams_to_database(teams: list, dry_run: bool = False):
 
 	print(f"Loading {len(teams)} teams to database...")
 
-	query = """
+	# Load existing (name, division_id) pairs to avoid creating duplicate entries
+	# when the same school gets a new numeric ID in a subsequent season.
+	existing_by_name: dict[tuple, str] = {}
+	with get_cursor() as cursor:
+		cursor.execute("SELECT id, name, division_id FROM lookup_teams")
+		for row in cursor.fetchall():
+			existing_by_name[(row["name"].lower().strip(), row["division_id"])] = row["id"]
+
+	insert_query = """
 		INSERT INTO lookup_teams (id, name, short_name, division_id)
 		VALUES (%s, %s, %s, %s)
 		ON CONFLICT (id) DO UPDATE SET
@@ -131,13 +139,20 @@ def load_teams_to_database(teams: list, dry_run: bool = False):
 	"""
 
 	loaded = 0
+	skipped = 0
 	with get_cursor() as cursor:
 		for team in teams:
+			key = (team["name"].lower().strip(), team["division_id"])
+			if key in existing_by_name and existing_by_name[key] != team["id"]:
+				skipped += 1
+				continue
 			cursor.execute(
-				query, (team["id"], team["name"], team["short_name"], team["division_id"])
+				insert_query, (team["id"], team["name"], team["short_name"], team["division_id"])
 			)
 			loaded += 1
 
+	if skipped:
+		print(f"Skipped {skipped} teams (name+division already exists with a different ID)")
 	print(f"Successfully loaded {loaded} teams")
 
 	# Show sample

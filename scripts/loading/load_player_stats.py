@@ -23,6 +23,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from utils.db import get_connection, parse_time_to_seconds, execute_query
 from utils.path_helpers import get_all_season_dirs
 from utils.roster_lookup import get_roster_mapping_cached, get_player_team
+from utils.pbp_parser import match_player_to_roster
 # tableIndex in player_stats.json: even (0,2) = away, odd (1,3) = home
 
 
@@ -64,6 +65,187 @@ def safe_float(value, default=None):
 		return float(value)
 	except (ValueError, TypeError):
 		return default
+
+
+def load_roster_for_teams(season_id: str, division: int, home_team_id: str, away_team_id: str, base_dir: str = "data") -> dict:
+	"""
+	Load full roster mapping for two teams.
+
+	Returns: {playerID: {name, teamID}}
+	"""
+	raw_path = Path(base_dir) / season_id / f"division{division}" / "raw" / "rosters.json"
+	if not raw_path.exists():
+		return {}
+
+	with open(raw_path, "r", encoding="utf-8") as f:
+		rosters = json.load(f)
+
+	result = {}
+	for team in rosters:
+		team_id = str(team.get("teamID", ""))
+		if team_id not in (home_team_id, away_team_id):
+			continue
+		for player in team.get("players", []):
+			player_id = player.get("playerID")
+			if player_id:
+				try:
+					result[int(player_id)] = {
+						"name": player.get("name", ""),
+						"teamID": team_id,
+					}
+				except (ValueError, TypeError):
+					continue
+	return result
+
+
+def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, data_dir: str = "data", skip_game_ids: set = None) -> list:
+	"""
+	Extract player stats from ncaa.com files for final games missing box scores.
+
+	ncaa.com format: away/home.players[] for field players, away/home.goalies[]
+	for goalies. No playerID — player names matched via roster.
+	"""
+	if not season_filter:
+		return []
+
+	division = division_filter or 1
+	data_path = Path(data_dir)
+	ncaa_dir = data_path / season_filter / f"division{division}" / "ncaa"
+	if not ncaa_dir.exists():
+		return []
+
+	# Discover ncaa stats files directly; filter out games already covered by games/ pass
+	available_ids = {
+		f.stem.split("_")[1]
+		for f in ncaa_dir.glob("game_*_player_stats.json")
+	}
+	if skip_game_ids:
+		available_ids -= skip_game_ids
+
+	if not available_ids:
+		return []
+
+	games = execute_query(
+		"SELECT id, home_team_id, away_team_id, season_id, division_id FROM games WHERE id = ANY(%s) AND status = 'final'",
+		(list(available_ids),),
+	)
+	if not games:
+		return []
+
+	print(f"Found {len(games)} ncaa-only final games with stats files...")
+
+	all_stats = []
+	roster_cache = {}
+	found = 0
+
+	for game in games:
+		game_id = str(game["id"])
+		stats_file = ncaa_dir / f"game_{game_id}_player_stats.json"
+
+		if not stats_file.exists():
+			continue
+
+		found += 1
+		try:
+			with open(stats_file, "r", encoding="utf-8") as f:
+				data = json.load(f)
+
+			home_team_id = game["home_team_id"]
+			away_team_id = game["away_team_id"]
+			div_id = game["division_id"]
+
+			roster_key = (season_filter, division, home_team_id, away_team_id)
+			if roster_key not in roster_cache:
+				roster_cache[roster_key] = load_roster_for_teams(
+					season_filter, division, home_team_id, away_team_id, data_dir
+				)
+			roster = roster_cache[roster_key]
+
+			for side, team_id in [("away", away_team_id), ("home", home_team_id)]:
+				side_data = data.get(side, {})
+
+				# Field players
+				for p in side_data.get("players", []):
+					name = p.get("Name", "").title()
+					if not name:
+						continue
+					player_id = match_player_to_roster(name, roster) if roster else None
+					if player_id is None:
+						print(f"Warning: no roster match for '{name}' in game {game_id}", file=sys.stderr)
+						continue
+
+					pos = normalize_position(p.get("POS", ""))
+					goals = safe_int(p.get("G"))
+					assists = safe_int(p.get("A"))
+					all_stats.append({
+						"game_id": game_id,
+						"player_id": player_id,
+						"season_id": season_filter,
+						"division_id": div_id,
+						"team_id": team_id,
+						"jersey_number": p.get("NO"),
+						"position": pos,
+						"minutes_played": None,
+						"goals": goals,
+						"assists": assists,
+						"points": goals + assists,
+						"shots": safe_int(p.get("SH")),
+						"shots_on_goal": safe_int(p.get("SOG")),
+						"ground_balls": safe_int(p.get("GB")),
+						"turnovers": 0,
+						"caused_turnovers": 0,
+						"faceoff_wins": 0,
+						"faceoffs_taken": 0,
+						"goalie_minutes": None,
+						"goals_allowed": 0,
+						"gaa": None,
+						"saves": 0,
+						"save_percentage": None,
+					})
+
+				# Goalies
+				for g in side_data.get("goalies", []):
+					name = g.get("Goalies", "").title()
+					if not name:
+						continue
+					player_id = match_player_to_roster(name, roster) if roster else None
+					if player_id is None:
+						print(f"Warning: no roster match for goalie '{name}' in game {game_id}", file=sys.stderr)
+						continue
+
+					all_stats.append({
+						"game_id": game_id,
+						"player_id": player_id,
+						"season_id": season_filter,
+						"division_id": div_id,
+						"team_id": team_id,
+						"jersey_number": None,
+						"position": normalize_position(g.get("POS", "")),
+						"minutes_played": None,
+						"goals": 0,
+						"assists": 0,
+						"points": 0,
+						"shots": 0,
+						"shots_on_goal": 0,
+						"ground_balls": 0,
+						"turnovers": 0,
+						"caused_turnovers": 0,
+						"faceoff_wins": 0,
+						"faceoffs_taken": 0,
+						# MIN is already in seconds in ncaa.com format
+						"goalie_minutes": safe_int(g.get("MIN")),
+						"goals_allowed": safe_int(g.get("GA")),
+						"gaa": None,
+						"saves": safe_int(g.get("SAVES")),
+						"save_percentage": None,
+					})
+
+		except Exception as e:
+			print(f"Warning: Error processing ncaa stats for game {game_id}: {e}", file=sys.stderr)
+			continue
+
+	print(f"Processed {found} ncaa player stats files, extracted {len(all_stats)} stat rows")
+	return all_stats
 
 
 def get_game_metadata(game_id: str):
@@ -341,6 +523,18 @@ def load_player_stats_to_database(player_stats: list, season_id: str = None, dry
 
 def load_player_seasons_to_database(player_seasons: list, season_id: str = None, dry_run: bool = False):
 	"""Load player_seasons records via COPY protocol."""
+	# Dedup by (player_id, season_id, division_id) — unique constraint; keep first (stats.ncaa.org priority)
+	seen = set()
+	deduped = []
+	for ps in player_seasons:
+		key = (ps["player_id"], ps["season_id"], ps.get("division_id", 1))
+		if key not in seen:
+			seen.add(key)
+			deduped.append(ps)
+	if len(deduped) < len(player_seasons):
+		print(f"Note: Removed {len(player_seasons) - len(deduped)} duplicate player-season records")
+	player_seasons = deduped
+
 	if dry_run:
 		print(f"DRY RUN: Would load {len(player_seasons)} player-season records")
 		return
@@ -385,6 +579,11 @@ def main():
 	args = parser.parse_args()
 
 	player_stats = extract_player_stats(args.data_dir, season_filter=args.season, division_filter=args.division)
+
+	if args.season:
+		covered = {s["game_id"] for s in player_stats}
+		ncaa_stats = extract_ncaa_player_stats(args.season, args.division, args.data_dir, skip_game_ids=covered)
+		player_stats.extend(ncaa_stats)
 
 	if not player_stats:
 		print("No player stats found", file=sys.stderr)

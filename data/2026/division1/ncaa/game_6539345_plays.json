@@ -1,0 +1,1668 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jake Marek at goalie for VIRGINIA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Connor Knight at goalie for RICHMOND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [15:00] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "Shot by RICHMOND Aidan O'Neil, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Robby Hopper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Johnny Hackett, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Ryan Duenkel (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Luke Spitzer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:36",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "0-1",
+    "score": "GOAL by RICHMOND Gavin Creo (FIRST GOAL), Assist by Jack Ricciardi, goal number 4 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [11:16] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Hudson Hausmann (caused by Brayden Penafeather-Stevenson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "1-1",
+    "score": "GOAL by VIRGINIA Truitt Sunderland, Assist by McCabe Millon, goal number 7 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [10:01] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Robby Hopper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Joey Terenzi, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Connor Kelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Michael Farrell (caused by Joey Terenzi).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Joey Terenzi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "2-1",
+    "score": "GOAL by VIRGINIA Ryan Colsey, Assist by Brendan Millon, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by RICHMOND, [08:33] Ground ball pickup by RICHMOND Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "2-2",
+    "score": "GOAL by RICHMOND Aidan O'Neil, Assist by Joe Sheridan, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [08:07] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:59",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Truitt Sunderland.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Truitt Sunderland (caused by Brayden Penafeather-Stevenson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "2-3",
+    "score": "GOAL by RICHMOND Daniel Picart, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by RICHMOND, [06:56] Ground ball pickup by RICHMOND Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "Shot by RICHMOND Lucas Littlejohn, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "3-3",
+    "score": "GOAL by VIRGINIA Ryan Duenkel, Assist by Ryan Colsey, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by VIRGINIA, [05:36] Ground ball pickup by VIRGINIA Robby Hopper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Shot by VIRGINIA McCabe Millon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "4-3",
+    "score": "GOAL by VIRGINIA Ryan Colsey, Assist by McCabe Millon, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by RICHMOND, [04:28] Ground ball pickup by RICHMOND Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "Timeout by RICHMOND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "Shot by RICHMOND Gavin Creo HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:04",
+    "home_event": "",
+    "score": "Timeout by RICHMOND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:58",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "Shot by RICHMOND Cole Hayden, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:28",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "4-4",
+    "score": "GOAL by RICHMOND Jack Ricciardi, Assist by Aidan O'Neil, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "Faceoff Henry Metz vs Vincent Gaylord won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Lindan Verville (caused by Jack Pilling).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by RICHMOND, [15:00] Ground ball pickup by RICHMOND Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Jack Ricciardi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "Shot by RICHMOND Gavin Creo, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "4-5",
+    "score": "GOAL by RICHMOND Jack Ricciardi, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [13:53] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ben Boyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Truitt Sunderland, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Luke Spitzer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "",
+    "score": "Shot by RICHMOND Tanner Huber WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Jake Marek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:08",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Matt Jacobsen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Matt Jacobsen (caused by Sean Browne).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Chase Band.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Sean Browne BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "Shot by RICHMOND Lucas Littlejohn WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "Shot by RICHMOND Jack Ricciardi WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "4-6",
+    "score": "GOAL by RICHMOND Aidan O'Neil, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:37",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by VIRGINIA, [09:37] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:51",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Duenkel, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:27",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "4-7",
+    "score": "GOAL by RICHMOND Aidan O'Neil, Assist by Brayden Penafeather-Stevenson, goal number 4 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by RICHMOND, [08:26] Ground ball pickup by RICHMOND Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "Shot by RICHMOND Tanner Huber, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "5-7",
+    "score": "GOAL by VIRGINIA McCabe Millon, Assist by Joey Terenzi, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:29",
+    "home_event": "",
+    "score": "Faceoff Henry Metz vs Vincent Gaylord won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "6-7",
+    "score": "GOAL by VIRGINIA McCabe Millon, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by VIRGINIA, [07:10] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Wills Burt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "7-7",
+    "score": "GOAL by VIRGINIA McCabe Millon, goal number 7 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Jackson Strickland won by RICHMOND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "",
+    "score": "Shot by RICHMOND Brayden Penafeather-Stevenson, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "",
+    "score": "Shot by RICHMOND Daniel Picart WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "",
+    "score": "Shot by RICHMOND Joe Sheridan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "7-8",
+    "score": "GOAL by RICHMOND Aidan O'Neil, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [05:09] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Connor Knight (caused by Ryan Duenkel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "7-9",
+    "score": "GOAL by RICHMOND Joe Sheridan, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by RICHMOND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "",
+    "score": "Shot by RICHMOND Joe Sheridan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Shot by RICHMOND Joe Sheridan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Shot by RICHMOND Aidan O'Neil WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:00",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Joey Terenzi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:58",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Joey Terenzi, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Henry Metz vs Vincent Gaylord won by RICHMOND, [15:00] Ground ball pickup by RICHMOND Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Jack Ricciardi (caused by Jake Marek).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Jake Marek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:11",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Ryan Duenkel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:05",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Brendan Millon, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "",
+    "score": "Shot by RICHMOND Joe Sheridan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "7-10",
+    "score": "GOAL by RICHMOND Aidan O'Neil, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by RICHMOND, [11:56] Ground ball pickup by RICHMOND Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "Shot by RICHMOND Aidan O'Neil, SAVE Jake Marek",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Jake Marek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:08",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Lindan Verville WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "7-11",
+    "score": "GOAL by RICHMOND Daniel Picart, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Kyle Morris at goalie for VIRGINIA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Jackson Strickland won by RICHMOND, [10:31] Ground ball pickup by RICHMOND Jackson Strickland.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "7-12",
+    "score": "GOAL by RICHMOND Joe Sheridan, Assist by Gavin Creo, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "Faceoff Andrew Greenspan vs Jackson Strickland won by VIRGINIA, [09:46] Ground ball pickup by VIRGINIA Wills Burt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:28",
+    "home_event": "",
+    "score": "Penalty on RICHMOND Jack Pilling (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "",
+    "score": "Shot by VIRGINIA McCabe Millon HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Tim Myers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Truitt Sunderland WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "Shot by VIRGINIA McCabe Millon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Tim Myers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "7-13",
+    "score": "GOAL by RICHMOND Gavin Creo, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [06:41] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Griff Meyer (caused by Brayden Penafeather-Stevenson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "7-14",
+    "score": "GOAL by RICHMOND Joe Sheridan, Assist by Daniel Picart, goal number 7 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Faceoff Henry Metz vs Anthony DiCenso won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Ryan Thompson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "8-14",
+    "score": "GOAL by VIRGINIA Ryan Duenkel, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Jackson Strickland won by VIRGINIA, [04:59] Ground ball pickup by VIRGINIA Griff Meyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "9-14",
+    "score": "GOAL by VIRGINIA Chase Band, Assist by McCabe Millon, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Truitt Sunderland (caused by Michael Farrell).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Truitt Sunderland, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Charlie Packard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "9-15",
+    "score": "GOAL by RICHMOND Daniel Picart, goal number 4 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by RICHMOND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "Shot by RICHMOND Gavin Creo, SAVE Kyle Morris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Michael Meredith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:46",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "10-15",
+    "score": "GOAL by VIRGINIA Brendan Millon, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Faceoff Andrew Greenspan vs Vincent Gaylord won by RICHMOND, [00:20] Ground ball pickup by RICHMOND Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "Shot by RICHMOND Aidan O'Neil, SAVE Kyle Morris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Joey Terenzi, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Jackson Strickland won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Truitt Sunderland, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "Shot by RICHMOND Lucas Littlejohn, SAVE Kyle Morris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:34",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "11-15",
+    "score": "GOAL by VIRGINIA Brendan Millon, Assist by Ryan Colsey, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA, [12:00] Ground ball pickup by VIRGINIA Robby Hopper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA McCabe Millon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Michael Meredith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "12-15",
+    "score": "GOAL by VIRGINIA McCabe Millon, goal number 8 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Vincent Gaylord won by VIRGINIA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Charles Balsamo (caused by Michael Farrell).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Connor Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "12-16",
+    "score": "GOAL by RICHMOND Charlie Packard, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by VIRGINIA, [07:46] Ground ball pickup by VIRGINIA Joey Terenzi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Ryan Colsey (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:12",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Shot by RICHMOND Lucas Littlejohn BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Joe Sheridan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "12-17",
+    "score": "GOAL by RICHMOND Joe Sheridan, goal number 8 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by RICHMOND, [06:17] Ground ball pickup by RICHMOND Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Aidan O'Neil (caused by Michael Meredith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Kyle Morris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Chase Band, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "12-18",
+    "score": "GOAL by RICHMOND Jack Pilling, Assist by Ryan Thompson, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "",
+    "score": "Faceoff Griff Meyer vs Anthony DiCenso won by VIRGINIA, [04:12] Ground ball pickup by VIRGINIA Robby Hopper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VIRGINIA Ryan Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Ground ball pickup by RICHMOND Connor Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "Shot by RICHMOND Joe Sheridan, SAVE Kyle Morris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Luke Hublitz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA Tommy Snyder.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Shot by VIRGINIA McCabe Millon, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Ground ball pickup by VIRGINIA McCabe Millon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Ryan Colsey, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Clear attempt by RICHMOND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RICHMOND Charlie Packard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Clear attempt by VIRGINIA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Shot by VIRGINIA Joey Terenzi, SAVE Connor Knight",
+    "away_event": ""
+  }
+]

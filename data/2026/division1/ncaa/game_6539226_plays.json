@@ -1,0 +1,1542 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Brendan Donnelly at goalie for DREXEL.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Connor McMahon at goalie for UMBC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [15:00] Ground ball pickup by UMBC Justin Webber.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "",
+    "score": "Shot by UMBC Connor Chick BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Connor McVicker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "1-0",
+    "score": "GOAL by DREXEL Witt Crawford (FIRST GOAL), Assist by Alec Tulio, goal number  for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:25",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [13:25] Ground ball pickup by UMBC Dylan Sharpe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Dylan Sharpe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Pat Lyman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:53",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "1-1",
+    "score": "GOAL by UMBC Jameson Coffman, Assist by Dante Marinello.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:40",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Drew Lapointe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Liam Luzza (caused by Justin Webber).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "",
+    "score": "Penalty on DREXEL Pat Lyman (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "Shot by UMBC Ryan Demato BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "1-2",
+    "score": "GOAL by UMBC Zack Johnson (MAN-UP), Assist by Xander Maxwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "2-2",
+    "score": "GOAL by DREXEL Witt Crawford, Assist by Jack Joyner.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Paulo Vazquez won by DREXEL.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "",
+    "score": "Shot by DREXEL Jack Joyner WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "3-2",
+    "score": "GOAL by DREXEL Gavin Kelly, Assist by Owen Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "4-2",
+    "score": "GOAL by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [07:28] Ground ball pickup by UMBC Justin Webber.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Justin Webber.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "Shot by DREXEL Caden Zadell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Owen Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "",
+    "score": "Shot by DREXEL Jack Joyner WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "Shot by DREXEL Gavin Kelly BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Alec Tulio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Shot by DREXEL Witt Crawford, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Hendrix.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:48",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "4-3",
+    "score": "GOAL by UMBC Xander Maxwell, Assist by Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [05:19] Ground ball pickup by DREXEL Trent Layton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Alec Tulio (caused by Dante Marinello).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Drew Lapointe (caused by Ryan Lowe).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "Penalty on UMBC Casey Pung (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "5-3",
+    "score": "GOAL by DREXEL Owen Knight (MAN-UP), Assist by Ty Gougler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "",
+    "score": "Shot by UMBC Corey Myers, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Shot by UMBC Corey Myers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Xander Maxwell (caused by Liam Kammar).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "",
+    "score": "Timeout by UMBC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Xander Maxwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Conner Layden (caused by Jack Wallace).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:38",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "Shot by DREXEL Jack Joyner WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Pat Lyman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Jameson Coffman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "",
+    "score": "Shot by UMBC Casey Pung, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Shot by DREXEL Luke Carden WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Shot by UMBC Connor McMahon, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [15:00] Ground ball pickup by UMBC Dylan Hendrix.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "5-4",
+    "score": "GOAL by UMBC Jake Kucinski, Assist by Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [14:12] Ground ball pickup by DREXEL Luke Carden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Luke Carden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:25",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Jack Nolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:20",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Alec Tulio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:15",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Gavin Kelly (caused by Jameson Coffman).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Jake Kucinski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "Timeout by DREXEL.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "",
+    "score": "Shot by DREXEL Caden Zadell BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Ty Gougler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:36",
+    "home_event": "",
+    "score": "Shot by DREXEL Gavin Kelly, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Hendrix.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "",
+    "score": "Shot by UMBC Connor Chick HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "Shot by UMBC Ryan Demato HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "",
+    "score": "Shot by UMBC Ryan Demato WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:21",
+    "home_event": "",
+    "score": "Shot by UMBC Jake Kucinski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "Shot by UMBC Connor Chick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "30-second clock violation by UMBC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Jack Joyner (caused by Gavin Batelka).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Connor McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:41",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "",
+    "score": "Shot by UMBC Jameson Coffman BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Shot by UMBC Jake Kucinski HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Luke Carden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Luke Carden (caused by Casey Pung).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Gavin Batelka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Brendan Donnelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "6-4",
+    "score": "GOAL by DREXEL Owen Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [05:52] Ground ball pickup by DREXEL Trent Layton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "Shot by DREXEL Alec Tulio HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Owen Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Sharpe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Shot by UMBC Zach Coyle, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "7-4",
+    "score": "GOAL by DREXEL Alec Tulio, Assist by Jack Joyner.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [04:07] Ground ball pickup by UMBC Dylan Hendrix.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:51",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Hendrix.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Sharpe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Ryan Demato.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "Shot by DREXEL Gavin Kelly, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Shot by UMBC Ryan Demato, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "Penalty on UMBC Nick Gutierrez (INTERFERENCE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "",
+    "score": "Shot by DREXEL Gavin Kelly, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Connor McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by UMBC Xander Maxwell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Alex Steers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Jameson Coffman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "",
+    "score": "Clear attempt by UMBC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "8-4",
+    "score": "GOAL by DREXEL Caden Zadell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [13:44] Ground ball pickup by UMBC Casey Pung.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Alex Steers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "",
+    "score": "Shot by UMBC Casey Pung WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Caden Zadell (caused by Dylan Sharpe).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:28",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dylan Sharpe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:25",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "8-5",
+    "score": "GOAL by UMBC Jake Kucinski, Assist by Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [11:34] Ground ball pickup by DREXEL Patrick Quinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:24",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Alec Tulio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "Shot by DREXEL Alec Tulio BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Alec Tulio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "30-second clock violation by DREXEL.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "Shot by UMBC Xander Maxwell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Brendan Donnelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "Shot by DREXEL Jack Joyner, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "Shot by UMBC Logan Duffy, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Caden Zadell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Dante Marinello.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:31",
+    "home_event": "",
+    "score": "Shot by DREXEL Corby Tecu HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "",
+    "score": "Penalty on UMBC Jameson Coffman (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "Shot by DREXEL Alec Tulio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "Shot by DREXEL Alec Tulio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "",
+    "score": "Shot by DREXEL Jack Joyner HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Clear attempt by UMBC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "Shot by UMBC Nathan Ward WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Ground ball pickup by UMBC Conner Layden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "8-6",
+    "score": "GOAL by UMBC Conner Layden, Assist by Zach Coyle.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [03:01] Ground ball pickup by UMBC Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "8-7",
+    "score": "GOAL by UMBC Nick Gutierrez, Assist by Ryan Demato.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [02:09] Ground ball pickup by DREXEL Witt Crawford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "Shot by DREXEL Alec Tulio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "Shot by DREXEL Caden Zadell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Ryan Demato (caused by Jack Nolan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "Shot by DREXEL Liam Kammar, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "Penalty on UMBC Nick Gutierrez (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:58",
+    "home_event": "",
+    "score": "Shot by DREXEL Owen Knight, SAVE Connor McMahon",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "9-7",
+    "score": "GOAL by DREXEL Jack Joyner.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [12:35] Ground ball pickup by UMBC Alex Steers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:50",
+    "home_event": "",
+    "score": "Shot by UMBC Jack Fish WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Connor Chick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "9-8",
+    "score": "GOAL by UMBC Jack Fish, Assist by Jake Kucinski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC, [10:38] Ground ball pickup by UMBC Gavin Batelka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "10-8",
+    "score": "GOAL by DREXEL Witt Crawford, Assist by Caden Zadell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [09:26] Ground ball pickup by DREXEL Trent Layton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "11-8",
+    "score": "GOAL by DREXEL Owen Knight, Assist by Witt Crawford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by UMBC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "Shot by UMBC Corey Myers, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Luke Carden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Pat Lyman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "12-8",
+    "score": "GOAL by DREXEL Ty Gougler, Assist by Connor McVicker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "Timeout by UMBC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:26",
+    "home_event": "",
+    "score": "Faceoff Sam Di vs Alex Steers won by UMBC, [08:26] Ground ball pickup by UMBC Corey Myers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "Shot by UMBC Corey Myers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "Shot by UMBC Connor Chick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "Shot by UMBC Connor Chick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "Shot by UMBC Nathan Ward, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Jake Kucinski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "13-8",
+    "score": "GOAL by DREXEL Owen Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [05:10] Ground ball pickup by DREXEL Nate Bradley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "14-8",
+    "score": "GOAL by DREXEL Jack Joyner.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [04:20] Ground ball pickup by DREXEL Trent Layton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "15-8",
+    "score": "GOAL by DREXEL Ty Gougler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "Faceoff Trent Layton vs Alex Steers won by DREXEL, [02:56] Ground ball pickup by DREXEL Jack Nolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Ryan Lowe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Ryan Lowe (caused by Drew Lapointe).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UMBC Connor Chick (caused by Liam Kammar).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Liam Kammar.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "Clear attempt by DREXEL good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DREXEL Ryan Lowe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Shot by UMBC Jake Kucinski, SAVE Brendan Donnelly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Ground ball pickup by DREXEL Jack Wallace.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "Penalty on UMBC Jameson Coffman (UNNECESSARY ROUGHNESS/1:00).",
+    "away_event": ""
+  }
+]

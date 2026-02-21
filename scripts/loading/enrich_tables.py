@@ -72,7 +72,7 @@ STEPS = [
 		"""UPDATE games SET
 			winning_team_id = CASE WHEN home_score > away_score THEN home_team_id WHEN away_score > home_score THEN away_team_id ELSE NULL END,
 			losing_team_id = CASE WHEN home_score > away_score THEN away_team_id WHEN away_score > home_score THEN home_team_id ELSE NULL END
-		WHERE status = 'final' AND winning_team_id IS NULL""",
+		WHERE status = 'final'""",
 	),
 	(
 		"Populate games running records",
@@ -165,6 +165,7 @@ STEPS = [
 			ROUND(SUM(pgs.faceoff_wins)::NUMERIC / NULLIF(SUM(pgs.faceoffs_taken), 0), 4),
 			ROUND(SUM(pgs.saves)::NUMERIC / NULLIF(SUM(pgs.saves) + SUM(pgs.goals_allowed), 0), 4)
 		FROM player_game_stats pgs
+		JOIN players p ON p.id = pgs.player_id
 		LEFT JOIN (
 			SELECT DISTINCT ON (player_id) player_id, primary_position
 			FROM player_seasons ORDER BY player_id, season_id DESC

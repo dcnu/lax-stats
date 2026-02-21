@@ -1,0 +1,1675 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Galfano Jaden at goalie for MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "James Carr at goalie for BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by BRYANT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Luca Elmaleh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "1-0",
+    "score": "GOAL by MERRIMAC Kruger Colin (FIRST GOAL), Assist by Salva Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [14:16] Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "2-0",
+    "score": "GOAL by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [14:04] Ground ball pickup by MERRIMAC Welch Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Hemburger Alystair.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "Penalty on MERRIMAC Kruger Colin (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Max Dantona.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "30-second clock violation by BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Dougherty Finn HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Delpointe Logan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Dougherty Finn HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Salva Jack (caused by Luke Krebs).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Brayden Fuller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Dawson Rielly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [06:20] Ground ball pickup by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:08",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "2-1",
+    "score": "GOAL by BRYANT Caden Lennon, Assist by Owen West.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "Shot by BRYANT Kyle Fedorcha WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "Shot by BRYANT Caden Lennon, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Herod Casey, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "3-1",
+    "score": "GOAL by MERRIMAC Tyra Rob, Assist by Kruger Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "",
+    "score": "Faceoff Peterson Tyler vs Jordan Hernando won by BRYANT, [06:18] Ground ball pickup by BRYANT Jordan Hernando.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Shot by BRYANT Jordan Hernando WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Luca Elmaleh (caused by Mattera Brayden).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Mattera Brayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Harty Brendan, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Dougherty Finn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Salva Jack HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Salva Jack, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:12",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "Penalty on MERRIMAC Salva Jack (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "Shot by BRYANT Max Dantona, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:26",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Savino John.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Galfano Jaden, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:21",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Caden Lennon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Caden Lennon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "3-2",
+    "score": "GOAL by BRYANT Caden Lennon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by BRYANT, [01:26] Ground ball pickup by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "Penalty on MERRIMAC Izzo Antonio (TRIPPING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by BRYANT, [15:00] Ground ball pickup by BRYANT Dawson Rielly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:49",
+    "home_event": "",
+    "score": "Shot by BRYANT Owen West WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:39",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Max Dantona.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:23",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Mattera Brayden (caused by Zac Amend).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Zac Amend.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "Shot by BRYANT Richie Reid WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "Timeout by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Caden Lennon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Caden Lennon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Salva Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Hemburger Alystair (caused by Jack McCloskey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:21",
+    "home_event": "",
+    "score": "Shot by BRYANT Max Dantona WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "3-3",
+    "score": "GOAL by BRYANT Zac Amend.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by BRYANT, [09:15] Ground ball pickup by BRYANT Trevor Preston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "Shot by BRYANT Caden Lennon HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Patrick Walsh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Owen West (caused by Izzo Antonio).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Masso Cooper (caused by Dawson Rielly).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Tyra Rob, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Jack McCloskey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Krebs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Harty Brendan (caused by Jack McCloskey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Krebs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "Shot by BRYANT Caden Lennon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "30-second clock violation by BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Deleo Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Dougherty Finn WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:40",
+    "home_event": "",
+    "score": "Timeout by BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "4-3",
+    "score": "GOAL by MERRIMAC Dougherty Finn, Assist by Harty Brendan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [01:33] Ground ball pickup by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Tyra Rob, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Krebs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "Shot by BRYANT Richie Reid WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "",
+    "score": "Shot by BRYANT Richie Reid, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:17",
+    "home_event": "",
+    "score": "Shot by BRYANT Max Dantona, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Butters Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Timeout by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [15:00] Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Masso Cooper (caused by JT Werkmeister).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:37",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:47",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Savino John (caused by Luke Krebs).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:35",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Jack McCloskey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Luke Mead (caused by Tyra Rob).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Izzo Antonio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:50",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Herod Casey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "5-3",
+    "score": "GOAL by MERRIMAC Kruger Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by BRYANT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "5-4",
+    "score": "GOAL by BRYANT Max Dantona.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "Faceoff Peterson Tyler vs Jordan Hernando won by MERRIMAC, [10:44] Ground ball pickup by MERRIMAC Mattera Brayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Dougherty Finn (caused by Tiernan Lathrop).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Tiernan Lathrop.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "Shot by BRYANT Luca Elmaleh WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luca Elmaleh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Patrick Walsh (caused by Rehder Cody).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Galfano Jaden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Herod Casey BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "Shot by BRYANT Owen West WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "Shot by BRYANT Kyle Fedorcha WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "Penalty on MERRIMAC Beitner Reid (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Shot by BRYANT Patrick Walsh WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Owen West.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Salva Jack (caused by Brayden Fuller).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Tiernan Lathrop.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Tiernan Lathrop (caused by Galfano Jaden).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "6-4",
+    "score": "GOAL by MERRIMAC Kruger Colin, Assist by Herod Casey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by MERRIMAC, [03:03] Ground ball pickup by MERRIMAC Kruger Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "Timeout by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Herod Casey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Savino John, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:51",
+    "home_event": "",
+    "score": "Shot by BRYANT Kyle Fedorcha WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [15:00] Ground ball pickup by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:55",
+    "home_event": "7-4",
+    "score": "GOAL by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:55",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by BRYANT, [14:55] Ground ball pickup by BRYANT JJ Murphy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Galfano Jaden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Herod Casey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Shot by MERRIMAC Herod Casey, SAVE James Carr",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "Shot by BRYANT Owen West WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Kyle Fedorcha.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "Penalty on BRYANT Patrick Walsh (CONDUCT FOUL/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "8-4",
+    "score": "GOAL by MERRIMAC Savino John (MAN-UP), Assist by Herod Casey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:56",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [11:56] Ground ball pickup by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:44",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Butters Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:40",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Galfano Jaden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT John Tomsheck.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "8-5",
+    "score": "GOAL by BRYANT Zac Amend.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by MERRIMAC (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Harty Brendan (caused by JT Werkmeister).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:20",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Sam Klein.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Butters Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "9-5",
+    "score": "GOAL by MERRIMAC Tyra Rob.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [08:20] Ground ball pickup by MERRIMAC Mattera Brayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Mattera Brayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Richie Reid.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "",
+    "score": "Shot by BRYANT Zac Amend WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "",
+    "score": "Shot by BRYANT Richie Reid, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "",
+    "score": "Shot by BRYANT Kyle Fedorcha, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Owen West.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Shot by BRYANT Kyle Fedorcha, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "10-5",
+    "score": "GOAL by MERRIMAC Savino John, Assist by Mattera Brayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "Timeout by BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:41",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by BRYANT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "11-5",
+    "score": "GOAL by MERRIMAC Kruger Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs Jordan Hernando won by MERRIMAC, [05:44] Ground ball pickup by MERRIMAC Salva Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:45",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "Shot by BRYANT Sam Klein, SAVE Galfano Jaden",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:04",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Jack McCloskey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Owen West (caused by Welch Patrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Masso Cooper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "Timeout by BRYANT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Dougherty Finn (caused by Jack McCloskey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "11-6",
+    "score": "GOAL by BRYANT Dawson Rielly, Assist by Zac Amend.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by MERRIMAC, [03:07] Ground ball pickup by MERRIMAC Berzrutchenko Daniel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERRIMAC Berzrutchenko Daniel (caused by Richie Reid).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Ground ball pickup by BRYANT Luke Mead.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "Clear attempt by BRYANT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "Shot by BRYANT Dawson Rielly WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BRYANT Patrick Walsh (caused by Butters Colin).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:33",
+    "home_event": "12-6",
+    "score": "GOAL by MERRIMAC Herod Casey, Assist by Hemburger Alystair.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "Ground ball pickup by MERRIMAC Parker Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "",
+    "score": "Clear attempt by MERRIMAC good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by BRYANT, [02:00] Ground ball pickup by BRYANT Team.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "13-6",
+    "score": "GOAL by MERRIMAC Harty Brendan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "",
+    "score": "Faceoff Berzrutchenko Daniel vs JJ Murphy won by BRYANT, [00:33] Ground ball pickup by BRYANT John Tomsheck.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "Shot by BRYANT Patrick Walsh WIDE",
+    "away_event": ""
+  }
+]

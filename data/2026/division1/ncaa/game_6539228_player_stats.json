@@ -1,0 +1,542 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "9",
+        "Name": "JACK WALLACE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "29",
+        "Name": "PAT LYMAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "7",
+        "Name": "ALEC TULIO",
+        "POS": "",
+        "G": "2",
+        "A": "1",
+        "SH": "3",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "30",
+        "Name": "BRENDAN DONNELLY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "39",
+        "Name": "OWEN KNIGHT",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "7",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "42",
+        "Name": "GAVIN KELLY",
+        "POS": "",
+        "G": "0",
+        "A": "2",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "13",
+        "Name": "JACK JOYNER",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "2"
+      },
+      {
+        "NO": "11",
+        "Name": "CADEN ZADELL",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "51",
+        "Name": "LUKE CARDEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "WITT CRAWFORD",
+        "POS": "",
+        "G": "4",
+        "A": "0",
+        "SH": "5",
+        "SOG": "4",
+        "GB": "3"
+      },
+      {
+        "NO": "25",
+        "Name": "CORBY TECU",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "20",
+        "Name": "TY GOUGLER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "28",
+        "Name": "LIAM KAMMAR",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "4",
+        "Name": "LUKE MINGIONI",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "LIAM LUZZA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "26",
+        "Name": "RYAN BAIK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "35",
+        "Name": "NATE BRADLEY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "77",
+        "Name": "LINCOLN WALL",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "38",
+        "Name": "TRENT LAYTON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "1",
+        "Name": "CONNOR MCVICKER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "JACK NOLAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "5"
+      },
+      {
+        "NO": "71",
+        "Name": "RYAN LOWE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "44",
+        "Name": "SAM DI",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "14",
+        "Name": "KAI TODD",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "55",
+        "Name": "PATRICK QUINN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "12",
+        "Name": "KEVIN O\u2019BRIEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "15",
+        "Name": "TEDDY LUTHY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      }
+    ],
+    "goalies": []
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "30",
+        "Name": "JOE DOHERTY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "34",
+        "Name": "JOSHUA HEANEY",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "8",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "23",
+        "Name": "CHARLIE FOLEY",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "4",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "27",
+        "Name": "AIDAN KOPEN",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "3"
+      },
+      {
+        "NO": "12",
+        "Name": "GEORGE URICH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "15",
+        "Name": "JOSEPH DUGGAN",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "2"
+      },
+      {
+        "NO": "14",
+        "Name": "NICHOLAS BLALOCK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "8",
+        "Name": "NOAH BLINKOFF",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "",
+        "Name": "ANDREW MATARESE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "BENJAMIN DIBATTISTA",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "8",
+        "SOG": "4",
+        "GB": "4"
+      },
+      {
+        "NO": "31",
+        "Name": "MATT MORELLI",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "33",
+        "Name": "BRENDAN POIRIER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "77",
+        "Name": "JETT KLASSEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "37",
+        "Name": "NICK FACCONE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "36",
+        "Name": "JOHN FINKELDIE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "21",
+        "Name": "CHARLIE MERRICK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "24",
+        "Name": "PJ HODGE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "28",
+        "Name": "SEAN DICZOK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "55",
+        "Name": "ERIK VOLFSON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "11",
+        "Name": "RYAN NATHAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "88",
+        "Name": "CHRISTIAN TAPIA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "7",
+        "Name": "JACK MASSOTTO",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "5"
+      },
+      {
+        "NO": "1",
+        "Name": "NICK MULLER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "2",
+        "Name": "JACK IRISH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "COOPER PASKO",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "3",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "6",
+        "Name": "ZACH ZUKOWSKY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      }
+    ],
+    "goalies": []
+  }
+}

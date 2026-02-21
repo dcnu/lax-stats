@@ -150,6 +150,15 @@ def main():
 	if not ok:
 		sys.exit(1)
 
+	# Step 10: Compute rankings (RPI, Massey, projected RPI)
+	ok = run(
+		[py, "-m", "scripts.rankings.compute_rankings", "--season", s],
+		"Computing rankings",
+		args.dry_run,
+	)
+	if not ok:
+		sys.exit(1)
+
 	print()
 	print("=== Sync complete ===")
 

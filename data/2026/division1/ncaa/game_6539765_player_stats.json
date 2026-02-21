@@ -1,0 +1,722 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "25",
+        "Name": "REHDER CODY",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "47",
+        "Name": "KULTURIDES ANTHONY",
+        "POS": "GOALKEEPER",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "SAVINO JOHN",
+        "POS": "*",
+        "G": "0",
+        "A": "0",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "26",
+        "Name": "BERZRUTCHENK DANIEL",
+        "POS": "*",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "9"
+      },
+      {
+        "NO": "28",
+        "Name": "NAPOLITANO EVAN",
+        "POS": "*",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "14",
+        "Name": "BUTTERS COLIN",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "16",
+        "Name": "SALVA JACK",
+        "POS": "*",
+        "G": "0",
+        "A": "2",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "37",
+        "Name": "BEITNER REID",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "2"
+      },
+      {
+        "NO": "39",
+        "Name": "HEMBURGER ALYSTAIR",
+        "POS": "*",
+        "G": "2",
+        "A": "0",
+        "SH": "6",
+        "SOG": "3",
+        "GB": "2"
+      },
+      {
+        "NO": "51",
+        "Name": "HEROD CASEY",
+        "POS": "*",
+        "G": "1",
+        "A": "0",
+        "SH": "6",
+        "SOG": "5",
+        "GB": "0"
+      },
+      {
+        "NO": "21",
+        "Name": "NOONE CONOR",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "9",
+        "Name": "YOUNGER JOSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "43",
+        "Name": "DELLA VALLEBENNETT",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "42",
+        "Name": "HENRY GAVAN",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "45",
+        "Name": "MARTINDALE NOLAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "22",
+        "Name": "LAURENDEAU AIDEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "44",
+        "Name": "IZZO ANTONIO",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "88",
+        "Name": "DALONZO JESSE",
+        "POS": "GOALKEEPER",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "6",
+        "Name": "FIELD MAX",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "24",
+        "Name": "DOUGHERTY FINN",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "27",
+        "Name": "KRONEN KADE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "FLINT TATE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "29",
+        "Name": "MATTERA BRAYDEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "32",
+        "Name": "COWAN RYAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "31",
+        "Name": "BACKMAN INDI",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "12",
+        "Name": "TYRA ROB",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "55",
+        "Name": "COVEY BRADY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "11",
+        "Name": "DELEO JACK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "33",
+        "Name": "MASSO COOPER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "77",
+        "Name": "DELPOINTE LOGAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "13",
+        "Name": "KRUGER COLIN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "38",
+        "Name": "WELCH PATRICK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "15",
+        "Name": "MASKLOWSKI LUKE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "17",
+        "Name": "BUONOMO RYAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "PETERSON TYLER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "1",
+        "Name": "JACONI CARMINE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "HARTY BRENDAN",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      }
+    ],
+    "goalies": []
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "33",
+        "Name": "ZACH AUBLE",
+        "POS": "M",
+        "G": "0",
+        "A": "1",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "77",
+        "Name": "JIMMY ELLIOTT",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "11",
+        "Name": "WILL MORSE",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "32",
+        "Name": "TJ CASEY",
+        "POS": "FO",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "35",
+        "Name": "OWEN SALANGER",
+        "POS": "GK",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "37",
+        "Name": "KYLE SWANSON",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "14",
+        "Name": "AIDEN DRUNSIC",
+        "POS": "ATT",
+        "G": "1",
+        "A": "1",
+        "SH": "6",
+        "SOG": "1",
+        "GB": "2"
+      },
+      {
+        "NO": "20",
+        "Name": "RYAN MOURAD",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "47",
+        "Name": "ROBBIE GRANARA",
+        "POS": "*",
+        "G": "2",
+        "A": "2",
+        "SH": "8",
+        "SOG": "5",
+        "GB": "2"
+      },
+      {
+        "NO": "2",
+        "Name": "JACK TUROWSKY",
+        "POS": "M",
+        "G": "1",
+        "A": "1",
+        "SH": "9",
+        "SOG": "3",
+        "GB": "1"
+      },
+      {
+        "NO": "31",
+        "Name": "RYAN MAZZARIELLO",
+        "POS": "GK",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "8",
+        "Name": "CHARLES KURTZ",
+        "POS": "ATT",
+        "G": "3",
+        "A": "0",
+        "SH": "6",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "10",
+        "Name": "MAX CRANE",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "7",
+        "Name": "JACK PETERS",
+        "POS": "M",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "13",
+        "Name": "THOMAS BAGNALL",
+        "POS": "M",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "6",
+        "Name": "MICHAEL FINNERTY",
+        "POS": "M",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "34",
+        "Name": "LIAM MAHER",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "JAMES WADDELL",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "15",
+        "Name": "MICHAEL CALVO",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "4",
+        "Name": "BLAISE NEW",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "GAVIN BEGONIA",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "39",
+        "Name": "RYAN WIECZOREK",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "ROB TRAVERS",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "ZACK WAXMAN",
+        "POS": "ATT",
+        "G": "0",
+        "A": "1",
+        "SH": "3",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "41",
+        "Name": "COLIN COYLE",
+        "POS": "ATT",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "88",
+        "Name": "NICHOLAS CUNNINGHAM",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "44",
+        "Name": "RUSS HUTCHINSON",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "22",
+        "Name": "ZANDER JOHNSON",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "21",
+        "Name": "MATTHEW CARGIULO",
+        "POS": "M",
+        "G": "2",
+        "A": "1",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "24",
+        "Name": "LUCA CUOZZO",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "23",
+        "Name": "LUCA DUVA",
+        "POS": "ATT",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "26",
+        "Name": "DYLAN JOHNSON",
+        "POS": "M",
+        "G": "2",
+        "A": "1",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "25",
+        "Name": "TYLER CLAYTON",
+        "POS": "M",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "27",
+        "Name": "BRIAN JACKMAN",
+        "POS": "M",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      }
+    ],
+    "goalies": []
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "gameID": "6538997",
+    "error": "Timed out waiting for box score table to render"
+  },
+  {
+    "gameID": "6539588",
+    "error": "Box score extraction failed: No stat tables found. Inspect DOM to verify selectors."
+  }
+]

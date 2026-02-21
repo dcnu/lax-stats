@@ -1,0 +1,1549 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Lucas Winger at goalie for LEMOYNE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Ryan Della at goalie for JACKSONV.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Zane Czeschin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "0-1",
+    "score": "GOAL by JACKSONV Zane Czeschin (FIRST GOAL), Assist by Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Drew Rippeon won by JACKSONV, [13:44] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "Shot by JACKSONV Henry Fleckner, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:29",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:49",
+    "home_event": "",
+    "score": "Shot by JACKSONV Daylin John-Hill, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Zane Czeschin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "Shot by JACKSONV Tate Jones WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Lucas Winger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "0-2",
+    "score": "GOAL by JACKSONV Kai Smith, Assist by Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Drew Rippeon won by JACKSONV, [09:36] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Caleb Barnard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:42",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "0-3",
+    "score": "GOAL by JACKSONV Nicky Brown, Assist by Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV, [07:23] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Billy Savage.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Billy Savage (caused by Nicky Brown).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "0-4",
+    "score": "GOAL by JACKSONV Zane Czeschin, Assist by William Krupsky.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:28",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by LEMOYNE, [05:28] Ground ball pickup by LEMOYNE Caleb Barnard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Conner Vaughn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "0-5",
+    "score": "GOAL by JACKSONV Tate Jones, Assist by Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "",
+    "score": "Shot by JACKSONV Nicky Brown, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Daylin John-Hill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "0-6",
+    "score": "GOAL by JACKSONV Kai Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Drew Rippeon won by JACKSONV, [02:14] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Daylin John-Hill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "0-7",
+    "score": "GOAL by JACKSONV Daylin John-Hill, Assist by Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV, [00:16] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "0-8",
+    "score": "GOAL by JACKSONV Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV, [15:00] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "",
+    "score": "Shot by JACKSONV Daylin John-Hill WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Zane Czeschin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:50",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE AJ DeMeo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Thomas Berry.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Conner Vaughn (caused by Breyden Harrison).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:31",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Breyden Harrison.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:08",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Connor Lukas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Thomas Berry BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:27",
+    "home_event": "",
+    "score": "Shot by JACKSONV Gavin Angell, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Lucas Winger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:19",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Josh Hedderich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "0-9",
+    "score": "GOAL by JACKSONV William Krupsky.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Drew Rippeon won by JACKSONV, [09:33] Ground ball pickup by JACKSONV Quinn Fuller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Lucas Winger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Ryan Della.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "0-10",
+    "score": "GOAL by JACKSONV Daylin John-Hill, Assist by Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Drew Rippeon won by JACKSONV, [08:00] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Shot by JACKSONV Breyden Harrison WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "",
+    "score": "Penalty on LEMOYNE Brady Pietruszka (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Daylin John-Hill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Shot by JACKSONV Daylin John-Hill, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "0-11",
+    "score": "GOAL by JACKSONV Zane Czeschin (MAN-UP), Assist by Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Sean Hassis won by LEMOYNE, [06:34] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Mason McCombs BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV George Bowdouris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Connor Sydnor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Kai Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Lucas Winger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Conlon Crowley (caused by Jack Taylor).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Aaron Toguri.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "Shot by JACKSONV Daylin John-Hill WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Taylor, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV William Krupsky.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Shot by JACKSONV Nicky Brown HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Nathan Hoban (caused by Lucas Fraser).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:50",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Lucas Fraser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "Shot by JACKSONV William Krupsky HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "Shot by JACKSONV William Krupsky HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "Shot by JACKSONV Nicky Brown, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE AJ DeMeo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:20",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "",
+    "score": "Penalty on JACKSONV Zane Czeschin (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Owen Wilson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Emmet McDermott WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Emmet McDermott, SAVE Ryan Della",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:09",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Connor Lukas, SAVE Ryan Della",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by LEMOYNE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Conner Vaughn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV George Bowdouris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "0-12",
+    "score": "GOAL by JACKSONV Gavin Angell, Assist by Daylin John-Hill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Aaron Toguri won by LEMOYNE, [14:16] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Kai Archer, SAVE Ryan Della",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Macklin Gobiel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Connor Lukas BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Ryan Della.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:20",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Charlie DiGennaro.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Jake Baker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Emmet McDermott.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:08",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV George Bowdouris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "0-13",
+    "score": "GOAL by JACKSONV Daylin John-Hill, Assist by Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by LEMOYNE, [12:00] Ground ball pickup by LEMOYNE AJ DeMeo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Nathan Hoban.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Aaron Toguri.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "Shot by JACKSONV Tate Jones, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Ben Mcilhargey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Matt Ciarelli, SAVE Ryan Della",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Ryan Della.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Owen Wilson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Matt Ciarelli, SAVE Ryan Della",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Ryan Della.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Kai Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:57",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Jake Baker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Kai Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "Shot by JACKSONV Nicky Brown HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Matt Ciarelli (caused by Aaron Toguri).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "Shot by JACKSONV Zane Czeschin, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV William Krupsky.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "0-14",
+    "score": "GOAL by JACKSONV Zane Czeschin, Assist by Jack Taylor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Sean Hassis won by LEMOYNE, [05:06] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "1-14",
+    "score": "GOAL by LEMOYNE Kai Archer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Drew Rippeon won by JACKSONV, [04:22] Ground ball pickup by JACKSONV Drew Rippeon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "Shot by JACKSONV Henry Fleckner, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:55",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Daylin John-Hill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "Shot by JACKSONV Connor Sydnor WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "Shot by JACKSONV Connor Sydnor, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Connor Sydnor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Parker Addison.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "1-15",
+    "score": "GOAL by JACKSONV Henry Fleckner, Assist by Connor Sydnor.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Sean Hassis won by JACKSONV, [01:50] Ground ball pickup by JACKSONV Zane Czeschin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Zane Czeschin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Ben Clark.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:30",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Kai Archer HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jonathan Bucciarelli at goalie for JACKSONV.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Sean Hassis won by JACKSONV (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "",
+    "score": "Shot by JACKSONV Kai Smith, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "Shot by JACKSONV Parker Addison HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Parker Addison.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Shot by JACKSONV Henry Fleckner, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "1-16",
+    "score": "GOAL by JACKSONV Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "",
+    "score": "Carter Ruhm at goalie for LEMOYNE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:16",
+    "home_event": "",
+    "score": "Faceoff Jason Beaman vs Sean Hassis won by JACKSONV, [13:16] Ground ball pickup by JACKSONV Sean Hassis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "Shot by JACKSONV Parker Addison WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "Penalty on LEMOYNE Jason Beaman (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "1-17",
+    "score": "GOAL by JACKSONV Daylin John-Hill (MAN-UP), Assist by Nicky Brown.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:55",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Sean Hassis won by LEMOYNE, [11:55] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Kai Archer (caused by Wesley Cohn).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:40",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Jonathan Bucciarelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Drew Kessenich (caused by Connor Chason).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Brady Pietruszka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:43",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Thomas Berry WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "Penalty on JACKSONV Zane Czeschin (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE (caused by Lucas Fraser).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Breyden Harrison.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "Shot by JACKSONV Maddox Johnson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:30",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "2-17",
+    "score": "GOAL by LEMOYNE Conner Vaughn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "Faceoff Troy Gottman vs Braden McCassie won by JACKSONV (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "2-18",
+    "score": "GOAL by JACKSONV Jack Russo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Braden McCassie won by LEMOYNE, [06:08] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Cameron Pack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:44",
+    "home_event": "",
+    "score": "Shot by JACKSONV Jack Russo, SAVE Carter Ruhm",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Dominic Pezzimenti.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Nathan Hoban (caused by Braden McCassie).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Alex Madson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:13",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Alex Madson (caused by Macklin Gobiel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Clear attempt by LEMOYNE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LEMOYNE Conner Vaughn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV Wesley Cohn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "2-19",
+    "score": "GOAL by JACKSONV Jack Russo, Assist by Tommy Bonavita.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Evan Sharp at goalie for JACKSONV.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Faceoff Mason McCombs vs Braden McCassie won by LEMOYNE, [03:27] Ground ball pickup by LEMOYNE Mason McCombs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Sam Brenen-Buseck at goalie for LEMOYNE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Charles Perri BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Conner Vaughn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Matt Ciarelli WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "2-20",
+    "score": "GOAL by JACKSONV Jack Russo, Assist by Sam Rodriguez.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "Faceoff Troy Gottman vs Braden McCassie won by JACKSONV, [01:27] Ground ball pickup by JACKSONV Braden McCassie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by JACKSONV Braden McCassie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Ground ball pickup by LEMOYNE Charles Perri.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "Shot by LEMOYNE Ollie Bolduc, SAVE Evan Sharp",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "Ground ball pickup by JACKSONV George Cecil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "Clear attempt by JACKSONV good.",
+    "away_event": ""
+  }
+]

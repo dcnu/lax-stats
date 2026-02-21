@@ -1,0 +1,1577 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Max Watkinson at goalie for LOYOLA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Brian Ruppel at goalie for MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:57",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Chase Gregory.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Shot by LOYOLA Will Musgrove, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Brian Ruppel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:41",
+    "home_event": "",
+    "score": "Shot by MARYLAND Will Schaller, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Aidan Aitken (caused by Chase Gregory).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Chase Gregory.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:54",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "1-0",
+    "score": "GOAL by LOYOLA Kenan Everhart (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Henry Dodge won by MARYLAND, [11:02] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Shot by MARYLAND Zach Whittier WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Joe Houlihan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:40",
+    "home_event": "",
+    "score": "Shot by LOYOLA Bruno Chapman, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND George Stamos (caused by Bruno Chapman).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Bruno Chapman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:13",
+    "home_event": "",
+    "score": "Shot by LOYOLA Luke Murphy, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Luke Murphy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Luke Murphy (caused by Braden Erksa).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:46",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Spencer Ford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "1-1",
+    "score": "GOAL by MARYLAND Spencer Ford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by LOYOLA, [06:37] Ground ball pickup by LOYOLA Miles Halter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Miles Halter (caused by Michael Alexander).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Thomas Gravino.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mitch Kavey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Shot by LOYOLA Connor Wilbur, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:01",
+    "home_event": "",
+    "score": "Shot by MARYLAND AJ Larkin, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Shot by MARYLAND Elijah Stobaugh, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "2-1",
+    "score": "GOAL by LOYOLA Luke Murphy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [03:54] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Elijah Stobaugh (caused by Team).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mitch Kavey, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Chris Lyons.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Shot by MARYLAND Chris Lyons BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Trevor Owens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Matthew Everson (caused by Zach Whittier).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:49",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Kenan Everhart.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "2-2",
+    "score": "GOAL by MARYLAND Elijah Stobaugh, Assist by Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Faceoff Aiden Kammerer vs Henry Dodge won by LOYOLA, [00:20] Ground ball pickup by LOYOLA Brady Rogoff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Bruno Chapman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by MARYLAND, [00:20] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Chris Lyons (caused by Chase Gregory).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Jake Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:05",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Leo Johnson (caused by Chase Gregory).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Chase Gregory.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:04",
+    "home_event": "",
+    "score": "Shot by LOYOLA Kenan Everhart WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:54",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Luke Murphy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "Shot by LOYOLA Kenan Everhart WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mason Cook, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "2-3",
+    "score": "GOAL by MARYLAND Leo Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [11:11] Ground ball pickup by MARYLAND Trevor Owens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Trevor Owens (caused by Carson Hall).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Connor Wilbur.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Mason Cook (caused by Will Schaller).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:29",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Jake Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "Shot by LOYOLA Luke Murphy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "3-3",
+    "score": "GOAL by LOYOLA Brady Quinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Jonah Carrier won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mitch Kavey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "4-3",
+    "score": "GOAL by LOYOLA Mason Cook, Assist by Bruno Chapman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Faceoff Aiden Kammerer vs Henry Dodge won by MARYLAND, [05:15] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:36",
+    "home_event": "4-4",
+    "score": "GOAL by MARYLAND Chris Lyons, Assist by Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:34",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by MARYLAND, [04:34] Ground ball pickup by MARYLAND George Stamos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "4-5",
+    "score": "GOAL by MARYLAND Chris Lyons.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [03:28] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "Shot by MARYLAND Chris Lyons WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Jake Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Shot by MARYLAND Elijah Stobaugh, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Timeout by LOYOLA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "4-6",
+    "score": "GOAL by MARYLAND Leo Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Jonah Carrier won by LOYOLA, [01:16] Ground ball pickup by LOYOLA Mason Graves.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:42",
+    "home_event": "",
+    "score": "Timeout by LOYOLA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "Shot by LOYOLA Luke Murphy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Henry Dodge won by MARYLAND, [15:00] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:45",
+    "home_event": "",
+    "score": "Shot by MARYLAND AJ Larkin HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Braden Erksa (caused by Jake Wilson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Jake Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Mason Cook.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "Penalty on MARYLAND Will Schaller (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "Shot by LOYOLA Matthew Minicus, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Shot by MARYLAND Elijah Stobaugh, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Elijah Stobaugh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "4-7",
+    "score": "GOAL by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Henry Dodge won by MARYLAND, [12:12] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:01",
+    "home_event": "",
+    "score": "Shot by MARYLAND Johnny Gardiner, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "5-7",
+    "score": "GOAL by LOYOLA Luke Murphy, Assist by Will Musgrove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Jonah Carrier won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "5-8",
+    "score": "GOAL by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:15",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [09:15] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Zach Whittier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "5-9",
+    "score": "GOAL by MARYLAND Leo Johnson, Assist by Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Faceoff Aiden Kammerer vs Henry Dodge won by MARYLAND, [08:20] Ground ball pickup by MARYLAND George Stamos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Jake Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Braden Erksa (caused by Brady Rogoff).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:13",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mason Cook WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Mason Cook (caused by Brian Ruppel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:41",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "5-10",
+    "score": "GOAL by MARYLAND AJ Larkin, Assist by Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "Timeout by LOYOLA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "Faceoff Aiden Kammerer vs Henry Dodge won by MARYLAND, [05:39] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "5-11",
+    "score": "GOAL by MARYLAND Elijah Stobaugh, Assist by Leo Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [04:38] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "5-12",
+    "score": "GOAL by MARYLAND Leo Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:47",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Jonah Carrier won by MARYLAND, [03:47] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Jonah Carrier (caused by Joe Houlihan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Joe Houlihan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Shot by LOYOLA Luke Murphy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "Shot by MARYLAND Chris Lyons, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Joe Houlihan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "Shot by LOYOLA Brady Quinn HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:05",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "5-13",
+    "score": "GOAL by MARYLAND Leo Johnson, Assist by Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:46",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Henry Dodge won by MARYLAND, [00:46] Ground ball pickup by MARYLAND AJ Larkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Shot by MARYLAND Eric Spanos WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "Shot by MARYLAND Chris Lyons WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "5-14",
+    "score": "GOAL by MARYLAND Chris Lyons, Assist by Zach Whittier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by LOYOLA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:50",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mason Cook BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:42",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Mason Cook.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "",
+    "score": "Shot by LOYOLA Ryan McGorry WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "6-14",
+    "score": "GOAL by LOYOLA Kenan Everhart.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by LOYOLA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "7-14",
+    "score": "GOAL by LOYOLA Matthew Minicus, Assist by Kenan Everhart.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Connor Wilbur.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "8-14",
+    "score": "GOAL by LOYOLA Mason Cook, Assist by Mitch Kavey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by MARYLAND, [00:00] Ground ball pickup by MARYLAND Trey Fleece.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "8-15",
+    "score": "GOAL by MARYLAND Johnny Gardiner.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:02",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Jonah Carrier won by MARYLAND, [12:02] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "8-16",
+    "score": "GOAL by MARYLAND Chris Lyons.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Henry Dodge won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND John Draley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Vinnie Trujillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "Shot by LOYOLA Bruno Chapman, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:20",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "Shot by MARYLAND Braden Erksa, SAVE Max Watkinson",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "Shot by LOYOLA Jacob Sullivan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Matthew Minicus.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Shot by LOYOLA Brady Quinn, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "Shot by MARYLAND Spencer Ford WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Shot by MARYLAND Leo Johnson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:16",
+    "home_event": "",
+    "score": "Penalty on LOYOLA Marek Seaman (TRIPPING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND Chris Lyons (caused by Joe Houlihan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Mason Cook (caused by Trevor Owens).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:54",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Trevor Owens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Max Watkinson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LOYOLA Brady West (caused by Peter Laake).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Peter Laake.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "8-17",
+    "score": "GOAL by MARYLAND Spencer Ford, Assist by Luca Ward.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "Ben Abel at goalie for LOYOLA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Mitchell Lloyd won by LOYOLA, [04:20] Ground ball pickup by LOYOLA Mason Graves.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "Shot by LOYOLA Mason Cook, SAVE Brian Ruppel",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:10",
+    "home_event": "8-18",
+    "score": "GOAL by MARYLAND Hamish McPherson, Assist by Matt Higgins.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:10",
+    "home_event": "",
+    "score": "Faceoff Mason Graves vs Mitchell Lloyd won by LOYOLA, [03:10] Ground ball pickup by LOYOLA Joe Houlihan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "Tyler Coryea at goalie for MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Brady Quinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:16",
+    "home_event": "9-18",
+    "score": "GOAL by LOYOLA Henry Haberman, goal number  for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Faceoff Aiden Kammerer vs Mitchell Lloyd won by LOYOLA, [02:14] Ground ball pickup by LOYOLA Aiden Kammerer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:03",
+    "home_event": "",
+    "score": "Shot by LOYOLA Aiden Kammerer WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "Shot by LOYOLA Miles Halter, SAVE Tyler Coryea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "Shot by LOYOLA Miles Halter, SAVE Tyler Coryea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "9-19",
+    "score": "GOAL by MARYLAND Sisto Averno, Assist by Hamish McPherson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Mitchell Lloyd won by LOYOLA, [01:44] Ground ball pickup by LOYOLA Carson Hall.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MARYLAND Tyler Coryea.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "Shot by LOYOLA Kenan Everhart WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Ground ball pickup by LOYOLA Mason Cook.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "10-19",
+    "score": "GOAL by LOYOLA Mason Cook.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "Faceoff Carson Hall vs Kyle Hata won by LOYOLA, [01:14] Ground ball pickup by LOYOLA Carson Hall.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "Clear attempt by LOYOLA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "Shot by LOYOLA Kyle McCarthy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "Shot by LOYOLA Austin Cote WIDE",
+    "away_event": ""
+  }
+]

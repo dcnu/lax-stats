@@ -35,7 +35,7 @@ export function TeamsView({ teams }: { teams: Team[] }) {
 							{teams.map((team) => (
 								<TableRow key={team.team_id}>
 									<TableCell>
-										<TeamLink teamId={team.team_id}>
+										<TeamLink teamSlug={team.slug}>
 											{team.team_name}
 										</TeamLink>
 									</TableCell>
@@ -56,7 +56,7 @@ export function TeamsView({ teams }: { teams: Team[] }) {
 			<TabsContent value="cards">
 				<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
 					{teams.map((team) => (
-						<TeamLink key={team.team_id} teamId={team.team_id} className="block">
+						<TeamLink key={team.team_id} teamSlug={team.slug} className="block">
 							<Card className="h-full transition-colors hover:bg-muted/50">
 								<CardHeader>
 									<CardTitle>{team.team_name}</CardTitle>

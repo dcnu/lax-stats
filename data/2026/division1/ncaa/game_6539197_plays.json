@@ -1,0 +1,1822 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Adam Norris at goalie for VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Ethan Train at goalie for NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI, [15:00] Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:35",
+    "home_event": "",
+    "score": "Penalty on NAVY Chad Connolly (CROSS-CHECK/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "1-0",
+    "score": "GOAL by VMI Dayton Bagwell (MAN-UP) (FIRST GOAL), Assist by Ethan Ostrowski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI, [14:15] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "Shot by VMI Jack Rogers HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:04",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "Shot by NAVY Race Ripley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "2-0",
+    "score": "GOAL by VMI Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by VMI, [12:06] Ground ball pickup by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "3-0",
+    "score": "GOAL by VMI Dayton Bagwell, Assist by Tyler Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Timeout by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by VMI, [11:13] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Rogers (caused by Patrick Flaherty).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Colin Shadowens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:28",
+    "home_event": "",
+    "score": "Shot by NAVY Nick Golini, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:23",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Jack Myhre.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Franklin Schulhofer (caused by Jack Ponzio).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY AJ Marsh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "3-1",
+    "score": "GOAL by NAVY Josh Nagy, Assist by Jack Ponzio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [09:56] Ground ball pickup by NAVY Zach Hayashi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "Shot by NAVY Mac Haley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "3-2",
+    "score": "GOAL by NAVY Mac Haley, Assist by Aydan DiRocco.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [09:22] Ground ball pickup by NAVY Kade Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Zach Hayashi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Shot by NAVY Zach Hayashi, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Josh Hallam (caused by Jackson Roberts).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Graham Parker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Shot by NAVY Mac Haley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "3-3",
+    "score": "GOAL by NAVY William Goers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [08:44] Ground ball pickup by NAVY Graham Parker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "Shot by NAVY Alec Gregorek, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Kade Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Jack Flaherty (caused by Zac Creel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Austin English.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:11",
+    "home_event": "",
+    "score": "Penalty on VMI Beau Durkin (OFFSIDE/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "3-4",
+    "score": "GOAL by NAVY Alec Gregorek, Assist by Jack Ponzio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "3-5",
+    "score": "GOAL by NAVY William Goers, Assist by Alec Gregorek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "",
+    "score": "Faceoff Alex Ordoqui vs Zach Hayashi won by VMI, [05:20] Ground ball pickup by VMI Zac Creel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "Shot by VMI Will Gormsen, SAVE Ethan Train",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Sean Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "",
+    "score": "Shot by NAVY Kade Smith HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "3-6",
+    "score": "GOAL by NAVY William Goers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [03:34] Ground ball pickup by NAVY Josh Nagy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "",
+    "score": "Shot by NAVY Patrick Flaherty HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:26",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Ponzio HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "Shot by NAVY Mac Haley BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:40",
+    "home_event": "",
+    "score": "Shot by VMI Adam Norris WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "4-6",
+    "score": "GOAL by VMI Tyler Hicks, Assist by Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Paul Garza.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Nichtern, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Shot by NAVY Paul Garza, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Alex Ordoqui vs Colin Shadowens won by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Will Gormsen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Graham Parker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:00",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Patrick Flaherty.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "4-7",
+    "score": "GOAL by NAVY William Goers, Assist by Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [13:43] Ground ball pickup by NAVY Zach Hayashi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Shot by NAVY Nick Golini WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Ponzio, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "Clear attempt by NAVY failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Sean Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Sean Berzins.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "Shot by VMI Jack Duncan-Bloom, SAVE Ethan Train",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Sean Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:37",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Sean Berzins.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:28",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "Shot by VMI Austin English HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "Shot by VMI Cole Jones WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Miller Tatum.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "5-7",
+    "score": "GOAL by VMI Adam Norris, Assist by Miller Tatum.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [08:38] Ground ball pickup by NAVY Zach Hayashi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Jack Myhre.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Miller Tatum (caused by Jackson Roberts).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Alec Gregorek (caused by Miller Tatum).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Team.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:04",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "6-7",
+    "score": "GOAL by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "Shot by NAVY Paul Garza HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Aydan DiRocco.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Adam Norris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:19",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Myhre.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Sean Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:07",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Nichtern WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "6-8",
+    "score": "GOAL by NAVY Aydan DiRocco, Assist by Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [04:33] Ground ball pickup by NAVY Colin Shadowens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:53",
+    "home_event": "6-9",
+    "score": "GOAL by NAVY Alec Gregorek, Assist by Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:53",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "7-9",
+    "score": "GOAL by VMI Dayton Bagwell, Assist by Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Flaherty, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:53",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY AJ Marsh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Timeout by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "Shot by NAVY Alec Gregorek, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:33",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by VMI, [15:00] Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "7-10",
+    "score": "GOAL by NAVY Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [14:30] Ground ball pickup by NAVY Graham Parker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "7-11",
+    "score": "GOAL by NAVY Jack Flaherty, Assist by Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Ty Yonas (caused by AJ Marsh).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY AJ Marsh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Mac Haley (caused by Jack Myhre).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Jack Myhre.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Adam Norris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "7-12",
+    "score": "GOAL by NAVY William Goers, Assist by Alec Gregorek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Alec Gregorek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY William Goers (caused by RJ Wyrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Adam Norris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:36",
+    "home_event": "8-12",
+    "score": "GOAL by VMI Dayton Bagwell, Assist by Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:36",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [12:36] Ground ball pickup by NAVY Patrick Flaherty.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "Shot by NAVY Alec Gregorek, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "",
+    "score": "Penalty on VMI Sean Berzins (CROSS-CHECK/2:00).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "8-13",
+    "score": "GOAL by NAVY Race Ripley (MAN-UP), Assist by Alec Gregorek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI, [11:19] Ground ball pickup by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI RJ Wyrick (caused by Zach Hayashi).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:52",
+    "home_event": "",
+    "score": "Shot by NAVY Jack Ponzio BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:47",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Duncan-Bloom (caused by Sean Gallagher).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Sean Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:08",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "8-14",
+    "score": "GOAL by NAVY Graham Parker (MAN-UP), Assist by Mac Haley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [09:47] Ground ball pickup by NAVY Colin Shadowens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "",
+    "score": "Shot by NAVY William Goers, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "",
+    "score": "Penalty on NAVY AJ Marsh (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:29",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "",
+    "score": "Shot by VMI Austin English, SAVE Ethan Train",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Aidan Hurdle.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "8-15",
+    "score": "GOAL by NAVY Nick Golini.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by NAVY, [06:50] Ground ball pickup by NAVY Zach Hayashi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "8-16",
+    "score": "GOAL by NAVY William Goers, Assist by Aidan Lough.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [05:52] Ground ball pickup by NAVY Colin Shadowens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "Shot by NAVY Aydan DiRocco, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Daniel Kolin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:58",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Adam Norris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "",
+    "score": "Shot by VMI Warner Lewis, SAVE Ethan Train",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Clear attempt by NAVY failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Ethan Train (caused by Austin English).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "9-16",
+    "score": "GOAL by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by NAVY, [04:15] Ground ball pickup by NAVY Ryan Trafford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Kade Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "Shot by NAVY Aydan DiRocco WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "9-17",
+    "score": "GOAL by NAVY Aydan DiRocco.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Zach Hayashi won by VMI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "10-17",
+    "score": "GOAL by VMI Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Colin Shadowens won by VMI, [01:37] Ground ball pickup by VMI Zac Creel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Miller Tatum.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Ryan Trafford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Carter King.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:58",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Franklin Schulhofer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:48",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "Shot by VMI Tyler Hicks, SAVE Ethan Train",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Ethan Train.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Dan Daly at goalie for NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Luke Cascadden won by VMI, [15:00] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "11-17",
+    "score": "GOAL by VMI Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Joey Bucci won by VMI, [14:18] Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "Shot by VMI Cole Jones, SAVE Dan Daly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Ben Ruiz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "Shot by NAVY Race Ripley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "Shot by NAVY Aydan DiRocco, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "",
+    "score": "Shot by NAVY Aydan DiRocco WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "",
+    "score": "Shot by NAVY Race Ripley, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Tyler Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Clear attempt by NAVY good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Shot by NAVY Daniel Kolin, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Connor Jung.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "Shot by VMI Austin English WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "Clear attempt by NAVY failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY Ryan Landolphi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Theo Ley (caused by Graham Parker).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "",
+    "score": "Penalty on VMI Dayton Bagwell (CROSS-CHECK/2:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "Shot by NAVY Andrew Ross WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:36",
+    "home_event": "",
+    "score": "Shot by NAVY Ryan Landolphi WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "",
+    "score": "Shot by NAVY Ryan Landolphi WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:09",
+    "home_event": "",
+    "score": "Shot by NAVY Nick Golini BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Shot by NAVY Aydan DiRocco HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "George Vlahos at goalie for NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "12-17",
+    "score": "GOAL by VMI Dayton Bagwell, Assist by Beau Durkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "Faceoff Jack Rogers vs Cooper Kurtz won by NAVY, [03:28] Ground ball pickup by NAVY J.P. Underwood.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Aidan Questell at goalie for VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Timeout by NAVY.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "Shot by NAVY Anthony Mancinelli BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "Penalty on VMI Landon Sonnenfeld (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "Shot by NAVY Ryan Landolphi WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "12-18",
+    "score": "GOAL by NAVY Paul Garza (MAN-UP), Assist by Ryan Landolphi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "Faceoff Alex Ordoqui vs Luke Cascadden won by NAVY, [02:00] Ground ball pickup by NAVY Rory Blanchard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "12-19",
+    "score": "GOAL by NAVY Anthony Mancinelli, Assist by Daniel Kolin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Faceoff Alex Ordoqui vs Joey Bucci won by VMI, [01:07] Ground ball pickup by VMI Alex Ordoqui.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Brooks Chatlos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "Shot by VMI Brooks Chatlos, SAVE George Vlahos",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Ground ball pickup by NAVY Parker Love.",
+    "away_event": ""
+  }
+]

@@ -7,6 +7,7 @@ export interface Season {
 export interface Team {
 	team_id: string;
 	team_name: string;
+	slug: string;
 	logo_url: string | null;
 	conference: string | null;
 	wins: number;
@@ -17,6 +18,7 @@ export interface Team {
 export interface TeamDetail {
 	team_id: string;
 	team_name: string;
+	slug: string;
 	logo_url: string | null;
 	conference: string | null;
 	season_id: string;
@@ -28,8 +30,10 @@ export interface Game {
 	game_date: string;
 	home_team_id: string;
 	home_team_name: string;
+	home_team_slug: string | null;
 	away_team_id: string;
 	away_team_name: string;
+	away_team_slug: string | null;
 	home_score: number | null;
 	away_score: number | null;
 	winning_team_id: string | null;

@@ -1,0 +1,1801 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Connor Winters at goalie for BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Joe Doherty at goalie for LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [15:00] Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:45",
+    "home_event": "",
+    "score": "Shot by BING Matthew Rincon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "",
+    "score": "Shot by BING Gavin Jacobsen BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:05",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Austin Constable.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Shot by BING Troeger Lombardini HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "Shot by BING Will Feldmann, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:28",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "Shot by BING Matthew Rincon HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "1-0",
+    "score": "GOAL by BING Andrew Girolamo (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:48",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Andrew Girolamo (caused by Jack Massotto).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:03",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Jack Massotto.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Aidan Kopen (caused by Connor Winters).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Connor Winters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:42",
+    "home_event": "",
+    "score": "Clear attempt by LAF failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Charlie Foley (caused by Drew Filanowski).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "2-0",
+    "score": "GOAL by BING Drew Filanowski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [09:00] Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Matthew Rincon (caused by Benjamin Dibattista).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Eoin Mackay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "",
+    "score": "Shot by BING Matthew Rincon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Benjamin Dibattista (caused by Will Feldmann).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "2-1",
+    "score": "GOAL by LAF Charlie Foley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [06:00] Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Erik Volfson (caused by Eoin Mackay).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Aidan McMinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "",
+    "score": "Shot by BING Luke LeSueur HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Drew Filanowski (caused by Noah Blinkoff).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Matt Morelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "Timeout by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "Shot by LAF Charlie Foley HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "",
+    "score": "Shot by LAF Jack Irish, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Nico Spaziani.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Jack Massotto.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Joshua Heaney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "",
+    "score": "Shot by LAF Nicholas Blalock HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "Shot by LAF Charlie Foley, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:46",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Matt Morelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [15:00] Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "Shot by LAF Joshua Heaney, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Nico Spaziani.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "2-2",
+    "score": "GOAL by LAF Benjamin Dibattista, Assist by P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:03",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Joshua Heaney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "2-3",
+    "score": "GOAL by LAF Aidan Kopen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "Faceoff CJ Mangio vs Nick Faccone won by LAF, [12:53] Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "Shot by LAF Nick Faccone WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "2-4",
+    "score": "GOAL by LAF Benjamin Dibattista.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [12:05] Ground ball pickup by BING Riley Jenkins.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "3-4",
+    "score": "GOAL by BING Andrew Girolamo, Assist by Colin DeLay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [11:18] Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "Shot by LAF Nicholas Blalock HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "3-5",
+    "score": "GOAL by LAF Joseph Duggan, Assist by Nicholas Blalock.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "Shot by BING Gavin Jacobsen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "Shot by BING Gavin Jacobsen, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "Shot by LAF Jack Irish HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "Shot by BING Aidan McMinn HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Brendan Poirier.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Eoin Mackay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Shot by LAF Jack Massotto, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Gavin Jacobsen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Will Feldmann (caused by Matt Morelli).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Matt Morelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "Clear attempt by LAF failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Gavin Jacobsen (caused by Noah Blinkoff).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Noah Blinkoff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:36",
+    "home_event": "",
+    "score": "Shot by LAF Joshua Heaney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "Shot by LAF Joshua Heaney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Jojo Provenzano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Luke LeSueur.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "Shot by LAF Joseph Duggan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Shot by LAF Nick Muller, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "3-6",
+    "score": "GOAL by LAF Nick Muller, Assist by Aidan Kopen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Christian Tapia won by BING, [01:29] Ground ball pickup by BING Aidan McMinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [15:00] Ground ball pickup by LAF Andrew Matarese.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:43",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "Shot by LAF Joseph Duggan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Charlie Foley (caused by Nolan Sharkey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "Shot by BING Connor Winters HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:12",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:39",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:30",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Nick Muller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:30",
+    "home_event": "",
+    "score": "Penalty on BING Jojo Provenzano (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:45",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Shot by LAF Joseph Duggan, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:16",
+    "home_event": "",
+    "score": "Shot by BING Matthew Rincon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Gavin Jacobsen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:40",
+    "home_event": "",
+    "score": "Clear attempt by LAF failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Matt Morelli (caused by Austin Constable).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Troeger Lombardini.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:03",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Noah Blinkoff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Troeger Lombardini (caused by Noah Blinkoff).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Noah Blinkoff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "Penalty on BING Aidan McMinn (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "Shot by LAF Aidan Kopen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Shot by LAF Nick Muller BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "30-second clock violation by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Colin DeLay (caused by Nicholas Blalock).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Charlie Merrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:25",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Jack Massotto.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "3-7",
+    "score": "GOAL by LAF Joseph Duggan, Assist by Benjamin Dibattista.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [08:00] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Austin Constable.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Austin Constable.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:39",
+    "home_event": "",
+    "score": "Clear attempt by LAF failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Austin Constable.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "Shot by BING Colin DeLay WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "4-7",
+    "score": "GOAL by BING Colin DeLay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [06:06] Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Charlie Merrick (caused by Matthew Rincon).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Will Feldmann (caused by Andrew Matarese).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:53",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Andrew Matarese.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "Shot by LAF Nick Muller, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Andrew Girolamo (caused by George Urich).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Shot by LAF Erik Volfson, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Nolan Sharkey (caused by Matt Morelli).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Noah Blinkoff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Noah Blinkoff (caused by Ty Duchouquette).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "Ground ball pickup by BING Colin DeLay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Penalty on LAF Joshua Heaney (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "Shot by BING Tyler Martini, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "5-7",
+    "score": "GOAL by BING Gavin Jacobsen (MAN-UP), Assist by Nico Spaziani.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [01:11] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:59",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "6-7",
+    "score": "GOAL by BING Connor Winters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [00:54] Ground ball pickup by LAF Matt Morelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "Shot by LAF Nick Faccone, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "",
+    "score": "Shot by BING Matthew Rincon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "7-7",
+    "score": "GOAL by BING Drew Filanowski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [00:03] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [15:00] Ground ball pickup by BING Nolan Sharkey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "Shot by BING Will Feldmann WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:16",
+    "home_event": "",
+    "score": "Penalty on LAF Noah Blinkoff (INTERFERENCE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "",
+    "score": "Shot by BING Austin Constable HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "",
+    "score": "Shot by LAF Joseph Duggan, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "7-8",
+    "score": "GOAL by LAF Aidan Kopen, Assist by Charlie Foley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [12:27] Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "Shot by LAF Joseph Duggan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "Shot by LAF Aidan Kopen, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF Nicholas Blalock.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Aidan Kopen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:44",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "",
+    "score": "Shot by BING Drew Filanowski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "Timeout by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "Shot by BING Will Feldmann WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "8-8",
+    "score": "GOAL by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [09:33] Ground ball pickup by BING Nolan Sharkey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "",
+    "score": "Shot by BING Nico Spaziani HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "Shot by BING Gavin Jacobsen, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "Penalty on LAF Brendan Poirier (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "Shot by BING Nico Spaziani BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:55",
+    "home_event": "",
+    "score": "Shot by BING Will Feldmann, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "8-9",
+    "score": "GOAL by LAF Benjamin Dibattista, Assist by Jack Irish.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by LAF, [07:07] Ground ball pickup by LAF Nick Faccone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:54",
+    "home_event": "",
+    "score": "Shot by LAF Nick Faccone WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "8-10",
+    "score": "GOAL by LAF Joseph Duggan, Assist by Aidan Kopen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [06:30] Ground ball pickup by BING Troeger Lombardini.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "Shot by BING Troeger Lombardini, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:14",
+    "home_event": "",
+    "score": "Shot by LAF Charlie Foley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "",
+    "score": "Shot by LAF Benjamin Dibattista WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "Shot by LAF Charlie Foley, SAVE Connor Winters",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:49",
+    "home_event": "",
+    "score": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF George Urich.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "Shot by BING Drew Filanowski HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "Penalty on LAF Brendan Poirier (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "9-10",
+    "score": "GOAL by BING Andrew Girolamo (MAN-UP), Assist by Colin DeLay.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "Faceoff Flynn Wilson vs Nick Faccone won by BING, [02:59] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:01",
+    "home_event": "",
+    "score": "Shot by BING Drew Filanowski HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by BING Will Feldmann (caused by P.j. Hodge).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:42",
+    "home_event": "",
+    "score": "Ground ball pickup by LAF P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF P.j. Hodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Timeout by LAF.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Shot by BING Gavin Jacobsen HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "",
+    "score": "Shot by BING Will Feldmann HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:32",
+    "home_event": "",
+    "score": "Shot by BING Andrew Girolamo, SAVE Joe Doherty",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "Clear attempt by LAF good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by LAF Nicholas Blalock.",
+    "away_event": ""
+  }
+]

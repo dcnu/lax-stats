@@ -1,0 +1,528 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "42",
+        "Name": "EMMETT PARADINE",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "QUINN STANKOVITS",
+        "POS": "m",
+        "G": "5",
+        "A": "1",
+        "SH": "7",
+        "SOG": "5",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "THOMAS GOGUEN",
+        "POS": "d",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "13",
+        "Name": "THOMAS POWER",
+        "POS": "a",
+        "G": "2",
+        "A": "2",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "0"
+      },
+      {
+        "NO": "12",
+        "Name": "JESSE PHELAN",
+        "POS": "d",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "14",
+        "Name": "WILLIAM STAHL",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "22",
+        "Name": "ALEX JESSEY",
+        "POS": "a",
+        "G": "2",
+        "A": "1",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "4",
+        "Name": "JACK MULHOLLAND",
+        "POS": "d",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "1",
+        "Name": "STU GATES",
+        "POS": "a",
+        "G": "2",
+        "A": "1",
+        "SH": "6",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "33",
+        "Name": "GORDIE LEARY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "34",
+        "Name": "THOMAS VANDENBERG",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "36",
+        "Name": "SPENCER REAGAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "40",
+        "Name": "LUKE LOWERY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "49",
+        "Name": "KJ EDWARDS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "11",
+        "Name": "GAVIN PARKS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "10",
+        "Name": "TYLER JUHLIN",
+        "POS": "",
+        "G": "2",
+        "A": "1",
+        "SH": "6",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "18",
+        "Name": "MITCHELL MONTE",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "4"
+      },
+      {
+        "NO": "8",
+        "Name": "WILL COHEN",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "15",
+        "Name": "MATTHEW SCHEIBLE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "4"
+      },
+      {
+        "NO": "20",
+        "Name": "ZACH BYE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "21",
+        "Name": "JULIAN NAVAB",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "EVAN BUSBY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "2",
+        "Name": "ELI GOLDSTEIN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "35",
+        "Name": "MARCO DZAMBA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      }
+    ],
+    "goalies": [
+      {
+        "NO": "23",
+        "Name": "MAX BECKER",
+        "POS": "gk",
+        "GA": "10",
+        "Saves": "5"
+      }
+    ]
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "66",
+        "Name": "JACK COMBS",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "8"
+      },
+      {
+        "NO": "34",
+        "Name": "MAX GOLDSTEIN",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "77",
+        "Name": "MASON BARDWELL",
+        "POS": "d",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "8",
+        "Name": "MATTHEW DRIMMIE",
+        "POS": "a/m",
+        "G": "1",
+        "A": "1",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "18",
+        "Name": "MAX FRATTAROLI",
+        "POS": "a",
+        "G": "2",
+        "A": "0",
+        "SH": "6",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "10",
+        "Name": "ETHAN PEARSON",
+        "POS": "m",
+        "G": "0",
+        "A": "3",
+        "SH": "8",
+        "SOG": "3",
+        "GB": "1"
+      },
+      {
+        "NO": "16",
+        "Name": "ANEED WARD",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "15",
+        "Name": "SEAN MCCENEY",
+        "POS": "m",
+        "G": "0",
+        "A": "0",
+        "SH": "3",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "51",
+        "Name": "ZACK TOLL",
+        "POS": "a",
+        "G": "0",
+        "A": "1",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "29",
+        "Name": "ZAKKARY CHESTEEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "23",
+        "Name": "TRISTAN WHITAKER",
+        "POS": "",
+        "G": "1",
+        "A": "2",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "21",
+        "Name": "SEAN STEVENS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "22",
+        "Name": "LUKE REITER",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "27",
+        "Name": "TATUM LEWIS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "39",
+        "Name": "COLIN BULLOCK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "31",
+        "Name": "CHASE GOZDECK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "1",
+        "Name": "WALTER ZHAO",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "6"
+      },
+      {
+        "NO": "2",
+        "Name": "CULLEN DECKER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "3",
+        "Name": "ROCCO BOLAND",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "44",
+        "Name": "MILO PENNISTON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "42",
+        "Name": "BRENDAN BEATTY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "HARRISON JOSLOFF",
+        "POS": "",
+        "G": "3",
+        "A": "1",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "1"
+      },
+      {
+        "NO": "12",
+        "Name": "RYAN DALY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "17",
+        "Name": "DEAN DRISCOLL",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "JOHN THOMAS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "13",
+        "Name": "KEAN PAR\u00c9",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      }
+    ],
+    "goalies": [
+      {
+        "NO": "20",
+        "Name": "JACKSON READ",
+        "POS": "gk",
+        "GA": "9",
+        "Saves": "1"
+      }
+    ]
+  }
+}

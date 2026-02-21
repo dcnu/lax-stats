@@ -1,0 +1,1864 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Richie Metzger at goalie for MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Ben Friedman at goalie for YALE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE, [15:00] Ground ball pickup by YALE Luke Michalik.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "0-1",
+    "score": "GOAL by YALE Peter Moynihan (FIRST GOAL), goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST, [14:28] Ground ball pickup by MARIST Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "1-1",
+    "score": "GOAL by MARIST Sean Mullan, goal number 4 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:35",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST, [13:35] Ground ball pickup by MARIST Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Penalty on YALE Brody Coleman (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Tristan Ghosh.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:40",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "Shot by YALE Cole Jackson, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE David Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "Shot by YALE Luke Pascal, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "2-1",
+    "score": "GOAL by MARIST Sean Mullan, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "Shot by YALE Sean Grogan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE David Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Luke Walser (caused by David Anderson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:29",
+    "home_event": "",
+    "score": "Shot by YALE Flynn Leonard, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Dylan Stadler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:16",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Mason Bader (caused by Luke Michalik).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Luke Michalik.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:31",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "2-2",
+    "score": "GOAL by YALE Sean Grogan, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "",
+    "score": "Faceoff Kevin Radmann vs Nick Wehmeyer won by YALE, [08:18] Ground ball pickup by YALE Nick Wehmeyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:42",
+    "home_event": "",
+    "score": "Shot by YALE Cole Cashion HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE William Sheehan (caused by Aiden McCaffrey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Quinn Crotty.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:22",
+    "home_event": "",
+    "score": "Shot by YALE Nicolas Boudreau WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE David Anderson (caused by Michael Cassano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Shot by MARIST Jayce Konowitz, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "",
+    "score": "Clear attempt by YALE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Konrad Miklaszewski (caused by Sean Mullan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Sean Mullan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Sean Mullan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "2-3",
+    "score": "GOAL by YALE William Sheehan, Assist by Connor Gately, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:44",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "30-second clock violation by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "Clear attempt by YALE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Ben Friedman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Richie Metzger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "Shot by MARIST Jayce Konowitz WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "30-second clock violation by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Anthony Annunziata (caused by Collin Patrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:26",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by MARIST, [15:00] Ground ball pickup by MARIST Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:17",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "",
+    "score": "Shot by YALE William Sheehan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Nicolas Boudreau.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "Shot by YALE Nicolas Boudreau WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Nicolas Boudreau.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:39",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Sean Grogan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "Shot by YALE Connor Gately, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Joshua Arneson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Sean Mullan (caused by Quinn Crotty).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:00",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Quinn Crotty.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Collin Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Patrick Pisano (caused by Collin Patrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:02",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "Shot by YALE Luke Pascal, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:44",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Mason Bader.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Luke Walser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "Shot by YALE Cole Cashion, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Richie Metzger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:44",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Ben Friedman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "2-4",
+    "score": "GOAL by YALE William Sheehan, Assist by Connor Gately, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "2-5",
+    "score": "GOAL by YALE Sean Grogan, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE, [06:37] Ground ball pickup by YALE Nick Wehmeyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "2-6",
+    "score": "GOAL by YALE Connor Gately, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by YALE, [06:14] Ground ball pickup by YALE Konrad Miklaszewski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:40",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Ben Cuomo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "2-7",
+    "score": "GOAL by YALE Nicolas Boudreau, Assist by Connor Gately, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "",
+    "score": "Timeout by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:32",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE, [05:32] Ground ball pickup by YALE Anthony Annunziata.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Anthony Annunziata (caused by Christian Colantonio).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Joshua Arneson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:17",
+    "home_event": "",
+    "score": "Penalty on YALE Connor Gately (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "3-7",
+    "score": "GOAL by MARIST Sean Mullan (MAN-UP), Assist by Drew Anderson, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST, [04:57] Ground ball pickup by MARIST Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Josh Smith (caused by Greysen Thompson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Greysen Thompson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "Penalty on YALE Konrad Miklaszewski (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "4-7",
+    "score": "GOAL by MARIST Collin Patrick (MAN-UP), Assist by Sean Mullan, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE William Sheehan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Dylan Stadler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "Timeout by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "30-second clock violation by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Shot by YALE Connor Gately WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by YALE Sean Grogan, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "5-7",
+    "score": "GOAL by MARIST Sean Mullan, goal number 7 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by YALE, [14:12] Ground ball pickup by YALE Gaetano Cicotello.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "Shot by YALE William Sheehan, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:38",
+    "home_event": "6-7",
+    "score": "GOAL by MARIST Drew Anderson, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:38",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST, [12:38] Ground ball pickup by MARIST Michael Cassano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Michael Cassano (caused by Anthony Annunziata).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Eric Platten.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:08",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "6-8",
+    "score": "GOAL by YALE Luke Pascal, Assist by Dylan Blekicki, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "6-9",
+    "score": "GOAL by YALE Cole Jackson, Assist by Asher Ziv, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE, [10:00] Ground ball pickup by YALE Nick Wehmeyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Nick Wehmeyer (caused by Mason Bader).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:36",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Sean Grogan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Michael Cassano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:17",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Mason Bader (caused by Sean Grogan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:13",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Patrick Pisano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:56",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "6-10",
+    "score": "GOAL by YALE Peter Moynihan, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "Shot by YALE William Sheehan, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE David Anderson (caused by Aiden McCaffrey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Steven Cain.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "Shot by YALE Peter Moynihan, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:26",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:39",
+    "home_event": "",
+    "score": "Shot by MARIST Collin Patrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:36",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Sean Mullan (caused by Luke Michalik).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Flynn Leonard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "6-11",
+    "score": "GOAL by YALE Sean Grogan, Assist by Flynn Leonard, goal number 4 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:10",
+    "home_event": "",
+    "score": "Faceoff Kevin Radmann vs Nick Wehmeyer won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:58",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Brady Dolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "30-second clock violation by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "6-12",
+    "score": "GOAL by YALE Asher Ziv, Assist by Sean Grogan, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:04",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by YALE, [02:04] Ground ball pickup by YALE Ben Cuomo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Connor Gately (caused by Aiden McCaffrey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Aiden McCaffrey (caused by Sean Grogan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Sean Grogan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "Shot by YALE David Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Collin Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "6-13",
+    "score": "GOAL by YALE Dylan Blekicki, Assist by Connor Gately, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by YALE, [00:20] Ground ball pickup by YALE Gaetano Cicotello.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "6-14",
+    "score": "GOAL by YALE Dylan Blekicki, Assist by Gaetano Cicotello, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by MARIST, [00:05] Ground ball pickup by MARIST Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Nick Wehmeyer won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Michael Cassano (caused by Luke Michalik).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Luke Michalik.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Eric Platten (caused by Drew Anderson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Brady Dolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Collin Patrick (caused by Patrick Pisano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Ben Friedman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Dylan Blekicki (caused by Richie Metzger).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:22",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "7-14",
+    "score": "GOAL by MARIST Steven Cain, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by MARIST (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "Shot by MARIST Jayce Konowitz, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Konrad Miklaszewski.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Flynn Leonard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Richie Metzger.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Timeout by YALE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:00",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Jayce Konowitz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "Penalty on YALE Eric Platten (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:35",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Sean Mullan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "8-14",
+    "score": "GOAL by MARIST Sean Mullan (MAN-UP), goal number 8 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:33",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Anthony Annunziata won by MARIST, [08:33] Ground ball pickup by MARIST Gavin Marzgliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Drew Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:20",
+    "home_event": "",
+    "score": "Shot by YALE Asher Ziv WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Sean Grogan (caused by Dylan Stadler).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Michael Cassano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:48",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:47",
+    "home_event": "",
+    "score": "Timeout by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Steven Cain.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Collin Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "Shot by YALE Nicolas Boudreau, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:20",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Gavin Marzgliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Simon Bowen (caused by Sean Grogan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Sean Grogan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "Clear attempt by MARIST failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Lincoln Herring.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Gavin Marzgliano (caused by Dylan Blekicki).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Dylan Blekicki.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "8-15",
+    "score": "GOAL by YALE Sean Grogan, Assist by Dylan Blekicki, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by YALE, [04:21] Ground ball pickup by YALE Ben Cuomo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Ben Cuomo (caused by Josh Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:08",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Collin Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "9-15",
+    "score": "GOAL by MARIST Drew Anderson, Assist by Brady Dolan, goal number 2 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Ben Cuomo won by YALE, [03:05] Ground ball pickup by YALE Ben Cuomo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "Shot by YALE Ben Cuomo, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:34",
+    "home_event": "",
+    "score": "Shot by MARIST Drew Anderson HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:25",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Joshua Arneson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:23",
+    "home_event": "",
+    "score": "Timeout by MARIST.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "Ground ball pickup by MARIST Drew Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARIST Steven Cain (caused by Eric Platten).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:47",
+    "home_event": "",
+    "score": "Ground ball pickup by YALE Patrick Pisano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by YALE Colin Zeller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "Clear attempt by MARIST good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "Shot by MARIST Steven Cain WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "Timeout by YALE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "",
+    "score": "Shot by MARIST Sean Mullan HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "Shot by MARIST Brady Dolan, SAVE Ben Friedman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Clear attempt by YALE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by YALE Kyler Francis WIDE",
+    "away_event": ""
+  }
+]

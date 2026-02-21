@@ -18,11 +18,38 @@ import argparse
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from utils.db import get_connection
 from utils.path_helpers import get_season_ncaa_dir, get_season_games_dir
+
+
+def make_slug(short_name: str) -> str:
+    """
+    Generate a URL slug from a team's short_name (school name without mascot).
+
+    Examples:
+      "Richmond"      -> "richmond"
+      "Johns Hopkins" -> "johns-hopkins"
+      "St. John's (NY)" -> "st-johns-ny"
+      "Queens (NC)"   -> "queens-nc"
+      "Le Moyne"      -> "le-moyne"
+    """
+    s = short_name.strip()
+    # Normalize unicode (e.g. accented chars → ASCII approximation)
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+    s = s.lower()
+    # Remove apostrophes, backticks, periods (St. → st, O'Brien → obrien)
+    s = re.sub(r"[''`.]", "", s)
+    # (XX) parenthetical suffix → -xx
+    s = re.sub(r"\(([^)]+)\)", lambda m: "-" + m.group(1), s)
+    # Remaining non-alphanumeric → hyphen
+    s = re.sub(r"[^a-z0-9\-]", "-", s)
+    # Collapse and trim hyphens
+    s = re.sub(r"-+", "-", s).strip("-")
+    return s
 
 
 # Words that indicate part of school name, not mascot
@@ -100,7 +127,7 @@ def collect_ncaa_names(season: str, division: int) -> set[str]:
 def load_lookup_teams(conn) -> list[dict]:
     """Load all teams from lookup_teams."""
     with conn.cursor() as cur:
-        cur.execute("SELECT id, name, short_name, mascot FROM public.lookup_teams ORDER BY name")
+        cur.execute("SELECT id, name, short_name, mascot, slug FROM public.lookup_teams ORDER BY name")
         return [dict(row) for row in cur.fetchall()]
 
 
@@ -185,13 +212,17 @@ def build_updates(
             if verbose:
                 print(f"  [inferred] '{full}' -> short='{short_name}' mascot='{mascot}'")
 
+        slug = make_slug(short_name) if short_name else ""
+        existing_slug = team.get("slug") or ""
+
         # Only include if there's a change
-        if short_name != existing_short or mascot != existing_mascot:
+        if short_name != existing_short or mascot != existing_mascot or slug != existing_slug:
             updates.append({
                 "id": tid,
                 "name": full,
                 "short_name": short_name,
                 "mascot": mascot,
+                "slug": slug,
             })
 
     unmatched_ncaa = ncaa_names - matched_ncaa
@@ -204,12 +235,12 @@ def build_updates(
 
 
 def apply_updates(conn, updates: list[dict]) -> None:
-    """Write short_name and mascot to lookup_teams."""
+    """Write short_name, mascot, and slug to lookup_teams."""
     with conn.cursor() as cur:
         for u in updates:
             cur.execute(
-                "UPDATE public.lookup_teams SET short_name = %s, mascot = %s WHERE id = %s",
-                (u["short_name"], u["mascot"], u["id"]),
+                "UPDATE public.lookup_teams SET short_name = %s, mascot = %s, slug = %s WHERE id = %s",
+                (u["short_name"], u["mascot"], u["slug"], u["id"]),
             )
     conn.commit()
 
@@ -243,7 +274,7 @@ def main():
     if args.dry_run:
         print("\nDry run — proposed changes:")
         for u in updates:
-            print(f"  {u['name']} -> short='{u['short_name']}' mascot='{u['mascot']}'")
+            print(f"  {u['name']} -> short='{u['short_name']}' mascot='{u['mascot']}' slug='{u['slug']}'")
         conn.close()
         return
 

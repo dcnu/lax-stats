@@ -1,0 +1,1808 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Nolan Hudnut at goalie for BELLARMI."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Patrick Jameison at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Cal Girard won by BELLARMI (on faceoff violation)."
+  },
+  {
+    "quarter": 1,
+    "time": "13:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Joe Alie HIGH"
+  },
+  {
+    "quarter": 1,
+    "time": "13:49",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Henry Bard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:45",
+    "score": "",
+    "home_event": "Clear attempt by DUKE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Henry Bard (caused by Leo Prosser).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Leo Prosser, SAVE Patrick Jameison"
+  },
+  {
+    "quarter": 1,
+    "time": "13:30",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:24",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:08",
+    "score": "0-1",
+    "home_event": "GOAL by DUKE Max Sloat (FIRST GOAL), goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:08",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Luke Engelke won by DUKE, [13:08] Ground ball pickup by DUKE Will Pedicano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Luke Engelke.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Robert MacMichael."
+  },
+  {
+    "quarter": 1,
+    "time": "12:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI John Alie (caused by Henry Bard)."
+  },
+  {
+    "quarter": 1,
+    "time": "11:57",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Henry Bard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:54",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:15",
+    "score": "0-2",
+    "home_event": "GOAL by DUKE Michael Ortlieb, Assist by Kyle Colsey, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Cal Girard won by BELLARMI, [11:15] Ground ball pickup by BELLARMI Niko Madden."
+  },
+  {
+    "quarter": 1,
+    "time": "09:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by BELLARMI."
+  },
+  {
+    "quarter": 1,
+    "time": "09:40",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:35",
+    "score": "",
+    "home_event": "Shot by DUKE Liam Kershis HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:27",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:21",
+    "score": "",
+    "home_event": "Shot by DUKE Jack Pappendick, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:18",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:14",
+    "score": "",
+    "home_event": "Shot by DUKE Jack Pappendick, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:10",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:08",
+    "score": "",
+    "home_event": "Shot by DUKE Jack Pappendick, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Nick Ferge."
+  },
+  {
+    "quarter": 1,
+    "time": "08:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Nolan Hudnut."
+  },
+  {
+    "quarter": 1,
+    "time": "07:45",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Brady Scioletti.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:41",
+    "score": "",
+    "home_event": "Shot by DUKE Brady Scioletti WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by BELLARMI."
+  },
+  {
+    "quarter": 1,
+    "time": "06:59",
+    "score": "",
+    "home_event": "Shot by DUKE Max Sloat HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:41",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Robert MacMichael."
+  },
+  {
+    "quarter": 1,
+    "time": "06:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 1,
+    "time": "06:12",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ty Washington WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "06:05",
+    "score": "1-2",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI Joe Alie, Assist by Ezra Moore, goal number 1 for season."
+  },
+  {
+    "quarter": 1,
+    "time": "06:05",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [06:05] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "05:12",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on BELLARMI Jackson Campisano (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 1,
+    "time": "04:40",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:19",
+    "score": "",
+    "home_event": "Shot by DUKE Thomas Mencke, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Ayden Hanna (caused by Thomas Mencke)."
+  },
+  {
+    "quarter": 1,
+    "time": "03:37",
+    "score": "1-3",
+    "home_event": "GOAL by DUKE Max Sloat, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:37",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [03:37] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:19",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:45",
+    "score": "",
+    "home_event": "Shot by DUKE Brady Scioletti WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:30",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:45",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Michael Ortlieb.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Ezra Moore."
+  },
+  {
+    "quarter": 1,
+    "time": "01:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI John Alie WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "00:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ezra Moore, SAVE Patrick Jameison"
+  },
+  {
+    "quarter": 1,
+    "time": "00:50",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:46",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:35",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:15",
+    "score": "1-4",
+    "home_event": "GOAL by DUKE Max Sloat, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:15",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [00:15] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:01",
+    "score": "",
+    "home_event": "Shot by DUKE Mac Christmas, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [15:00] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:33",
+    "score": "1-5",
+    "home_event": "GOAL by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:33",
+    "score": "",
+    "home_event": "Faceoff Grant Guthrie vs Cal Girard won by DUKE, [14:33] Ground ball pickup by DUKE Will Pedicano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Leo Prosser (caused by Luke Warrington)."
+  },
+  {
+    "quarter": 2,
+    "time": "14:09",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:06",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Luke Warrington (caused by Nolan Hudnut).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 2,
+    "time": "12:57",
+    "score": "2-5",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI Joe Alie, Assist by John Alie, goal number 2 for season."
+  },
+  {
+    "quarter": 2,
+    "time": "12:57",
+    "score": "",
+    "home_event": "Faceoff Grant Guthrie vs Cal Girard won by DUKE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:41",
+    "score": "",
+    "home_event": "Shot by DUKE Aidan Maguire BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 2,
+    "time": "12:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Joe Alie WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "11:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Robert Pope WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "10:59",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:55",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Robert MacMichael."
+  },
+  {
+    "quarter": 2,
+    "time": "10:36",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:22",
+    "score": "2-6",
+    "home_event": "GOAL by DUKE Kyle Colsey, Assist by Thomas Mencke, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:22",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [09:22] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:10",
+    "score": "2-7",
+    "home_event": "GOAL by DUKE Mac Christmas, Assist by Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:08",
+    "score": "",
+    "home_event": "Faceoff Grant Guthrie vs Cal Girard won by DUKE, [09:08] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:57",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:50",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:24",
+    "score": "2-8",
+    "home_event": "GOAL by DUKE Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by BELLARMI."
+  },
+  {
+    "quarter": 2,
+    "time": "08:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Grant Guthrie vs Luke Engelke won by BELLARMI."
+  },
+  {
+    "quarter": 2,
+    "time": "07:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI John Alie."
+  },
+  {
+    "quarter": 2,
+    "time": "07:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI John Alie WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Leo Prosser (caused by Aidan Maguire)."
+  },
+  {
+    "quarter": 2,
+    "time": "07:09",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:07",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Mac Christmas.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:41",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI John Alie."
+  },
+  {
+    "quarter": 2,
+    "time": "06:37",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Joe Alie."
+  },
+  {
+    "quarter": 2,
+    "time": "06:30",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Luke Warrington.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 2,
+    "time": "04:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Sam Boylston WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "04:54",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:05",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:54",
+    "score": "2-9",
+    "home_event": "GOAL by DUKE Liam Kershis, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:54",
+    "score": "",
+    "home_event": "Faceoff Grant Guthrie vs Cal Girard won by DUKE, [03:54] Ground ball pickup by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:07",
+    "score": "",
+    "home_event": "Shot by DUKE Anthony Drago, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:03",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:58",
+    "score": "",
+    "home_event": "Shot by DUKE Thomas Mencke BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Nolan Hudnut."
+  },
+  {
+    "quarter": 2,
+    "time": "02:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 2,
+    "time": "01:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Hudson O&rsquo;Hara WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "01:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Joe Alie WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "01:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by BELLARMI."
+  },
+  {
+    "quarter": 2,
+    "time": "01:32",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:06",
+    "score": "",
+    "home_event": "Timeout by DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Liam Kershis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Brendan Lehrer."
+  },
+  {
+    "quarter": 2,
+    "time": "00:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Brendan Lehrer."
+  },
+  {
+    "quarter": 2,
+    "time": "00:13",
+    "score": "",
+    "home_event": "Timeout by DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:07",
+    "score": "2-10",
+    "home_event": "GOAL by DUKE Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Cal Girard won by BELLARMI, [00:07] Ground ball pickup by BELLARMI Jackson Campisano."
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Cal Girard won by BELLARMI, [15:00] Ground ball pickup by BELLARMI Jackson Campisano."
+  },
+  {
+    "quarter": 3,
+    "time": "14:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Leo Prosser (caused by Will Tantillo)."
+  },
+  {
+    "quarter": 3,
+    "time": "13:59",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:57",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Patrick Jameison.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:56",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Mac Christmas.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:53",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on BELLARMI Leo Prosser (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Max Sloat (caused by Isaac Miller).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Robert MacMichael."
+  },
+  {
+    "quarter": 3,
+    "time": "12:00",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:50",
+    "score": "2-11",
+    "home_event": "GOAL by DUKE Michael Ortlieb, Assist by Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Cal Girard won by BELLARMI, [11:50] Ground ball pickup by BELLARMI Niko Madden."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Jackson Campisano."
+  },
+  {
+    "quarter": 3,
+    "time": "11:36",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:05",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Jackson Campisano."
+  },
+  {
+    "quarter": 3,
+    "time": "10:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI."
+  },
+  {
+    "quarter": 3,
+    "time": "10:26",
+    "score": "",
+    "home_event": "Shot by DUKE Anthony Drago WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 3,
+    "time": "09:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Luke Healy WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "09:51",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:39",
+    "score": "",
+    "home_event": "Shot by DUKE Max Sloat HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:22",
+    "score": "2-12",
+    "home_event": "GOAL by DUKE Brady Scioletti.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:22",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE, [09:22] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:30",
+    "score": "",
+    "home_event": "Shot by DUKE Anthony Drago HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on BELLARMI Matt Kirton (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 3,
+    "time": "08:03",
+    "score": "",
+    "home_event": "Shot by DUKE Brady Scioletti HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:51",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:49",
+    "score": "2-13",
+    "home_event": "GOAL by DUKE Benn Johnston (MAN-UP), Assist by Thomas Mencke.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:48",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Cal Girard won by DUKE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:41",
+    "score": "",
+    "home_event": "Shot by DUKE Will Tantillo BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Nolan Hudnut."
+  },
+  {
+    "quarter": 3,
+    "time": "07:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Matt Kirton (caused by Benn Johnston)."
+  },
+  {
+    "quarter": 3,
+    "time": "07:21",
+    "score": "2-14",
+    "home_event": "GOAL by DUKE Michael Ortlieb, Assist by Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by BELLARMI."
+  },
+  {
+    "quarter": 3,
+    "time": "07:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ziggy Iannessa vs Luke Engelke won by BELLARMI, [07:21] Ground ball pickup by BELLARMI Ziggy Iannessa."
+  },
+  {
+    "quarter": 3,
+    "time": "06:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ezra Moore BLOCKED"
+  },
+  {
+    "quarter": 3,
+    "time": "06:21",
+    "score": "",
+    "home_event": "Penalty on DUKE Will Pedicano (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:21",
+    "score": "",
+    "home_event": "Penalty on DUKE Will Pedicano (PUSHING/0:30).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Michael Blaymires (caused by Henry Bard)."
+  },
+  {
+    "quarter": 3,
+    "time": "06:01",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Henry Bard.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "05:57",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:46",
+    "score": "2-15",
+    "home_event": "GOAL by DUKE Liam Kershis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:46",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Luke Engelke won by DUKE, [04:46] Ground ball pickup by DUKE Luke Engelke.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:10",
+    "score": "",
+    "home_event": "Buck Cunningham at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:58",
+    "score": "",
+    "home_event": "Shot by DUKE Benn Johnston WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:32",
+    "score": "2-16",
+    "home_event": "GOAL by DUKE Benn Johnston, Assist by Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:32",
+    "score": "",
+    "home_event": "Faceoff Ziggy Iannessa vs Luke Engelke won by DUKE, [03:32] Ground ball pickup by DUKE Luke Engelke.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:45",
+    "score": "",
+    "home_event": "Shot by DUKE Owen Gaffney, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:32",
+    "score": "",
+    "home_event": "Shot by DUKE Brady Scioletti, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 3,
+    "time": "02:17",
+    "score": "3-16",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI John Alie, Assist by Ezra Moore."
+  },
+  {
+    "quarter": 3,
+    "time": "02:17",
+    "score": "",
+    "home_event": "Faceoff Ziggy Iannessa vs Ben McCarthy won by DUKE, [02:17] Ground ball pickup by DUKE Zach Jepson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:07",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:35",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Isaac Miller (caused by Nikolas Menendez)."
+  },
+  {
+    "quarter": 3,
+    "time": "01:10",
+    "score": "",
+    "home_event": "Ground ball pickup by DUKE Nikolas Menendez.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:08",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:58",
+    "score": "3-17",
+    "home_event": "GOAL by DUKE Brady Scioletti.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:58",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Ben McCarthy won by DUKE, [00:58] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Owen Mears.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Brendan Lehrer."
+  },
+  {
+    "quarter": 3,
+    "time": "00:20",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:08",
+    "score": "3-18",
+    "home_event": "GOAL by DUKE Aidan Maguire, Assist by Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:08",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Ben McCarthy won by DUKE, [00:08] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:01",
+    "score": "3-19",
+    "home_event": "GOAL by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Ziggy Iannessa vs Ben McCarthy won by DUKE, [15:00] Ground ball pickup by DUKE Luke Christmas.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:35",
+    "score": "",
+    "home_event": "Shot by DUKE Ian Dykes WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:21",
+    "score": "",
+    "home_event": "Shot by DUKE Anthony Drago, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:53",
+    "score": "3-20",
+    "home_event": "GOAL by DUKE Owen Gaffney, Assist by Colin McLane.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:53",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Ben McCarthy won by DUKE, [13:53] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:50",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:22",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 4,
+    "time": "12:37",
+    "score": "4-20",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI Joe Alie, Assist by Ezra Moore."
+  },
+  {
+    "quarter": 4,
+    "time": "12:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Ben McCarthy won by BELLARMI, [12:37] Ground ball pickup by BELLARMI Niko Madden."
+  },
+  {
+    "quarter": 4,
+    "time": "12:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Ezra Moore."
+  },
+  {
+    "quarter": 4,
+    "time": "11:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ty Washington, SAVE Buck Cunningham"
+  },
+  {
+    "quarter": 4,
+    "time": "11:53",
+    "score": "",
+    "home_event": "Clear attempt by DUKE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 4,
+    "time": "11:10",
+    "score": "5-20",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI Jack Fischel."
+  },
+  {
+    "quarter": 4,
+    "time": "11:10",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Ben McCarthy won by DUKE, [11:10] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:04",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:32",
+    "score": "",
+    "home_event": "Shot by DUKE Ian Dykes WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Anthony Drago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 4,
+    "time": "09:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI John Alie, SAVE Buck Cunningham"
+  },
+  {
+    "quarter": 4,
+    "time": "09:26",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "09:10",
+    "score": "",
+    "home_event": "Henry Blake at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:44",
+    "score": "5-21",
+    "home_event": "GOAL by DUKE Jack Pappendick.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:42",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Ben McCarthy won by DUKE, [08:42] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:37",
+    "score": "",
+    "home_event": "Shot by DUKE Kyle Colsey, SAVE Nolan Hudnut",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Dillon O&rsquo;Rourke."
+  },
+  {
+    "quarter": 4,
+    "time": "08:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 4,
+    "time": "07:35",
+    "score": "6-21",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI John Alie, Assist by Ezra Moore."
+  },
+  {
+    "quarter": 4,
+    "time": "07:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Niko Madden vs Ben McCarthy won by BELLARMI, [07:35] Ground ball pickup by BELLARMI Niko Madden."
+  },
+  {
+    "quarter": 4,
+    "time": "06:39",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by BELLARMI Luke Healy."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI John Alie."
+  },
+  {
+    "quarter": 4,
+    "time": "06:15",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Ian Dykes (caused by Isaac Miller).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI good."
+  },
+  {
+    "quarter": 4,
+    "time": "05:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Joe Alie, SAVE Henry Blake"
+  },
+  {
+    "quarter": 4,
+    "time": "05:04",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:25",
+    "score": "6-22",
+    "home_event": "GOAL by DUKE Liam Kershis, Assist by Owen Gaffney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:25",
+    "score": "",
+    "home_event": "Faceoff Niko Madden vs Luke Engelke won by DUKE, [04:25] Ground ball pickup by DUKE Luke Engelke.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:15",
+    "score": "",
+    "home_event": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:07",
+    "score": "6-23",
+    "home_event": "GOAL by DUKE Luke Engelke, Assist by Austin Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ziggy Iannessa vs Luke Engelke won by BELLARMI (on faceoff violation)."
+  },
+  {
+    "quarter": 4,
+    "time": "03:09",
+    "score": "7-23",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI Ezra Moore, Assist by John Alie."
+  },
+  {
+    "quarter": 4,
+    "time": "03:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ziggy Iannessa vs Ben McCarthy won by BELLARMI (on faceoff violation)."
+  },
+  {
+    "quarter": 4,
+    "time": "02:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Joe Alie BLOCKED"
+  },
+  {
+    "quarter": 4,
+    "time": "02:31",
+    "score": "",
+    "home_event": "Penalty on DUKE Jack Kiefer (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:08",
+    "score": "8-23",
+    "home_event": "",
+    "away_event": "GOAL by BELLARMI John Alie (MAN-UP), Assist by Ezra Moore."
+  },
+  {
+    "quarter": 4,
+    "time": "02:08",
+    "score": "",
+    "home_event": "Faceoff Ziggy Iannessa vs Luke Engelke won by DUKE, [02:08] Ground ball pickup by DUKE Jackson Spells.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:22",
+    "score": "",
+    "home_event": "Marcos Ramos at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Ian Dykes.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ezra Moore WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "00:45",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by BELLARMI Ezra Moore WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "00:40",
+    "score": "",
+    "home_event": "Clear attempt by DUKE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by DUKE Luke Christmas.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by BELLARMI failed."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by BELLARMI Ian Kohut."
+  }
+]

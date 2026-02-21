@@ -1,0 +1,1584 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jacob Neuman at goalie for MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Adam Norris at goalie for VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [15:00] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Rogers (caused by Christopher Cappelmann).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:07",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:52",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Thomas Finta.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "0-1",
+    "score": "GOAL by VMI Austin English (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [12:56] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "Shot by MERCER Ganon Cope, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:52",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:15",
+    "home_event": "",
+    "score": "Shot by VMI Ty Yonas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "0-2",
+    "score": "GOAL by VMI Ty Yonas, Assist by Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [11:00] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Cole Jones.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "1-2",
+    "score": "GOAL by MERCER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [10:33] Ground ball pickup by MERCER Quinn Kelley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:14",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Thomas Finta (caused by Jack Sullivan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "2-2",
+    "score": "GOAL by MERCER Dillon Bush, Assist by Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [09:56] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:55",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Cole Jones.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "2-3",
+    "score": "GOAL by VMI Warner Lewis, Assist by Cole Jones.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [08:54] Ground ball pickup by VMI Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "Shot by VMI Ty Yonas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "2-4",
+    "score": "GOAL by VMI Austin English, Assist by Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "Shot by VMI Will Gormsen HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "",
+    "score": "Shot by VMI Ty Yonas HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:34",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "Shot by VMI Josh Hallam HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Ben Jose (caused by Miller Tatum).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "",
+    "score": "Shot by VMI Austin English WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "2-5",
+    "score": "GOAL by VMI Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:01",
+    "home_event": "",
+    "score": "Faceoff Graham Hartman vs Jack Rogers won by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "3-5",
+    "score": "GOAL by MERCER Kade McNeil, Assist by Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [03:23] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "Shot by VMI Jack Rogers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Austin English.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "Clear attempt by MERCER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Connor Corkill (caused by Tyler Hicks).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "3-6",
+    "score": "GOAL by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [02:02] Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:12",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:57",
+    "home_event": "",
+    "score": "Shot by MERCER Luke Fox, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Jack Sullivan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "4-6",
+    "score": "GOAL by MERCER Michael Frederick, Assist by Nick Church.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:41",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [00:41] Ground ball pickup by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:21",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Shot by VMI Nate Golding WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [15:00] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:20",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "Shot by VMI Austin English WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Beau Durkin (caused by Greyson Brockman).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "5-6",
+    "score": "GOAL by MERCER Michael Frederick, Assist by Callahan Casey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:09",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [13:09] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Shot by MERCER Jack Sullivan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:12",
+    "home_event": "",
+    "score": "Penalty on VMI RJ Wyrick (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "6-6",
+    "score": "GOAL by MERCER Will Zylstra (MAN-UP), Assist by Jack Sullivan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [12:06] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Shot by VMI Warner Lewis, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:19",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:33",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Ganon Cope (caused by RJ Wyrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:11",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "",
+    "score": "Shot by VMI Jack Duncan-Bloom, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "7-6",
+    "score": "GOAL by MERCER Will Zylstra, Assist by Luke Fox.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [08:36] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "Timeout by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "Shot by MERCER Luke Fox WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "8-6",
+    "score": "GOAL by MERCER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [07:54] Ground ball pickup by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:57",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:36",
+    "home_event": "",
+    "score": "Shot by MERCER Jack Sullivan, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:29",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "9-6",
+    "score": "GOAL by MERCER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [04:54] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Ty Yonas (caused by Davis Peek).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "10-6",
+    "score": "GOAL by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "Shot by VMI Austin English, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Luke Fox (caused by Warner Lewis).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:49",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Warner Lewis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "11-6",
+    "score": "GOAL by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Faceoff Graham Hartman vs Jack Rogers won by VMI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Shot by VMI Jack Duncan-Bloom, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:34",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "Timeout by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "Shot by MERCER Ben Jose BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:19",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:07",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Shot by VMI Austin English, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [15:00] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:49",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "Shot by MERCER Jack Sullivan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI RJ Wyrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:11",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "12-6",
+    "score": "GOAL by MERCER Ben Jose, Assist by Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [12:14] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "Shot by VMI Jack Rogers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:53",
+    "home_event": "",
+    "score": "Penalty on VMI Dayton Bagwell (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Dayton Bagwell (caused by Jack Callaghan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Kyle Pierce.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:18",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Shot by MERCER Chance Haynie WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "Shot by VMI Ethan Ostrowski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:16",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Miller Tatum.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:20",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:57",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "13-6",
+    "score": "GOAL by MERCER Jack Sullivan, Assist by Dylan McKelvy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [05:46] Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "Shot by VMI Austin English WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Austin English (caused by Thomas Venzie).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Luke Mauser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Davis Peek (caused by Zac Creel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Zac Creel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "13-7",
+    "score": "GOAL by VMI Ty Yonas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [04:27] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "13-8",
+    "score": "GOAL by VMI Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [04:05] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Timeout by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:59",
+    "home_event": "",
+    "score": "Shot by VMI Will Gormsen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "Shot by VMI Ty Yonas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "Shot by VMI Will Gormsen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "Shot by VMI Will Gormsen, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Clear attempt by MERCER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Michael Frederick (caused by Miller Tatum).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:37",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "",
+    "score": "Shot by MERCER Michael Frederick, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Shot by VMI Nate Golding WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [15:00] Ground ball pickup by VMI Nate Golding.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Shot by VMI Ty Yonas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "13-9",
+    "score": "GOAL by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [14:03] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Cole Jones.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:46",
+    "home_event": "",
+    "score": "Shot by MERCER Jack Sullivan, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "",
+    "score": "Shot by VMI Jack Duncan-Bloom WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Ground ball pickup by MERCER Greyson Brockman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "14-9",
+    "score": "GOAL by MERCER Dillon Bush, Assist by Dylan McKelvy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [10:41] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Shot by MERCER Christopher Cappelmann, SAVE Adam Norris",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "14-10",
+    "score": "GOAL by VMI Dayton Bagwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [09:50] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:21",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:20",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "Clear attempt by VMI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "14-11",
+    "score": "GOAL by VMI Ty Yonas, Assist by Jack Duncan-Bloom.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [07:16] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Jack Sullivan (caused by Zac Creel).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Ground ball pickup by VMI Zac Creel.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "15-11",
+    "score": "GOAL by MERCER Dillon Bush, Assist by Luke Fox.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:09",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [05:09] Ground ball pickup by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Greg Peters.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:09",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Shot by VMI Austin English, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Clear attempt by MERCER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Thomas Venzie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:33",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Adam Norris.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "",
+    "score": "Timeout by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "",
+    "score": "Shot by MERCER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "",
+    "score": "Timeout by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "Clear attempt by VMI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI Miller Tatum.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:18",
+    "home_event": "",
+    "score": "Clear attempt by MERCER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MERCER Jack Sullivan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VMI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "Shot by VMI Dayton Bagwell, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "Clear attempt by MERCER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:40",
+    "home_event": "16-11",
+    "score": "GOAL by MERCER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:40",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by VMI, [00:40] Ground ball pickup by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "16-12",
+    "score": "GOAL by VMI Jack Rogers.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "",
+    "score": "Faceoff Christopher Cappelmann vs Jack Rogers won by MERCER, [00:35] Ground ball pickup by MERCER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "Shot by MERCER Dillon Bush WIDE",
+    "away_event": ""
+  }
+]

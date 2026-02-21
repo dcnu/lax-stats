@@ -1,0 +1,452 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "21",
+        "Name": "LUCA ELMALEH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "4",
+        "Name": "JOHN TOMSHECK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "66",
+        "Name": "LUKE KREBS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "40",
+        "Name": "CADEN LENNON",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "3"
+      },
+      {
+        "NO": "48",
+        "Name": "JACK MCCLOSKEY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "7",
+        "Name": "OWEN WEST",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "3",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "10",
+        "Name": "ZAC AMEND",
+        "POS": "",
+        "G": "2",
+        "A": "1",
+        "SH": "9",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "39",
+        "Name": "BRAYDEN FULLER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "16",
+        "Name": "DAWSON RIELLY",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "14",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "5",
+        "Name": "TIERNAN LATHROP",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "1",
+        "Name": "PATRICK WALSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "29",
+        "Name": "KYLE FEDORCHA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "5",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "47",
+        "Name": "TREVOR PRESTON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "6",
+        "Name": "RICHIE REID",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "54",
+        "Name": "JAMES CARR",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "99",
+        "Name": "LUKE MEAD",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "5"
+      },
+      {
+        "NO": "33",
+        "Name": "SAM KLEIN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "34",
+        "Name": "KYLE CAPODANNO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "18",
+        "Name": "JJ MURPHY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "36",
+        "Name": "MAX DANTONA",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "4",
+        "SOG": "3",
+        "GB": "2"
+      },
+      {
+        "NO": "37",
+        "Name": "JT WERKMEISTER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "38",
+        "Name": "JORDAN HERNANDO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      }
+    ],
+    "goalies": []
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "21",
+        "Name": "LUCA ELMALEH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "4",
+        "Name": "JOHN TOMSHECK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "66",
+        "Name": "LUKE KREBS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "40",
+        "Name": "CADEN LENNON",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "3"
+      },
+      {
+        "NO": "48",
+        "Name": "JACK MCCLOSKEY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "7",
+        "Name": "OWEN WEST",
+        "POS": "",
+        "G": "0",
+        "A": "1",
+        "SH": "3",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "10",
+        "Name": "ZAC AMEND",
+        "POS": "",
+        "G": "2",
+        "A": "1",
+        "SH": "9",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "39",
+        "Name": "BRAYDEN FULLER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "16",
+        "Name": "DAWSON RIELLY",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "14",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "5",
+        "Name": "TIERNAN LATHROP",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "1",
+        "Name": "PATRICK WALSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "29",
+        "Name": "KYLE FEDORCHA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "5",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "47",
+        "Name": "TREVOR PRESTON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "6",
+        "Name": "RICHIE REID",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "54",
+        "Name": "JAMES CARR",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "99",
+        "Name": "LUKE MEAD",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "5"
+      },
+      {
+        "NO": "33",
+        "Name": "SAM KLEIN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "34",
+        "Name": "KYLE CAPODANNO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "18",
+        "Name": "JJ MURPHY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "36",
+        "Name": "MAX DANTONA",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "4",
+        "SOG": "3",
+        "GB": "2"
+      },
+      {
+        "NO": "37",
+        "Name": "JT WERKMEISTER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "38",
+        "Name": "JORDAN HERNANDO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      }
+    ],
+    "goalies": []
+  }
+}

@@ -95,7 +95,7 @@ def load_lookup_teams() -> tuple[dict, dict]:
 	by_short: dict[str, str] = {}
 	by_name: dict[str, str] = {}
 	with get_cursor() as cur:
-		cur.execute("SELECT id, name, short_name FROM public.lookup_teams")
+		cur.execute("SELECT id, name, short_name FROM public.lookup_teams ORDER BY id ASC")
 		for row in cur.fetchall():
 			tid = row["id"]
 			full = (row["name"] or "").strip()

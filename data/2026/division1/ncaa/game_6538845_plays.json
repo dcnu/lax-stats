@@ -1,0 +1,1717 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "OVEREND, Zack at goalie for HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Josh Marcus at goalie for NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:59",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "0-1",
+    "score": "GOAL by NORTHCA Dominic Pietramala (FIRST GOAL), Assist by Brevin Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [13:21] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "Shot by HIGHPOI HYNES, Ryan, SAVE Josh Marcus",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:38",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Josh Marcus.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "Shot by HIGHPOI BUNTEN, Owen, SAVE Josh Marcus",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:53",
+    "home_event": "",
+    "score": "Shot by NORTHCA Gary Merrill, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:48",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI OVEREND, Zack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "0-2",
+    "score": "GOAL by NORTHCA Mason Szewczyk.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:39",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [09:39] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "Shot by NORTHCA Anthony Raio, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI BENSON, Weston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI LANG, Robby (caused by Dominic Pietramala).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "0-3",
+    "score": "GOAL by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Timeout by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [08:46] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "Shot by NORTHCA Brady Wambach WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "",
+    "score": "Shot by NORTHCA Luke Bair HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "Shot by NORTHCA Anthony Raio, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI BUNTEN, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "",
+    "score": "Shot by HIGHPOI KILLEN, Charlie BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "1-3",
+    "score": "GOAL by HIGHPOI HYNES, Ryan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [05:45] Ground ball pickup by NORTHCA Grant Pierce.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "1-4",
+    "score": "GOAL by NORTHCA James Matan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [04:56] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Shot by HIGHPOI COOPER, Owen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI ROVERE, Collin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Ty English (caused by CANN, Ian).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI CANN, Ian.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:29",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "",
+    "score": "Timeout by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI KILLEN, Charlie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Josh Marcus.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "1-5",
+    "score": "GOAL by NORTHCA Andrew Preis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:07",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [02:07] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI ACCARDO, Luca (caused by Grant Pierce).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Chase Cellucci.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:00",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:21",
+    "home_event": "",
+    "score": "Shot by NORTHCA Dominic Pietramala WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "Shot by NORTHCA Gary Merrill HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:37",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI LANG, Robby.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Shot by NORTHCA Matt Wrede, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [15:00] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Luke Macaluso (caused by OVEREND, Zack).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI OVEREND, Zack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:03",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI STEELE, Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "Penalty on NORTHCA Cole Aasheim (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "2-5",
+    "score": "GOAL by HIGHPOI BUNTEN, Owen (MAN-UP), Assist by CANN, Ian.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:17",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [12:17] Ground ball pickup by NORTHCA Peter Thomann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "",
+    "score": "Shot by NORTHCA Dominic Pietramala WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:19",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:54",
+    "home_event": "",
+    "score": "Shot by NORTHCA Dominic Pietramala WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:32",
+    "home_event": "",
+    "score": "Shot by NORTHCA Gary Merrill WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "2-6",
+    "score": "GOAL by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "2-7",
+    "score": "GOAL by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Brady Wambach won by NORTHCA, [09:49] Ground ball pickup by NORTHCA Peter Thomann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "Shot by NORTHCA Luke Bair BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Anthony Raio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "Timeout by NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "Shot by NORTHCA Anthony Raio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "2-8",
+    "score": "GOAL by NORTHCA Mason Szewczyk, Assist by Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:45",
+    "home_event": "",
+    "score": "Shot by HIGHPOI HYNES, Ryan, SAVE Josh Marcus",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI HYNES, Ryan (caused by Leif Hagerup).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Parker McDonald.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "2-9",
+    "score": "GOAL by NORTHCA Ty English.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:44",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [06:44] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Caswell Friedman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "Shot by NORTHCA Andrew Preis WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Penalty on HIGHPOI ACCARDO, Luca (CROSS-CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "2-10",
+    "score": "GOAL by NORTHCA Dominic Pietramala (MAN-UP), Assist by Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:25",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [05:25] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "Shot by NORTHCA Dominic Pietramala BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Anthony Raio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "2-11",
+    "score": "GOAL by NORTHCA Mason Szewczyk (30-second count), Assist by Luke Macaluso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [03:41] Ground ball pickup by NORTHCA Cole Aasheim.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Anthony Raio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI LANG, Robby.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI RICHINS, Brice.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "2-12",
+    "score": "GOAL by NORTHCA Chase Cellucci, Assist by Dominic Pietramala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:39",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [02:39] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Chase Cellucci.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Chase Cellucci.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI CANN, Ian.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:24",
+    "home_event": "",
+    "score": "Shot by HIGHPOI ROVERE, Collin, SAVE Josh Marcus",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Cole Aasheim.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:12",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Shot by NORTHCA Matt Wrede WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [15:00] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:54",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI CANN, Ian.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI BUNTEN, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:40",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Cole Aasheim.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:36",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "3-12",
+    "score": "GOAL by HIGHPOI ROBINS, Carson, Assist by ROVERE, Collin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "Shot by NORTHCA James Matan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "",
+    "score": "Shot by NORTHCA Luke Macaluso, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "4-12",
+    "score": "GOAL by HIGHPOI HYNES, Ryan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:58",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [10:58] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "4-13",
+    "score": "GOAL by NORTHCA Brevin Wilson, Assist by Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:11",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by NORTHCA, [10:11] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Parker Hoffman (caused by LANG, Robby).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI RICHINS, Brice.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:56",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI RICHINS, Brice.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:41",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "4-14",
+    "score": "GOAL by NORTHCA Brevin Wilson, Assist by Owen Duffy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "Penalty on HIGHPOI WESTBROOKS, James (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:03",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI ROVERE, Collin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "4-15",
+    "score": "GOAL by NORTHCA Dominic Pietramala (MAN-UP).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:06",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Brady Wambach won by NORTHCA, [08:06] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Luke Macaluso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:30",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Duffy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Shot by NORTHCA Mason Szewczyk WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:04",
+    "home_event": "",
+    "score": "Shot by NORTHCA Luke Macaluso BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:01",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI STEPHENS, Caio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "5-15",
+    "score": "GOAL by HIGHPOI WIXTED, Justin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:55",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Brady Wambach won by NORTHCA, [04:55] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "Shot by NORTHCA Brevin Wilson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "Shot by NORTHCA Anthony Raio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "5-16",
+    "score": "GOAL by NORTHCA Anthony Raio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Brady Wambach won by HIGHPOI, [03:52] Ground ball pickup by HIGHPOI STEPHENS, Caio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI OVEREND, Zack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:24",
+    "home_event": "",
+    "score": "Shot by HIGHPOI BUNTEN, Owen BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:22",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI ROBINS, Carson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "6-16",
+    "score": "GOAL by HIGHPOI BUNTEN, Owen, Assist by ROBINS, Carson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Colin Hannigan won by HIGHPOI, [02:46] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Penalty on NORTHCA Parker McDonald (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "7-16",
+    "score": "GOAL by HIGHPOI ROVERE, Collin (MAN-UP), Assist by WIXTED, Justin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Colin Hannigan won by HIGHPOI, [01:48] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:52",
+    "home_event": "",
+    "score": "Shot by HIGHPOI WIXTED, Justin WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI WIXTED, Justin (caused by Ty English).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Dean Scalamandre.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Shot by NORTHCA Ty English WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Kent Goode at goalie for NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Colin Hannigan won by NORTHCA, [15:00] Ground ball pickup by NORTHCA Colin Hannigan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:56",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Peter Thomann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:24",
+    "home_event": "",
+    "score": "Shot by NORTHCA Mason Szewczyk WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "Shot by NORTHCA Luke Macaluso HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:55",
+    "home_event": "",
+    "score": "Shot by NORTHCA James Matan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI OVEREND, Zack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:47",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI MOORE, Scott.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:42",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Brevin Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "7-17",
+    "score": "GOAL by NORTHCA Owen Duffy, Assist by Brevin Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Colin Hannigan won by NORTHCA, [13:39] Ground ball pickup by NORTHCA Parker Hoffman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:42",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Brevin Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Brevin Wilson (caused by COOPER, Owen).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI LANG, Robby.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:22",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "8-17",
+    "score": "GOAL by HIGHPOI ROBINS, Carson, Assist by WIXTED, Justin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:04",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Colin Hannigan won by HIGHPOI, [11:04] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "Shot by NORTHCA Dominic Pietramala, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI POOLE, Kolby.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Dominic Pietramala (caused by OVEREND, Zack).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI OVEREND, Zack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "Shot by HIGHPOI KILLEN, Charlie, SAVE Kent Goode",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "Penalty on NORTHCA Chase Cellucci (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "9-17",
+    "score": "GOAL by HIGHPOI CANN, Ian (MAN-UP), Assist by ROVERE, Collin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Colin Hannigan won by HIGHPOI, [08:41] Ground ball pickup by HIGHPOI TAUSCHER, Michael.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "Shot by HIGHPOI BUNTEN, Owen, SAVE Kent Goode",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI WIXTED, Justin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "Shot by HIGHPOI ROBINS, Carson, SAVE Kent Goode",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:07",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "9-18",
+    "score": "GOAL by NORTHCA Dominic Pietramala, Assist by Matt Wrede.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Faceoff TAUSCHER, Michael vs Brady Wambach won by NORTHCA, [07:32] Ground ball pickup by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "9-19",
+    "score": "GOAL by NORTHCA Brady Wambach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Colin Hannigan won by HIGHPOI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Timeout by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI LUTZEL, Matt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "30-second clock violation by HIGHPOI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Ty English (caused by DEMON, Luke).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI DEMON, Luke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "Shot by HIGHPOI CANN, Ian, SAVE Kent Goode",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:26",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:57",
+    "home_event": "",
+    "score": "Brayson Wilson at goalie for NORTHCA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Charlie Pope.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI DEMON, Luke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Andrew Preis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI WESTBROOKS, James.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:07",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:54",
+    "home_event": "",
+    "score": "Penalty on NORTHCA Owen Dixon (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:27",
+    "home_event": "",
+    "score": "Shot by HIGHPOI ROVERE, Collin WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI WIXTED, Justin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Clear attempt by NORTHCA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "Shot by NORTHCA Owen Dixon, SAVE OVEREND, Zack",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:22",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Andrew Preis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "Shot by NORTHCA Andrew Preis WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "9-20",
+    "score": "GOAL by NORTHCA Owen Dixon, Assist by Matt Wrede.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:11",
+    "home_event": "",
+    "score": "Faceoff ACCARDO, Luca vs Parker Hoffman won by HIGHPOI, [01:11] Ground ball pickup by HIGHPOI ACCARDO, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:09",
+    "home_event": "",
+    "score": "Clear attempt by HIGHPOI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:36",
+    "home_event": "",
+    "score": "Shot by HIGHPOI ROBINS, Carson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:28",
+    "home_event": "",
+    "score": "Penalty on NORTHCA Parker Hoffman (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by HIGHPOI ROVERE, Collin (caused by Chase Cellucci).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "Ground ball pickup by NORTHCA Chase Cellucci.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NORTHCA Leif Hagerup (caused by ROBINS, Carson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Ground ball pickup by HIGHPOI BUNTEN, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by HIGHPOI BUNTEN, Owen, SAVE Brayson Wilson",
+    "away_event": ""
+  }
+]

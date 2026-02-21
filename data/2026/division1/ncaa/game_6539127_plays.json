@@ -1,0 +1,1626 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Craig Daria at goalie for SACREDH.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Angus Snow at goalie for WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Shot by WAGNER Theo Kostakos HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "Shot by WAGNER Theo Kostakos, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "0-1",
+    "score": "GOAL by WAGNER Theo Kostakos (FIRST GOAL), Assist by Danny McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Faceoff Hunter Molway vs Dylan Dwyer won by WAGNER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:09",
+    "home_event": "",
+    "score": "Shot by WAGNER Jake Mitchell, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "0-2",
+    "score": "GOAL by WAGNER Danny McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:38",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [11:38] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:06",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Drew Pemrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "Shot by SACREDH Tommy Bull, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:33",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Angus Snow.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:09",
+    "home_event": "",
+    "score": "Timeout by SACREDH.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "Shot by SACREDH Tim Kiely BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "1-2",
+    "score": "GOAL by SACREDH James Moran.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:26",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [09:26] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "Shot by SACREDH Ryan Grove WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "2-2",
+    "score": "GOAL by SACREDH Michael Moreschi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [08:54] Ground ball pickup by SACREDH Cooper Callahan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Matt Pepe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "Shot by SACREDH Tim Kiely HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "Shot by SACREDH Tim Kiely WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:34",
+    "home_event": "",
+    "score": "Shot by SACREDH James Moran HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH James Moran.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:20",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:31",
+    "home_event": "",
+    "score": "Shot by SACREDH Matt Pepe WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:12",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "3-2",
+    "score": "GOAL by SACREDH Matt Pepe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:03",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Shot by SACREDH Matt Pepe WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "4-2",
+    "score": "GOAL by SACREDH James Moran, Assist by Ryan Rooney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:33",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Trenton Rock won by SACREDH, [04:33] Ground ball pickup by SACREDH Cooper Abraham.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:37",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Tommy Bull.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jj Fox (caused by O Leedale-Brown).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Cole Yoshioka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:05",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER O Leedale-Brown (caused by Rylan Padelford).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Rylan Padelford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Rylan Padelford.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:00",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "4-3",
+    "score": "GOAL by WAGNER Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER, [02:28] Ground ball pickup by WAGNER Dylan Dwyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Danny McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Michael Moreschi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:34",
+    "home_event": "",
+    "score": "Shot by WAGNER Max Frissora WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "4-4",
+    "score": "GOAL by WAGNER Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [00:01] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [15:00] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:44",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Mason Mac (caused by Logan Hyde).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:35",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Logan Hyde.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:20",
+    "home_event": "",
+    "score": "Shot by WAGNER Theo Kostakos, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Theo Kostakos (caused by Mason Mac).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Michael Amoruso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:13",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "5-4",
+    "score": "GOAL by SACREDH Will Moulton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:37",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER, [11:37] Ground ball pickup by WAGNER Team.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "",
+    "score": "Shot by WAGNER Smith Callaghan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Cooper Callahan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:00",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "6-4",
+    "score": "GOAL by SACREDH Jake Carney, Assist by Ryan Rooney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [10:22] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "Shot by SACREDH James Moran, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jake Carney (caused by Tristan Mcmahon).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Terry Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:05",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:13",
+    "home_event": "6-5",
+    "score": "GOAL by WAGNER Danny McMahon, Assist by Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:13",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [08:13] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Will Moulton (caused by Drew Pemrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Angus Snow.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:22",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Smith Callaghan (caused by Michael Amoruso).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH John Murray.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "7-5",
+    "score": "GOAL by SACREDH Matt Pepe, Assist by Michael Moreschi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [06:35] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Ej Garvey (caused by Drew Pemrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Drew Pemrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:07",
+    "home_event": "",
+    "score": "Shot by WAGNER Ian Muchineuta, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Danny McMahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Ryan Rossi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "Shot by SACREDH Ryan Rooney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Shot by SACREDH Tim Kiely WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Shot by SACREDH Tommy Bull HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "8-5",
+    "score": "GOAL by SACREDH Jake Carney, Assist by Tommy Bull.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "9-5",
+    "score": "GOAL by SACREDH Jake Carney, Assist by Will Moulton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Timeout by WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER, [02:57] Ground ball pickup by WAGNER Dylan Dwyer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "9-6",
+    "score": "GOAL by WAGNER Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:10",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Shot by SACREDH Tommy Bull, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "Timeout by WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Max Frissora.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Timeout by SACREDH.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Matt Pepe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Dylan Popehn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Craig Daria.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Trenton Rock won by WAGNER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:33",
+    "home_event": "",
+    "score": "Shot by WAGNER Theo Kostakos WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "9-7",
+    "score": "GOAL by WAGNER Dylan Popehn, Assist by Smith Callaghan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "",
+    "score": "Faceoff Hunter Molway vs Dylan Dwyer won by SACREDH (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "10-7",
+    "score": "GOAL by SACREDH Michael Moreschi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:43",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [13:43] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "Shot by SACREDH Matt Pepe HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Cole Yoshioka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Matt Pepe (caused by Colin Sabia).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:26",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Colin Sabia.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:25",
+    "home_event": "",
+    "score": "Shot by WAGNER Jake Mitchell HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:23",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:26",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Dylan Popehn (caused by Garrett Mangels).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:54",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Will Moulton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Brody Reedy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:09",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Shot by SACREDH Ryan Rooney HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jj Fox (caused by Drew Pemrick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:11",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Drew Pemrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:09",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Dylan Popehn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:00",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jj Fox (caused by Terry Farrell).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:52",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:46",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Garrett Mangels.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Garrett Mangels.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:17",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Theo Kostakos (caused by Ethan Hughes).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Cooper Callahan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Ethan Hughes.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "10-8",
+    "score": "GOAL by WAGNER Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:02",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [04:02] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Will Moulton.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Angus Snow.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jj Fox (caused by Cole Yoshioka).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Cole Yoshioka.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Ryan Rossi (caused by Mason Mac).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:55",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Jake Carney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:46",
+    "home_event": "",
+    "score": "Shot by SACREDH Jake Carney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Michael Moreschi (caused by Terry Farrell).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Colin Sabia.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Penalty on SACREDH Jack Balzi (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Theo Kostakos (caused by Finn Hoey).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Finn Hoey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [15:00] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "Shot by SACREDH John Murray, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:07",
+    "home_event": "",
+    "score": "Shot by WAGNER Smith Callaghan, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:30",
+    "home_event": "",
+    "score": "Shot by WAGNER Jake Mitchell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:04",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "11-8",
+    "score": "GOAL by SACREDH Matt Pepe, Assist by Tim Kiely.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:42",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [11:42] Ground ball pickup by SACREDH Team.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Craig Daria (caused by Dylan Popehn).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Dylan Popehn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "11-9",
+    "score": "GOAL by WAGNER Dylan Popehn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:13",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER, [11:13] Ground ball pickup by WAGNER Ian Muchineuta.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Craig Daria.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:13",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "Shot by SACREDH Jake Carney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Tommy Bull (caused by Cole Yoshioka).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Colin Sabia.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:14",
+    "home_event": "",
+    "score": "Shot by WAGNER Jake Mitchell, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Team.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:04",
+    "home_event": "",
+    "score": "Penalty on WAGNER Griffin Baker (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "11-10",
+    "score": "GOAL by WAGNER Ryan Rossi (MAN-UP), Assist by Jake Mitchell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [07:47] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:54",
+    "home_event": "",
+    "score": "Shot by SACREDH Ryan Rooney HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Tommy Bull.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:19",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:39",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:33",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "12-10",
+    "score": "GOAL by SACREDH Will Moulton, Assist by Michael Moreschi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [05:05] Ground ball pickup by SACREDH Mason Mac.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "Shot by SACREDH Jake Carney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "13-10",
+    "score": "GOAL by SACREDH James Moran, Assist by Ryan Rooney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:15",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by SACREDH, [04:15] Ground ball pickup by SACREDH Ryan Grove.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "",
+    "score": "Shot by SACREDH Tommy Bull, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Matt Pepe.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "Shot by SACREDH Garrett Mangels, SAVE Angus Snow",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Timeout by WAGNER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "",
+    "score": "Shot by WAGNER Max Frissora HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "14-10",
+    "score": "GOAL by SACREDH Tommy Bull (30-second count), Assist by Jake Carney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:24",
+    "home_event": "",
+    "score": "Faceoff Ryan Grove vs Dylan Dwyer won by WAGNER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Shot by WAGNER Jake Mitchell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "",
+    "score": "Shot by WAGNER Danny McMahon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Shot by WAGNER Theo Kostakos, SAVE Craig Daria",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Clear attempt by SACREDH good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:54",
+    "home_event": "",
+    "score": "Shot by SACREDH Ryan Rooney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by SACREDH Jake Carney (caused by Cole Yoshioka).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:22",
+    "home_event": "",
+    "score": "Ground ball pickup by WAGNER Tristan Mcmahon.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "Clear attempt by WAGNER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by WAGNER Smith Callaghan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Ground ball pickup by SACREDH Craig Daria.",
+    "away_event": ""
+  }
+]

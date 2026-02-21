@@ -176,6 +176,174 @@ def load_roster_for_teams(season_id: str, division: int, home_team_id: str, away
 	return result
 
 
+def extract_ncaa_game_plays(season_filter: str, division_filter: int = None, data_dir: str = "data", skip_game_ids: set = None) -> list:
+	"""
+	Extract plays from ncaa.com files for final games missing play-by-play.
+
+	ncaa.com format: event text is in the 'score' field; home_event holds
+	'away_score-home_score' after goals; artifact rows have all fields '0'/''.
+
+	skip_game_ids: set of game IDs already covered by the games/ pass.
+	"""
+	if not season_filter:
+		return []
+
+	division = division_filter or 1
+	data_path = Path(data_dir)
+	ncaa_dir = data_path / season_filter / f"division{division}" / "ncaa"
+	if not ncaa_dir.exists():
+		return []
+
+	# Discover ncaa plays files directly; filter out games already covered by games/ pass
+	available_ids = {
+		f.stem.split("_")[1]
+		for f in ncaa_dir.glob("game_*_plays.json")
+	}
+	if skip_game_ids:
+		available_ids -= skip_game_ids
+
+	if not available_ids:
+		return []
+
+	games = execute_query(
+		"""SELECT id, home_team_id, away_team_id, season_id, division_id,
+		          home_score, away_score
+		   FROM games WHERE id = ANY(%s) AND status = 'final'""",
+		(list(available_ids),),
+	)
+	if not games:
+		return []
+
+	print(f"Found {len(games)} ncaa-only final games with plays files...")
+
+	all_plays = []
+	roster_cache = {}
+	found = 0
+
+	for game in games:
+		game_id = str(game["id"])
+		plays_file = ncaa_dir / f"game_{game_id}_plays.json"
+		info_file = ncaa_dir / f"game_{game_id}_info.json"
+
+		if not plays_file.exists() or not info_file.exists():
+			continue
+
+		found += 1
+		try:
+			with open(info_file, "r", encoding="utf-8") as f:
+				info = json.load(f)
+
+			home_team_name = info.get("homeTeam", "").upper()
+			away_team_name = info.get("awayTeam", "").upper()
+			home_team_id = game["home_team_id"]
+			away_team_id = game["away_team_id"]
+
+			with open(plays_file, "r", encoding="utf-8") as f:
+				plays_data = json.load(f)
+
+			if not plays_data:
+				continue
+
+			roster_key = (season_filter, division, home_team_id, away_team_id)
+			if roster_key not in roster_cache:
+				roster_cache[roster_key] = load_roster_for_teams(
+					season_filter, division, home_team_id, away_team_id, data_dir
+				)
+			roster = roster_cache[roster_key]
+
+			play_sequence = 0
+			current_home_score = None
+			current_away_score = None
+
+			for play in plays_data:
+				home_event = play.get("home_event", "")
+				score_field = play.get("score", "")
+				away_event = play.get("away_event", "")
+
+				# Skip artifact header rows
+				if home_event in ("0", "") and score_field in ("0", "") and away_event in ("0", ""):
+					continue
+
+				event_text = score_field if score_field not in ("0", "") else ""
+				if not event_text:
+					continue
+
+				quarter_raw = play.get("quarter", "")
+				if quarter_raw == "OT":
+					quarter = 5
+				elif isinstance(quarter_raw, str) and quarter_raw.endswith("OT"):
+					try:
+						quarter = 4 + int(quarter_raw[:-2])
+					except ValueError:
+						quarter = 5
+				else:
+					try:
+						quarter = int(quarter_raw) if quarter_raw else 0
+					except (ValueError, TypeError):
+						quarter = 0
+				time_str = play.get("time", "")
+				time_remaining = parse_time_to_seconds(time_str)
+
+				# Score in home_event as "away_score-home_score"
+				if home_event and "-" in home_event:
+					try:
+						parts = home_event.split("-", 1)
+						current_away_score = int(parts[0])
+						current_home_score = int(parts[1])
+					except (ValueError, IndexError):
+						pass
+
+				play_type = classify_play_type(event_text)
+				if not play_type or play_type in EXTRA_TYPES:
+					continue
+
+				db_play_type = play_type if play_type in VALID_PLAY_TYPES else "shot"
+
+				# Determine team from team name substring in event text
+				event_upper = event_text.upper()
+				if home_team_name and home_team_name in event_upper:
+					team_id = home_team_id
+				elif away_team_name and away_team_name in event_upper:
+					team_id = away_team_id
+				else:
+					team_id = None
+
+				player_name = extract_player_name(event_text)
+				player_id = None
+				if player_name and roster:
+					player_id = match_player_to_roster(player_name, roster)
+
+				secondary_name = extract_secondary_player(event_text)
+				secondary_id = None
+				if secondary_name and roster:
+					secondary_id = match_player_to_roster(secondary_name, roster)
+
+				play_sequence += 1
+				all_plays.append({
+					"game_id": game_id,
+					"season_id": season_filter,
+					"quarter": quarter,
+					"time_remaining": time_remaining,
+					"play_sequence": play_sequence,
+					"play_type": db_play_type,
+					"player_id": player_id,
+					"player_name": player_name,
+					"team_id": team_id,
+					"secondary_player_id": secondary_id,
+					"secondary_player_name": secondary_name,
+					"home_score": current_home_score,
+					"away_score": current_away_score,
+					"raw_description": event_text,
+				})
+
+		except Exception as e:
+			print(f"Warning: Error processing ncaa plays for game {game_id}: {e}", file=sys.stderr)
+			continue
+
+	print(f"Processed {found} ncaa play-by-play files, extracted {len(all_plays)} events")
+	return all_plays
+
+
 def extract_game_plays(data_dir: str = "data", season_filter: str = None, division_filter: int = None):
 	"""Extract play-by-play data from all plays files."""
 	data_path = Path(data_dir)
@@ -452,6 +620,11 @@ def main():
 	args = parser.parse_args()
 
 	plays = extract_game_plays(args.data_dir, season_filter=args.season, division_filter=args.division)
+
+	if args.season:
+		covered = {p["game_id"] for p in plays}
+		ncaa_plays = extract_ncaa_game_plays(args.season, args.division, args.data_dir, skip_game_ids=covered)
+		plays.extend(ncaa_plays)
 
 	if not plays:
 		print("No game plays found", file=sys.stderr)

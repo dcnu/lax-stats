@@ -1,0 +1,588 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "27",
+        "Name": "CALUM BRENNAN",
+        "POS": "A",
+        "G": "2",
+        "A": "0",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "25",
+        "Name": "OWEN TAPPER",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "5"
+      },
+      {
+        "NO": "9",
+        "Name": "ZACH TUCKER",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "6",
+        "Name": "DYLAN ANDERSON",
+        "POS": "A",
+        "G": "4",
+        "A": "5",
+        "SH": "9",
+        "SOG": "5",
+        "GB": "0"
+      },
+      {
+        "NO": "7",
+        "Name": "ETHAN HECHT",
+        "POS": "D",
+        "G": "0",
+        "A": "1",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "30",
+        "Name": "LUKE PREZIOSO",
+        "POS": "A",
+        "G": "2",
+        "A": "1",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "2"
+      },
+      {
+        "NO": "",
+        "Name": "GAVIN PEDONE",
+        "POS": "M",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "2"
+      },
+      {
+        "NO": "42",
+        "Name": "KOERNER MARECHEK",
+        "POS": "A",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "NATE FECHTER",
+        "POS": "GK",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "8"
+      },
+      {
+        "NO": "50",
+        "Name": "LUIS GONZALEZ",
+        "POS": "A",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "26",
+        "Name": "NOLAN BARKER",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "29",
+        "Name": "TOMMY RUSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "8",
+        "Name": "DYLAN WRAGG",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "22",
+        "Name": "GRAEME MACLENNAN",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "4",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "21",
+        "Name": "AIDEN GRECO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "37",
+        "Name": "COLIN DAVIS",
+        "POS": "",
+        "G": "0",
+        "A": "2",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "35",
+        "Name": "CALLUM WITTER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "34",
+        "Name": "BRAD HILL",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "33",
+        "Name": "ELIJAH EDWARDS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "32",
+        "Name": "KYLE MCMILLAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "2",
+        "Name": "MAC LINK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "CHARLIE MARSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "49",
+        "Name": "CRISTIAN DAVIS",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "3"
+      },
+      {
+        "NO": "41",
+        "Name": "JOEL MCCORMICK",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "45",
+        "Name": "NATHAN RUFF",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "18",
+        "Name": "BEN ECK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "52",
+        "Name": "MATT KING",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "12",
+        "Name": "EVAN DIBLASI",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      }
+    ],
+    "goalies": [
+      {
+        "Goalies": "NATE FECHTER",
+        "POS": "GK",
+        "MIN": "3600",
+        "SAVES": "20",
+        "GA": "12"
+      }
+    ]
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "27",
+        "Name": "CALUM BRENNAN",
+        "POS": "A",
+        "G": "2",
+        "A": "0",
+        "SH": "5",
+        "SOG": "3",
+        "GB": "0"
+      },
+      {
+        "NO": "25",
+        "Name": "OWEN TAPPER",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "5"
+      },
+      {
+        "NO": "9",
+        "Name": "ZACH TUCKER",
+        "POS": "D",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "6",
+        "Name": "DYLAN ANDERSON",
+        "POS": "A",
+        "G": "4",
+        "A": "5",
+        "SH": "9",
+        "SOG": "5",
+        "GB": "0"
+      },
+      {
+        "NO": "7",
+        "Name": "ETHAN HECHT",
+        "POS": "D",
+        "G": "0",
+        "A": "1",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "30",
+        "Name": "LUKE PREZIOSO",
+        "POS": "A",
+        "G": "2",
+        "A": "1",
+        "SH": "4",
+        "SOG": "2",
+        "GB": "2"
+      },
+      {
+        "NO": "",
+        "Name": "GAVIN PEDONE",
+        "POS": "M",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "2"
+      },
+      {
+        "NO": "42",
+        "Name": "KOERNER MARECHEK",
+        "POS": "A",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "0"
+      },
+      {
+        "NO": "19",
+        "Name": "NATE FECHTER",
+        "POS": "GK",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "8"
+      },
+      {
+        "NO": "50",
+        "Name": "LUIS GONZALEZ",
+        "POS": "A",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "26",
+        "Name": "NOLAN BARKER",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "29",
+        "Name": "TOMMY RUSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "8",
+        "Name": "DYLAN WRAGG",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "22",
+        "Name": "GRAEME MACLENNAN",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "4",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "21",
+        "Name": "AIDEN GRECO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "37",
+        "Name": "COLIN DAVIS",
+        "POS": "",
+        "G": "0",
+        "A": "2",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "35",
+        "Name": "CALLUM WITTER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "34",
+        "Name": "BRAD HILL",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "33",
+        "Name": "ELIJAH EDWARDS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "32",
+        "Name": "KYLE MCMILLAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "2",
+        "Name": "MAC LINK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "CHARLIE MARSH",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "49",
+        "Name": "CRISTIAN DAVIS",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "3"
+      },
+      {
+        "NO": "41",
+        "Name": "JOEL MCCORMICK",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "45",
+        "Name": "NATHAN RUFF",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "18",
+        "Name": "BEN ECK",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "52",
+        "Name": "MATT KING",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "12",
+        "Name": "EVAN DIBLASI",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      }
+    ],
+    "goalies": [
+      {
+        "Goalies": "NATE FECHTER",
+        "POS": "GK",
+        "MIN": "3600",
+        "SAVES": "20",
+        "GA": "12"
+      }
+    ]
+  }
+}

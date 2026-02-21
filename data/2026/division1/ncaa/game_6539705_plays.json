@@ -1,0 +1,1787 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jackson Read at goalie for VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Patrick Jameison at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [15:00] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Cal Girard (caused by Walter Zhao).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Mason Bardwell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:40",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Harrison Josloff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "0-1",
+    "score": "GOAL by DUKE Benn Johnston (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:50",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [12:50] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Tomas Delgado.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Ethan Pearson (caused by Charlie Johnson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Tomas Delgado.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:18",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:10",
+    "home_event": "",
+    "score": "Shot by DUKE Benn Johnston WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "0-2",
+    "score": "GOAL by DUKE Brady Scioletti.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:41",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT, [10:41] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "1-2",
+    "score": "GOAL by VERMONT Ethan Pearson, Assist by Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:35",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "1-3",
+    "score": "GOAL by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "Faceoff Rocco Boland vs Cal Girard won by DUKE, [09:59] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Tatum Lewis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "2-3",
+    "score": "GOAL by VERMONT Kean Par'eacute3a, Assist by Zack Toll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:20",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT, [08:20] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Shot by VERMONT Ethan Pearson BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:21",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Luke Warrington (caused by Dean Driscoll).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:18",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Dean Driscoll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:11",
+    "home_event": "",
+    "score": "Shot by VERMONT Dean Driscoll WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "",
+    "score": "Shot by VERMONT Max Goldstein WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "Shot by VERMONT Tristan Whitaker, SAVE Patrick Jameison",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:35",
+    "home_event": "",
+    "score": "Shot by VERMONT Luke Reiter BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Luke Reiter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:18",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "Shot by DUKE Liam Kershis WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:43",
+    "home_event": "",
+    "score": "Penalty on VERMONT Anell Ward (ILLEGAL BODY CHECK/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "2-4",
+    "score": "GOAL by DUKE Benn Johnston (MAN-UP), Assist by Thomas Mencke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Shot by VERMONT Harrison Josloff, SAVE Patrick Jameison",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "2-5",
+    "score": "GOAL by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by DUKE, [03:14] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "2-6",
+    "score": "GOAL by DUKE Benn Johnston, Assist by Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Timeout by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [02:09] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Penalty on VERMONT Sean Stevens (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "2-7",
+    "score": "GOAL by DUKE Max Sloat (MAN-UP), Assist by Thomas Mencke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Tristan Whitaker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:15",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:04",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "2-8",
+    "score": "GOAL by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Ryan Daly at goalie for VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:53",
+    "home_event": "",
+    "score": "Shot by VERMONT Harrison Josloff, SAVE Patrick Jameison",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:38",
+    "home_event": "",
+    "score": "Shot by DUKE Max Sloat BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:18",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Connor Nolen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Anell Ward.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:12",
+    "home_event": "",
+    "score": "Shot by DUKE Kyle Colsey, SAVE Ryan Daly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:01",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "3-8",
+    "score": "GOAL by VERMONT Kean Par'eacute3a, Assist by Zack Toll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [12:51] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "Shot by DUKE Kyle Colsey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Anthony Drago (caused by John Thomas).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:40",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Anell Ward.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:20",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Tatum Lewis (caused by Benn Johnston).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:14",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:50",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Michael Ortlieb.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Michael Ortlieb (caused by John Thomas).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "",
+    "score": "Shot by VERMONT Ryker Demarest BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:46",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Kean Par'eacute3a.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Tristan Whitaker (caused by Charlie Johnson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:34",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:47",
+    "home_event": "",
+    "score": "Shot by DUKE Brady Scioletti, SAVE Ryan Daly",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:43",
+    "home_event": "",
+    "score": "Shot by DUKE Brady Scioletti WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Matthew Drimmie (caused by Henry Bard).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Henry Bard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "3-9",
+    "score": "GOAL by DUKE Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [07:50] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:37",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:54",
+    "home_event": "",
+    "score": "Penalty on DUKE Luke Warrington (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Zack Toll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:57",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Michael Ortlieb.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "3-10",
+    "score": "GOAL by DUKE Michael Ortlieb, Assist by Kyle Colsey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:43",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT, [05:43] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:30",
+    "home_event": "",
+    "score": "Timeout by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Harrison Josloff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:30",
+    "home_event": "",
+    "score": "Penalty on VERMONT Dean Driscoll (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Brady Scioletti (caused by Zakkary Chesteen).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Ryan Daly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Zakkary Chesteen (caused by Aidan Maguire).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "3-11",
+    "score": "GOAL by DUKE Brady Scioletti, Assist by Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:19",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [03:19] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "3-12",
+    "score": "GOAL by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT, [02:38] Ground ball pickup by VERMONT Chase Gozdeck.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:05",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Zack Toll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "Shot by VERMONT Tristan Whitaker WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:15",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "Shot by DUKE Brady Scioletti WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "",
+    "score": "Shot by DUKE Kyle Colsey HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "Shot by DUKE Kyle Colsey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jake Dandrea at goalie for VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by VERMONT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:46",
+    "home_event": "",
+    "score": "Penalty on DUKE Will Pedicano (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:41",
+    "home_event": "",
+    "score": "Shot by VERMONT Ethan Pearson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "Shot by VERMONT Ethan Pearson, SAVE Patrick Jameison",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:19",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "3-13",
+    "score": "GOAL by DUKE Max Sloat.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:19",
+    "home_event": "",
+    "score": "Faceoff Kean Par'eacute3a vs Ben McCarthy won by VERMONT, [12:19] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Chase Gozdeck.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Charlie Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Anthony Drago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:28",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT John Thomas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "3-14",
+    "score": "GOAL by DUKE Michael Ortlieb, Assist by Thomas Mencke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:38",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Cal Girard won by DUKE, [10:38] Ground ball pickup by DUKE Cal Girard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "3-15",
+    "score": "GOAL by DUKE Benn Johnston.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Luke Engelke won by DUKE, [10:22] Ground ball pickup by DUKE Luke Engelke.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "3-16",
+    "score": "GOAL by DUKE Kyle Colsey, Assist by Luke Warrington.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:12",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Luke Engelke won by VERMONT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "Shot by VERMONT Max Goldstein HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "",
+    "score": "Shot by VERMONT Tristan Whitaker, SAVE Patrick Jameison",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:58",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Zach Jepson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:54",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Michael Ortlieb.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "Buck Cunningham at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "3-17",
+    "score": "GOAL by DUKE Benn Johnston, Assist by Owen Gaffney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by DUKE, [08:12] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "3-18",
+    "score": "GOAL by DUKE Kyle Colsey, Assist by Will Pedicano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:02",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by DUKE, [08:02] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:38",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Zack Toll.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Sean McCeney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:25",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean McCeney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:17",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Thomas Mencke (caused by Jack Combs).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Jack Combs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Dean Driscoll (caused by Jack Pappendick).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Austin Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Jack Combs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "Shot by VERMONT Kyle Kerrigan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Colin McLane.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Liam Kershis (caused by Colin Bullock).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Colin Bullock.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Mason Bardwell (caused by Connor Nolen).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:25",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Connor Nolen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "3-19",
+    "score": "GOAL by DUKE Thomas Mencke, Assist by Connor Nolen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "Timeout by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "Faceoff Rocco Boland vs Ben McCarthy won by DUKE, [03:21] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Owen Gaffney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:43",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT John Thomas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:41",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:34",
+    "home_event": "",
+    "score": "Shot by VERMONT Harrison Josloff WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "30-second clock violation by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "3-20",
+    "score": "GOAL by DUKE Brady Scioletti.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT, [00:50] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "4-20",
+    "score": "GOAL by VERMONT Luke Reiter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT, [15:00] Ground ball pickup by VERMONT Jack Combs.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:46",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:37",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean Stevens WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "5-20",
+    "score": "GOAL by VERMONT Ethan Pearson, Assist by Harrison Josloff.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:19",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT, [14:19] Ground ball pickup by VERMONT Colin Bullock.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean McCeney HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:17",
+    "home_event": "",
+    "score": "Shot by VERMONT Harrison Josloff, SAVE Buck Cunningham",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:13",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Will Tantillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:10",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Austin Hicks (caused by Anell Ward).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:45",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Anell Ward.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:38",
+    "home_event": "",
+    "score": "Shot by VERMONT Anell Ward HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:21",
+    "home_event": "",
+    "score": "Shot by VERMONT Max Goldstein, SAVE Buck Cunningham",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:18",
+    "home_event": "",
+    "score": "Penalty on DUKE Jack Kiefer (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:53",
+    "home_event": "",
+    "score": "Shot by VERMONT Matthew Drimmie WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:37",
+    "home_event": "",
+    "score": "Shot by DUKE Anthony Drago, SAVE Jake Dandrea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:34",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:30",
+    "home_event": "",
+    "score": "Shot by VERMONT Ethan Pearson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:21",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Sean McCeney.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "30-second clock violation by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "Shot by DUKE Ian Dykes WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Ian Dykes (caused by Tatum Lewis).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:05",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Tatum Lewis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Ethan Pearson (caused by Will Pedicano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Jack Kiefer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "Shot by DUKE Austin Hicks, SAVE Jake Dandrea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Anthony Drago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Shot by DUKE Anthony Drago HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "5-21",
+    "score": "GOAL by DUKE Owen Gaffney, Assist by Anthony Drago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "Timeout by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "Henry Blake at goalie for DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by DUKE, [07:40] Ground ball pickup by DUKE Brendan Fulham.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:26",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:16",
+    "home_event": "",
+    "score": "Shot by DUKE Austin Hicks, SAVE Jake Dandrea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Anell Ward.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "6-21",
+    "score": "GOAL by VERMONT Jack Combs, Assist by Ethan Pearson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:51",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by VERMONT, [06:51] Ground ball pickup by VERMONT Walter Zhao.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:37",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Zakkary Chesteen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Zakkary Chesteen (caused by Will Pedicano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:18",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Henry Blake.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:15",
+    "home_event": "",
+    "score": "Clear attempt by DUKE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by VERMONT Ethan Pearson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:49",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "Shot by DUKE Owen Gaffney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:46",
+    "home_event": "",
+    "score": "Shot by DUKE Colin McLane WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:41",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:00",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean McCeney HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean McCeney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:28",
+    "home_event": "",
+    "score": "Shot by VERMONT Luke Reiter WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "30-second clock violation by VERMONT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "Clear attempt by DUKE failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Brendan Fulham (caused by Zack Toll).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "Shot by VERMONT Tristan Whitaker, SAVE Henry Blake",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "Shot by VERMONT Max Goldstein WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:19",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:51",
+    "home_event": "",
+    "score": "Shot by DUKE Tomas Delgado BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:43",
+    "home_event": "",
+    "score": "Ground ball pickup by VERMONT Sean Stevens.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Clear attempt by VERMONT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:38",
+    "home_event": "",
+    "score": "Shot by VERMONT Sean Stevens, SAVE Henry Blake",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Clear attempt by DUKE good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Austin Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:55",
+    "home_event": "",
+    "score": "Shot by DUKE Anthony Drago, SAVE Jake Dandrea",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:50",
+    "home_event": "",
+    "score": "Ground ball pickup by DUKE Austin Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "6-22",
+    "score": "GOAL by DUKE Owen Gaffney, Assist by Austin Hicks.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "Faceoff Walter Zhao vs Ben McCarthy won by DUKE, [00:43] Ground ball pickup by DUKE Ben McCarthy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by DUKE Austin Hicks (caused by Kean Par'eacute3a).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Shot by VERMONT Kean Par'eacute3a, SAVE Henry Blake",
+    "away_event": ""
+  }
+]

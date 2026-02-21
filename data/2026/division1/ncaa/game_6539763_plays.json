@@ -1,0 +1,1626 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Jacob Neuman at goalie for MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Adam Wachholder at goalie for MAR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [15:00] Ground ball pickup by MAR Drew Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "1-0",
+    "score": "GOAL by MAR Sean Mullan (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "1-1",
+    "score": "GOAL by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "Faceoff Kevin Radmann vs Christopher Cappelmann won by MER, [13:33] Ground ball pickup by MER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "1-2",
+    "score": "GOAL by MER Will Zylstra, Assist by Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [13:00] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "2-2",
+    "score": "GOAL by MAR Brady Dolan, Assist by Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [12:49] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "2-3",
+    "score": "GOAL by MER Ben Jose, Assist by Ganon Cope.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:20",
+    "home_event": "",
+    "score": "Shot by MAR Collin Patrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Luke Fox.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:52",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Drew Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:14",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Collin Patrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "Shot by MAR Christian Colantonio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Shot by MAR Collin Patrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:53",
+    "home_event": "",
+    "score": "Shot by MAR Brady Dolan HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Shot by MAR Steven Cain HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:15",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Will Zylstra (caused by Michael Cassano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:59",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "Clear attempt by MER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Jacob Neuman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Luke Mauser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:50",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "Shot by MER Michael Frederick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "2-4",
+    "score": "GOAL by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [04:40] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Shot by MAR Simon Bowen, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "Penalty on MER Davis Peek (MINOR/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:39",
+    "home_event": "",
+    "score": "Shot by MAR Steven Cain, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Christian Colantonio.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:31",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "2-5",
+    "score": "GOAL by MER Michael Frederick, Assist by Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:44",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [02:44] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Josh Smith (caused by Christopher Cappelmann).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:50",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Luke Fox.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Shot by MER Luke Fox WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:14",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:31",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:25",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Quinn Kelley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:13",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Thomas Venzie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Shot by MER Ben Jose HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [15:00] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:57",
+    "home_event": "",
+    "score": "Shot by MAR Josh Smith, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:49",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:38",
+    "home_event": "",
+    "score": "Timeout by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:21",
+    "home_event": "",
+    "score": "Shot by MER Luke Fox HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:45",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "3-5",
+    "score": "GOAL by MAR Sean Mullan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [12:44] Ground ball pickup by MAR Gavin Marzgliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:28",
+    "home_event": "",
+    "score": "Timeout by MAR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "Shot by MAR Christian Colantonio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:47",
+    "home_event": "",
+    "score": "Shot by MAR Collin Patrick, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:33",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:26",
+    "home_event": "",
+    "score": "Shot by MAR Christian Colantonio HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "4-5",
+    "score": "GOAL by MAR Collin Patrick, Assist by Steven Cain.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:11",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:16",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:06",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:00",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Ben Jose.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:07",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Luke Mauser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:04",
+    "home_event": "",
+    "score": "Clear attempt by MER failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Davis Peek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:13",
+    "home_event": "",
+    "score": "Shot by MAR Steven Cain WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "Shot by MAR Steven Cain HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Simon Bowen (caused by Quinn Kelley).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:08",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Jacob Neuman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:01",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "4-6",
+    "score": "GOAL by MER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:23",
+    "home_event": "",
+    "score": "Faceoff Kevin Radmann vs Christopher Cappelmann won by MER, [06:23] Ground ball pickup by MER Quinn Kelley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:23",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:00",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:56",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Drew Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:38",
+    "home_event": "",
+    "score": "Shot by MAR Brady Dolan BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:31",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Brady Dolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "5-6",
+    "score": "GOAL by MAR Sean Mullan, Assist by Brady Dolan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:25",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER, [04:25] Ground ball pickup by MER Quinn Kelley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "5-7",
+    "score": "GOAL by MER Nick Church.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:18",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:50",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:30",
+    "home_event": "",
+    "score": "Clear attempt by MAR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR (caused by Will Zylstra).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Shot by MER Dylan McKelvy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:32",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:31",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "5-8",
+    "score": "GOAL by MER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Graham Hartman won by MAR, [01:17] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Steven Cain (caused by Brady Corkill).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Brady Corkill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:00",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [15:00] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:28",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:09",
+    "home_event": "",
+    "score": "Shot by MAR Christian Colantonio, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:06",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "5-9",
+    "score": "GOAL by MER Jack Sullivan, Assist by Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [13:29] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "6-9",
+    "score": "GOAL by MAR Brady Dolan, Assist by Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:55",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "Shot by MAR Christian Colantonio WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:32",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "Shot by MAR Collin Patrick, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:45",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:42",
+    "home_event": "",
+    "score": "Clear attempt by MAR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Mason Bader.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Jack Callaghan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "Shot by MER Jack Sullivan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:43",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:40",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:28",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Aiden McCaffrey.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:52",
+    "home_event": "",
+    "score": "Shot by MAR Jayce Konowitz WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "7-9",
+    "score": "GOAL by MAR Jayce Konowitz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:42",
+    "home_event": "",
+    "score": "Faceoff Kevin Radmann vs Christopher Cappelmann won by MAR, [08:42] Ground ball pickup by MAR Kevin Radmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:34",
+    "home_event": "",
+    "score": "Shot by MAR Kevin Radmann, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Shot by MER Dylan McKelvy HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:46",
+    "home_event": "",
+    "score": "Clear attempt by MAR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Adam Wachholder.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:20",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Dylan McKelvy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "7-10",
+    "score": "GOAL by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:56",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [06:56] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "8-10",
+    "score": "GOAL by MAR Steven Cain, Assist by Jayce Konowitz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER, [06:12] Ground ball pickup by MER Luke Mauser.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:52",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:44",
+    "home_event": "",
+    "score": "Clear attempt by MAR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Sean Mullan (caused by Greyson Brockman).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "8-11",
+    "score": "GOAL by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:35",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER, [03:35] Ground ball pickup by MER Christopher Cappelmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:27",
+    "home_event": "",
+    "score": "Shot by MER Christopher Cappelmann WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "Ground ball pickup by MER James Davidson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "8-12",
+    "score": "GOAL by MER James Davidson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:09",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "Penalty on MER Jack Callaghan (ILLEGAL PENALTY RETURN/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:51",
+    "home_event": "",
+    "score": "Shot by MAR Steven Cain BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Sean Mullan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Grafton Ely.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:26",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Nick Church (caused by Mason Bader).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Adam Wachholder.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:58",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "Shot by MAR Jayce Konowitz WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER, [15:00] Ground ball pickup by MER Quinn Kelley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:36",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:34",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Michael Cassano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Clear attempt by MAR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Aiden McCaffrey (caused by Dillon Bush).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:32",
+    "home_event": "",
+    "score": "Shot by MER Nick Church, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:27",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "9-12",
+    "score": "GOAL by MAR Steven Cain.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:12",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MAR, [11:12] Ground ball pickup by MAR Josh Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:30",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:15",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:51",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Jack Callaghan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:50",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:49",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Dillon Bush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:38",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "Shot by MER Luke Fox, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Barret Jorgensen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Barret Jorgensen (caused by Dylan McKelvy).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:10",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Shot by MER Michael Frederick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "30-second clock violation by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Michael Frederick.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MAR Sean Mullan (caused by Thomas Venzie).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Thomas Venzie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "9-13",
+    "score": "GOAL by MER Will Zylstra.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "Faceoff Josh Smith vs Christopher Cappelmann won by MER, [04:23] Ground ball pickup by MER Nolan Filley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "Shot by MER Dillon Bush WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "Shot by MER Will Zylstra HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Timeout by MAR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER Ganon Cope (caused by Gavin Marzgliano).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Ground ball pickup by MAR Gavin Marzgliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Shot by MAR Drew Anderson, SAVE Jacob Neuman",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:28",
+    "home_event": "",
+    "score": "Shot by MER Michael Frederick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:25",
+    "home_event": "",
+    "score": "Shot by MER Dylan McKelvy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:20",
+    "home_event": "",
+    "score": "Timeout by MAR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:18",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Nick Church.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:17",
+    "home_event": "",
+    "score": "Shot by MER Nick Church WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "30-second clock violation by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MER.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "Clear attempt by MAR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "Shot by MAR Sean Mullan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MER Kyle Pierce.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "Clear attempt by MER good.",
+    "away_event": ""
+  }
+]

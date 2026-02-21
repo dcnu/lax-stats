@@ -1,0 +1,4754 @@
+[
+  {
+    "ncaaGameId": "6539260",
+    "date": "01/30/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "Utah",
+    "homeScore": 9,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538945",
+    "date": "01/31/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Mercyhurst",
+    "homeScore": 24,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538969",
+    "date": "01/31/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Massachusetts",
+    "homeScore": 14,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538995",
+    "date": "01/31/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "postponed"
+  },
+  {
+    "ncaaGameId": "6539062",
+    "date": "01/31/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Rutgers",
+    "homeScore": 10,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539542",
+    "date": "01/31/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Providence",
+    "homeScore": 10,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539586",
+    "date": "01/31/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Hampton",
+    "homeScore": 18,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539608",
+    "date": "01/31/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "postponed"
+  },
+  {
+    "ncaaGameId": "6539171",
+    "date": "01/31/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Cleveland St.",
+    "homeScore": 20,
+    "awayScore": 1,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539152",
+    "date": "02/01/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": 19,
+    "awayScore": 3,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539191",
+    "date": "02/01/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "postponed"
+  },
+  {
+    "ncaaGameId": "6539240",
+    "date": "02/01/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Manhattan",
+    "homeScore": 14,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539554",
+    "date": "02/01/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Boston U.",
+    "homeScore": 13,
+    "awayScore": 6,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539598",
+    "date": "02/01/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Colgate",
+    "homeScore": 18,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6586605",
+    "date": "02/01/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "postponed"
+  },
+  {
+    "ncaaGameId": "6539485",
+    "date": "02/01/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Lafayette",
+    "homeScore": 13,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539081",
+    "date": "02/02/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Hofstra",
+    "homeScore": 7,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539727",
+    "date": "02/02/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Bellarmine",
+    "homeScore": 23,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539755",
+    "date": "02/02/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Robert Morris",
+    "homeScore": 17,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6587815",
+    "date": "02/03/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "NJIT",
+    "homeScore": 8,
+    "awayScore": 22,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539018",
+    "date": "02/06/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": 14,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539215",
+    "date": "02/06/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Delaware",
+    "homeScore": 11,
+    "awayScore": 1,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539242",
+    "date": "02/06/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Monmouth",
+    "homeScore": 9,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539262",
+    "date": "02/06/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Utah",
+    "homeScore": 14,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539299",
+    "date": "02/06/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": 11,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539516",
+    "date": "02/06/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Holy Cross",
+    "homeScore": 8,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539544",
+    "date": "02/06/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Bryant",
+    "homeScore": 16,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539647",
+    "date": "02/06/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Siena",
+    "homeScore": 23,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539667",
+    "date": "02/06/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "Queens (NC)",
+    "homeScore": 3,
+    "awayScore": 13,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539757",
+    "date": "02/06/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Stony Brook",
+    "homeScore": 16,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539767",
+    "date": "02/06/2026",
+    "homeTeam": "Lehigh",
+    "awayTeam": "Fairfield",
+    "homeScore": 13,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6588693",
+    "date": "02/06/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "Quinnipiac",
+    "homeScore": 12,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6588762",
+    "date": "02/06/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Iona",
+    "homeScore": 17,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538788",
+    "date": "02/07/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "Canisius",
+    "homeScore": 13,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538815",
+    "date": "02/07/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Villanova",
+    "homeScore": 13,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538843",
+    "date": "02/07/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Jacksonville",
+    "homeScore": 11,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538971",
+    "date": "02/07/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Army West Point",
+    "homeScore": 9,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538997",
+    "date": "02/07/2026",
+    "homeTeam": "Georgetown",
+    "awayTeam": "Johns Hopkins",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "postponed"
+  },
+  {
+    "ncaaGameId": "6539154",
+    "date": "02/07/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Cleveland St.",
+    "homeScore": 17,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539193",
+    "date": "02/07/2026",
+    "homeTeam": "High Point",
+    "awayTeam": "VMI",
+    "homeScore": 19,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539498",
+    "date": "02/07/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": 19,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539556",
+    "date": "02/07/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": 20,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539636",
+    "date": "02/07/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "Bellarmine",
+    "homeScore": 9,
+    "awayScore": 17,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539691",
+    "date": "02/07/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Robert Morris",
+    "homeScore": 17,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539763",
+    "date": "02/07/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Marist",
+    "homeScore": 13,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539765",
+    "date": "02/07/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Merrimack",
+    "homeScore": 16,
+    "awayScore": 5,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538947",
+    "date": "02/07/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Michigan",
+    "homeScore": 7,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539463",
+    "date": "02/07/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Air Force",
+    "homeScore": 10,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538870",
+    "date": "02/08/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "NJIT",
+    "homeScore": 10,
+    "awayScore": 17,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539343",
+    "date": "02/08/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Colgate",
+    "homeScore": 19,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538920",
+    "date": "02/10/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Binghamton",
+    "homeScore": 10,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538949",
+    "date": "02/10/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": 11,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539085",
+    "date": "02/10/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Lehigh",
+    "homeScore": 7,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539156",
+    "date": "02/10/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Bellarmine",
+    "homeScore": 11,
+    "awayScore": 6,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539381",
+    "date": "02/10/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Towson",
+    "homeScore": 13,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539127",
+    "date": "02/11/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "Sacred Heart",
+    "homeScore": 10,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539717",
+    "date": "02/11/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Holy Cross",
+    "homeScore": 8,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538845",
+    "date": "02/13/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "High Point",
+    "homeScore": 20,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539226",
+    "date": "02/13/2026",
+    "homeTeam": "UMBC",
+    "awayTeam": "Drexel",
+    "homeScore": 8,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539558",
+    "date": "02/13/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Maryland",
+    "homeScore": 11,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539669",
+    "date": "02/13/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Vermont",
+    "homeScore": 8,
+    "awayScore": 17,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539683",
+    "date": "02/13/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "Bucknell",
+    "homeScore": 16,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539766",
+    "date": "02/13/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "Massachusetts",
+    "homeScore": 8,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538817",
+    "date": "02/14/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": 9,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538872",
+    "date": "02/14/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Delaware",
+    "homeScore": 11,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538896",
+    "date": "02/14/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Providence",
+    "homeScore": 10,
+    "awayScore": 4,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538922",
+    "date": "02/14/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": 9,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538951",
+    "date": "02/14/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Lehigh",
+    "homeScore": 13,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538973",
+    "date": "02/14/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Yale",
+    "homeScore": 12,
+    "awayScore": 6,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538999",
+    "date": "02/14/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "Georgetown",
+    "homeScore": 9,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539064",
+    "date": "02/14/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Rutgers",
+    "homeScore": 11,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539109",
+    "date": "02/14/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Brown",
+    "homeScore": 8,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539129",
+    "date": "02/14/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Wagner",
+    "homeScore": 10,
+    "awayScore": 5,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539173",
+    "date": "02/14/2026",
+    "homeTeam": "Bellarmine",
+    "awayTeam": "Cleveland St.",
+    "homeScore": 10,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539195",
+    "date": "02/14/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "Mercer",
+    "homeScore": 12,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539321",
+    "date": "02/14/2026",
+    "homeTeam": "Towson",
+    "awayTeam": "Navy",
+    "homeScore": 12,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539345",
+    "date": "02/14/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Virginia",
+    "homeScore": 18,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539369",
+    "date": "02/14/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Penn St.",
+    "homeScore": 7,
+    "awayScore": 13,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539423",
+    "date": "02/14/2026",
+    "homeTeam": "Colgate",
+    "awayTeam": "Hobart",
+    "homeScore": 7,
+    "awayScore": 6,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539443",
+    "date": "02/14/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Lafayette",
+    "homeScore": 9,
+    "awayScore": 19,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539473",
+    "date": "02/14/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Monmouth",
+    "homeScore": 9,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539500",
+    "date": "02/14/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": 13,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539526",
+    "date": "02/14/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Hofstra",
+    "homeScore": 14,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539588",
+    "date": "02/14/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": 8,
+    "awayScore": 20,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539622",
+    "date": "02/14/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Cornell",
+    "homeScore": 10,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539638",
+    "date": "02/14/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "UMass Lowell",
+    "homeScore": 13,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539719",
+    "date": "02/14/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Sacred Heart",
+    "homeScore": 11,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539773",
+    "date": "02/14/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "Merrimack",
+    "homeScore": 6,
+    "awayScore": 13,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6589467",
+    "date": "02/14/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Le Moyne",
+    "homeScore": 20,
+    "awayScore": 2,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539412",
+    "date": "02/14/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Notre Dame",
+    "homeScore": 11,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539158",
+    "date": "02/14/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Ohio St.",
+    "homeScore": 9,
+    "awayScore": 14,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539264",
+    "date": "02/14/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Denver",
+    "homeScore": 7,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538847",
+    "date": "02/15/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Iona",
+    "homeScore": 23,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539705",
+    "date": "02/15/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Vermont",
+    "homeScore": 22,
+    "awayScore": 6,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539770",
+    "date": "02/15/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Dartmouth",
+    "homeScore": 13,
+    "awayScore": 5,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539693",
+    "date": "02/16/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Mercer",
+    "homeScore": 15,
+    "awayScore": 5,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538790",
+    "date": "02/17/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "Canisius",
+    "homeScore": 10,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538874",
+    "date": "02/17/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": 8,
+    "awayScore": 20,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538898",
+    "date": "02/17/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Colgate",
+    "homeScore": 17,
+    "awayScore": 8,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538924",
+    "date": "02/17/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Binghamton",
+    "homeScore": 14,
+    "awayScore": 5,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539040",
+    "date": "02/17/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "Marist",
+    "homeScore": 15,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539087",
+    "date": "02/17/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Bucknell",
+    "homeScore": 8,
+    "awayScore": 16,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539131",
+    "date": "02/17/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Wagner",
+    "homeScore": 15,
+    "awayScore": 7,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539197",
+    "date": "02/17/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "VMI",
+    "homeScore": 19,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539228",
+    "date": "02/17/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Drexel",
+    "homeScore": 8,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539301",
+    "date": "02/17/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Robert Morris",
+    "homeScore": 14,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539624",
+    "date": "02/17/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Penn",
+    "homeScore": 10,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539751",
+    "date": "02/17/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "Bellarmine",
+    "homeScore": 29,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6591080",
+    "date": "02/17/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Queens (NC)",
+    "homeScore": 13,
+    "awayScore": 10,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539768",
+    "date": "02/18/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Fairfield",
+    "homeScore": 13,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538792",
+    "date": "02/20/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Robert Morris",
+    "homeScore": 8,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538849",
+    "date": "02/20/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Johns Hopkins",
+    "homeScore": 17,
+    "awayScore": 9,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539382",
+    "date": "02/20/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "Towson",
+    "homeScore": 12,
+    "awayScore": 11,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6539502",
+    "date": "02/20/2026",
+    "homeTeam": "UMBC",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": 8,
+    "awayScore": 12,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6591575",
+    "date": "02/20/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "Dartmouth",
+    "homeScore": 10,
+    "awayScore": 15,
+    "status": "final"
+  },
+  {
+    "ncaaGameId": "6538819",
+    "date": "02/21/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538876",
+    "date": "02/21/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538900",
+    "date": "02/21/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538926",
+    "date": "02/21/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538953",
+    "date": "02/21/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539022",
+    "date": "02/21/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539042",
+    "date": "02/21/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "Boston U.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539089",
+    "date": "02/21/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539111",
+    "date": "02/21/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Brown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539133",
+    "date": "02/21/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "Wagner",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539160",
+    "date": "02/21/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539175",
+    "date": "02/21/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539199",
+    "date": "02/21/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539217",
+    "date": "02/21/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539244",
+    "date": "02/21/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Fairfield",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539266",
+    "date": "02/21/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Utah",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539283",
+    "date": "02/21/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "Delaware",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539323",
+    "date": "02/21/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Penn St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539347",
+    "date": "02/21/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Virginia",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539365",
+    "date": "02/21/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Princeton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539425",
+    "date": "02/21/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539445",
+    "date": "02/21/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Massachusetts",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539695",
+    "date": "02/21/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539721",
+    "date": "02/21/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539729",
+    "date": "02/21/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Jacksonville",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539752",
+    "date": "02/21/2026",
+    "homeTeam": "Detroit Mercy",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539774",
+    "date": "02/21/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539465",
+    "date": "02/21/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Cornell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539001",
+    "date": "02/22/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539644",
+    "date": "02/22/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538975",
+    "date": "02/23/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539398",
+    "date": "02/23/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539414",
+    "date": "02/23/2026",
+    "homeTeam": "Detroit Mercy",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538814",
+    "date": "02/24/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539066",
+    "date": "02/24/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539091",
+    "date": "02/24/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Stony Brook",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539113",
+    "date": "02/24/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Massachusetts",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539303",
+    "date": "02/24/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539427",
+    "date": "02/24/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539475",
+    "date": "02/24/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539530",
+    "date": "02/24/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539649",
+    "date": "02/24/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539723",
+    "date": "02/24/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539771",
+    "date": "02/24/2026",
+    "homeTeam": "Dartmouth",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538851",
+    "date": "02/27/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538928",
+    "date": "02/27/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539367",
+    "date": "02/27/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539384",
+    "date": "02/27/2026",
+    "homeTeam": "Towson",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539560",
+    "date": "02/27/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538794",
+    "date": "02/28/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Cleveland St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538821",
+    "date": "02/28/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538878",
+    "date": "02/28/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538902",
+    "date": "02/28/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538977",
+    "date": "02/28/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539003",
+    "date": "02/28/2026",
+    "homeTeam": "Georgetown",
+    "awayTeam": "Ohio St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539024",
+    "date": "02/28/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539044",
+    "date": "02/28/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539068",
+    "date": "02/28/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Hofstra",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539115",
+    "date": "02/28/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Bryant",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539134",
+    "date": "02/28/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "Wagner",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539201",
+    "date": "02/28/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539219",
+    "date": "02/28/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Mercer",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539246",
+    "date": "02/28/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539305",
+    "date": "02/28/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539325",
+    "date": "02/28/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539349",
+    "date": "02/28/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Johns Hopkins",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539400",
+    "date": "02/28/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539429",
+    "date": "02/28/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "Robert Morris",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539447",
+    "date": "02/28/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539506",
+    "date": "02/28/2026",
+    "homeTeam": "Colgate",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539546",
+    "date": "02/28/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Fairfield",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539610",
+    "date": "02/28/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Notre Dame",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539626",
+    "date": "02/28/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539652",
+    "date": "02/28/2026",
+    "homeTeam": "Dartmouth",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539685",
+    "date": "02/28/2026",
+    "homeTeam": "Lehigh",
+    "awayTeam": "Bucknell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539697",
+    "date": "02/28/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Richmond",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539709",
+    "date": "02/28/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539760",
+    "date": "02/28/2026",
+    "homeTeam": "Marist",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538955",
+    "date": "02/28/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539093",
+    "date": "02/28/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538853",
+    "date": "03/01/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539562",
+    "date": "03/01/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539574",
+    "date": "03/01/2026",
+    "homeTeam": "Bellarmine",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539614",
+    "date": "03/01/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539548",
+    "date": "03/02/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538823",
+    "date": "03/03/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539307",
+    "date": "03/03/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539351",
+    "date": "03/03/2026",
+    "homeTeam": "High Point",
+    "awayTeam": "Virginia",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539386",
+    "date": "03/03/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539449",
+    "date": "03/03/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Monmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539654",
+    "date": "03/03/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539747",
+    "date": "03/03/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "UMass Lowell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538979",
+    "date": "03/06/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539285",
+    "date": "03/06/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538796",
+    "date": "03/07/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538855",
+    "date": "03/07/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Brown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538880",
+    "date": "03/07/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Bryant",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538904",
+    "date": "03/07/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538930",
+    "date": "03/07/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "Stony Brook",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539005",
+    "date": "03/07/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539026",
+    "date": "03/07/2026",
+    "homeTeam": "Marist",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539046",
+    "date": "03/07/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539070",
+    "date": "03/07/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Rutgers",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539136",
+    "date": "03/07/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "NJIT",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539162",
+    "date": "03/07/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Notre Dame",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539177",
+    "date": "03/07/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539203",
+    "date": "03/07/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "Monmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539230",
+    "date": "03/07/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "Drexel",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539248",
+    "date": "03/07/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539327",
+    "date": "03/07/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Bucknell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539353",
+    "date": "03/07/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539431",
+    "date": "03/07/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539508",
+    "date": "03/07/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Providence",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539520",
+    "date": "03/07/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539564",
+    "date": "03/07/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539576",
+    "date": "03/07/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Queens (NC)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539590",
+    "date": "03/07/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "Hampton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539600",
+    "date": "03/07/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Colgate",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539660",
+    "date": "03/07/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539711",
+    "date": "03/07/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Vermont",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539753",
+    "date": "03/07/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6584365",
+    "date": "03/07/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6584594",
+    "date": "03/07/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Cornell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585348",
+    "date": "03/07/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6588413",
+    "date": "03/07/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539416",
+    "date": "03/07/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Mercer",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539268",
+    "date": "03/07/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539731",
+    "date": "03/07/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Duke",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538825",
+    "date": "03/08/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538798",
+    "date": "03/10/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Canisius",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538882",
+    "date": "03/10/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Rutgers",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539007",
+    "date": "03/10/2026",
+    "homeTeam": "Georgetown",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539329",
+    "date": "03/10/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539433",
+    "date": "03/10/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539671",
+    "date": "03/10/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "Queens (NC)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539769",
+    "date": "03/10/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539270",
+    "date": "03/11/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Utah",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539164",
+    "date": "03/12/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Denver",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539566",
+    "date": "03/12/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539528",
+    "date": "03/13/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Hofstra",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538800",
+    "date": "03/14/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538827",
+    "date": "03/14/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538857",
+    "date": "03/14/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538884",
+    "date": "03/14/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538906",
+    "date": "03/14/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538932",
+    "date": "03/14/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "UMass Lowell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538957",
+    "date": "03/14/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538981",
+    "date": "03/14/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538993",
+    "date": "03/14/2026",
+    "homeTeam": "Wilkes",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539034",
+    "date": "03/14/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539048",
+    "date": "03/14/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "Princeton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539072",
+    "date": "03/14/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539095",
+    "date": "03/14/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539117",
+    "date": "03/14/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Brown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539138",
+    "date": "03/14/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Wagner",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539179",
+    "date": "03/14/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539205",
+    "date": "03/14/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539221",
+    "date": "03/14/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Monmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539287",
+    "date": "03/14/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Delaware",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539309",
+    "date": "03/14/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539331",
+    "date": "03/14/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539355",
+    "date": "03/14/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Virginia",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539402",
+    "date": "03/14/2026",
+    "homeTeam": "High Point",
+    "awayTeam": "Massachusetts",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539451",
+    "date": "03/14/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Jacksonville",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539487",
+    "date": "03/14/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Lafayette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539510",
+    "date": "03/14/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539532",
+    "date": "03/14/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539592",
+    "date": "03/14/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Hampton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539602",
+    "date": "03/14/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Colgate",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539628",
+    "date": "03/14/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Bryant",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539733",
+    "date": "03/14/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Duke",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6584366",
+    "date": "03/14/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585863",
+    "date": "03/14/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585865",
+    "date": "03/14/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539467",
+    "date": "03/16/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538829",
+    "date": "03/17/2026",
+    "homeTeam": "Lehigh",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539119",
+    "date": "03/17/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "UMass Lowell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539630",
+    "date": "03/17/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6586606",
+    "date": "03/17/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539550",
+    "date": "03/18/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538908",
+    "date": "03/20/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539333",
+    "date": "03/20/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538802",
+    "date": "03/21/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Canisius",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538858",
+    "date": "03/21/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538886",
+    "date": "03/21/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Brown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538934",
+    "date": "03/21/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "Binghamton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538959",
+    "date": "03/21/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539028",
+    "date": "03/21/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539050",
+    "date": "03/21/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539074",
+    "date": "03/21/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Ohio St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539097",
+    "date": "03/21/2026",
+    "homeTeam": "Marist",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539140",
+    "date": "03/21/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539181",
+    "date": "03/21/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "Robert Morris",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539223",
+    "date": "03/21/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Fairfield",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539250",
+    "date": "03/21/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539272",
+    "date": "03/21/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Utah",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539289",
+    "date": "03/21/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539371",
+    "date": "03/21/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Cornell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539388",
+    "date": "03/21/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539418",
+    "date": "03/21/2026",
+    "homeTeam": "Bellarmine",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539435",
+    "date": "03/21/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539477",
+    "date": "03/21/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Monmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539512",
+    "date": "03/21/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Bucknell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539534",
+    "date": "03/21/2026",
+    "homeTeam": "UMBC",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539552",
+    "date": "03/21/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539578",
+    "date": "03/21/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539594",
+    "date": "03/21/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Hampton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539604",
+    "date": "03/21/2026",
+    "homeTeam": "Colgate",
+    "awayTeam": "Boston U.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539640",
+    "date": "03/21/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539699",
+    "date": "03/21/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Richmond",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539703",
+    "date": "03/21/2026",
+    "homeTeam": "SUNY Delhi",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539713",
+    "date": "03/21/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "Vermont",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539725",
+    "date": "03/21/2026",
+    "homeTeam": "Lehigh",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6584595",
+    "date": "03/21/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539009",
+    "date": "03/22/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539469",
+    "date": "03/22/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Denver",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539357",
+    "date": "03/23/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538910",
+    "date": "03/24/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539030",
+    "date": "03/25/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539252",
+    "date": "03/25/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539656",
+    "date": "03/25/2026",
+    "homeTeam": "Marist",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6586828",
+    "date": "03/25/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538804",
+    "date": "03/28/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Canisius",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538831",
+    "date": "03/28/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538936",
+    "date": "03/28/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "Binghamton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538961",
+    "date": "03/28/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538983",
+    "date": "03/28/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539032",
+    "date": "03/28/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539052",
+    "date": "03/28/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539099",
+    "date": "03/28/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539121",
+    "date": "03/28/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Princeton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539142",
+    "date": "03/28/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539166",
+    "date": "03/28/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Penn St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539183",
+    "date": "03/28/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "Cleveland St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539232",
+    "date": "03/28/2026",
+    "homeTeam": "Towson",
+    "awayTeam": "Drexel",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539311",
+    "date": "03/28/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Massachusetts",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539335",
+    "date": "03/28/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Colgate",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539359",
+    "date": "03/28/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Notre Dame",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539404",
+    "date": "03/28/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539437",
+    "date": "03/28/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539453",
+    "date": "03/28/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "NJIT",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539479",
+    "date": "03/28/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Hampton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539489",
+    "date": "03/28/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Lafayette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539504",
+    "date": "03/28/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539514",
+    "date": "03/28/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539536",
+    "date": "03/28/2026",
+    "homeTeam": "UMBC",
+    "awayTeam": "Bryant",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539568",
+    "date": "03/28/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Duke",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539580",
+    "date": "03/28/2026",
+    "homeTeam": "Detroit Mercy",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539632",
+    "date": "03/28/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539673",
+    "date": "03/28/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Mercer",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539743",
+    "date": "03/28/2026",
+    "homeTeam": "Dartmouth",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539758",
+    "date": "03/28/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Stony Brook",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585864",
+    "date": "03/28/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6589468",
+    "date": "03/28/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539420",
+    "date": "03/28/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Providence",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539010",
+    "date": "03/28/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539274",
+    "date": "03/28/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539761",
+    "date": "03/28/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Jacksonville",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538861",
+    "date": "03/29/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539076",
+    "date": "03/29/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Johns Hopkins",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539373",
+    "date": "03/31/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538806",
+    "date": "04/04/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538833",
+    "date": "04/04/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Denver",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538863",
+    "date": "04/04/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538888",
+    "date": "04/04/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538912",
+    "date": "04/04/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Brown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538938",
+    "date": "04/04/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Binghamton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538963",
+    "date": "04/04/2026",
+    "homeTeam": "Michigan",
+    "awayTeam": "Rutgers",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538985",
+    "date": "04/04/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539012",
+    "date": "04/04/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539054",
+    "date": "04/04/2026",
+    "homeTeam": "Dartmouth",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539101",
+    "date": "04/04/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539144",
+    "date": "04/04/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "Wagner",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539168",
+    "date": "04/04/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Ohio St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539209",
+    "date": "04/04/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "Robert Morris",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539234",
+    "date": "04/04/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "Drexel",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539254",
+    "date": "04/04/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539276",
+    "date": "04/04/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Utah",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539291",
+    "date": "04/04/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539313",
+    "date": "04/04/2026",
+    "homeTeam": "High Point",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539337",
+    "date": "04/04/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539361",
+    "date": "04/04/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Virginia",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539375",
+    "date": "04/04/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "Princeton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539390",
+    "date": "04/04/2026",
+    "homeTeam": "Towson",
+    "awayTeam": "Monmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539455",
+    "date": "04/04/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "NJIT",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539490",
+    "date": "04/04/2026",
+    "homeTeam": "Colgate",
+    "awayTeam": "Lafayette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539518",
+    "date": "04/04/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Boston U.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539522",
+    "date": "04/04/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Fairfield",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539538",
+    "date": "04/04/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539582",
+    "date": "04/04/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539616",
+    "date": "04/04/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539620",
+    "date": "04/04/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "Regis (MA)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539661",
+    "date": "04/04/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539675",
+    "date": "04/04/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Queens (NC)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539701",
+    "date": "04/04/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "Richmond",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539744",
+    "date": "04/04/2026",
+    "homeTeam": "Penn",
+    "awayTeam": "Cornell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539749",
+    "date": "04/04/2026",
+    "homeTeam": "Bellarmine",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539756",
+    "date": "04/04/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Penn St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539759",
+    "date": "04/04/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6584367",
+    "date": "04/04/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585349",
+    "date": "04/04/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539606",
+    "date": "04/10/2026",
+    "homeTeam": "Colgate",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538808",
+    "date": "04/11/2026",
+    "homeTeam": "Merrimack",
+    "awayTeam": "Canisius",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538835",
+    "date": "04/11/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Providence",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538864",
+    "date": "04/11/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538914",
+    "date": "04/11/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538940",
+    "date": "04/11/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538965",
+    "date": "04/11/2026",
+    "homeTeam": "Penn St.",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538987",
+    "date": "04/11/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539014",
+    "date": "04/11/2026",
+    "homeTeam": "Georgetown",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539036",
+    "date": "04/11/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "Mount St. Mary's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539078",
+    "date": "04/11/2026",
+    "homeTeam": "Maryland",
+    "awayTeam": "Rutgers",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539103",
+    "date": "04/11/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539123",
+    "date": "04/11/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539146",
+    "date": "04/11/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539169",
+    "date": "04/11/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Johns Hopkins",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539185",
+    "date": "04/11/2026",
+    "homeTeam": "Detroit Mercy",
+    "awayTeam": "Cleveland St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539207",
+    "date": "04/11/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "Robert Morris",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539211",
+    "date": "04/11/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539225",
+    "date": "04/11/2026",
+    "homeTeam": "Drexel",
+    "awayTeam": "Hofstra",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539256",
+    "date": "04/11/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539278",
+    "date": "04/11/2026",
+    "homeTeam": "Jacksonville",
+    "awayTeam": "Utah",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539293",
+    "date": "04/11/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Delaware",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539315",
+    "date": "04/11/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Richmond",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539363",
+    "date": "04/11/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Virginia",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539377",
+    "date": "04/11/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539392",
+    "date": "04/11/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539406",
+    "date": "04/11/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539457",
+    "date": "04/11/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "UMass Lowell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539481",
+    "date": "04/11/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Stony Brook",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539492",
+    "date": "04/11/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539634",
+    "date": "04/11/2026",
+    "homeTeam": "UAlbany",
+    "awayTeam": "Vermont",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539658",
+    "date": "04/11/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539677",
+    "date": "04/11/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539687",
+    "date": "04/11/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Bucknell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539735",
+    "date": "04/11/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Duke",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539739",
+    "date": "04/11/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539754",
+    "date": "04/11/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538890",
+    "date": "04/11/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539408",
+    "date": "04/13/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "High Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539056",
+    "date": "04/14/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539080",
+    "date": "04/17/2026",
+    "homeTeam": "Rutgers",
+    "awayTeam": "Penn St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539187",
+    "date": "04/17/2026",
+    "homeTeam": "Cleveland St.",
+    "awayTeam": "Le Moyne",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538810",
+    "date": "04/18/2026",
+    "homeTeam": "Manhattan",
+    "awayTeam": "Canisius",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538866",
+    "date": "04/18/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "North Carolina",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538892",
+    "date": "04/18/2026",
+    "homeTeam": "Georgetown",
+    "awayTeam": "St. John's (NY)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538916",
+    "date": "04/18/2026",
+    "homeTeam": "Harvard",
+    "awayTeam": "Princeton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538942",
+    "date": "04/18/2026",
+    "homeTeam": "Binghamton",
+    "awayTeam": "Bryant",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538967",
+    "date": "04/18/2026",
+    "homeTeam": "Ohio St.",
+    "awayTeam": "Michigan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538989",
+    "date": "04/18/2026",
+    "homeTeam": "Loyola Maryland",
+    "awayTeam": "Army West Point",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539038",
+    "date": "04/18/2026",
+    "homeTeam": "Mount St. Mary's",
+    "awayTeam": "Siena",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539058",
+    "date": "04/18/2026",
+    "homeTeam": "Yale",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539105",
+    "date": "04/18/2026",
+    "homeTeam": "Iona",
+    "awayTeam": "Quinnipiac",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539125",
+    "date": "04/18/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539148",
+    "date": "04/18/2026",
+    "homeTeam": "VMI",
+    "awayTeam": "Wagner",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539236",
+    "date": "04/18/2026",
+    "homeTeam": "Stony Brook",
+    "awayTeam": "Drexel",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539295",
+    "date": "04/18/2026",
+    "homeTeam": "Delaware",
+    "awayTeam": "St. Bonaventure",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539339",
+    "date": "04/18/2026",
+    "homeTeam": "Lehigh",
+    "awayTeam": "Navy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539394",
+    "date": "04/18/2026",
+    "homeTeam": "Fairfield",
+    "awayTeam": "Towson",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539439",
+    "date": "04/18/2026",
+    "homeTeam": "Hobart",
+    "awayTeam": "Massachusetts",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539459",
+    "date": "04/18/2026",
+    "homeTeam": "UMBC",
+    "awayTeam": "NJIT",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539471",
+    "date": "04/18/2026",
+    "homeTeam": "Providence",
+    "awayTeam": "Denver",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539494",
+    "date": "04/18/2026",
+    "homeTeam": "Boston U.",
+    "awayTeam": "Lafayette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539524",
+    "date": "04/18/2026",
+    "homeTeam": "Hofstra",
+    "awayTeam": "Hampton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539570",
+    "date": "04/18/2026",
+    "homeTeam": "Syracuse",
+    "awayTeam": "Colgate",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539584",
+    "date": "04/18/2026",
+    "homeTeam": "Robert Morris",
+    "awayTeam": "LIU",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539612",
+    "date": "04/18/2026",
+    "homeTeam": "Johns Hopkins",
+    "awayTeam": "Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539618",
+    "date": "04/18/2026",
+    "homeTeam": "Richmond",
+    "awayTeam": "Saint Joseph's",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539642",
+    "date": "04/18/2026",
+    "homeTeam": "Mercyhurst",
+    "awayTeam": "Detroit Mercy",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539689",
+    "date": "04/18/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "Holy Cross",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539715",
+    "date": "04/18/2026",
+    "homeTeam": "UMass Lowell",
+    "awayTeam": "Vermont",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539737",
+    "date": "04/18/2026",
+    "homeTeam": "Duke",
+    "awayTeam": "Notre Dame",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539750",
+    "date": "04/18/2026",
+    "homeTeam": "Bellarmine",
+    "awayTeam": "Jacksonville",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539772",
+    "date": "04/18/2026",
+    "homeTeam": "Dartmouth",
+    "awayTeam": "Cornell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6585350",
+    "date": "04/18/2026",
+    "homeTeam": "Marist",
+    "awayTeam": "Sacred Heart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538837",
+    "date": "04/18/2026",
+    "homeTeam": "Marquette",
+    "awayTeam": "Villanova",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539280",
+    "date": "04/18/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Queens (NC)",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539762",
+    "date": "04/18/2026",
+    "homeTeam": "Air Force",
+    "awayTeam": "Mercer",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538812",
+    "date": "04/22/2026",
+    "homeTeam": "Canisius",
+    "awayTeam": "Marist",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539107",
+    "date": "04/22/2026",
+    "homeTeam": "Sacred Heart",
+    "awayTeam": "Iona",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539258",
+    "date": "04/22/2026",
+    "homeTeam": "Quinnipiac",
+    "awayTeam": "Manhattan",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539663",
+    "date": "04/22/2026",
+    "homeTeam": "Siena",
+    "awayTeam": "Merrimack",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538839",
+    "date": "04/24/2026",
+    "homeTeam": "Villanova",
+    "awayTeam": "Georgetown",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538894",
+    "date": "04/24/2026",
+    "homeTeam": "St. John's (NY)",
+    "awayTeam": "Providence",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538991",
+    "date": "04/24/2026",
+    "homeTeam": "Army West Point",
+    "awayTeam": "Colgate",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539238",
+    "date": "04/24/2026",
+    "homeTeam": "Virginia",
+    "awayTeam": "Drexel",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539297",
+    "date": "04/24/2026",
+    "homeTeam": "Saint Joseph's",
+    "awayTeam": "Delaware",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539341",
+    "date": "04/24/2026",
+    "homeTeam": "Navy",
+    "awayTeam": "Loyola Maryland",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539410",
+    "date": "04/24/2026",
+    "homeTeam": "High Point",
+    "awayTeam": "Richmond",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539496",
+    "date": "04/24/2026",
+    "homeTeam": "Lafayette",
+    "awayTeam": "Lehigh",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539540",
+    "date": "04/24/2026",
+    "homeTeam": "Bucknell",
+    "awayTeam": "UMBC",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539596",
+    "date": "04/24/2026",
+    "homeTeam": "Hampton",
+    "awayTeam": "Stony Brook",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539741",
+    "date": "04/24/2026",
+    "homeTeam": "Holy Cross",
+    "awayTeam": "Boston U.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539745",
+    "date": "04/24/2026",
+    "homeTeam": "Massachusetts",
+    "awayTeam": "Penn",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539422",
+    "date": "04/24/2026",
+    "homeTeam": "Denver",
+    "awayTeam": "Marquette",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538868",
+    "date": "04/25/2026",
+    "homeTeam": "North Carolina",
+    "awayTeam": "Duke",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538918",
+    "date": "04/25/2026",
+    "homeTeam": "Cornell",
+    "awayTeam": "Harvard",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6538943",
+    "date": "04/25/2026",
+    "homeTeam": "Vermont",
+    "awayTeam": "Binghamton",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539060",
+    "date": "04/25/2026",
+    "homeTeam": "Brown",
+    "awayTeam": "Yale",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539150",
+    "date": "04/25/2026",
+    "homeTeam": "Wagner",
+    "awayTeam": "Robert Morris",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539189",
+    "date": "04/25/2026",
+    "homeTeam": "LIU",
+    "awayTeam": "Cleveland St.",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539213",
+    "date": "04/25/2026",
+    "homeTeam": "Detroit Mercy",
+    "awayTeam": "VMI",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539317",
+    "date": "04/25/2026",
+    "homeTeam": "St. Bonaventure",
+    "awayTeam": "Hobart",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539379",
+    "date": "04/25/2026",
+    "homeTeam": "Princeton",
+    "awayTeam": "Dartmouth",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539396",
+    "date": "04/25/2026",
+    "homeTeam": "Towson",
+    "awayTeam": "Hofstra",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539461",
+    "date": "04/25/2026",
+    "homeTeam": "NJIT",
+    "awayTeam": "UAlbany",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539483",
+    "date": "04/25/2026",
+    "homeTeam": "Monmouth",
+    "awayTeam": "Fairfield",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539572",
+    "date": "04/25/2026",
+    "homeTeam": "Notre Dame",
+    "awayTeam": "Syracuse",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539645",
+    "date": "04/25/2026",
+    "homeTeam": "Le Moyne",
+    "awayTeam": "Mercyhurst",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539681",
+    "date": "04/25/2026",
+    "homeTeam": "Queens (NC)",
+    "awayTeam": "Bellarmine",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539748",
+    "date": "04/25/2026",
+    "homeTeam": "Bryant",
+    "awayTeam": "UMass Lowell",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539764",
+    "date": "04/25/2026",
+    "homeTeam": "Mercer",
+    "awayTeam": "Jacksonville",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  },
+  {
+    "ncaaGameId": "6539281",
+    "date": "04/25/2026",
+    "homeTeam": "Utah",
+    "awayTeam": "Air Force",
+    "homeScore": null,
+    "awayScore": null,
+    "status": "pre"
+  }
+]

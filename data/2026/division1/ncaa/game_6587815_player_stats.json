@@ -1,0 +1,502 @@
+{
+  "away": {
+    "players": [
+      {
+        "NO": "99",
+        "Name": "CAMERON KURDYLA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "55",
+        "Name": "SULLIVAN O'BRIEN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "6"
+      },
+      {
+        "NO": "34",
+        "Name": "WILL CORRY",
+        "POS": "",
+        "G": "6",
+        "A": "1",
+        "SH": "14",
+        "SOG": "13",
+        "GB": "3"
+      },
+      {
+        "NO": "29",
+        "Name": "COLIN LOWE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "1",
+        "Name": "DYLAN SEBASTIAN",
+        "POS": "",
+        "G": "2",
+        "A": "2",
+        "SH": "8",
+        "SOG": "6",
+        "GB": "1"
+      },
+      {
+        "NO": "66",
+        "Name": "WYATT VISTE",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "7",
+        "SOG": "5",
+        "GB": "3"
+      },
+      {
+        "NO": "23",
+        "Name": "BENJAMIN ROBERTS",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "8",
+        "Name": "BLAKE PISCITIELLO",
+        "POS": "",
+        "G": "3",
+        "A": "5",
+        "SH": "13",
+        "SOG": "7",
+        "GB": "4"
+      },
+      {
+        "NO": "42",
+        "Name": "EVAN LASTELLA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "15",
+        "Name": "RYAN SININSKY",
+        "POS": "",
+        "G": "2",
+        "A": "1",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "10",
+        "Name": "CALLUM ZARSKY",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "33",
+        "Name": "AUSTIN EXLEY",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "3",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "11",
+        "Name": "CAYSTON CONOVER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "12",
+        "Name": "FRANKIE SEMIRAGLIO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "50",
+        "Name": "CHASE FORD",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "25",
+        "Name": "MICHAEL FLACCAVENTO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "28",
+        "Name": "TRISTAN HARRISON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "5",
+        "Name": "ALEXANDER CARTWRIGHT",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "44",
+        "Name": "AUSTIN HAHN",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "22",
+        "Name": "CARSON BOWLEY",
+        "POS": "",
+        "G": "2",
+        "A": "0",
+        "SH": "7",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "88",
+        "Name": "NIRIO GARCIA",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "0",
+        "GB": "9"
+      },
+      {
+        "NO": "7",
+        "Name": "OWEN MERCADO",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "9",
+        "Name": "KELLY JACKSON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "1"
+      },
+      {
+        "NO": "41",
+        "Name": "MICHAEL GAFFNEY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "8"
+      },
+      {
+        "NO": "19",
+        "Name": "WALKER ZABRANSKY",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "17",
+        "Name": "EVAN SCHMITT",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "2",
+        "SOG": "1",
+        "GB": "3"
+      }
+    ],
+    "goalies": []
+  },
+  "home": {
+    "players": [
+      {
+        "NO": "9",
+        "Name": "MALIIK WOOD",
+        "POS": "",
+        "G": "1",
+        "A": "2",
+        "SH": "4",
+        "SOG": "3",
+        "GB": "4"
+      },
+      {
+        "NO": "7",
+        "Name": "AMAR\u00c3\u00a9 FORD",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "3"
+      },
+      {
+        "NO": "8",
+        "Name": "ATHAN BARMER",
+        "POS": "",
+        "G": "1",
+        "A": "0",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "5",
+        "Name": "JAMES GREENE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "4",
+        "SOG": "3",
+        "GB": "2"
+      },
+      {
+        "NO": "22",
+        "Name": "MILES LANCASTER",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "1"
+      },
+      {
+        "NO": "29",
+        "Name": "JUDAH JOHNSON-NIXON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "4"
+      },
+      {
+        "NO": "1",
+        "Name": "DARIUS STANLEY",
+        "POS": "",
+        "G": "3",
+        "A": "2",
+        "SH": "6",
+        "SOG": "4",
+        "GB": "1"
+      },
+      {
+        "NO": "2",
+        "Name": "MYLES JOHNSON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "12",
+        "Name": "REED SHAW",
+        "POS": "",
+        "G": "2",
+        "A": "2",
+        "SH": "4",
+        "SOG": "3",
+        "GB": "1"
+      },
+      {
+        "NO": "18",
+        "Name": "JR A BARDONILLE",
+        "POS": "",
+        "G": "1",
+        "A": "1",
+        "SH": "7",
+        "SOG": "4",
+        "GB": "2"
+      },
+      {
+        "NO": "23",
+        "Name": "PAYTON RIDDLE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "1"
+      },
+      {
+        "NO": "24",
+        "Name": "TREVOR TRAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "43",
+        "Name": "BRAEDEN LESSANE",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "2"
+      },
+      {
+        "NO": "26",
+        "Name": "NOAH WRIGHT",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "30",
+        "Name": "CANYON STEVERSON",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "3",
+        "Name": "ZACHARY RAMSEUR",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "4",
+        "Name": "JADON MYERS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "13",
+        "Name": "NIKKI RATTAN",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "2"
+      },
+      {
+        "NO": "10",
+        "Name": "CRAIG WILLIAMS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "1",
+        "SOG": "1",
+        "GB": "0"
+      },
+      {
+        "NO": "77",
+        "Name": "LOGAN MCGILL",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "2",
+        "SOG": "2",
+        "GB": "2"
+      },
+      {
+        "NO": "11",
+        "Name": "ROBERT MITCHELL",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "16",
+        "Name": "HOWARD CASTERLOW",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      },
+      {
+        "NO": "41",
+        "Name": "DAVIS MUNCHUS",
+        "POS": "",
+        "G": "0",
+        "A": "0",
+        "SH": "0",
+        "SOG": "0",
+        "GB": "0"
+      }
+    ],
+    "goalies": []
+  }
+}

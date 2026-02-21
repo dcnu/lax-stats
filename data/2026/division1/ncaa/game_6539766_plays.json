@@ -1,0 +1,1493 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Salanger, Owen at goalie for MASSACHU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Mason Oak at goalie for QUINNIPI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by MASSACHU, [15:00] Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:14",
+    "home_event": "1-0",
+    "score": "GOAL by MASSACHU Cargiulo, Matthew (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by MASSACHU, [14:12] Ground ball pickup by MASSACHU Auble, Zach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "Penalty on QUINNIPI Nick Meoni (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:29",
+    "home_event": "",
+    "score": "Shot by MASSACHU Bagnall, Thomas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:41",
+    "home_event": "",
+    "score": "Shot by MASSACHU Bagnall, Thomas WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:33",
+    "home_event": "",
+    "score": "30-second clock violation by MASSACHU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Cole Marsala (caused by New, Blaise).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Waddell, James.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:24",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "2-0",
+    "score": "GOAL by MASSACHU Clayton, Tyler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by QUINNIPI, [10:39] Ground ball pickup by QUINNIPI Ryan Downing.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "2-1",
+    "score": "GOAL by QUINNIPI Nick Meoni.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by MASSACHU, [10:21] Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "3-1",
+    "score": "GOAL by MASSACHU Cargiulo, Matthew, Assist by Granara, Robbie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:23",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [09:23] Ground ball pickup by QUINNIPI Nick Meoni.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nick Meoni (caused by Casey, TJ).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:18",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:45",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:21",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Tj Coffey, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Elijiah Gill.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:58",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "4-1",
+    "score": "GOAL by MASSACHU Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:47",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by MASSACHU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:30",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Waddell, James (caused by Sean McCaffery).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nate Watson (caused by Elliott, Jimmy).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:40",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:21",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "5-1",
+    "score": "GOAL by MASSACHU Granara, Robbie, Assist by Clayton, Tyler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:12",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [06:12] Ground ball pickup by QUINNIPI Sean McCaffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:08",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Aj Amandolare, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:05",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Salanger, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "Shot by MASSACHU Cargiulo, Matthew, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:05",
+    "home_event": "",
+    "score": "Penalty on MASSACHU Turowsky, Jack (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Aiden Whitehouse.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Bagnall, Thomas (caused by Ryan Downing).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Ryan Downing.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:59",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "6-1",
+    "score": "GOAL by MASSACHU Kurtz, Charles.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by QUINNIPI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nate Watson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:40",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by MASSACHU Jackman, Brian, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by MASSACHU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Turowsky, Jack (caused by Thomas Andria).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Thomas Andria.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:02",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Cole Marsala, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Waddell, James.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:43",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Elijiah Gill (caused by Johnson, Zander).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Elliott, Jimmy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "7-1",
+    "score": "GOAL by MASSACHU Coyle, Colin, Assist by Granara, Robbie.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by QUINNIPI, [11:46] Ground ball pickup by QUINNIPI Colin Redmond.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Cole Marsala (caused by Waddell, James).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:51",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "8-1",
+    "score": "GOAL by MASSACHU Coyle, Colin, Assist by Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "Penalty on QUINNIPI Elijiah Gill (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "Timeout by QUINNIPI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:07",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [10:07] Ground ball pickup by QUINNIPI Sean McCaffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:50",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Aiden Whitehouse, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Auble, Zach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:48",
+    "home_event": "",
+    "score": "Penalty on MASSACHU Swanson, Kyle (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Nate Watson, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Cargiulo, Matthew (caused by Thomas Andria).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:08",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Bagnall, Thomas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "8-2",
+    "score": "GOAL by QUINNIPI Aj Amandolare, Assist by Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:13",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [05:13] Ground ball pickup by QUINNIPI Nick Meoni.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Nick Meoni HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:54",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Johnny Karafa WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:42",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:14",
+    "home_event": "",
+    "score": "Shot by MASSACHU Johnson, Dylan, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:11",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Johnson, Dylan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Justin Robbert (caused by Auble, Zach).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:57",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Auble, Zach.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:54",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:33",
+    "home_event": "",
+    "score": "Shot by MASSACHU Clayton, Tyler HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:30",
+    "home_event": "",
+    "score": "Timeout by QUINNIPI.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "9-2",
+    "score": "GOAL by MASSACHU Coyle, Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by QUINNIPI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nick Meoni (caused by Travers, Rob).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Travers, Rob.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Travers, Rob (caused by Joe Konesco).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:23",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Joe Konesco.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:16",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Nate Watson, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:11",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "9-3",
+    "score": "GOAL by QUINNIPI Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:39",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by MASSACHU, [13:39] Ground ball pickup by MASSACHU Cuozzo, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Shot by MASSACHU Kurtz, Charles, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Mason Oak.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:44",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "9-4",
+    "score": "GOAL by QUINNIPI Nate Watson, Assist by Justin Robbert.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:06",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by MASSACHU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Finnerty, Michael (caused by Nick Meoni).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "10-4",
+    "score": "GOAL by MASSACHU Coyle, Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Team won by MASSACHU, [10:59] Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:20",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Justin Robbert (caused by Elliott, Jimmy).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:44",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Elliott, Jimmy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:38",
+    "home_event": "",
+    "score": "Shot by MASSACHU Morse, Will, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Mason Oak.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:31",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Justin Robbert (caused by Salanger, Owen).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:22",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Salanger, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:12",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "11-4",
+    "score": "GOAL by MASSACHU Jackman, Brian.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Cole Marsala (caused by Swanson, Kyle).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:54",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Salanger, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:52",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:06",
+    "home_event": "",
+    "score": "Shot by MASSACHU Jackman, Brian WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:58",
+    "home_event": "",
+    "score": "Shot by MASSACHU Bagnall, Thomas, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:55",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Luca Cutolo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:53",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "11-5",
+    "score": "GOAL by QUINNIPI Aiden Whitehouse, Assist by Justin Robbert.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:24",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by MASSACHU, [06:24] Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Elliott, Jimmy (caused by Colin Redmond).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:27",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Cole Marsala, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:50",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Salanger, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:22",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Shot by MASSACHU Kurtz, Charles WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:11",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Coyle, Colin.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:55",
+    "home_event": "",
+    "score": "Shot by MASSACHU Coyle, Colin WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "Shot by MASSACHU Cargiulo, Matthew WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:40",
+    "home_event": "",
+    "score": "30-second clock violation by MASSACHU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:34",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Tj Coffey (caused by Johnson, Zander).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:48",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Johnson, Zander.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:46",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Granara, Robbie (caused by Glenn Platania).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:22",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Glenn Platania.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:14",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:52",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Ethan McGerald, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:39",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "12-5",
+    "score": "GOAL by MASSACHU Granara, Robbie, Assist by Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:39",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Frank Mousa won by QUINNIPI (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nick Meoni (caused by Clayton, Tyler).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Clayton, Tyler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:18",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "13-5",
+    "score": "GOAL by MASSACHU Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Frank Mousa won by QUINNIPI, [00:06] Ground ball pickup by QUINNIPI Frank Mousa.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [15:00] Ground ball pickup by QUINNIPI Nick Meoni.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:12",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Cole Marsala BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:58",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "30-second clock violation by MASSACHU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:23",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:53",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Nate Watson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:34",
+    "home_event": "",
+    "score": "Shot by QUINNIPI Justin Robbert, SAVE Salanger, Owen",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Cunningham, Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Penalty on MASSACHU Auble, Zach (INTERFERENCE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "13-6",
+    "score": "GOAL by QUINNIPI Justin Robbert (MAN-UP), Assist by Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:21",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by MASSACHU, [11:21] Ground ball pickup by MASSACHU Casey, TJ.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "Penalty on QUINNIPI Nick Meoni (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "14-6",
+    "score": "GOAL by MASSACHU Kurtz, Charles (MAN-UP), Assist by Johnson, Dylan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:47",
+    "home_event": "",
+    "score": "Faceoff Casey, TJ vs Sean McCaffery won by QUINNIPI, [09:47] Ground ball pickup by QUINNIPI Ryan Novak.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Penalty on MASSACHU Auble, Zach (UNSPORTSMANLIKE CONDUCT/1:00).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Penalty on MASSACHU Auble, Zach (SLASHING/1:00).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "14-7",
+    "score": "GOAL by QUINNIPI Cole Marsala (MAN-UP), Assist by Jake Gallose.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by QUINNIPI, [08:57] Ground ball pickup by QUINNIPI Nick Meoni.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nick Meoni (caused by Cuozzo, Luca).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:49",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Cunningham, Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:46",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:27",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:25",
+    "home_event": "",
+    "score": "30-second clock violation by MASSACHU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:17",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "14-8",
+    "score": "GOAL by QUINNIPI Ethan McGerald (MAN-UP), Assist by Cole Marsala.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by MASSACHU, [07:07] Ground ball pickup by MASSACHU Elliott, Jimmy.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "",
+    "score": "Shot by MASSACHU Johnson, Dylan, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:26",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Cargiulo, Matthew.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:02",
+    "home_event": "",
+    "score": "Shot by MASSACHU Kurtz, Charles BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Penalty on QUINNIPI Ryan Novak (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "15-8",
+    "score": "GOAL by MASSACHU Kurtz, Charles (MAN-UP), Assist by Johnson, Dylan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:06",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Frank Mousa won by MASSACHU, [05:06] Ground ball pickup by MASSACHU Cuozzo, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MASSACHU Duva, Luca.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Nate Watson (caused by Cunningham, Nicholas).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:23",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Salanger, Owen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:21",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "Shot by MASSACHU Turowsky, Jack, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Aiden Whitehouse (caused by Peters, Jack).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Peters, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:38",
+    "home_event": "",
+    "score": "Clear attempt by MASSACHU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:12",
+    "home_event": "",
+    "score": "Shot by MASSACHU Finnerty, Michael, SAVE Mason Oak",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Ground ball pickup by QUINNIPI Aiden Whitehouse.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:05",
+    "home_event": "",
+    "score": "Clear attempt by QUINNIPI failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by QUINNIPI Ryan Novak.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:56",
+    "home_event": "",
+    "score": "Ground ball pickup by MASSACHU Peters, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "16-8",
+    "score": "GOAL by MASSACHU Granara, Robbie, Assist by Turowsky, Jack.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:56",
+    "home_event": "",
+    "score": "Faceoff Cuozzo, Luca vs Sean McCaffery won by MASSACHU, [00:56] Ground ball pickup by MASSACHU Morse, Will.",
+    "away_event": ""
+  }
+]

@@ -1,0 +1,1598 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Nate Fechter at goalie for RMU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Connor Knight at goalie for UR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [15:00] Ground ball pickup by RMU Gavin Pedone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "1-0",
+    "score": "GOAL by RMU Dylan Anderson (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:08",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [14:08] Ground ball pickup by RMU Cristian Davis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "Timeout by RMU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Graeme MacLennan (caused by Matt Jacobsen).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:59",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:47",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:15",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Lucas Littlejohn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:01",
+    "home_event": "",
+    "score": "Shot by UR Joe Sheridan, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:57",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Daniel Picart.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:41",
+    "home_event": "",
+    "score": "Shot by UR Aidan O'Neil, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:27",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "2-0",
+    "score": "GOAL by RMU Gavin Pedone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:22",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [11:22] Ground ball pickup by RMU Cristian Davis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "2-1",
+    "score": "GOAL by UR Lucas Littlejohn, Assist by Charlie Packard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:21",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [10:21] Ground ball pickup by RMU Cristian Davis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:35",
+    "home_event": "",
+    "score": "Shot by RMU Calum Brennan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:06",
+    "home_event": "",
+    "score": "Shot by RMU Gavin Pedone, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:02",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Connor Kelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Shot by UR Cole Hayden WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Lucas Littlejohn (caused by Colin Davis).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:15",
+    "home_event": "",
+    "score": "Clear attempt by RMU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Owen Tapper (caused by Jack Ricciardi).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Shot by UR Hunter Smith WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:50",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:35",
+    "home_event": "",
+    "score": "Shot by RMU Ben Eck, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:28",
+    "home_event": "",
+    "score": "Clear attempt by UR failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Connor Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:22",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Graeme MacLennan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "3-1",
+    "score": "GOAL by RMU Dylan Anderson, Assist by Luke Prezioso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [06:03] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:24",
+    "home_event": "",
+    "score": "Shot by UR Aidan O'Neil, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "3-2",
+    "score": "GOAL by UR Joe Sheridan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:59",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:28",
+    "home_event": "",
+    "score": "Shot by RMU Joel McCormick, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Connor Knight.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:08",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:32",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Lucas Littlejohn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "3-3",
+    "score": "GOAL by UR Daniel Picart, Assist by Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Anthony DiCenso won by UR, [03:20] Ground ball pickup by UR Luke Spitzer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:42",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:09",
+    "home_event": "",
+    "score": "Clear attempt by RMU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Elijah Edwards (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Tanner Huber (caused by Owen Tapper).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:49",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Owen Tapper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:48",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Gavin Pedone (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:16",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "Shot by UR Gavin Creo BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "30-second clock violation by UR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [15:00] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:51",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:48",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Zach Tucker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:41",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:48",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Shot by UR Charlie Packard WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:19",
+    "home_event": "",
+    "score": "Shot by UR Tanner Huber WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Shot by UR Charlie Packard WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "3-4",
+    "score": "GOAL by UR Jack Ricciardi, Assist by Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:48",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [12:48] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "3-5",
+    "score": "GOAL by UR Lucas Littlejohn, Assist by Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [12:11] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:51",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "3-6",
+    "score": "GOAL by UR Joe Sheridan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "",
+    "score": "Timeout by RMU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:05",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [11:05] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "3-7",
+    "score": "GOAL by UR Lucas Littlejohn, Assist by Cole Hayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR, [10:17] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "3-8",
+    "score": "GOAL by UR Brayden Penafeather-Stevenson, Assist by Jack Ricciardi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:58",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Anthony DiCenso won by RMU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "4-8",
+    "score": "GOAL by RMU Koerner Marechek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:41",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR, [08:41] Ground ball pickup by UR Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:18",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:51",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:33",
+    "home_event": "",
+    "score": "Shot by UR Gavin Creo, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Timeout by UR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:19",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Zach Tucker.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:07",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:10",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Dylan Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:59",
+    "home_event": "",
+    "score": "Shot by RMU Dylan Anderson, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:42",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:38",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Tanner Huber.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:54",
+    "home_event": "",
+    "score": "Clear attempt by RMU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Nate Fechter (caused by Connor Kelly).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:47",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Connor Kelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:35",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:29",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "4-9",
+    "score": "GOAL by UR Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:17",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR, [04:17] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:07",
+    "home_event": "",
+    "score": "Shot by UR Vincent Gaylord WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Jack Ricciardi (caused by Zach Tucker).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:49",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Owen Tapper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Shot by RMU Calum Brennan WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:41",
+    "home_event": "",
+    "score": "Timeout by UR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Dylan Anderson (caused by Charlie Packard).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:08",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "Shot by UR Daniel Picart WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Lucas Littlejohn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:23",
+    "home_event": "",
+    "score": "Shot by UR Charlie Packard WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "4-10",
+    "score": "GOAL by UR Tanner Huber, Assist by Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Lucas Littlejohn (caused by Owen Tapper).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Owen Tapper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [15:00] Ground ball pickup by UR Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:45",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Brayden Penafeather-Stevenson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:32",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:37",
+    "home_event": "",
+    "score": "Shot by UR Joe Sheridan BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:31",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Jack Ricciardi.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:12",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "5-10",
+    "score": "GOAL by RMU Owen Tapper.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:06",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [13:06] Ground ball pickup by RMU Cristian Davis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:52",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Luke Prezioso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Ben Eck (caused by Jack Pilling).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Luke Prezioso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:58",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Ethan Hecht.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:46",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "",
+    "score": "Shot by RMU Owen Tapper WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:07",
+    "home_event": "",
+    "score": "Penalty on UR Michael Farrell (INTERFERENCE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:46",
+    "home_event": "",
+    "score": "Shot by RMU Dylan Wragg WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:31",
+    "home_event": "",
+    "score": "Shot by RMU Luke Prezioso WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:04",
+    "home_event": "",
+    "score": "Shot by RMU Luis Gonzalez WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "5-11",
+    "score": "GOAL by UR Joe Sheridan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:10",
+    "home_event": "",
+    "score": "Shot by UR Lucas Littlejohn, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Luke Prezioso.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:03",
+    "home_event": "",
+    "score": "Shot by RMU Luke Prezioso WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:43",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Cole Hayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:05",
+    "home_event": "",
+    "score": "Shot by UR Cole Hayden, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Clear attempt by RMU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Nate Fechter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:51",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Michael Farrell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Cole Hayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Hunter Smith (caused by Team).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Cole Hayden (caused by Nathan Ruff).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:37",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Nate Fechter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:21",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Calum Brennan (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:30",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:20",
+    "home_event": "",
+    "score": "Shot by RMU Luis Gonzalez, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:15",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Koerner Marechek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Koerner Marechek.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:02",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:01",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:45",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "5-12",
+    "score": "GOAL by UR Gavin Creo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:35",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR, [02:35] Ground ball pickup by UR Ryan Thompson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:13",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Shot by UR Aidan O'Neil, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Shot by UR Tanner Huber, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:07",
+    "home_event": "",
+    "score": "Penalty on RMU Matt King (INTERFERENCE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:47",
+    "home_event": "",
+    "score": "Shot by UR Joe Sheridan HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "5-13",
+    "score": "GOAL by UR Tanner Huber, Assist by Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:10",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [15:00] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "5-14",
+    "score": "GOAL by UR Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:26",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Anthony DiCenso won by RMU, [14:26] Ground ball pickup by RMU Callum Witter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:01",
+    "home_event": "",
+    "score": "Shot by RMU Brad Hill BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Joel McCormick (caused by Jack Pilling).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:32",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:30",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:04",
+    "home_event": "",
+    "score": "Shot by UR Jack Ricciardi, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "6-14",
+    "score": "GOAL by RMU Gavin Pedone.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:24",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by RMU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "7-14",
+    "score": "GOAL by RMU Calum Brennan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:31",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Anthony DiCenso won by UR, [11:31] Ground ball pickup by UR Luke Spitzer.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:02",
+    "home_event": "",
+    "score": "Timeout by UR.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Lucas Littlejohn.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by UR Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Penalty on UR Jack Ricciardi (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:10",
+    "home_event": "",
+    "score": "Shot by RMU Luis Gonzalez HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:59",
+    "home_event": "",
+    "score": "Shot by RMU Luis Gonzalez, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:53",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Jack Pilling.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:38",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "7-15",
+    "score": "GOAL by UR Gavin Creo, Assist by Charlie Packard.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:19",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by RMU, [09:19] Ground ball pickup by RMU Rowan Hynes.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:19",
+    "home_event": "",
+    "score": "Shot by RMU Luke Prezioso WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:50",
+    "home_event": "",
+    "score": "Shot by RMU Gavin Pedone, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:43",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Connor Kelly.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:40",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "Shot by UR Aidan O'Neil BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:27",
+    "home_event": "",
+    "score": "Penalty on RMU Gavin Pedone (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "7-16",
+    "score": "GOAL by UR Joe Sheridan (MAN-UP), Assist by Aidan O'Neil.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:06",
+    "home_event": "",
+    "score": "Faceoff Brad Hill vs Vincent Gaylord won by UR, [06:06] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:51",
+    "home_event": "",
+    "score": "Shot by UR Porter Barnett, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:48",
+    "home_event": "",
+    "score": "Penalty on RMU Rowan Hynes (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "7-17",
+    "score": "GOAL by UR Tanner Huber (MAN-UP), Assist by Cole Hayden.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:32",
+    "home_event": "",
+    "score": "Faceoff Cristian Davis vs Vincent Gaylord won by UR, [04:32] Ground ball pickup by UR Vincent Gaylord.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:16",
+    "home_event": "",
+    "score": "Shot by UR Jackson Carawan BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:12",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Nate Fechter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Shot by RMU Owen Tapper WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:02",
+    "home_event": "",
+    "score": "Shot by RMU Dylan Anderson, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Dylan Anderson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:27",
+    "home_event": "",
+    "score": "Clear attempt by UR good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:08",
+    "home_event": "",
+    "score": "Shot by UR Lucas Slate, SAVE Nate Fechter",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:44",
+    "home_event": "",
+    "score": "Clear attempt by RMU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by RMU Mac Link (caused by Hunter Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:42",
+    "home_event": "",
+    "score": "Ground ball pickup by UR Hunter Smith.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:35",
+    "home_event": "",
+    "score": "Shot by UR Hunter Smith WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:30",
+    "home_event": "",
+    "score": "Clear attempt by RMU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:08",
+    "home_event": "",
+    "score": "Shot by RMU Luke Prezioso, SAVE Connor Knight",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Ground ball pickup by RMU Callum Witter.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:02",
+    "home_event": "",
+    "score": "Shot by RMU Dylan Anderson, SAVE Connor Knight",
+    "away_event": ""
+  }
+]

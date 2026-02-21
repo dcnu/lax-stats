@@ -2,16 +2,19 @@ import Link from "next/link";
 
 export function TeamLink({
 	teamId,
+	teamSlug,
 	children,
 	className,
 }: {
-	teamId: string;
+	teamId?: string;
+	teamSlug?: string;
 	children: React.ReactNode;
 	className?: string;
 }) {
+	const href = `/teams/${teamSlug ?? teamId}`;
 	return (
 		<Link
-			href={`/teams/${teamId}`}
+			href={href}
 			className={className ?? "text-primary hover:underline"}
 		>
 			{children}

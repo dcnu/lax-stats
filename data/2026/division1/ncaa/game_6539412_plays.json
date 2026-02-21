@@ -1,0 +1,1619 @@
+[
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "0",
+    "score": "0",
+    "away_event": "0"
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Thomas Ricciardelli at goalie for NOTREDA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Lucas Lawas at goalie for MARQUETT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by NOTREDA, [15:00] Ground ball pickup by NOTREDA Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:53",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "1-0",
+    "score": "GOAL by NOTREDA Matt Jeffery (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:22",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by NOTREDA, [14:22] Ground ball pickup by NOTREDA Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "2-0",
+    "score": "GOAL by NOTREDA Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by MARQUETT, [14:15] Ground ball pickup by MARQUETT Ty Ambush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:10",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:28",
+    "home_event": "",
+    "score": "Shot by MARQUETT Tucker Mullen, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Tucker Mullen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:23",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:04",
+    "home_event": "",
+    "score": "Shot by NOTREDA Luke Miller, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:00",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Brock Behrman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:20",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Angrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:05",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Angrick, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:03",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Jake Bair.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:59",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Christopher Iuliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:55",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "3-0",
+    "score": "GOAL by NOTREDA Jalen Seymour.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:29",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Chandler Caster won by NOTREDA, [10:29] Ground ball pickup by NOTREDA Shawn Lyght.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:48",
+    "home_event": "",
+    "score": "Shot by NOTREDA Luke Miller HIT CROSSBAR",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:45",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Mike Piraino.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:32",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:25",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Hayden Hiltz.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:01",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Brady Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Brenden Boyle (caused by Josh Yago).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:40",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:36",
+    "home_event": "",
+    "score": "Shot by NOTREDA Luke Miller BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:32",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:56",
+    "home_event": "",
+    "score": "Shot by MARQUETT Ethan Salvia WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "3-1",
+    "score": "GOAL by MARQUETT Ethan Salvia.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:49",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Chandler Caster won by MARQUETT, [07:49] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:05",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:02",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Brady Pokorny.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:58",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Lucas Lawas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:15",
+    "home_event": "",
+    "score": "Shot by MARQUETT Ethan Salvia, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:10",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:27",
+    "home_event": "",
+    "score": "Shot by NOTREDA Josh Yago WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:16",
+    "home_event": "",
+    "score": "Shot by NOTREDA Brock Behrman, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:14",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "3-2",
+    "score": "GOAL by MARQUETT Tucker Mullen, Assist by Carsen Brandt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:13",
+    "home_event": "",
+    "score": "Faceoff Christian Gallaher vs Chandler Caster won by MARQUETT, [03:13] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:06",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Connor Schoenwetter (caused by Nate Schwitzenberg).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:52",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Jalen Seymour (caused by Bradley Johnson).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:17",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Bradley Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:15",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:35",
+    "home_event": "",
+    "score": "Shot by MARQUETT Beau Westphal WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:19",
+    "home_event": "",
+    "score": "Shot by MARQUETT Andrew Bowman HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:13",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:04",
+    "home_event": "",
+    "score": "Shot by MARQUETT Nolan Rappis, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:01",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Josh Yago (caused by Jadyn Castillo).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Jadyn Castillo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Chandler Caster won by MARQUETT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Jake Bair (caused by Will Donovan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:30",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:27",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:56",
+    "home_event": "",
+    "score": "Shot by NOTREDA Matt Jeffery, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:51",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:02",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:37",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Angrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "30-second clock violation by NOTREDA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:14",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:28",
+    "home_event": "3-3",
+    "score": "GOAL by MARQUETT Tucker Mullen, Assist by Matt Caputo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:28",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [11:28] Ground ball pickup by NOTREDA Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:39",
+    "home_event": "",
+    "score": "Shot by NOTREDA Max Busenkell HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:36",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:25",
+    "home_event": "",
+    "score": "Shot by NOTREDA Brock Behrman, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:22",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Brady Nicholas (caused by Will Gallagher).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:57",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Nate Schwitzenberg.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:55",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "4-3",
+    "score": "GOAL by NOTREDA Brock Behrman, Assist by Matt Jeffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "Timeout by MARQUETT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:27",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [09:27] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:39",
+    "home_event": "",
+    "score": "Shot by NOTREDA Matt Jeffery WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:12",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Maheras, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:10",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:28",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:14",
+    "home_event": "",
+    "score": "Shot by MARQUETT Tucker Mullen, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:13",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "5-3",
+    "score": "GOAL by NOTREDA Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:29",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Chandler Caster won by MARQUETT, [06:29] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "5-4",
+    "score": "GOAL by MARQUETT Carsen Brandt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:56",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [05:56] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:45",
+    "home_event": "",
+    "score": "Penalty on MARQUETT Hayden Hiltz (PUSHING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "6-4",
+    "score": "GOAL by NOTREDA Luke Miller (MAN-UP), Assist by Brock Behrman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:34",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Ty Ambush won by NOTREDA, [05:34] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "7-4",
+    "score": "GOAL by NOTREDA Will Maheras.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:40",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by MARQUETT, [04:40] Ground ball pickup by MARQUETT Ty Ambush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Tucker Mullen (caused by Will Donovan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:20",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:18",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:06",
+    "home_event": "",
+    "score": "Timeout by NOTREDA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "8-4",
+    "score": "GOAL by NOTREDA Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:52",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by MARQUETT, [03:52] Ground ball pickup by MARQUETT Ty Ambush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:17",
+    "home_event": "",
+    "score": "Shot by MARQUETT Jake Bair WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:03",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "8-5",
+    "score": "GOAL by MARQUETT Beau Westphal.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:56",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Ty Ambush won by MARQUETT, [02:56] Ground ball pickup by MARQUETT Ty Ambush.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "8-6",
+    "score": "GOAL by MARQUETT Carsen Brandt, Assist by Easton Mccafferty.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:11",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Ty Ambush won by NOTREDA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:29",
+    "home_event": "",
+    "score": "Shot by NOTREDA Josh Yago WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:10",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Maheras, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:06",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Lucas Lawas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:03",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:06",
+    "home_event": "",
+    "score": "Shot by MARQUETT Jake Bair HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:01",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [14:53] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:44",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Maheras BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Luke Miller (caused by Jack Nichols).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Brady Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:21",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:51",
+    "home_event": "",
+    "score": "Shot by MARQUETT Beau Westphal, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:49",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:49",
+    "home_event": "",
+    "score": "Shot by NOTREDA Luke Miller WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:43",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Lucas Lawas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:39",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "8-7",
+    "score": "GOAL by MARQUETT Matt Caputo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "Penalty on NOTREDA Will Gallagher (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:56",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT, [10:56] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "8-8",
+    "score": "GOAL by MARQUETT Carsen Brandt (MAN-UP), Assist by Tucker Mullen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:17",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [10:17] Ground ball pickup by NOTREDA Christopher Iuliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "9-8",
+    "score": "GOAL by NOTREDA Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:08",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [09:08] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:37",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:03",
+    "home_event": "",
+    "score": "Shot by MARQUETT Ethan Salvia, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:01",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:48",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Andrew Bowman.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Tucker Mullen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:35",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:32",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "10-8",
+    "score": "GOAL by NOTREDA Will Maheras.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:09",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by NOTREDA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:42",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Angrick, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:39",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:53",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:47",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:57",
+    "home_event": "",
+    "score": "Shot by NOTREDA Luke Miller WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:42",
+    "home_event": "",
+    "score": "Shot by NOTREDA Fisher Finley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Jalen Seymour (caused by Brady Nicholas).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Brady Nicholas.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:23",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "10-9",
+    "score": "GOAL by MARQUETT Nolan Rappis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "04:03",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:57",
+    "home_event": "",
+    "score": "Shot by MARQUETT Tucker Mullen, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:47",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:36",
+    "home_event": "",
+    "score": "Shot by NOTREDA Josh Yago BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:31",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Bradley Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:28",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:44",
+    "home_event": "",
+    "score": "Shot by MARQUETT Ethan Salvia, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:41",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Shawn Lyght.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:36",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "11-9",
+    "score": "GOAL by NOTREDA Josh Yago, Assist by Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:53",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Chandler Caster won by MARQUETT, [00:53] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:45",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Jack Nichols (caused by Luke Miller).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:29",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "",
+    "score": "Shot by NOTREDA Aidan Diaz-Matos, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:24",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Mike Piraino.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:20",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:14",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "12-9",
+    "score": "GOAL by NOTREDA Teddy Lally, Assist by Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:05",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT, [00:05] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "15:00",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT, [15:00] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:18",
+    "home_event": "",
+    "score": "Shot by MARQUETT Matt Caputo, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "14:15",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:34",
+    "home_event": "",
+    "score": "Shot by NOTREDA Will Angrick, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:33",
+    "home_event": "",
+    "score": "Ground ball pickup by MARQUETT Peter Detwiler.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "13:26",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Jadyn Castillo (caused by Matt Jeffery).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:56",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Matt Jeffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:53",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:11",
+    "home_event": "",
+    "score": "Shot by NOTREDA Josh Yago BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "12:10",
+    "home_event": "",
+    "score": "Penalty on MARQUETT Carsen Brandt (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "13-9",
+    "score": "GOAL by NOTREDA Josh Yago (MAN-UP), Assist by Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "11:59",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT, [11:59] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "13-10",
+    "score": "GOAL by MARQUETT Beau Westphal, Assist by Nolan Rappis.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:57",
+    "home_event": "",
+    "score": "Faceoff Aidan Diaz-Matos vs Ty Ambush won by NOTREDA (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Max Busenkell.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "10:01",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "09:24",
+    "home_event": "",
+    "score": "Shot by MARQUETT Carsen Brandt HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Jake Bair (caused by Will Donovan).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:59",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:57",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "",
+    "score": "Shot by NOTREDA Matt Jeffery WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "08:22",
+    "home_event": "",
+    "score": "Timeout by MARQUETT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "14-10",
+    "score": "GOAL by NOTREDA Matt Jeffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:36",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [07:36] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Christian Alacqua.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "07:24",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:49",
+    "home_event": "",
+    "score": "Shot by MARQUETT Easton Mccafferty, SAVE Thomas Ricciardelli",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:38",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "15-10",
+    "score": "GOAL by NOTREDA Jalen Seymour, Assist by Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:14",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by MARQUETT, [06:14] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "06:03",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Carsen Brandt.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:04",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "05:02",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Brady Pokorny.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:59",
+    "home_event": "",
+    "score": "Shot by MARQUETT Tucker Mullen BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Nolan Rappis (caused by Nate Schwitzenberg).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:48",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Nate Schwitzenberg.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "03:46",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "16-10",
+    "score": "GOAL by NOTREDA Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:53",
+    "home_event": "",
+    "score": "Faceoff Christian Gallaher vs Chandler Caster won by MARQUETT, [02:53] Ground ball pickup by MARQUETT Chandler Caster.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Chandler Caster (caused by Shawn Lyght).",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:40",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "02:37",
+    "home_event": "",
+    "score": "Clear attempt by NOTREDA failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Christopher Iuliano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "16-11",
+    "score": "GOAL by MARQUETT Beau Westphal, Assist by Tucker Mullen.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "Timeout by NOTREDA.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "01:45",
+    "home_event": "",
+    "score": "Faceoff Tyler Spano vs Chandler Caster won by NOTREDA, [01:45] Ground ball pickup by NOTREDA Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by NOTREDA Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:38",
+    "home_event": "",
+    "score": "Clear attempt by MARQUETT good.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:27",
+    "home_event": "",
+    "score": "Timeout by MARQUETT.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "",
+    "home_event": "",
+    "score": "Turnover by MARQUETT Matt Caputo.",
+    "away_event": ""
+  },
+  {
+    "quarter": "1",
+    "time": "00:03",
+    "home_event": "",
+    "score": "Ground ball pickup by NOTREDA Shawn Lyght.",
+    "away_event": ""
+  }
+]
