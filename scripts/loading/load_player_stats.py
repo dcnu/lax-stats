@@ -24,6 +24,7 @@ from utils.db import get_connection, parse_time_to_seconds, execute_query
 from utils.path_helpers import get_all_season_dirs
 from utils.roster_lookup import get_roster_mapping_cached, get_player_team
 from utils.pbp_parser import match_player_to_roster
+from transform.player_stats import normalize_player_stats
 # tableIndex in player_stats.json: even (0,2) = away, odd (1,3) = home
 
 
@@ -126,7 +127,7 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 		return []
 
 	games = execute_query(
-		"SELECT id, home_team_id, away_team_id, season_id, division_id FROM games WHERE id = ANY(%s) AND status = 'final'",
+		"SELECT id, ncaa_game_id, home_team_id, away_team_id, season_id, division_id FROM games WHERE ncaa_game_id = ANY(%s) AND status = 'final'",
 		(list(available_ids),),
 	)
 	if not games:
@@ -140,7 +141,8 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 
 	for game in games:
 		game_id = str(game["id"])
-		stats_file = ncaa_dir / f"game_{game_id}_player_stats.json"
+		ncaa_id = str(game["ncaa_game_id"])
+		stats_file = ncaa_dir / f"game_{ncaa_id}_player_stats.json"
 
 		if not stats_file.exists():
 			continue
@@ -161,66 +163,25 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 				)
 			roster = roster_cache[roster_key]
 
-			for side, team_id in [("away", away_team_id), ("home", home_team_id)]:
-				side_data = data.get(side, {})
+			for cs in normalize_player_stats(data, source="ncaa_com"):
+				team_id = home_team_id if cs.side == "home" else away_team_id
+				if not cs.name:
+					continue
+				player_id = match_player_to_roster(cs.name, roster) if roster else None
+				if player_id is None:
+					label = f"goalie '{cs.name}'" if cs.is_goalie else f"'{cs.name}'"
+					print(f"Warning: no roster match for {label} in game {game_id}", file=sys.stderr)
+					continue
 
-				# Field players
-				for p in side_data.get("players", []):
-					name = p.get("Name", "").title()
-					if not name:
-						continue
-					player_id = match_player_to_roster(name, roster) if roster else None
-					if player_id is None:
-						print(f"Warning: no roster match for '{name}' in game {game_id}", file=sys.stderr)
-						continue
-
-					pos = normalize_position(p.get("POS", ""))
-					goals = safe_int(p.get("G"))
-					assists = safe_int(p.get("A"))
+				if cs.is_goalie:
 					all_stats.append({
 						"game_id": game_id,
 						"player_id": player_id,
 						"season_id": season_filter,
 						"division_id": div_id,
 						"team_id": team_id,
-						"jersey_number": p.get("NO"),
-						"position": pos,
-						"minutes_played": None,
-						"goals": goals,
-						"assists": assists,
-						"points": goals + assists,
-						"shots": safe_int(p.get("SH")),
-						"shots_on_goal": safe_int(p.get("SOG")),
-						"ground_balls": safe_int(p.get("GB")),
-						"turnovers": 0,
-						"caused_turnovers": 0,
-						"faceoff_wins": 0,
-						"faceoffs_taken": 0,
-						"goalie_minutes": None,
-						"goals_allowed": 0,
-						"gaa": None,
-						"saves": 0,
-						"save_percentage": None,
-					})
-
-				# Goalies
-				for g in side_data.get("goalies", []):
-					name = g.get("Goalies", "").title()
-					if not name:
-						continue
-					player_id = match_player_to_roster(name, roster) if roster else None
-					if player_id is None:
-						print(f"Warning: no roster match for goalie '{name}' in game {game_id}", file=sys.stderr)
-						continue
-
-					all_stats.append({
-						"game_id": game_id,
-						"player_id": player_id,
-						"season_id": season_filter,
-						"division_id": div_id,
-						"team_id": team_id,
-						"jersey_number": None,
-						"position": normalize_position(g.get("POS", "")),
+						"jersey_number": cs.jersey_number,
+						"position": normalize_position(cs.position or ""),
 						"minutes_played": None,
 						"goals": 0,
 						"assists": 0,
@@ -232,11 +193,36 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 						"caused_turnovers": 0,
 						"faceoff_wins": 0,
 						"faceoffs_taken": 0,
-						# MIN is already in seconds in ncaa.com format
-						"goalie_minutes": safe_int(g.get("MIN")),
-						"goals_allowed": safe_int(g.get("GA")),
+						"goalie_minutes": cs.goalie_minutes,
+						"goals_allowed": cs.goals_allowed,
 						"gaa": None,
-						"saves": safe_int(g.get("SAVES")),
+						"saves": cs.saves,
+						"save_percentage": None,
+					})
+				else:
+					all_stats.append({
+						"game_id": game_id,
+						"player_id": player_id,
+						"season_id": season_filter,
+						"division_id": div_id,
+						"team_id": team_id,
+						"jersey_number": cs.jersey_number,
+						"position": normalize_position(cs.position or ""),
+						"minutes_played": None,
+						"goals": cs.goals,
+						"assists": cs.assists,
+						"points": cs.goals + cs.assists,
+						"shots": cs.shots,
+						"shots_on_goal": cs.shots_on_goal,
+						"ground_balls": cs.ground_balls,
+						"turnovers": 0,
+						"caused_turnovers": 0,
+						"faceoff_wins": 0,
+						"faceoffs_taken": 0,
+						"goalie_minutes": None,
+						"goals_allowed": 0,
+						"gaa": None,
+						"saves": 0,
 						"save_percentage": None,
 					})
 

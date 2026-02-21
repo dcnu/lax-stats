@@ -15,7 +15,14 @@ export default async function RankingsPage({
 
 	return (
 		<div className="space-y-6">
-			<h1 className="text-2xl font-bold">Rankings</h1>
+			<div className="space-y-1">
+				<h1 className="text-2xl font-bold">Rankings</h1>
+				<p className="text-sm text-muted-foreground">
+					Recalculated weekly, every Monday at 12:00&nbsp;am&nbsp;PT.
+					Game results, box scores, and player stats on all other pages
+					update as soon as data is available.
+				</p>
+			</div>
 			<RankingsTable rankings={rankings} />
 		</div>
 	);

@@ -28,6 +28,7 @@ from utils.pbp_parser import (
 	match_player_to_roster,
 	normalize_name,
 )
+from transform.plays import normalize_plays
 
 
 # Map event text keywords to play_types.code values
@@ -206,9 +207,9 @@ def extract_ncaa_game_plays(season_filter: str, division_filter: int = None, dat
 		return []
 
 	games = execute_query(
-		"""SELECT id, home_team_id, away_team_id, season_id, division_id,
+		"""SELECT id, ncaa_game_id, home_team_id, away_team_id, season_id, division_id,
 		          home_score, away_score
-		   FROM games WHERE id = ANY(%s) AND status = 'final'""",
+		   FROM games WHERE ncaa_game_id = ANY(%s) AND status = 'final'""",
 		(list(available_ids),),
 	)
 	if not games:
@@ -222,8 +223,9 @@ def extract_ncaa_game_plays(season_filter: str, division_filter: int = None, dat
 
 	for game in games:
 		game_id = str(game["id"])
-		plays_file = ncaa_dir / f"game_{game_id}_plays.json"
-		info_file = ncaa_dir / f"game_{game_id}_info.json"
+		ncaa_id = str(game["ncaa_game_id"])
+		plays_file = ncaa_dir / f"game_{ncaa_id}_plays.json"
+		info_file = ncaa_dir / f"game_{ncaa_id}_info.json"
 
 		if not plays_file.exists() or not info_file.exists():
 			continue
@@ -251,43 +253,20 @@ def extract_ncaa_game_plays(season_filter: str, division_filter: int = None, dat
 				)
 			roster = roster_cache[roster_key]
 
+			canonical_plays = normalize_plays(plays_data, source="ncaa_com")
 			play_sequence = 0
 			current_home_score = None
 			current_away_score = None
 
-			for play in plays_data:
-				home_event = play.get("home_event", "")
-				score_field = play.get("score", "")
-				away_event = play.get("away_event", "")
-
-				# Skip artifact header rows
-				if home_event in ("0", "") and score_field in ("0", "") and away_event in ("0", ""):
-					continue
-
-				event_text = score_field if score_field not in ("0", "") else ""
+			for cp in canonical_plays:
+				event_text = cp.score_str if cp.score_str not in ("0", "") else ""
 				if not event_text:
 					continue
 
-				quarter_raw = play.get("quarter", "")
-				if quarter_raw == "OT":
-					quarter = 5
-				elif isinstance(quarter_raw, str) and quarter_raw.endswith("OT"):
-					try:
-						quarter = 4 + int(quarter_raw[:-2])
-					except ValueError:
-						quarter = 5
-				else:
-					try:
-						quarter = int(quarter_raw) if quarter_raw else 0
-					except (ValueError, TypeError):
-						quarter = 0
-				time_str = play.get("time", "")
-				time_remaining = parse_time_to_seconds(time_str)
-
 				# Score in home_event as "away_score-home_score"
-				if home_event and "-" in home_event:
+				if cp.home_event and "-" in cp.home_event:
 					try:
-						parts = home_event.split("-", 1)
+						parts = cp.home_event.split("-", 1)
 						current_away_score = int(parts[0])
 						current_home_score = int(parts[1])
 					except (ValueError, IndexError):
@@ -322,8 +301,8 @@ def extract_ncaa_game_plays(season_filter: str, division_filter: int = None, dat
 				all_plays.append({
 					"game_id": game_id,
 					"season_id": season_filter,
-					"quarter": quarter,
-					"time_remaining": time_remaining,
+					"quarter": cp.quarter,
+					"time_remaining": cp.time_remaining,
 					"play_sequence": play_sequence,
 					"play_type": db_play_type,
 					"player_id": player_id,

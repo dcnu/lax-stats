@@ -23,6 +23,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from utils.path_helpers import get_season_ncaa_dir
@@ -82,7 +83,7 @@ def epoch_to_game_date(epoch: int | None) -> str:
 	"""Convert Unix epoch to 'Month Dth YYYY' format using UTC date."""
 	if not epoch:
 		return ""
-	dt = datetime.datetime.fromtimestamp(epoch, tz=datetime.timezone.utc)
+	dt = datetime.datetime.fromtimestamp(epoch, tz=ZoneInfo("America/New_York"))
 	suffix = ordinal_suffix(dt.day)
 	return f"{MONTH_NAMES[dt.month]} {dt.day}{suffix} {dt.year}"
 

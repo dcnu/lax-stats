@@ -1,5 +1,26 @@
 # Data Differences
 
+## Source Comparison
+
+The pipeline ingests from two NCAA sources with different formats. The transform layer (`scripts/transform/`) normalizes both into canonical types.
+
+### ncaa.com (primary, 2026+)
+
+| Quirk | Detail |
+|-------|--------|
+| Dates | UTC epoch timestamps; use Eastern time conversion or `contest_date` from scoreboard endpoint |
+| Goalie key | `"Name"` in current JSON (legacy files use `"Goalies"`) |
+| Duplicate IDs | Rescheduled games can produce duplicate `contestId` values |
+| Season year | `seasonYear = season - 1` (NCAA convention: 2025 means 2025-26) |
+
+### stats.ncaa.org (legacy, 2025)
+
+| Quirk | Detail |
+|-------|--------|
+| Player list | Flat array with `tableIndex` (even = away, odd = home) |
+| Team IDs | Different ID namespace from ncaa.com; cross-referenced via `map_game_ids.py` |
+| CDN | Akamai-protected; requires browser automation or cached files |
+
 ## 2026+ Game Info: Overtime Fields
 
 The JS-based extractor (`_extract_game_info.js`) produces two fields not present in 2025 data:

@@ -148,6 +148,13 @@ def main() -> None:
 		print(f"{new_count} games on {date_str}")
 		date += timedelta(days=1)
 
+	seen_final: dict[str, dict] = {}
+	for g in all_games:
+		gid = g.get("ncaaGameId", "")
+		if gid and gid not in seen_final:
+			seen_final[gid] = g
+	all_games = list(seen_final.values())
+
 	ncaa_dir = get_season_ncaa_dir(args.season, args.division)
 	output_path = ncaa_dir / args.output
 	with open(output_path, "w") as f:

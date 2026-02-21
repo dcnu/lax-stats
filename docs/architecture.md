@@ -198,6 +198,19 @@ stats.ncaa.org uses Akamai CDN which blocks HTTP clients. Fetching uses `agent-b
 4. Fetch rosters         → fetch_rosters_browser.py    → data/{season}/division{n}/raw/rosters.json
 ```
 
+### Transform Layer
+
+Source-agnostic normalization between fetching and loading. See `docs/transformation-layer.md`.
+
+```
+scripts/transform/
+├── canonical.py      # Canonical dataclasses (CanonicalGame, CanonicalPlayerStat, CanonicalPlay, QCReport)
+├── game_info.py      # normalize_game_info()  — raw JSON → CanonicalGame
+├── player_stats.py   # normalize_player_stats() — raw JSON → list[CanonicalPlayerStat]
+├── plays.py          # normalize_plays()      — raw JSON → list[CanonicalPlay]
+└── qc.py             # validate_game_package() — cross-field validation → QCReport
+```
+
 ### Loading (database)
 
 All loaders use psycopg2 COPY and are season-safe (DELETE scoped by `season_id`).
@@ -228,7 +241,9 @@ team_id = get_player_team(player_id, roster_map, home_team_id, away_team_id)
 python scripts/sync_daily.py --season 2026
 ```
 
-Pipeline: discover game IDs → fetch via browser → load to database → run QC.
+Pipeline: discover game IDs → fetch → transform → load to database → enrich → compute rankings.
+
+Daily sync runs overnight (midnight PT) and covers game loading through enrichment. Rankings are recalculated weekly on Mondays.
 
 ### Season Setup
 

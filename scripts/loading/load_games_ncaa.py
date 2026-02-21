@@ -84,7 +84,7 @@ def token_overlap(a: str, b: str) -> float:
 	return len(ta & tb) / len(ta | tb)
 
 
-def load_lookup_teams() -> tuple[dict, dict]:
+def load_lookup_teams(season_id: str) -> tuple[dict, dict]:
 	"""
 	Query lookup_teams and build name lookup dicts.
 
@@ -95,7 +95,13 @@ def load_lookup_teams() -> tuple[dict, dict]:
 	by_short: dict[str, str] = {}
 	by_name: dict[str, str] = {}
 	with get_cursor() as cur:
-		cur.execute("SELECT id, name, short_name FROM public.lookup_teams ORDER BY id ASC")
+		cur.execute("""
+			SELECT lt.id, lt.name, lt.short_name
+			FROM public.lookup_teams lt
+			JOIN public.team_seasons ts ON lt.id = ts.team_id
+			WHERE ts.season_id = %s
+			ORDER BY lt.id ASC
+		""", (season_id,))
 		for row in cur.fetchall():
 			tid = row["id"]
 			full = (row["name"] or "").strip()
@@ -253,7 +259,6 @@ def extract_games(
 				ncaa_info = json.load(f)
 			home_name = ncaa_info.get("homeTeam") or home_name
 			away_name = ncaa_info.get("awayTeam") or away_name
-			date_str = ncaa_info.get("gameDate") or date_str
 			location = ncaa_info.get("location") or None
 			attendance = ncaa_info.get("attendance")
 			home_score = ncaa_info.get("homeScore")
@@ -384,7 +389,7 @@ def main():
 	args = parser.parse_args()
 
 	print("Loading lookup_teams for team name resolution...")
-	by_short, by_name = load_lookup_teams()
+	by_short, by_name = load_lookup_teams(args.season)
 	print(f"  {len(by_short)} short names, {len(by_name)} full names")
 
 	print(f"Extracting games for {args.season} D{args.division}...")
