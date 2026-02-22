@@ -26,7 +26,7 @@ export function PlayerGameLog({ games }: { games: GameLogEntry[] }) {
 			key: "opponent_name",
 			label: "Opponent",
 			renderCell: (value, row) => (
-				<TeamLink teamId={row.opponent_id as string}>
+				<TeamLink teamSlug={row.opponent_slug as string} teamId={row.opponent_id as string}>
 					{value as string}
 				</TeamLink>
 			),

@@ -98,10 +98,8 @@ def load_lookup_teams(season_id: str) -> tuple[dict, dict]:
 		cur.execute("""
 			SELECT lt.id, lt.name, lt.short_name
 			FROM public.lookup_teams lt
-			JOIN public.team_seasons ts ON lt.id = ts.team_id
-			WHERE ts.season_id = %s
 			ORDER BY lt.id ASC
-		""", (season_id,))
+		""")
 		for row in cur.fetchall():
 			tid = row["id"]
 			full = (row["name"] or "").strip()
@@ -239,6 +237,8 @@ def extract_games(
 		ncaa_game_id = str(entry.get("ncaaGameId", ""))
 		stats_game_id = str(entry.get("statsGameId") or "")
 		if not ncaa_game_id:
+			continue
+		if ncaa_game_id in seen_ncaa_ids:
 			continue
 		seen_ncaa_ids.add(ncaa_game_id)
 

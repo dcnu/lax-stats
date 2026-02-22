@@ -77,6 +77,10 @@ export async function getTeamSchedule(
 		JOIN lookup_teams at ON at.id = g.away_team_id
 		WHERE (g.home_team_id = ${teamId} OR g.away_team_id = ${teamId})
 			AND g.season_id = ${seasonId}
+			AND g.id = (
+				SELECT MIN(g2.id) FROM games g2
+				WHERE g2.ncaa_game_id = g.ncaa_game_id
+			)
 		ORDER BY g.game_date ASC
 	`;
 	return rows as unknown as Game[];

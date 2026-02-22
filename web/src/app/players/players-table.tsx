@@ -21,7 +21,7 @@ const columns: ColumnConfig[] = [
 		label: "Team",
 		filterable: true,
 		renderCell: (value, row) => (
-			<TeamLink teamId={row.team_id as string}>
+			<TeamLink teamSlug={row.team_slug as string} teamId={row.team_id as string}>
 				{value as string}
 			</TeamLink>
 		),

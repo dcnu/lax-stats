@@ -9,7 +9,8 @@ export async function getRankings(
 	const rows = await sql`
 		SELECT
 			tsr.*,
-			lt.name AS team_name
+			lt.name AS team_name,
+			lt.slug AS team_slug
 		FROM team_season_rankings tsr
 		JOIN lookup_teams lt ON lt.id = tsr.team_id
 		WHERE tsr.season_id = ${seasonId}

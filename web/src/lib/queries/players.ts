@@ -6,10 +6,11 @@ export async function getPlayerLeaderboard(
 ): Promise<PlayerSeasonStats[]> {
 	const sql = getSql();
 	const rows = await sql`
-		SELECT *
-		FROM player_season_stats
-		WHERE season_id = ${seasonId}
-		ORDER BY points DESC
+		SELECT pss.*, lt.slug AS team_slug
+		FROM player_season_stats pss
+		JOIN lookup_teams lt ON lt.id = pss.team_id
+		WHERE pss.season_id = ${seasonId}
+		ORDER BY pss.points DESC
 	`;
 	return rows as unknown as PlayerSeasonStats[];
 }
@@ -32,10 +33,11 @@ export async function getPlayerSeasonStats(
 ): Promise<PlayerSeasonStats[]> {
 	const sql = getSql();
 	const rows = await sql`
-		SELECT *
-		FROM player_season_stats
-		WHERE player_id = ${playerId}
-		ORDER BY season_id DESC
+		SELECT pss.*, lt.slug AS team_slug
+		FROM player_season_stats pss
+		JOIN lookup_teams lt ON lt.id = pss.team_id
+		WHERE pss.player_id = ${playerId}
+		ORDER BY pss.season_id DESC
 	`;
 	return rows as unknown as PlayerSeasonStats[];
 }
@@ -43,7 +45,7 @@ export async function getPlayerSeasonStats(
 export async function getPlayerGameLog(
 	playerId: number,
 	seasonId: string,
-): Promise<(PlayerGameStats & { game_date: string; opponent_name: string })[]> {
+): Promise<(PlayerGameStats & { game_date: string; opponent_name: string; opponent_slug: string | null })[]> {
 	const sql = getSql();
 	const rows = await sql`
 		SELECT
@@ -52,11 +54,17 @@ export async function getPlayerGameLog(
 			CASE
 				WHEN pgs.team_id = g.home_team_id THEN g.away_team_name
 				ELSE g.home_team_name
-			END AS opponent_name
+			END AS opponent_name,
+			CASE
+				WHEN pgs.team_id = g.home_team_id THEN at.slug
+				ELSE ht.slug
+			END AS opponent_slug
 		FROM player_game_stats pgs
 		JOIN games g ON g.id = pgs.game_id
+		JOIN lookup_teams ht ON ht.id = g.home_team_id
+		JOIN lookup_teams at ON at.id = g.away_team_id
 		WHERE pgs.player_id = ${playerId} AND pgs.season_id = ${seasonId}
 		ORDER BY g.game_date DESC
 	`;
-	return rows as unknown as (PlayerGameStats & { game_date: string; opponent_name: string })[];
+	return rows as unknown as (PlayerGameStats & { game_date: string; opponent_name: string; opponent_slug: string | null })[];
 }

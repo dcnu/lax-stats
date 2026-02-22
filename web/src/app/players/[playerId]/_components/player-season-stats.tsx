@@ -52,7 +52,7 @@ export function PlayerSeasonStatsTable({
 								<TableCell>{s.season_id}</TableCell>
 								<TableCell>
 									{s.team_id ? (
-										<TeamLink teamId={s.team_id}>
+										<TeamLink teamSlug={s.team_slug as string} teamId={s.team_id}>
 											{s.team_name ?? s.team_id}
 										</TeamLink>
 									) : (

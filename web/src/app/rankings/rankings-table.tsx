@@ -12,7 +12,7 @@ const columns: ColumnConfig[] = [
 		key: "team_name",
 		label: "Team",
 		renderCell: (_value, row) => (
-			<TeamLink teamId={row.team_id as string}>
+			<TeamLink teamSlug={row.team_slug as string} teamId={row.team_id as string}>
 				{row.team_name as string}
 			</TeamLink>
 		),

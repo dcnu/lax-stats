@@ -56,6 +56,7 @@ export interface PlayerGameStats {
 	player_name: string | null;
 	team_name: string | null;
 	opponent_id: string | null;
+	opponent_slug?: string | null;
 	jersey_number: number | null;
 	position: string | null;
 	minutes_played: number | null;
@@ -104,6 +105,7 @@ export interface PlayerSeasonStats {
 	season_id: string;
 	player_name: string | null;
 	team_name: string | null;
+	team_slug?: string | null;
 	primary_position: string | null;
 	games_played: number;
 	goals: number;
@@ -157,6 +159,7 @@ export interface Ranking {
 	season_id: string;
 	division_id: number;
 	team_name?: string;
+	team_slug?: string;
 	wins: number;
 	losses: number;
 	wp: number | null;

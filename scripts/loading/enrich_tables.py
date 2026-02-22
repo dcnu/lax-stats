@@ -112,9 +112,14 @@ STEPS = [
 	(
 		"Populate team_seasons",
 		"""INSERT INTO team_seasons (team_id, season_id, team_name)
+		SELECT DISTINCT g.home_team_id, g.season_id, lt.name
+		FROM games g JOIN lookup_teams lt ON lt.id = g.home_team_id
+		UNION
+		SELECT DISTINCT g.away_team_id, g.season_id, lt.name
+		FROM games g JOIN lookup_teams lt ON lt.id = g.away_team_id
+		UNION
 		SELECT DISTINCT pgs.team_id, pgs.season_id, t.name
-		FROM player_game_stats pgs
-		JOIN lookup_teams t ON pgs.team_id = t.id
+		FROM player_game_stats pgs JOIN lookup_teams t ON pgs.team_id = t.id
 		ON CONFLICT (team_id, season_id) DO NOTHING""",
 	),
 	(
