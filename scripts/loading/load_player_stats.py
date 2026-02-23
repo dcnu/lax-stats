@@ -25,6 +25,10 @@ from utils.path_helpers import get_all_season_dirs
 from utils.roster_lookup import get_roster_mapping_cached, get_player_team
 from utils.pbp_parser import match_player_to_roster
 from transform.player_stats import normalize_player_stats
+
+# Cache for slug-based roster bridges and DB player lookups
+_slug_bridge_cache: dict[str, list[str]] = {}  # team_id → [alternate_ids_in_rosters]
+_db_roster_cache: dict[str, dict] = {}  # team_id → {playerID: {name, teamID}}
 # tableIndex in player_stats.json: even (0,2) = away, odd (1,3) = home
 
 
@@ -99,6 +103,92 @@ def load_roster_for_teams(season_id: str, division: int, home_team_id: str, away
 	return result
 
 
+def _roster_json_team_ids(season_id: str, division: int, base_dir: str = "data") -> set[str]:
+	"""Return set of teamIDs present in rosters.json."""
+	raw_path = Path(base_dir) / season_id / f"division{division}" / "raw" / "rosters.json"
+	if not raw_path.exists():
+		return set()
+	with open(raw_path, "r", encoding="utf-8") as f:
+		rosters = json.load(f)
+	return {str(t.get("teamID", "")) for t in rosters}
+
+
+def load_roster_via_slug_bridge(
+	home_team_id: str,
+	away_team_id: str,
+	season_id: str,
+	division: int,
+	base_dir: str = "data",
+) -> dict:
+	"""
+	Fallback roster loader: resolves alternate IDs for teams missing from rosters.json.
+
+	Uses lookup_teams slug to find other IDs for the same school that ARE present
+	in rosters.json. Handles 59xxx (stats.ncaa.org) ↔ 612xxx (ncaa.com) mismatches.
+
+	Returns: {playerID: {name, teamID}}
+	"""
+	available_ids = _roster_json_team_ids(season_id, division, base_dir)
+	if not available_ids:
+		return {}
+
+	# Find which teams need bridging
+	needs_bridge = [
+		tid for tid in (home_team_id, away_team_id)
+		if tid not in available_ids
+	]
+	if not needs_bridge:
+		return {}
+
+	# Query slug → alternate IDs for teams needing bridge
+	bridge_map: dict[str, str] = {}  # original_id → roster_id
+	rows = execute_query(
+		"""
+		SELECT a.id AS original_id, b.id AS alt_id
+		FROM lookup_teams a
+		JOIN lookup_teams b ON b.slug = a.slug AND b.id != a.id
+		WHERE a.id = ANY(%s)
+		""",
+		(needs_bridge,),
+	)
+	if rows:
+		for row in rows:
+			if row["alt_id"] in available_ids:
+				bridge_map[row["original_id"]] = row["alt_id"]
+
+	if not bridge_map:
+		return {}
+
+	# Build effective IDs: use alt if bridge found, keep original if not
+	eff_home = bridge_map.get(home_team_id, home_team_id)
+	eff_away = bridge_map.get(away_team_id, away_team_id)
+	return load_roster_for_teams(season_id, division, eff_home, eff_away, base_dir)
+
+
+def load_roster_from_db(team_id: str) -> dict:
+	"""
+	Load player roster from players table for a given team_id.
+
+	Returns: {playerID: {name, teamID}} — same format as rosters.json-based lookup.
+	Used as final fallback when roster file has no data for a team (returning players
+	from prior seasons will be found; true freshmen will not).
+	"""
+	if team_id in _db_roster_cache:
+		return _db_roster_cache[team_id]
+
+	rows = execute_query(
+		"SELECT id, name FROM players WHERE team_id = %s",
+		(team_id,),
+	)
+	result = {}
+	if rows:
+		for row in rows:
+			result[int(row["id"])] = {"name": row["name"], "teamID": team_id}
+
+	_db_roster_cache[team_id] = result
+	return result
+
+
 def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, data_dir: str = "data", skip_game_ids: set = None) -> list:
 	"""
 	Extract player stats from ncaa.com files for final games missing box scores.
@@ -158,9 +248,20 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 
 			roster_key = (season_filter, division, home_team_id, away_team_id)
 			if roster_key not in roster_cache:
-				roster_cache[roster_key] = load_roster_for_teams(
+				# Level 1: direct roster file lookup
+				roster = load_roster_for_teams(
 					season_filter, division, home_team_id, away_team_id, data_dir
 				)
+				# Level 2: slug-based bridge (59xxx ↔ 612xxx mismatches)
+				if not roster:
+					roster = load_roster_via_slug_bridge(
+						home_team_id, away_team_id, season_filter, division, data_dir
+					)
+				# Level 3: players table (returning players from prior seasons)
+				if not roster:
+					for tid in (home_team_id, away_team_id):
+						roster.update(load_roster_from_db(tid))
+				roster_cache[roster_key] = roster
 			roster = roster_cache[roster_key]
 
 			for cs in normalize_player_stats(data, source="ncaa_com"):
@@ -170,13 +271,13 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 				player_id = match_player_to_roster(cs.name, roster) if roster else None
 				if player_id is None:
 					label = f"goalie '{cs.name}'" if cs.is_goalie else f"'{cs.name}'"
-					print(f"Warning: no roster match for {label} in game {game_id}", file=sys.stderr)
-					continue
+					print(f"Warning: no roster match for {label} in game {game_id} (loading with player_id=NULL)", file=sys.stderr)
 
 				if cs.is_goalie:
 					all_stats.append({
 						"game_id": game_id,
 						"player_id": player_id,
+						"player_name": cs.name if player_id is None else None,
 						"season_id": season_filter,
 						"division_id": div_id,
 						"team_id": team_id,
@@ -203,6 +304,7 @@ def extract_ncaa_player_stats(season_filter: str, division_filter: int = None, d
 					all_stats.append({
 						"game_id": game_id,
 						"player_id": player_id,
+						"player_name": cs.name if player_id is None else None,
 						"season_id": season_filter,
 						"division_id": div_id,
 						"team_id": team_id,
@@ -351,6 +453,7 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 					stat = {
 						"game_id": game_id,
 						"player_id": player_id,
+						"player_name": None,
 						"season_id": season_id,
 						"division_id": division,
 						"team_id": team_id,
@@ -378,6 +481,7 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 					stat = {
 						"game_id": game_id,
 						"player_id": player_id,
+						"player_name": None,
 						"season_id": season_id,
 						"division_id": division,
 						"team_id": team_id,
@@ -412,13 +516,22 @@ def extract_player_stats(data_dir: str = "data", season_filter: str = None, divi
 
 
 def deduplicate_stats(player_stats):
-	"""Deduplicate by (game_id, player_id, position)."""
+	"""
+	Deduplicate by (game_id, player_id, position).
+
+	For rows with player_id=None (unlinked players), dedup by
+	(game_id, team_id, player_name, position) instead.
+	"""
 	seen = set()
 	deduplicated = []
 	duplicates = 0
 
 	for stat in player_stats:
-		key = (stat["game_id"], stat["player_id"], stat["position"])
+		pid = stat.get("player_id")
+		if pid is None:
+			key = (stat["game_id"], stat.get("team_id"), stat.get("player_name"), stat["position"])
+		else:
+			key = (stat["game_id"], pid, stat["position"])
 		if key not in seen:
 			seen.add(key)
 			deduplicated.append(stat)
@@ -432,10 +545,12 @@ def deduplicate_stats(player_stats):
 
 
 def build_player_seasons(player_stats):
-	"""Build player_seasons records from stats."""
+	"""Build player_seasons records from stats. Skips rows with no player_id."""
 	player_season_attrs = defaultdict(lambda: {"jerseys": [], "positions": []})
 
 	for stat in player_stats:
+		if stat.get("player_id") is None:
+			continue
 		key = (stat["player_id"], stat["team_id"], stat["season_id"])
 		if stat.get("jersey_number"):
 			player_season_attrs[key]["jerseys"].append(stat["jersey_number"])
@@ -473,7 +588,7 @@ def load_player_stats_to_database(player_stats: list, season_id: str = None, dry
 	print(f"Loading {len(player_stats)} player game stats to database...", flush=True)
 
 	cols = [
-		"game_id", "player_id", "team_id", "season_id", "division_id",
+		"game_id", "player_id", "player_name", "team_id", "season_id", "division_id",
 		"jersey_number", "position", "minutes_played",
 		"goals", "assists", "points", "shots", "shots_on_goal",
 		"ground_balls", "turnovers", "caused_turnovers",
@@ -581,7 +696,7 @@ def main():
 	total_goals = sum(s["goals"] for s in player_stats)
 	total_assists = sum(s["assists"] for s in player_stats)
 	unique_games = len(set(s["game_id"] for s in player_stats))
-	unique_players = len(set(s["player_id"] for s in player_stats))
+	unique_players = len(set(s["player_id"] for s in player_stats if s["player_id"] is not None))
 
 	print(f"Summary: {unique_games} games, {unique_players} players")
 	print(f"Total goals: {total_goals}, Total assists: {total_assists}")

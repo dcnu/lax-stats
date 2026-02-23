@@ -86,7 +86,11 @@ def token_overlap(a: str, b: str) -> float:
 
 def load_lookup_teams(season_id: str) -> tuple[dict, dict]:
 	"""
-	Query lookup_teams and build name lookup dicts.
+	Query lookup_teams and build name lookup dicts, scoped to season_id.
+
+	Uses team_seasons JOIN to only return teams active in the target season,
+	preventing 59xxx/612xxx slug collisions across seasons. Falls back to the
+	full lookup_teams table if no team_seasons rows exist for the season yet.
 
 	Returns (by_short, by_name):
 	  by_short: {short_name.lower(): team_id}
@@ -95,12 +99,26 @@ def load_lookup_teams(season_id: str) -> tuple[dict, dict]:
 	by_short: dict[str, str] = {}
 	by_name: dict[str, str] = {}
 	with get_cursor() as cur:
+		# Try season-scoped query first
 		cur.execute("""
 			SELECT lt.id, lt.name, lt.short_name
 			FROM public.lookup_teams lt
+			JOIN public.team_seasons ts ON ts.team_id = lt.id
+			WHERE ts.season_id = %s
 			ORDER BY lt.id ASC
-		""")
-		for row in cur.fetchall():
+		""", (season_id,))
+		rows = cur.fetchall()
+
+		# Fall back to full table if season has no team_seasons yet
+		if not rows:
+			cur.execute("""
+				SELECT lt.id, lt.name, lt.short_name
+				FROM public.lookup_teams lt
+				ORDER BY lt.id ASC
+			""")
+			rows = cur.fetchall()
+
+		for row in rows:
 			tid = row["id"]
 			full = (row["name"] or "").strip()
 			short = (row["short_name"] or "").strip()
@@ -303,7 +321,20 @@ def extract_games(
 	if no_teams:
 		print(f"  {no_teams} games skipped (team name not found in lookup_teams)")
 
-	return games
+	# Dedup by (home_team_id, away_team_id, game_date) — keep first (lowest ncaa_game_id)
+	seen_matchups: set[tuple] = set()
+	deduped: list[dict] = []
+	for game in games:
+		key = (game["home_team_id"], game["away_team_id"], game["game_date"])
+		if key in seen_matchups:
+			print(f"  Warning: duplicate matchup skipped — {game['home_team_id']} vs {game['away_team_id']} on {game['game_date']} (id={game['id']})")
+		else:
+			seen_matchups.add(key)
+			deduped.append(game)
+	if len(deduped) < len(games):
+		print(f"  Removed {len(games) - len(deduped)} duplicate matchup(s)")
+
+	return deduped
 
 
 def load_to_database(games: list[dict], dry_run: bool = False) -> None:

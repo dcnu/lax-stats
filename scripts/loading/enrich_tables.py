@@ -251,6 +251,23 @@ STEPS = [
 		) agg ON ts.team_id = agg.team_id AND ts.season_id = agg.season_id""",
 	),
 	(
+		"Populate team_external_ids from lookup_teams",
+		"""INSERT INTO team_external_ids (team_id, source, external_id)
+		SELECT id,
+			CASE WHEN id ~ '^59' THEN 'stats_ncaa_org' ELSE 'ncaa_com_roster' END,
+			id
+		FROM lookup_teams
+		ON CONFLICT (source, external_id) DO NOTHING""",
+	),
+	(
+		"Populate game_external_ids from games.ncaa_game_id",
+		"""INSERT INTO game_external_ids (game_id, source, external_id)
+		SELECT id, 'ncaa_game_id', ncaa_game_id
+		FROM games
+		WHERE ncaa_game_id IS NOT NULL AND ncaa_game_id != id
+		ON CONFLICT (source, external_id) DO NOTHING""",
+	),
+	(
 		"Populate team_season_stats OWP and OOWP",
 		"""WITH team_records AS (
 			SELECT team_id, season_id, win_pct
@@ -306,6 +323,28 @@ ALTER_STEPS = [
 	"ALTER TABLE games ADD COLUMN IF NOT EXISTS away_team_losses SMALLINT",
 	"ALTER TABLE team_season_stats ADD COLUMN IF NOT EXISTS opp_win_pct NUMERIC",
 	"ALTER TABLE team_season_stats ADD COLUMN IF NOT EXISTS opp_opp_win_pct NUMERIC",
+	# player_id nullable: stats load even without a matched roster entry
+	"ALTER TABLE player_game_stats ALTER COLUMN player_id DROP NOT NULL",
+	# External ID bridge tables for cross-season/cross-source identity mapping
+	"""CREATE TABLE IF NOT EXISTS team_external_ids (
+		team_id     TEXT NOT NULL REFERENCES lookup_teams(id),
+		source      TEXT NOT NULL,
+		external_id TEXT NOT NULL,
+		season_id   TEXT REFERENCES lookup_seasons(id),
+		UNIQUE (source, external_id)
+	)""",
+	"""CREATE TABLE IF NOT EXISTS player_external_ids (
+		player_id   BIGINT NOT NULL REFERENCES players(id),
+		source      TEXT NOT NULL,
+		external_id TEXT NOT NULL,
+		UNIQUE (source, external_id)
+	)""",
+	"""CREATE TABLE IF NOT EXISTS game_external_ids (
+		game_id     TEXT NOT NULL REFERENCES games(id),
+		source      TEXT NOT NULL,
+		external_id TEXT NOT NULL,
+		UNIQUE (source, external_id)
+	)""",
 ]
 
 INDEX_STEPS = [
