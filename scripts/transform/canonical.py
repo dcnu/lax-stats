@@ -39,7 +39,7 @@ class CanonicalPlayerStat:
 @dataclass
 class CanonicalPlay:
 	quarter: int
-	time_remaining: int | None
+	time_remaining: int
 	home_event: str
 	away_event: str
 	score_str: str

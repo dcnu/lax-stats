@@ -1,0 +1,1591 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Richie Metzger at goalie for MARIST."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Connor Winters at goalie for BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs Flynn Wilson won by BING (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:20",
+    "score": "",
+    "home_event": "Shot by BING Gavin Jacobsen, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 1,
+    "time": "13:41",
+    "score": "1-0",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Sean Mullan (FIRST GOAL), Assist by Collin Patrick."
+  },
+  {
+    "quarter": 1,
+    "time": "13:41",
+    "score": "",
+    "home_event": "Faceoff Kevin Radmann vs Flynn Wilson won by BING, [13:41] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:28",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 1,
+    "time": "11:38",
+    "score": "2-0",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Collin Patrick."
+  },
+  {
+    "quarter": 1,
+    "time": "11:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": 1,
+    "time": "11:31",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Matthew Chadwick."
+  },
+  {
+    "quarter": 1,
+    "time": "10:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick, SAVE Connor Winters"
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Luke LeSueur.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:07",
+    "score": "",
+    "home_event": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Sebastian Rzeczycki."
+  },
+  {
+    "quarter": 1,
+    "time": "09:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "09:50",
+    "score": "",
+    "home_event": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Media Timeout"
+  },
+  {
+    "quarter": 1,
+    "time": "09:42",
+    "score": "3-0",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Brady Dolan."
+  },
+  {
+    "quarter": 1,
+    "time": "09:42",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs Flynn Wilson won by BING, [09:42] Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Flynn Wilson (caused by Michael Cassano).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 1,
+    "time": "08:33",
+    "score": "4-0",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Sean Mullan."
+  },
+  {
+    "quarter": 1,
+    "time": "08:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST, [08:33] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 1,
+    "time": "07:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Steven Cain (caused by Jojo Provenzano)."
+  },
+  {
+    "quarter": 1,
+    "time": "07:12",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Jojo Provenzano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:00",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:23",
+    "score": "4-1",
+    "home_event": "GOAL by BING Tyler Martini.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST, [06:23] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 1,
+    "time": "05:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Jayce Konowitz WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "05:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Sean Mullan."
+  },
+  {
+    "quarter": 1,
+    "time": "05:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 1,
+    "time": "05:19",
+    "score": "",
+    "home_event": "Penalty on BING Greg Marinelli (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Drew Anderson."
+  },
+  {
+    "quarter": 1,
+    "time": "04:37",
+    "score": "",
+    "home_event": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Connor Winters.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:31",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by MARIST."
+  },
+  {
+    "quarter": 1,
+    "time": "04:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "04:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 1,
+    "time": "03:53",
+    "score": "",
+    "home_event": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:28",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Gavin Jacobsen (caused by Aiden McCaffrey).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Michael Cassano."
+  },
+  {
+    "quarter": 1,
+    "time": "02:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 1,
+    "time": "01:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick HIT POST"
+  },
+  {
+    "quarter": 1,
+    "time": "01:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Steven Cain."
+  },
+  {
+    "quarter": 1,
+    "time": "01:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Luke Walser WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "01:08",
+    "score": "5-1",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Sean Mullan."
+  },
+  {
+    "quarter": 1,
+    "time": "01:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": 1,
+    "time": "00:19",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain HIGH"
+  },
+  {
+    "quarter": 1,
+    "time": "00:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick HIT POST"
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Luke Walser."
+  },
+  {
+    "quarter": 1,
+    "time": "00:01",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs CJ Mangio won by BING, [15:00] Ground ball pickup by BING CJ Mangio.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:46",
+    "score": "",
+    "home_event": "Shot by BING Matthew Rincon WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Liam Byrne.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan HIGH"
+  },
+  {
+    "quarter": 2,
+    "time": "13:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "13:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick HIGH"
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Brady Dolan (caused by Aidan McMinn)."
+  },
+  {
+    "quarter": 2,
+    "time": "13:00",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Aidan McMinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:36",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:17",
+    "score": "",
+    "home_event": "Shot by BING Gavin Jacobsen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:08",
+    "score": "5-2",
+    "home_event": "GOAL by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:08",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs CJ Mangio won by BING, [12:08] Ground ball pickup by BING Riley Jenkins.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Riley Jenkins (caused by Josh Smith).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Michael Cassano."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Ryan Meyers (caused by Drew Anderson).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:04",
+    "score": "",
+    "home_event": "Clear attempt by BING failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Michael Cassano."
+  },
+  {
+    "quarter": 2,
+    "time": "10:55",
+    "score": "6-2",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Brady Dolan, Assist by Collin Patrick."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Conduct foul called on Marist after the goal."
+  },
+  {
+    "quarter": 2,
+    "time": "10:33",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:28",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Aiden McCaffrey."
+  },
+  {
+    "quarter": 2,
+    "time": "10:14",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 2,
+    "time": "10:12",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 2,
+    "time": "10:07",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Aidan McMinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:56",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:06",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Michael Cassano."
+  },
+  {
+    "quarter": 2,
+    "time": "08:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 2,
+    "time": "08:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Dylan Rocchio, SAVE Connor Winters"
+  },
+  {
+    "quarter": 2,
+    "time": "08:21",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:06",
+    "score": "",
+    "home_event": "Shot by BING Drew Filanowski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:22",
+    "score": "",
+    "home_event": "30-second clock violation by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:21",
+    "score": "",
+    "home_event": "Penalty on BING Will Feldmann (DELAY OF GAME/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan HIGH"
+  },
+  {
+    "quarter": 2,
+    "time": "06:47",
+    "score": "",
+    "home_event": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Media timeout"
+  },
+  {
+    "quarter": 2,
+    "time": "06:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Connor Winters"
+  },
+  {
+    "quarter": 2,
+    "time": "06:03",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:36",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 2,
+    "time": "04:23",
+    "score": "",
+    "home_event": "Penalty on BING Jojo Provenzano (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Steven Cain."
+  },
+  {
+    "quarter": 2,
+    "time": "03:37",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:36",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:31",
+    "score": "",
+    "home_event": "Shot by BING Will Feldmann, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Gavin Marzgliano."
+  },
+  {
+    "quarter": 2,
+    "time": "02:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Sean Mullan (caused by Jojo Provenzano)."
+  },
+  {
+    "quarter": 2,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Andrew Girolamo (caused by Richie Metzger).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Richie Metzger."
+  },
+  {
+    "quarter": 2,
+    "time": "00:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 2,
+    "time": "00:08",
+    "score": "7-2",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Mason Bader."
+  },
+  {
+    "quarter": 2,
+    "time": "00:08",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs CJ Mangio won by BING, [00:08] Ground ball pickup by BING Matthew Rincon.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:01",
+    "score": "",
+    "home_event": "Shot by BING Matthew Rincon, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs CJ Mangio won by BING, [15:00] Ground ball pickup by BING CJ Mangio.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:34",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on MARIST Kevin Radmann (UNNECESSARY ROUGHNESS/1:00)."
+  },
+  {
+    "quarter": 3,
+    "time": "14:34",
+    "score": "",
+    "home_event": "Penalty on BING Ryan Meyers (UNNECESSARY ROUGHNESS/1:00).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Andrew Girolamo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 3,
+    "time": "13:37",
+    "score": "",
+    "home_event": "Penalty on BING Eoin Mackay (TOO MANY PLAYERS/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:37",
+    "score": "",
+    "home_event": "Penalty on BING Gavin Jacobsen (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "13:31",
+    "score": "8-2",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Collin Patrick (MAN-UP), Assist by Steven Cain, goal number  for season."
+  },
+  {
+    "quarter": 3,
+    "time": "13:31",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs CJ Mangio won by MARIST, [13:30] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 3,
+    "time": "12:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Drew Anderson, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "12:41",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Gavin Jacobsen (caused by Joshua Arneson).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Richie Metzger."
+  },
+  {
+    "quarter": 3,
+    "time": "11:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 3,
+    "time": "11:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "11:05",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Luke LeSueur.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:56",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:37",
+    "score": "",
+    "home_event": "Shot by BING Drew Filanowski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Will Feldmann (caused by Gavin Marzgliano).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Gavin Marzgliano."
+  },
+  {
+    "quarter": 3,
+    "time": "10:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 3,
+    "time": "09:55",
+    "score": "",
+    "home_event": "Penalty on BING Will Feldmann (UNNECESSARY ROUGHNESS/1:00).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on MARIST Richie Metzger (UNSPORTSMANLIKE CONDUCT/1:00)."
+  },
+  {
+    "quarter": 3,
+    "time": "09:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Adam Wachholder at goalie for MARIST."
+  },
+  {
+    "quarter": 3,
+    "time": "09:20",
+    "score": "",
+    "home_event": "Shot by BING Drew Filanowski WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:12",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers, SAVE Adam Wachholder",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Richie Metzger at goalie for MARIST."
+  },
+  {
+    "quarter": 3,
+    "time": "08:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Drew Cornax, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "08:24",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "08:10",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:02",
+    "score": "8-3",
+    "home_event": "GOAL by BING Andrew Girolamo, Assist by Tyler Martini.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST, [07:57] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 3,
+    "time": "06:43",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain HIGH"
+  },
+  {
+    "quarter": 3,
+    "time": "06:39",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Collin Patrick WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "06:34",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": 3,
+    "time": "06:17",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "05:45",
+    "score": "8-4",
+    "home_event": "GOAL by BING Ryan Meyers.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Media Timeout"
+  },
+  {
+    "quarter": 3,
+    "time": "05:45",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs Flynn Wilson won by BING, [05:44] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING Austin Constable (caused by Dylan Rocchio).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Dylan Rocchio."
+  },
+  {
+    "quarter": 3,
+    "time": "04:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Jayce Konowitz."
+  },
+  {
+    "quarter": 3,
+    "time": "03:52",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:17",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Mason Bader, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "03:02",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 3,
+    "time": "02:44",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Steven Cain, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "01:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Brady Dolan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 3,
+    "time": "01:47",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Riley Jenkins.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:32",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:07",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:28",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:18",
+    "score": "",
+    "home_event": "30-second clock violation by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:12",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST."
+  },
+  {
+    "quarter": 4,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs Flynn Wilson won by MARIST (on faceoff violation)."
+  },
+  {
+    "quarter": 4,
+    "time": "14:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 4,
+    "time": "14:13",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Luke LeSueur.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:05",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:15",
+    "score": "8-5",
+    "home_event": "GOAL by BING Ryan Meyers.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Josh Smith vs CJ Mangio won by MARIST, [13:15] Ground ball pickup by MARIST Josh Smith."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Aiden McCaffrey (caused by Liam Byrne)."
+  },
+  {
+    "quarter": 4,
+    "time": "12:48",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Liam Byrne.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:43",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Collin Patrick."
+  },
+  {
+    "quarter": 4,
+    "time": "12:00",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Aidan McMinn.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:57",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on MARIST Brady Dolan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "11:05",
+    "score": "",
+    "home_event": "Shot by BING Nico Spaziani, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:02",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:02",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:32",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:12",
+    "score": "",
+    "home_event": "Shot by BING Andrew Girolamo, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:09",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Ryan Meyers.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:06",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "09:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 4,
+    "time": "09:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Drew Anderson, SAVE Connor Winters"
+  },
+  {
+    "quarter": 4,
+    "time": "08:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "08:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 4,
+    "time": "07:44",
+    "score": "9-5",
+    "home_event": "",
+    "away_event": "GOAL by MARIST Sean Mullan, Assist by Jayce Konowitz."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Media timeout"
+  },
+  {
+    "quarter": 4,
+    "time": "07:44",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs Flynn Wilson won by BING, [07:44] Ground ball pickup by BING Flynn Wilson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by BING John Angelicola.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 4,
+    "time": "06:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by MARIST Sean Mullan, SAVE Connor Winters"
+  },
+  {
+    "quarter": 4,
+    "time": "05:48",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:01",
+    "score": "9-6",
+    "home_event": "GOAL by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:01",
+    "score": "",
+    "home_event": "Faceoff Josh Smith vs Flynn Wilson won by BING, [05:01] Ground ball pickup by BING Nolan Sharkey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:24",
+    "score": "",
+    "home_event": "Shot by BING Drew Filanowski, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:20",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Gavin Jacobsen.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:53",
+    "score": "",
+    "home_event": "Shot by BING Will Feldmann, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST good."
+  },
+  {
+    "quarter": 4,
+    "time": "02:31",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by MARIST."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST."
+  },
+  {
+    "quarter": 4,
+    "time": "02:22",
+    "score": "",
+    "home_event": "Clear attempt by BING good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:20",
+    "score": "",
+    "home_event": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:52",
+    "score": "",
+    "home_event": "Shot by BING Drew Filanowski HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:44",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Will Feldmann.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:38",
+    "score": "",
+    "home_event": "Shot by BING Ryan Meyers, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Dylan Stadler (caused by Nolan Sharkey)."
+  },
+  {
+    "quarter": 4,
+    "time": "01:16",
+    "score": "",
+    "home_event": "Ground ball pickup by BING Ryan Meyers.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on MARIST Brady Dolan (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "01:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on MARIST Dylan Stadler (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "01:00",
+    "score": "",
+    "home_event": "Shot by BING Gavin Jacobsen, SAVE Richie Metzger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by MARIST Joshua Arneson."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by MARIST Matthew Stewart."
+  },
+  {
+    "quarter": 4,
+    "time": "00:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by MARIST failed."
+  },
+  {
+    "quarter": 4,
+    "time": "00:17",
+    "score": "",
+    "home_event": "Shot by BING Will Feldmann WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:17",
+    "score": "",
+    "home_event": "Timeout by BING.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:13",
+    "score": "",
+    "home_event": "Shot by BING Will Feldmann, SAVE Richie Metzger",
+    "away_event": ""
+  }
+]

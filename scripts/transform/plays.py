@@ -15,20 +15,20 @@ def _parse_quarter(quarter_raw) -> int:
 		return 0
 
 
-def _parse_time(time_str: str) -> int | None:
+def _parse_time(time_str: str) -> int:
 	if not time_str:
-		return None
+		return 0
 	s = time_str.strip()
 	if ":" in s:
 		parts = s.split(":", 1)
 		try:
 			return int(parts[0]) * 60 + int(parts[1])
 		except (ValueError, IndexError):
-			return None
+			return 0
 	try:
 		return int(s)
 	except (ValueError, TypeError):
-		return None
+		return 0
 
 
 def normalize_plays(raw: list[dict], source: str) -> list[CanonicalPlay]:

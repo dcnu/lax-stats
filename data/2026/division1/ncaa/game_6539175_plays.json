@@ -1,0 +1,1682 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Lucas Lawas at goalie for UM."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Justin Dalum at goalie for CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Chandler Caster vs Robbie Stewart won by CSU, [15:00] Ground ball pickup by CSU Robbie Stewart.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:08",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Adam Van Voorhis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:39",
+    "score": "",
+    "home_event": "Shot by CSU Mattix Groves, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:36",
+    "score": "",
+    "home_event": "30-second clock violation by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 1,
+    "time": "12:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Beau Westphal."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Beau Westphal (caused by Seth Alejandrino)."
+  },
+  {
+    "quarter": 1,
+    "time": "12:44",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Blake Skifstad.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:39",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:30",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Mitchell Maibuecher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:24",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Ethan Erker.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:30",
+    "score": "",
+    "home_event": "Shot by CSU Will Adair BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on UM Tucker Mullen (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 1,
+    "time": "11:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on UM Matt Caputo (CROSS-CHECK/0:30)."
+  },
+  {
+    "quarter": 1,
+    "time": "10:50",
+    "score": "",
+    "home_event": "Shot by CSU Creed McDonald, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 1,
+    "time": "09:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 1,
+    "time": "09:54",
+    "score": "",
+    "home_event": "Clear attempt by CSU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Drew Graves.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Beau Westphal, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 1,
+    "time": "09:12",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:02",
+    "score": "",
+    "home_event": "Clear attempt by CSU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Justin Dalum.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Lucas Lawas."
+  },
+  {
+    "quarter": 1,
+    "time": "08:41",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 1,
+    "time": "08:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "08:01",
+    "score": "1-0",
+    "home_event": "",
+    "away_event": "GOAL by UM Carsen Brandt (FIRST GOAL), Assist by Nolan Rappis."
+  },
+  {
+    "quarter": 1,
+    "time": "08:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Chandler Caster vs Robbie Stewart won by UM, [08:01] Ground ball pickup by UM Chandler Caster."
+  },
+  {
+    "quarter": 1,
+    "time": "07:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 1,
+    "time": "07:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Tucker Mullen, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 1,
+    "time": "07:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Tucker Mullen, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 1,
+    "time": "07:22",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:32",
+    "score": "1-1",
+    "home_event": "GOAL by CSU Brennen Hickey, Assist by Landon Whalen.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:32",
+    "score": "",
+    "home_event": "Faceoff Chandler Caster vs Robbie Stewart won by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "05:19",
+    "score": "",
+    "home_event": "Shot by CSU Landon Whalen WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Drew Graves (caused by Jack Nichols).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Brenden Boyle."
+  },
+  {
+    "quarter": 1,
+    "time": "04:43",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Jack Nichols."
+  },
+  {
+    "quarter": 1,
+    "time": "04:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Nolan Rappis."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Carsen Brandt."
+  },
+  {
+    "quarter": 1,
+    "time": "03:54",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:46",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Ethan Brooks (caused by Jack Nichols).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:39",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Jack Nichols."
+  },
+  {
+    "quarter": 1,
+    "time": "02:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Tucker Mullen (caused by Seth Alejandrino)."
+  },
+  {
+    "quarter": 1,
+    "time": "02:14",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Seth Alejandrino.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:09",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:16",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Mattix Groves.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:12",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:06",
+    "score": "1-2",
+    "home_event": "GOAL by CSU Brennen Hickey, Assist by Mattix Groves.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:06",
+    "score": "",
+    "home_event": "Faceoff Ty Ambush vs Robbie Stewart won by CSU, [01:06] Ground ball pickup by CSU Logan Angel.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:56",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:12",
+    "score": "",
+    "home_event": "Shot by CSU Will Adair, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Landon Whalen (caused by Mike Piraino).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Mike Piraino."
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Ty Ambush vs Robbie Stewart won by CSU, [15:00] Ground ball pickup by CSU Robbie Stewart.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:51",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:34",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Mitchell Maibuecher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:31",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Payton Corpus.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Adam Van Voorhis (caused by Peter Detwiler).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "13:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Peter Detwiler."
+  },
+  {
+    "quarter": 2,
+    "time": "13:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 2,
+    "time": "13:39",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Bradley Johnson."
+  },
+  {
+    "quarter": 2,
+    "time": "13:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Beau Westphal, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 2,
+    "time": "12:45",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 2,
+    "time": "12:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair HIT POST"
+  },
+  {
+    "quarter": 2,
+    "time": "12:07",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Mitchell Maibuecher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:57",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:55",
+    "score": "",
+    "home_event": "Shot by CSU Brennen Hickey, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Ethan Salvia (caused by Griffin Valli)."
+  },
+  {
+    "quarter": 2,
+    "time": "10:35",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:33",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:26",
+    "score": "",
+    "home_event": "Timeout by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:35",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Sebastian West.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Robbie Stewart (caused by Peter Detwiler).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Peter Detwiler."
+  },
+  {
+    "quarter": 2,
+    "time": "09:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 2,
+    "time": "08:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Jadyn Castillo."
+  },
+  {
+    "quarter": 2,
+    "time": "08:08",
+    "score": "",
+    "home_event": "Penalty on CSU Alex Long (HOLDING/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:08",
+    "score": "",
+    "home_event": "Penalty on CSU Landon Whalen (OFFSIDE/0:30).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Easton Mccafferty."
+  },
+  {
+    "quarter": 2,
+    "time": "07:39",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:53",
+    "score": "",
+    "home_event": "Shot by CSU Sebastian West, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on UM Jadyn Castillo (PUSHING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 2,
+    "time": "06:19",
+    "score": "",
+    "home_event": "Shot by CSU Brennen Hickey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:01",
+    "score": "",
+    "home_event": "Shot by CSU Landon Whalen, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 2,
+    "time": "05:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 2,
+    "time": "04:59",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Seth Alejandrino.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:56",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:51",
+    "score": "",
+    "home_event": "Shot by CSU Brennen Hickey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:41",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:40",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:38",
+    "score": "",
+    "home_event": "30-second clock violation by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 2,
+    "time": "02:23",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Carsen Brandt BLOCKED"
+  },
+  {
+    "quarter": 2,
+    "time": "02:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Matt Caputo."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Carsen Brandt."
+  },
+  {
+    "quarter": 2,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Clear attempt by CSU failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Griffin Valli (caused by Colin Maloney).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:28",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Colin Maloney."
+  },
+  {
+    "quarter": 2,
+    "time": "01:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by UM."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Carsen Brandt (caused by Logan Angel)."
+  },
+  {
+    "quarter": 2,
+    "time": "00:27",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Logan Angel.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:24",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:16",
+    "score": "",
+    "home_event": "Timeout by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:11",
+    "score": "",
+    "home_event": "Shot by CSU Brennen Hickey WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:04",
+    "score": "1-3",
+    "home_event": "GOAL by CSU Adam Van Voorhis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ty Ambush vs Robbie Stewart won by UM (on faceoff violation)."
+  },
+  {
+    "quarter": 2,
+    "time": "00:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Ty Ambush HIGH"
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Chandler Caster vs Caden Wilson won by CSU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:14",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 3,
+    "time": "13:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Tucker Mullen HIGH"
+  },
+  {
+    "quarter": 3,
+    "time": "13:54",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:59",
+    "score": "",
+    "home_event": "Shot by CSU Brennen Hickey, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:47",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Mattix Groves.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:43",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Layton Speer.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:07",
+    "score": "1-4",
+    "home_event": "GOAL by CSU Layton Speer.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:07",
+    "score": "",
+    "home_event": "Faceoff Ty Ambush vs Robbie Stewart won by CSU, [12:07] Ground ball pickup by CSU Griffin Valli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:47",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Alec Blessing.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Logan Angel (caused by Colin Maloney).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:34",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Hayden Hiltz."
+  },
+  {
+    "quarter": 3,
+    "time": "11:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Tucker Mullen, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 3,
+    "time": "10:58",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:48",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Adam Van Voorhis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:17",
+    "score": "1-5",
+    "home_event": "GOAL by CSU Adam Van Voorhis.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:17",
+    "score": "",
+    "home_event": "Faceoff Chandler Caster vs Robbie Stewart won by CSU, [10:17] Ground ball pickup by CSU Robbie Stewart.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:08",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:13",
+    "score": "",
+    "home_event": "Shot by CSU Layton Speer, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 3,
+    "time": "08:40",
+    "score": "2-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Nolan Rappis, Assist by Carsen Brandt, goal number d for season."
+  },
+  {
+    "quarter": 3,
+    "time": "08:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [08:40] Ground ball pickup by UM Hayden Hiltz."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Carsen Brandt (caused by Payton Corpus)."
+  },
+  {
+    "quarter": 3,
+    "time": "07:59",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Payton Corpus.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:56",
+    "score": "",
+    "home_event": "Shot by CSU Evan Knickle, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 3,
+    "time": "07:47",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Carsen Brandt WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "07:45",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Landon Whalen.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Beau Westphal."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Adam Van Voorhis (caused by Connor Schoenwetter).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "05:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Jadyn Castillo."
+  },
+  {
+    "quarter": 3,
+    "time": "05:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Brady Nicholas WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "05:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo BLOCKED"
+  },
+  {
+    "quarter": 3,
+    "time": "04:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Carsen Brandt WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "04:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Connor Schoenwetter."
+  },
+  {
+    "quarter": 3,
+    "time": "04:22",
+    "score": "3-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Jake Bair, Assist by Nolan Rappis, goal number d for season."
+  },
+  {
+    "quarter": 3,
+    "time": "04:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [04:22] Ground ball pickup by UM Hayden Hiltz."
+  },
+  {
+    "quarter": 3,
+    "time": "03:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Carsen Brandt, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 3,
+    "time": "03:32",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Evan Knickle (caused by Brady Nicholas).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Brady Nicholas."
+  },
+  {
+    "quarter": 3,
+    "time": "02:12",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 3,
+    "time": "01:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo BLOCKED"
+  },
+  {
+    "quarter": 3,
+    "time": "01:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Tucker Mullen."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Alec Blessing (caused by Peter Detwiler).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Carsen Brandt."
+  },
+  {
+    "quarter": 3,
+    "time": "00:45",
+    "score": "4-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Matt Caputo, Assist by Carsen Brandt."
+  },
+  {
+    "quarter": 3,
+    "time": "00:24",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [00:24] Ground ball pickup by UM Colin Maloney."
+  },
+  {
+    "quarter": 3,
+    "time": "00:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Nolan Rappis WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "00:10",
+    "score": "",
+    "home_event": "Penalty on CSU Griffin Valli (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Carsen Brandt, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "14:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Andrew Bowman, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "14:23",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Justin Dalum.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:19",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on UM Peter Detwiler (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Adam Van Voorhis (caused by Colin Sim).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Colin Sim."
+  },
+  {
+    "quarter": 4,
+    "time": "13:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 4,
+    "time": "12:15",
+    "score": "5-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Nolan Rappis, Assist by Matt Caputo."
+  },
+  {
+    "quarter": 4,
+    "time": "12:15",
+    "score": "",
+    "home_event": "Faceoff Adam Slager vs Robbie Stewart won by CSU, [12:15] Ground ball pickup by CSU Robbie Stewart.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:05",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Logan Angel.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:19",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:19",
+    "score": "",
+    "home_event": "Timeout by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:07",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:01",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:50",
+    "score": "",
+    "home_event": "30-second clock violation by CSU.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 4,
+    "time": "10:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "10:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Nolan Rappis."
+  },
+  {
+    "quarter": 4,
+    "time": "10:01",
+    "score": "6-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Tucker Mullen."
+  },
+  {
+    "quarter": 4,
+    "time": "10:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Tucker Mullen."
+  },
+  {
+    "quarter": 4,
+    "time": "10:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [10:01] Ground ball pickup by UM Adam Slager."
+  },
+  {
+    "quarter": 4,
+    "time": "09:51",
+    "score": "7-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Nolan Rappis, Assist by Adam Slager."
+  },
+  {
+    "quarter": 4,
+    "time": "09:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [09:51] Ground ball pickup by UM Adam Slager."
+  },
+  {
+    "quarter": 4,
+    "time": "09:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "09:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Nolan Rappis."
+  },
+  {
+    "quarter": 4,
+    "time": "08:48",
+    "score": "",
+    "home_event": "Penalty on CSU Liam Moffatt (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Easton Mccafferty."
+  },
+  {
+    "quarter": 4,
+    "time": "08:22",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Drew Graves.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:17",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Griffin Burkey (caused by Jadyn Castillo).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "07:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Bradley Johnson."
+  },
+  {
+    "quarter": 4,
+    "time": "07:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by UM."
+  },
+  {
+    "quarter": 4,
+    "time": "07:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Bradley Johnson, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "07:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by UM."
+  },
+  {
+    "quarter": 4,
+    "time": "07:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Bradley Johnson."
+  },
+  {
+    "quarter": 4,
+    "time": "07:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by UM."
+  },
+  {
+    "quarter": 4,
+    "time": "06:50",
+    "score": "8-5",
+    "home_event": "",
+    "away_event": "GOAL by UM Nolan Rappis, Assist by Carsen Brandt."
+  },
+  {
+    "quarter": 4,
+    "time": "06:50",
+    "score": "",
+    "home_event": "Faceoff Adam Slager vs Robbie Stewart won by CSU (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:37",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:22",
+    "score": "",
+    "home_event": "Shot by CSU Creed McDonald, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Brady Nicholas."
+  },
+  {
+    "quarter": 4,
+    "time": "06:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM failed."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Brady Nicholas (caused by Sebastian West)."
+  },
+  {
+    "quarter": 4,
+    "time": "06:12",
+    "score": "",
+    "home_event": "Shot by CSU Ethan Erker, SAVE Lucas Lawas",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by UM Tucker Mullen (caused by Seth Alejandrino)."
+  },
+  {
+    "quarter": 4,
+    "time": "05:44",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Seth Alejandrino.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on UM Tucker Mullen (UNNECESSARY ROUGHNESS/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "04:41",
+    "score": "8-6",
+    "home_event": "GOAL by CSU Adam Van Voorhis (MAN-UP), Assist by Brennen Hickey.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:41",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ty Ambush vs Robbie Stewart won by UM (on faceoff violation)."
+  },
+  {
+    "quarter": 4,
+    "time": "04:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Jake Bair, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "04:10",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Griffin Valli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Matt Caputo WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "02:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Beau Westphal, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "02:53",
+    "score": "",
+    "home_event": "Ground ball pickup by CSU Seth Alejandrino.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:48",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by CSU Luke Ray.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Peter Detwiler."
+  },
+  {
+    "quarter": 4,
+    "time": "02:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by UM Nolan Rappis, SAVE Justin Dalum"
+  },
+  {
+    "quarter": 4,
+    "time": "02:14",
+    "score": "",
+    "home_event": "Clear attempt by CSU good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:48",
+    "score": "8-7",
+    "home_event": "GOAL by CSU Will Adair.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [01:48] Ground ball pickup by UM Adam Slager."
+  },
+  {
+    "quarter": 4,
+    "time": "01:01",
+    "score": "9-7",
+    "home_event": "",
+    "away_event": "GOAL by UM Tucker Mullen, Assist by Matt Caputo."
+  },
+  {
+    "quarter": 4,
+    "time": "01:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Adam Slager vs Robbie Stewart won by UM, [01:01] Ground ball pickup by UM Adam Slager."
+  },
+  {
+    "quarter": 4,
+    "time": "00:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by UM good."
+  },
+  {
+    "quarter": 4,
+    "time": "00:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Beau Westphal."
+  },
+  {
+    "quarter": 4,
+    "time": "00:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by UM Tucker Mullen."
+  }
+]

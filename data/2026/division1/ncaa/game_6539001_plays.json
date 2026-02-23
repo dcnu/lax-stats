@@ -1,0 +1,1682 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Anderson Moore at goalie for GU."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Thomas Ricciardelli at goalie for ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [15:00] Ground ball pickup by ND Shawn Lyght.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Will Maheras.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Evan MacFarland."
+  },
+  {
+    "quarter": 1,
+    "time": "13:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Kevin Miller (caused by Chris Reihnardt)."
+  },
+  {
+    "quarter": 1,
+    "time": "12:22",
+    "score": "",
+    "home_event": "Shot by ND Luke Miller, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:19",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Robert Plath."
+  },
+  {
+    "quarter": 1,
+    "time": "12:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Kevin Miller (caused by Will Donovan)."
+  },
+  {
+    "quarter": 1,
+    "time": "11:48",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:46",
+    "score": "",
+    "home_event": "Shot by ND Luke Miller, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jack Schubert."
+  },
+  {
+    "quarter": 1,
+    "time": "11:09",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:27",
+    "score": "0-1",
+    "home_event": "GOAL by ND Will Maheras (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [10:27] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jack Ransom (caused by Christopher Iuliano)."
+  },
+  {
+    "quarter": 1,
+    "time": "10:16",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Nate Schwitzenberg.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:14",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:30",
+    "score": "",
+    "home_event": "Shot by ND Jalen Seymour HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:20",
+    "score": "",
+    "home_event": "Shot by ND Brock Behrman, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Charlie McGurrin."
+  },
+  {
+    "quarter": 1,
+    "time": "09:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Charlie McGurrin (caused by Brock Behrman)."
+  },
+  {
+    "quarter": 1,
+    "time": "09:08",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Brock Behrman.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:49",
+    "score": "0-2",
+    "home_event": "GOAL by ND Luke Miller, Assist by Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:49",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [08:49] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:32",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:25",
+    "score": "",
+    "home_event": "30-second clock violation by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 1,
+    "time": "06:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jake Bickel, SAVE Thomas Ricciardelli"
+  },
+  {
+    "quarter": 1,
+    "time": "06:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Jack Ransom."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jack Ransom (caused by Shawn Lyght)."
+  },
+  {
+    "quarter": 1,
+    "time": "06:15",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:13",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Brock Behrman (caused by James Carretta).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU James Carretta."
+  },
+  {
+    "quarter": 1,
+    "time": "04:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 1,
+    "time": "04:43",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by GU."
+  },
+  {
+    "quarter": 1,
+    "time": "03:59",
+    "score": "1-2",
+    "home_event": "",
+    "away_event": "GOAL by GU Liam Connor."
+  },
+  {
+    "quarter": 1,
+    "time": "03:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [03:59] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Ross Prince (caused by Nate Schwitzenberg)."
+  },
+  {
+    "quarter": 1,
+    "time": "03:32",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Christian Alacqua.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:30",
+    "score": "",
+    "home_event": "Clear attempt by ND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Evan MacFarland."
+  },
+  {
+    "quarter": 1,
+    "time": "02:26",
+    "score": "2-2",
+    "home_event": "",
+    "away_event": "GOAL by GU Rory Connor, Assist by Patrick Crogan."
+  },
+  {
+    "quarter": 1,
+    "time": "02:26",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [02:26] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:18",
+    "score": "",
+    "home_event": "Shot by ND Brock Behrman WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:04",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:00",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:26",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:16",
+    "score": "",
+    "home_event": "Shot by ND Luke Miller WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:12",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [15:00] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:41",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "13:54",
+    "score": "",
+    "home_event": "Shot by ND Max Busenkell, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "13:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU James Carretta."
+  },
+  {
+    "quarter": 2,
+    "time": "13:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 2,
+    "time": "12:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Joe Cesare."
+  },
+  {
+    "quarter": 2,
+    "time": "12:27",
+    "score": "3-2",
+    "home_event": "",
+    "away_event": "GOAL by GU Rory Connor, Assist by Liam Connor."
+  },
+  {
+    "quarter": 2,
+    "time": "12:27",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [12:27] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:21",
+    "score": "3-3",
+    "home_event": "GOAL by ND Miguel Iglesias, Assist by Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:21",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Tyler Spano won by ND, [12:21] Ground ball pickup by ND Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Matt Jeffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jake Bickel (caused by Will Donovan)."
+  },
+  {
+    "quarter": 2,
+    "time": "10:59",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:59",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:53",
+    "score": "",
+    "home_event": "Shot by ND Teddy Lally, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:46",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Chris Reihnardt.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:37",
+    "score": "3-4",
+    "home_event": "GOAL by ND Will Angrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:37",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by ND, [10:37] Ground ball pickup by ND Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:15",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:14",
+    "score": "",
+    "home_event": "Timeout by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:52",
+    "score": "3-5",
+    "home_event": "GOAL by ND Josh Yago, Assist by Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [09:52] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jake Bickel."
+  },
+  {
+    "quarter": 2,
+    "time": "08:16",
+    "score": "3-6",
+    "home_event": "GOAL by ND Josh Yago, Assist by Will Angrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Tyler Spano won by GU, [08:16] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 2,
+    "time": "08:09",
+    "score": "4-6",
+    "home_event": "",
+    "away_event": "GOAL by GU Rory Connor, Assist by Ross Prince."
+  },
+  {
+    "quarter": 2,
+    "time": "08:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [08:09] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Joe Cesare."
+  },
+  {
+    "quarter": 2,
+    "time": "06:49",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:27",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:24",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Anderson Moore."
+  },
+  {
+    "quarter": 2,
+    "time": "06:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Patrick Crogan (caused by Miguel Iglesias)."
+  },
+  {
+    "quarter": 2,
+    "time": "05:31",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Miguel Iglesias.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:29",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:32",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Max Busenkell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:19",
+    "score": "",
+    "home_event": "Shot by ND Josh Yago HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:15",
+    "score": "",
+    "home_event": "30-second clock violation by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 2,
+    "time": "03:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Kevin Miller WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "03:14",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jack Schubert, SAVE Thomas Ricciardelli"
+  },
+  {
+    "quarter": 2,
+    "time": "03:10",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:51",
+    "score": "4-7",
+    "home_event": "GOAL by ND Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU (on faceoff violation)."
+  },
+  {
+    "quarter": 2,
+    "time": "02:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Natty Mason WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "01:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Natty Mason WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "01:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Rory Connor HIGH"
+  },
+  {
+    "quarter": 2,
+    "time": "01:27",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:21",
+    "score": "",
+    "home_event": "Timeout by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:45",
+    "score": "4-8",
+    "home_event": "GOAL by ND Brock Behrman, Assist by Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:45",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Tyler Spano won by ND, [00:45] Ground ball pickup by ND Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Will Maheras.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [15:00] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Ross Prince (caused by Shawn Lyght)."
+  },
+  {
+    "quarter": 3,
+    "time": "14:43",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Christian Alacqua.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:41",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:45",
+    "score": "4-9",
+    "home_event": "GOAL by ND Will Angrick, Assist by Will Maheras.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:45",
+    "score": "",
+    "home_event": "Faceoff Ross Prince vs Tyler Spano won by ND, [13:45] Ground ball pickup by ND Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Tyler Spano.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:28",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "13:02",
+    "score": "5-9",
+    "home_event": "",
+    "away_event": "GOAL by GU Kevin Miller, Assist by Joe Cesare."
+  },
+  {
+    "quarter": 3,
+    "time": "13:02",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Aidan Diaz-Matos won by GU, [13:02] Ground ball pickup by GU Ross Prince."
+  },
+  {
+    "quarter": 3,
+    "time": "12:15",
+    "score": "6-9",
+    "home_event": "",
+    "away_event": "GOAL by GU Rory Connor."
+  },
+  {
+    "quarter": 3,
+    "time": "12:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Ross Prince vs Tyler Spano won by GU."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jake Bickel."
+  },
+  {
+    "quarter": 3,
+    "time": "11:04",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 3,
+    "time": "10:21",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Fisher Finley (caused by Ty Banks).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Liam Connor (caused by Will Gallagher)."
+  },
+  {
+    "quarter": 3,
+    "time": "08:59",
+    "score": "6-10",
+    "home_event": "GOAL by ND Will Angrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Hayden Cody vs Tyler Spano won by GU, [08:59] Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 3,
+    "time": "07:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Jack Ransom."
+  },
+  {
+    "quarter": 3,
+    "time": "07:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Patrick Crogan, SAVE Thomas Ricciardelli"
+  },
+  {
+    "quarter": 3,
+    "time": "07:31",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:50",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "05:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Natty Mason."
+  },
+  {
+    "quarter": 3,
+    "time": "05:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jack Schubert WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Jack Ransom (caused by Will Gallagher)."
+  },
+  {
+    "quarter": 3,
+    "time": "05:28",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "05:26",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:45",
+    "score": "6-11",
+    "home_event": "GOAL by ND Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:45",
+    "score": "",
+    "home_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by ND, [04:45] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Aidan Diaz-Matos (caused by Hayden Cody).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:34",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 3,
+    "time": "04:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Rory Connor."
+  },
+  {
+    "quarter": 3,
+    "time": "03:55",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:30",
+    "score": "",
+    "home_event": "Shot by ND Josh Yago, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:27",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Matt Jeffery.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:19",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Anderson Moore."
+  },
+  {
+    "quarter": 3,
+    "time": "03:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "02:37",
+    "score": "7-11",
+    "home_event": "",
+    "away_event": "GOAL by GU Kevin Miller, Assist by Joe Cesare."
+  },
+  {
+    "quarter": 3,
+    "time": "02:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by GU, [02:37] Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 3,
+    "time": "01:57",
+    "score": "8-11",
+    "home_event": "",
+    "away_event": "GOAL by GU Kevin Miller, Assist by Jack Schubert."
+  },
+  {
+    "quarter": 3,
+    "time": "01:57",
+    "score": "",
+    "home_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by ND, [01:57] Ground ball pickup by ND Shawn Lyght.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:16",
+    "score": "",
+    "home_event": "Shot by ND Max Busenkell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Josh Yago (caused by Charlie McGurrin).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Charlie McGurrin."
+  },
+  {
+    "quarter": 3,
+    "time": "01:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Anderson Moore (caused by Fisher Finley)."
+  },
+  {
+    "quarter": 3,
+    "time": "00:41",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:38",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:36",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:05",
+    "score": "",
+    "home_event": "Shot by ND Will Angrick WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by ND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Will Angrick (caused by Charlie McGurrin).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Charlie McGurrin."
+  },
+  {
+    "quarter": 4,
+    "time": "14:02",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Charlie McGurrin (caused by Matt Jeffery)."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Matt Jeffery (caused by Rory Connor).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Rory Connor."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Rory Connor (caused by Will Angrick)."
+  },
+  {
+    "quarter": 4,
+    "time": "13:39",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Will Angrick.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:23",
+    "score": "",
+    "home_event": "Shot by ND Fisher Finley HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:10",
+    "score": "8-12",
+    "home_event": "GOAL by ND Jalen Seymour, Assist by Max Busenkell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:10",
+    "score": "",
+    "home_event": "Faceoff James Carroll vs Aidan Diaz-Matos won by ND, [13:10] Ground ball pickup by ND Aidan Diaz-Matos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:43",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:25",
+    "score": "8-13",
+    "home_event": "GOAL by ND Will Maheras, Assist by Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by GU, [12:25] Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Hayden Cody (caused by Shawn Lyght)."
+  },
+  {
+    "quarter": 4,
+    "time": "12:12",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:24",
+    "score": "",
+    "home_event": "Shot by ND Will Angrick HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:13",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:01",
+    "score": "",
+    "home_event": "Shot by ND Teddy Lally, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Ty Banks (caused by Josh Yago)."
+  },
+  {
+    "quarter": 4,
+    "time": "10:48",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:48",
+    "score": "8-14",
+    "home_event": "GOAL by ND Josh Yago.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:48",
+    "score": "",
+    "home_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by ND, [10:48] Ground ball pickup by ND Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Teddy Lally (caused by James Carretta).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU James Carretta."
+  },
+  {
+    "quarter": 4,
+    "time": "10:19",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "09:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jack Ransom, SAVE Thomas Ricciardelli"
+  },
+  {
+    "quarter": 4,
+    "time": "09:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Liam Connor WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "08:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Kevin Miller WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "08:50",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Thomas Ricciardelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:49",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:19",
+    "score": "",
+    "home_event": "Shot by ND Teddy Lally, SAVE Anderson Moore",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU failed."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Larry Horning (caused by Josh Yago)."
+  },
+  {
+    "quarter": 4,
+    "time": "08:00",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Fisher Finley.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Luke Miller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "07:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "06:42",
+    "score": "",
+    "home_event": "Penalty on ND Matt Jeffery (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "06:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jack Ransom WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "06:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Rory Connor WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "06:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Joe Cesare, SAVE Thomas Ricciardelli"
+  },
+  {
+    "quarter": 4,
+    "time": "05:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by GU Liam Connor."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Liam Connor."
+  },
+  {
+    "quarter": 4,
+    "time": "05:45",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Will Donovan.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:43",
+    "score": "",
+    "home_event": "Clear attempt by ND failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND Will Donovan (caused by Jake Bickel).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "05:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Kevin Miller WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "05:00",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:53",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:48",
+    "score": "8-15",
+    "home_event": "GOAL by ND Teddy Lally.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Hayden Cody vs Aidan Diaz-Matos won by GU, [04:48] Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 4,
+    "time": "04:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "04:04",
+    "score": "9-15",
+    "home_event": "",
+    "away_event": "GOAL by GU Jack Schubert."
+  },
+  {
+    "quarter": 4,
+    "time": "04:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Hayden Cody vs Tyler Spano won by GU, [04:04] Ground ball pickup by GU Hayden Cody."
+  },
+  {
+    "quarter": 4,
+    "time": "03:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by GU."
+  },
+  {
+    "quarter": 4,
+    "time": "03:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Jack Schubert HIGH"
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU Kevin Miller (caused by Christian Alacqua)."
+  },
+  {
+    "quarter": 4,
+    "time": "03:19",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Christian Alacqua.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:18",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:14",
+    "score": "",
+    "home_event": "Shot by ND Will Maheras HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:12",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by GU James Carroll."
+  },
+  {
+    "quarter": 4,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Ground ball pickup by ND Will Gallagher.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:10",
+    "score": "",
+    "home_event": "Clear attempt by ND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:19",
+    "score": "",
+    "home_event": "Shot by ND Fisher Finley WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:09",
+    "score": "",
+    "home_event": "30-second clock violation by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by ND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by GU good."
+  },
+  {
+    "quarter": 4,
+    "time": "00:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by GU Patrick Crogan, SAVE Thomas Ricciardelli"
+  }
+]

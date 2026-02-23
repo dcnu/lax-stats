@@ -1,0 +1,1423 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Croddick, Ryan at goalie for PRINCETO."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Brian Ruppel at goalie for MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:34",
+    "score": "",
+    "home_event": "Shot by MARYLAND Elijah Stobaugh, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:26",
+    "score": "1-0",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Mueller, Cooper (FIRST GOAL), goal number 1 for season."
+  },
+  {
+    "quarter": 1,
+    "time": "14:26",
+    "score": "",
+    "home_event": "Faceoff Fitzgerald, Russ vs Henry Dodge won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 1,
+    "time": "13:20",
+    "score": "1-1",
+    "home_event": "GOAL by MARYLAND Zach Whittier, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by PRINCETO."
+  },
+  {
+    "quarter": 1,
+    "time": "12:43",
+    "score": "2-1",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Palumbo, Chad, goal number 2 for season."
+  },
+  {
+    "quarter": 1,
+    "time": "12:43",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [12:43] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:54",
+    "score": "2-2",
+    "home_event": "GOAL by MARYLAND Eric Spanos, Assist by Chris Lyons, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "11:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO, [11:54] Ground ball pickup by PRINCETO McMeekin, Andrew."
+  },
+  {
+    "quarter": 1,
+    "time": "11:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Wade, Tucker, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 1,
+    "time": "11:13",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:27",
+    "score": "2-3",
+    "home_event": "GOAL by MARYLAND Leo Johnson, Assist by Chris Lyons, goal number 8 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO (on faceoff violation)."
+  },
+  {
+    "quarter": 1,
+    "time": "10:25",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Palumbo, Chad, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 1,
+    "time": "10:12",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Brian Ruppel.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:07",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:08",
+    "score": "2-4",
+    "home_event": "GOAL by MARYLAND Spencer Ford, Assist by Zach Whittier, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "09:08",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Elijah Stobaugh (caused by Green, Jackson).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 1,
+    "time": "07:51",
+    "score": "3-4",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Dunphey, John, Assist by Palumbo, Chad, goal number 1 for season."
+  },
+  {
+    "quarter": 1,
+    "time": "07:51",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Fitzgerald, Russ vs Jonah Carrier won by PRINCETO, [07:51] Ground ball pickup by PRINCETO Fitzgerald, Russ."
+  },
+  {
+    "quarter": 1,
+    "time": "06:48",
+    "score": "4-4",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Buonanno, Peter, goal number 2 for season."
+  },
+  {
+    "quarter": 1,
+    "time": "06:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO, [06:48] Ground ball pickup by PRINCETO McMeekin, Andrew."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO McMeekin, Andrew (caused by Leo Johnson)."
+  },
+  {
+    "quarter": 1,
+    "time": "06:01",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Spanos HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Trey Brown (caused by Kistler, Cooper).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "05:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 1,
+    "time": "05:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Palumbo, Chad, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 1,
+    "time": "05:04",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:50",
+    "score": "",
+    "home_event": "Shot by MARYLAND Elijah Stobaugh WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:40",
+    "score": "",
+    "home_event": "30-second clock violation by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Burns, Colin (caused by Will Schaller)."
+  },
+  {
+    "quarter": 1,
+    "time": "02:29",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND AJ Larkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:25",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Krammer, Carson (caused by Michael Alexander)."
+  },
+  {
+    "quarter": 1,
+    "time": "01:10",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Michael Alexander.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:08",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "00:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Croddick, Ryan."
+  },
+  {
+    "quarter": 1,
+    "time": "00:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO, [15:00] Ground ball pickup by PRINCETO McMeekin, Andrew."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Palumbo, Chad (caused by Michael Alexander)."
+  },
+  {
+    "quarter": 2,
+    "time": "14:10",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Michael Alexander.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "14:07",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:41",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on PRINCETO Stahl, Jack (SLASHING/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 2,
+    "time": "12:36",
+    "score": "",
+    "home_event": "Shot by MARYLAND Chris Lyons WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:33",
+    "score": "",
+    "home_event": "Shot by MARYLAND Elijah Stobaugh, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:31",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "11:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Wade, Tucker WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "11:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Dunphey, John WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "11:18",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "11:15",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:41",
+    "score": "",
+    "home_event": "Shot by MARYLAND Braden Erksa WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:17",
+    "score": "",
+    "home_event": "Shot by MARYLAND Chris Lyons, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:13",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Leo Johnson.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:03",
+    "score": "",
+    "home_event": "Shot by MARYLAND Chris Lyons, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "09:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Burns, Colin HIT POST"
+  },
+  {
+    "quarter": 2,
+    "time": "08:55",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Brian Ruppel.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:49",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Eric Kolar (caused by Fischer, Owen).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "08:41",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Fischer, Owen."
+  },
+  {
+    "quarter": 2,
+    "time": "08:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "08:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Dunphey, John, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 2,
+    "time": "07:59",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Trevor Owens (caused by Friedman, Zach).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:47",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Green, Jackson."
+  },
+  {
+    "quarter": 2,
+    "time": "07:43",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "06:58",
+    "score": "5-4",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Reynolds, Parker, goal number 1 for season."
+  },
+  {
+    "quarter": 2,
+    "time": "06:58",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [06:58] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:10",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Spiess, Hunter."
+  },
+  {
+    "quarter": 2,
+    "time": "05:40",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND AJ Larkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:17",
+    "score": "5-5",
+    "home_event": "GOAL by MARYLAND Elijah Stobaugh, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by PRINCETO (on faceoff violation)."
+  },
+  {
+    "quarter": 2,
+    "time": "04:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Palumbo, Chad WIDE"
+  },
+  {
+    "quarter": 2,
+    "time": "04:00",
+    "score": "6-5",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Buonanno, Peter, Assist by Wade, Tucker, goal number 3 for season."
+  },
+  {
+    "quarter": 2,
+    "time": "04:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO, [04:00] Ground ball pickup by PRINCETO Spiess, Tucker."
+  },
+  {
+    "quarter": 2,
+    "time": "03:58",
+    "score": "7-5",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Burns, Colin, Assist by McMeekin, Andrew, goal number 2 for season."
+  },
+  {
+    "quarter": 2,
+    "time": "03:58",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND, [03:58] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:04",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Spanos, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Burns, Colin (caused by Peter Laake)."
+  },
+  {
+    "quarter": 2,
+    "time": "01:18",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Peter Laake.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:15",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:09",
+    "score": "7-6",
+    "home_event": "GOAL by MARYLAND Braden Erksa, Assist by Leo Johnson, goal number 3 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:09",
+    "score": "",
+    "home_event": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:09",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [00:09] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:04",
+    "score": "",
+    "home_event": "Shot by MARYLAND Leo Johnson, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [15:00] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Jonah Carrier (caused by Spiess, Hunter).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Spiess, Hunter."
+  },
+  {
+    "quarter": 3,
+    "time": "14:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO."
+  },
+  {
+    "quarter": 3,
+    "time": "14:09",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:21",
+    "score": "",
+    "home_event": "Shot by MARYLAND Chris Lyons WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:47",
+    "score": "",
+    "home_event": "Shot by MARYLAND Chris Lyons WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 3,
+    "time": "12:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Burns, Colin, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 3,
+    "time": "11:54",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:41",
+    "score": "",
+    "home_event": "Shot by MARYLAND Trevor Owens BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:37",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Zach Whittier (caused by Croddick, Ryan).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Croddick, Ryan."
+  },
+  {
+    "quarter": 3,
+    "time": "10:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 3,
+    "time": "09:59",
+    "score": "8-6",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Vana, Jake, Assist by Kabiri, Nate, goal number 1 for season."
+  },
+  {
+    "quarter": 3,
+    "time": "09:59",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND, [09:59] Ground ball pickup by MARYLAND Trey Fleece.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Trey Fleece (caused by Kistler, Cooper).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Kistler, Cooper."
+  },
+  {
+    "quarter": 3,
+    "time": "09:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Wade, Tucker WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "08:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Wade, Tucker WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "08:33",
+    "score": "9-6",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Palumbo, Chad, Assist by Dunphey, John, goal number 3 for season."
+  },
+  {
+    "quarter": 3,
+    "time": "08:33",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:46",
+    "score": "",
+    "home_event": "Shot by MARYLAND Braden Erksa BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:23",
+    "score": "",
+    "home_event": "Shot by MARYLAND Jack Schultz WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:23",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Jack Schultz.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:22",
+    "score": "9-7",
+    "home_event": "GOAL by MARYLAND Leo Johnson, goal number 9 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:22",
+    "score": "",
+    "home_event": "Faceoff Fitzgerald, Russ vs Jonah Carrier won by MARYLAND, [07:22] Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "07:19",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:48",
+    "score": "",
+    "home_event": "Shot by MARYLAND Matt Higgins WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:07",
+    "score": "9-8",
+    "home_event": "GOAL by MARYLAND Matt Higgins, goal number 1 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:07",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by PRINCETO, [06:07] Ground ball pickup by PRINCETO McMeekin, Andrew."
+  },
+  {
+    "quarter": 3,
+    "time": "04:53",
+    "score": "10-8",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Reynolds, Parker, Assist by Buonanno, Peter, goal number 2 for season."
+  },
+  {
+    "quarter": 3,
+    "time": "04:53",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND, [04:53] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:47",
+    "score": "10-9",
+    "home_event": "GOAL by MARYLAND Eric Spanos, Assist by Henry Dodge, goal number 6 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:47",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND, [04:47] Ground ball pickup by MARYLAND Henry Dodge.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:53",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Spanos WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "03:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 3,
+    "time": "02:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Reynolds, Parker WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "02:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Kabiri, Nate, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 3,
+    "time": "01:55",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:50",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Shot by MARYLAND Jack Schultz WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:15",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Chris Lyons.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:37",
+    "score": "",
+    "home_event": "30-second clock violation by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 3,
+    "time": "00:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Burns, Colin."
+  },
+  {
+    "quarter": 3,
+    "time": "00:03",
+    "score": "11-9",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Burns, Colin, Assist by Palumbo, Chad, goal number 3 for season."
+  },
+  {
+    "quarter": 3,
+    "time": "00:03",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [00:03] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Vana, Jake WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND, [15:00] Ground ball pickup by MARYLAND AJ Larkin.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:55",
+    "score": "",
+    "home_event": "Timeout by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:27",
+    "score": "",
+    "home_event": "30-second clock violation by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "13:17",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 4,
+    "time": "12:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Reynolds, Parker WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "12:13",
+    "score": "12-9",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Wade, Tucker, goal number 3 for season."
+  },
+  {
+    "quarter": 4,
+    "time": "12:13",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by MARYLAND, [12:13] Ground ball pickup by MARYLAND George Stamos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on PRINCETO McMeekin, Andrew (OFFSIDE/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 4,
+    "time": "11:20",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Spanos, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "11:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Croddick, Ryan."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Croddick, Ryan."
+  },
+  {
+    "quarter": 4,
+    "time": "11:20",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Spencer Ford.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:48",
+    "score": "",
+    "home_event": "Shot by MARYLAND Elijah Stobaugh BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:45",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Eric Spanos.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 4,
+    "time": "09:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by PRINCETO."
+  },
+  {
+    "quarter": 4,
+    "time": "08:50",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by MARYLAND Elijah Stobaugh (caused by Spiess, Hunter).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Spiess, Hunter."
+  },
+  {
+    "quarter": 4,
+    "time": "08:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 4,
+    "time": "07:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by PRINCETO Vana, Jake."
+  },
+  {
+    "quarter": 4,
+    "time": "06:48",
+    "score": "13-9",
+    "home_event": "",
+    "away_event": "GOAL by PRINCETO Vana, Jake, goal number 2 for season."
+  },
+  {
+    "quarter": 4,
+    "time": "06:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Henry Dodge won by PRINCETO, [11:20] Ground ball pickup by PRINCETO McMeekin, Andrew."
+  },
+  {
+    "quarter": 4,
+    "time": "05:47",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Buonanno, Peter, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 4,
+    "time": "05:40",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:35",
+    "score": "13-10",
+    "home_event": "GOAL by MARYLAND Eric Spanos, Assist by AJ Larkin, goal number 7 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:35",
+    "score": "",
+    "home_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by MARYLAND (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:05",
+    "score": "",
+    "home_event": "Shot by MARYLAND Leo Johnson, SAVE Croddick, Ryan",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "04:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 4,
+    "time": "03:48",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by PRINCETO Wade, Tucker, SAVE Brian Ruppel"
+  },
+  {
+    "quarter": 4,
+    "time": "03:45",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Will Schaller.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:41",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:16",
+    "score": "13-11",
+    "home_event": "GOAL by MARYLAND Eric Spanos, Assist by Zach Whittier, goal number 8 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "03:16",
+    "score": "",
+    "home_event": "Faceoff Fitzgerald, Russ vs Jonah Carrier won by MARYLAND, [03:16] Ground ball pickup by MARYLAND Jonah Carrier.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:41",
+    "score": "",
+    "home_event": "Shot by MARYLAND Matt Higgins BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:32",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Braden Erksa.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:57",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Spanos HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:42",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by PRINCETO good."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Green, Jackson (caused by Will Schaller)."
+  },
+  {
+    "quarter": 4,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Peter Laake.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:28",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:27",
+    "score": "13-12",
+    "home_event": "GOAL by MARYLAND Chris Lyons, goal number 5 for season.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:27",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff McMeekin, Andrew vs Jonah Carrier won by PRINCETO, [01:27] Ground ball pickup by PRINCETO Mueller, Cooper."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by PRINCETO Palumbo, Chad (caused by Peter Laake)."
+  },
+  {
+    "quarter": 4,
+    "time": "00:27",
+    "score": "",
+    "home_event": "Ground ball pickup by MARYLAND Peter Laake.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:25",
+    "score": "",
+    "home_event": "Clear attempt by MARYLAND good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:24",
+    "score": "",
+    "home_event": "Shot by MARYLAND Eric Kolar HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:22",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by PRINCETO."
+  },
+  {
+    "quarter": 4,
+    "time": "00:11",
+    "score": "",
+    "home_event": "Shot by MARYLAND Matt Higgins WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:02",
+    "score": "",
+    "home_event": "Shot by MARYLAND Elijah Stobaugh, SAVE Croddick, Ryan",
+    "away_event": ""
+  }
+]

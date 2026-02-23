@@ -1,0 +1,1556 @@
+[
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Lucas Winger at goalie for LEMOYNE."
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "JR Long at goalie for HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:10",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Sam McDonald, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "14:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Jake Baker (caused by Ryan Botek)."
+  },
+  {
+    "quarter": 1,
+    "time": "13:55",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Ryan Botek.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:54",
+    "score": "0-1",
+    "home_event": "GOAL by HOLYCRO Ryan Botek (FIRST GOAL).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:54",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:38",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "13:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Thomas Berry (caused by Michael Rincon)."
+  },
+  {
+    "quarter": 1,
+    "time": "13:17",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Cooper Fallon.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:38",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:30",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "12:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 1,
+    "time": "12:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 1,
+    "time": "11:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry WIDE"
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE."
+  },
+  {
+    "quarter": 1,
+    "time": "11:05",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by LEMOYNE."
+  },
+  {
+    "quarter": 1,
+    "time": "11:04",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Sam McDonald (caused by Brady Pietruszka).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "10:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Brady Pietruszka."
+  },
+  {
+    "quarter": 1,
+    "time": "09:45",
+    "score": "1-1",
+    "home_event": "",
+    "away_event": "GOAL by LEMOYNE Thomas Berry."
+  },
+  {
+    "quarter": 1,
+    "time": "09:44",
+    "score": "",
+    "home_event": "Faceoff Angelo Palumbo vs Shane McDonnell won by HOLYCRO, [09:44] Ground ball pickup by HOLYCRO Aedan Cassidy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:46",
+    "score": "1-2",
+    "home_event": "GOAL by HOLYCRO Aedan Cassidy, Assist by Damien Ramondo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:46",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO, [08:46] Ground ball pickup by HOLYCRO Matthew Marchetta.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:07",
+    "score": "1-3",
+    "home_event": "GOAL by HOLYCRO Will Messineo, Assist by Will Deo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "08:07",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Harry Attell won by HOLYCRO, [08:07] Ground ball pickup by HOLYCRO William Russler.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:35",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Andrew Ottomanelli WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "07:23",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Sam McDonald HIGH",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Owen Tunney (caused by Ben Mcilhargey).",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "06:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 1,
+    "time": "06:53",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Kai Archer."
+  },
+  {
+    "quarter": 1,
+    "time": "06:16",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "05:44",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Will Deo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "05:39",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Dominic Pezzimenti."
+  },
+  {
+    "quarter": 1,
+    "time": "05:35",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 1,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Dominic Pezzimenti."
+  },
+  {
+    "quarter": 1,
+    "time": "05:10",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:32",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Will Messineo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "04:28",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 1,
+    "time": "03:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Charles Perri."
+  },
+  {
+    "quarter": 1,
+    "time": "03:18",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Alec Constable, SAVE JR Long"
+  },
+  {
+    "quarter": 1,
+    "time": "03:15",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Cooper Fallon.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:12",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "03:00",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Aedan Cassidy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:40",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "02:30",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 1,
+    "time": "01:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry, SAVE JR Long"
+  },
+  {
+    "quarter": 1,
+    "time": "01:29",
+    "score": "",
+    "home_event": "Penalty on HOLYCRO William Russler (SLASHING/1:00) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 1,
+    "time": "01:01",
+    "score": "2-3",
+    "home_event": "",
+    "away_event": "GOAL by LEMOYNE Thomas Berry (MAN-UP), Assist by Emmet McDermott."
+  },
+  {
+    "quarter": 1,
+    "time": "01:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Mason McCombs vs Shane McDonnell won by LEMOYNE, [01:01] Ground ball pickup by LEMOYNE Team."
+  },
+  {
+    "quarter": 1,
+    "time": "00:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Emmet McDermott."
+  },
+  {
+    "quarter": 1,
+    "time": "00:09",
+    "score": "3-3",
+    "home_event": "",
+    "away_event": "GOAL by LEMOYNE Emmet McDermott, Assist by Alec Constable."
+  },
+  {
+    "quarter": 1,
+    "time": "00:09",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO, [00:09] Ground ball pickup by HOLYCRO Jake Doran.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Mason McCombs vs Shane McDonnell won by LEMOYNE, [15:00] Ground ball pickup by LEMOYNE Mason McCombs."
+  },
+  {
+    "quarter": 2,
+    "time": "14:46",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Emmet McDermott."
+  },
+  {
+    "quarter": 2,
+    "time": "13:29",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "13:08",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "13:01",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Ben Mcilhargey."
+  },
+  {
+    "quarter": 2,
+    "time": "12:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "12:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Caleb Barnard."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Caleb Barnard."
+  },
+  {
+    "quarter": 2,
+    "time": "12:47",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Will Messineo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "12:04",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 2,
+    "time": "12:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 2,
+    "time": "11:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "11:02",
+    "score": "4-3",
+    "home_event": "",
+    "away_event": "GOAL by LEMOYNE Owen Wilson, Assist by Alec Constable."
+  },
+  {
+    "quarter": 2,
+    "time": "11:02",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO, [11:02] Ground ball pickup by HOLYCRO Shane McDonnell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:54",
+    "score": "",
+    "home_event": "Timeout by HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:36",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Andrew Ottomanelli WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "10:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Lucas Winger (caused by Jaydon Franklin)."
+  },
+  {
+    "quarter": 2,
+    "time": "10:07",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Aedan Cassidy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:47",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:31",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Damien Ramondo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "09:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "08:02",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry, SAVE JR Long"
+  },
+  {
+    "quarter": 2,
+    "time": "07:56",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "07:27",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:55",
+    "score": "4-4",
+    "home_event": "GOAL by HOLYCRO Caleb DaRocha, Assist by Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Angelo Palumbo vs Harry Attell won by LEMOYNE, [06:55] Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 2,
+    "time": "06:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Charles Colombi (caused by Aedan Cassidy)."
+  },
+  {
+    "quarter": 2,
+    "time": "06:26",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Matthew Plunkett.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "06:20",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:42",
+    "score": "4-5",
+    "home_event": "GOAL by HOLYCRO Aedan Cassidy, Assist by Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:42",
+    "score": "",
+    "home_event": "Faceoff Angelo Palumbo vs Shane McDonnell won by HOLYCRO, [05:42] Ground ball pickup by HOLYCRO Shane McDonnell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:34",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Shane McDonnell WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Brady Pietruszka."
+  },
+  {
+    "quarter": 2,
+    "time": "05:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Brady Pietruszka (caused by Andrew Ottomanelli)."
+  },
+  {
+    "quarter": 2,
+    "time": "05:05",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Andrew Ottomanelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:00",
+    "score": "4-6",
+    "home_event": "GOAL by HOLYCRO Aedan Cassidy, Assist by Will Messineo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "05:00",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO, [05:00] Ground ball pickup by HOLYCRO Shane McDonnell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:17",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Will Messineo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "04:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 2,
+    "time": "04:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Lucas Winger (caused by Aedan Cassidy)."
+  },
+  {
+    "quarter": 2,
+    "time": "03:58",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Aedan Cassidy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:54",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Aedan Cassidy WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "03:40",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "02:56",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Conner Vaughn BLOCKED"
+  },
+  {
+    "quarter": 2,
+    "time": "02:50",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Billy Black.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:43",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:17",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Damien Ramondo WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:07",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Aedan Cassidy, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "02:00",
+    "score": "",
+    "home_event": "Timeout by HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Owen Tunney (caused by Jake Baker).",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "01:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Quinn O'#393aConnor."
+  },
+  {
+    "quarter": 2,
+    "time": "01:34",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 2,
+    "time": "01:32",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by LEMOYNE."
+  },
+  {
+    "quarter": 2,
+    "time": "00:59",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry BLOCKED"
+  },
+  {
+    "quarter": 2,
+    "time": "00:52",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Jaydon Franklin.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:47",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Jake Doran.",
+    "away_event": ""
+  },
+  {
+    "quarter": 2,
+    "time": "00:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Billy Savage."
+  },
+  {
+    "quarter": 2,
+    "time": "00:20",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 3,
+    "time": "15:00",
+    "score": "",
+    "home_event": "Faceoff Angelo Palumbo vs Shane McDonnell won by HOLYCRO, [15:00] Ground ball pickup by HOLYCRO Shane McDonnell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "14:42",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Andrew Ottomanelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:47",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:47",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on LEMOYNE Charles Perri (CROSS-CHECK/1:00) Extra-man opportunity."
+  },
+  {
+    "quarter": 3,
+    "time": "13:12",
+    "score": "4-7",
+    "home_event": "GOAL by HOLYCRO Bo Webster (MAN-UP), Assist by Andrew Ottomanelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "13:12",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Shane McDonnell won by HOLYCRO, [13:12] Ground ball pickup by HOLYCRO Matthew Marchetta.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:27",
+    "score": "4-8",
+    "home_event": "GOAL by HOLYCRO Caleb DaRocha, Assist by Andrew Ottomanelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "12:27",
+    "score": "",
+    "home_event": "Faceoff Mason McCombs vs Harry Attell won by HOLYCRO (on faceoff violation).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "11:49",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 3,
+    "time": "11:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Charles Perri."
+  },
+  {
+    "quarter": 3,
+    "time": "11:08",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Kai Archer WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "10:58",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Jake Doran (caused by Matt Ciarelli).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Matt Ciarelli (caused by Cooper Fallon)."
+  },
+  {
+    "quarter": 3,
+    "time": "10:11",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Cooper Fallon.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "10:07",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:25",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Owen Tunney WIDE",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:10",
+    "score": "4-9",
+    "home_event": "GOAL by HOLYCRO Andrew Ottomanelli.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "09:10",
+    "score": "",
+    "home_event": "Faceoff Jason Beaman vs Harry Attell won by HOLYCRO, [09:10] Ground ball pickup by HOLYCRO Harry Attell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Harry Attell (caused by Dominic Pezzimenti).",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "08:58",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 3,
+    "time": "08:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 3,
+    "time": "07:55",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Alec Constable, SAVE JR Long"
+  },
+  {
+    "quarter": 3,
+    "time": "07:51",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "06:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Quinn O'#393aConnor."
+  },
+  {
+    "quarter": 3,
+    "time": "06:52",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Quinn O'#393aConnor."
+  },
+  {
+    "quarter": 3,
+    "time": "06:43",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Dan Ludington (caused by Jake Doran)."
+  },
+  {
+    "quarter": 3,
+    "time": "06:00",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:49",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Will Messineo BLOCKED",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:44",
+    "score": "",
+    "home_event": "30-second clock violation by HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:36",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Jake Baker (caused by Aedan Cassidy)."
+  },
+  {
+    "quarter": 3,
+    "time": "04:30",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Aedan Cassidy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:29",
+    "score": "4-10",
+    "home_event": "GOAL by HOLYCRO Andrew Ottomanelli, Assist by Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "04:29",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Jason Beaman vs Shane McDonnell won by LEMOYNE, [04:29] Ground ball pickup by LEMOYNE Quinn O'#393aConnor."
+  },
+  {
+    "quarter": 3,
+    "time": "04:09",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 3,
+    "time": "03:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "03:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Emmet McDermott WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "03:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Owen Wilson WIDE"
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE."
+  },
+  {
+    "quarter": 3,
+    "time": "02:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by LEMOYNE."
+  },
+  {
+    "quarter": 3,
+    "time": "02:49",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:16",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Damien Ramondo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "02:16",
+    "score": "",
+    "home_event": "",
+    "away_event": "Penalty on LEMOYNE Thomas Berry (HOLDING/0:30) Extra-man opportunity."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Will Messineo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "01:15",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE failed."
+  },
+  {
+    "quarter": 3,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 3,
+    "time": "01:05",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Aedan Cassidy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:36",
+    "score": "4-11",
+    "home_event": "GOAL by HOLYCRO Aedan Cassidy.",
+    "away_event": ""
+  },
+  {
+    "quarter": 3,
+    "time": "00:36",
+    "score": "",
+    "home_event": "Faceoff Angelo Palumbo vs Shane McDonnell won by HOLYCRO, [00:36] Ground ball pickup by HOLYCRO Shane McDonnell.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "15:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Jason Beaman vs Shane McDonnell won by LEMOYNE, [15:00] Ground ball pickup by LEMOYNE Connor Chason."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Connor Chason."
+  },
+  {
+    "quarter": 4,
+    "time": "14:35",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO failed.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "14:21",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 4,
+    "time": "13:26",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Emmet McDermott WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Ryan Botek.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "12:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Charles Perri."
+  },
+  {
+    "quarter": 4,
+    "time": "12:00",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Nathan Hoban WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "11:57",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Kai Archer WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE."
+  },
+  {
+    "quarter": 4,
+    "time": "11:45",
+    "score": "",
+    "home_event": "",
+    "away_event": "30-second clock violation by LEMOYNE."
+  },
+  {
+    "quarter": 4,
+    "time": "11:40",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:47",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Aedan Cassidy HIT POST",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:40",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Will Deo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:17",
+    "score": "",
+    "home_event": "Shot by HOLYCRO Will Messineo, SAVE Lucas Winger",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "10:13",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 4,
+    "time": "10:10",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 4,
+    "time": "09:03",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Nathan Hoban WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "09:03",
+    "score": "",
+    "home_event": "Penalty on HOLYCRO Will Messineo (OFFSIDE/0:30) Extra-man opportunity.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "08:47",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Conner Vaughn WIDE"
+  },
+  {
+    "quarter": 4,
+    "time": "08:33",
+    "score": "5-11",
+    "home_event": "",
+    "away_event": "GOAL by LEMOYNE Nathan Hoban (MAN-UP), Assist by Emmet McDermott."
+  },
+  {
+    "quarter": 4,
+    "time": "08:33",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Mason McCombs vs Harry Attell won by LEMOYNE, [08:33] Ground ball pickup by LEMOYNE Mason McCombs."
+  },
+  {
+    "quarter": 4,
+    "time": "07:49",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "07:06",
+    "score": "5-12",
+    "home_event": "GOAL by HOLYCRO Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "07:06",
+    "score": "",
+    "home_event": "",
+    "away_event": "Faceoff Mason McCombs vs Shane McDonnell won by LEMOYNE, [07:06] Ground ball pickup by LEMOYNE Mason McCombs."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Conner Vaughn."
+  },
+  {
+    "quarter": 4,
+    "time": "06:07",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Owen Tunney (caused by Conlon Crowley).",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "05:14",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Lucas Winger."
+  },
+  {
+    "quarter": 4,
+    "time": "05:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 4,
+    "time": "05:11",
+    "score": "",
+    "home_event": "",
+    "away_event": "Timeout by LEMOYNE."
+  },
+  {
+    "quarter": 4,
+    "time": "04:25",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Thomas Berry, SAVE JR Long"
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Nathan Hoban."
+  },
+  {
+    "quarter": 4,
+    "time": "03:45",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Owen Tunney.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "02:37",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 4,
+    "time": "01:54",
+    "score": "",
+    "home_event": "",
+    "away_event": "Shot by LEMOYNE Emmet McDermott BLOCKED"
+  },
+  {
+    "quarter": 4,
+    "time": "01:44",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Gavin Clary.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:38",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:35",
+    "score": "",
+    "home_event": "Timeout by HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "01:35",
+    "score": "",
+    "home_event": "Sean Miller at goalie for HOLYCRO.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "Turnover by HOLYCRO Will Deo.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:44",
+    "score": "",
+    "home_event": "",
+    "away_event": "Ground ball pickup by LEMOYNE Ben Clark."
+  },
+  {
+    "quarter": 4,
+    "time": "00:38",
+    "score": "",
+    "home_event": "",
+    "away_event": "Clear attempt by LEMOYNE good."
+  },
+  {
+    "quarter": 4,
+    "time": "",
+    "score": "",
+    "home_event": "",
+    "away_event": "Turnover by LEMOYNE Ben Clark (caused by Will Deo)."
+  },
+  {
+    "quarter": 4,
+    "time": "00:26",
+    "score": "",
+    "home_event": "Ground ball pickup by HOLYCRO Gavin Clary.",
+    "away_event": ""
+  },
+  {
+    "quarter": 4,
+    "time": "00:22",
+    "score": "",
+    "home_event": "Clear attempt by HOLYCRO good.",
+    "away_event": ""
+  }
+]
