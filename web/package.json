@@ -40,6 +40,11 @@
     "tailwind-merge": "^3.4.0",
     "zustand": "^5.0.11"
   },
+  "pnpm": {
+    "overrides": {
+      "minimatch": ">=10.2.1"
+    }
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^20.19.33",
